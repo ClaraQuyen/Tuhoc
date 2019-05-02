@@ -1,0 +1,13 @@
+﻿lấy dữ liệu về là
+	git clone +link
+đẩy dữ liệu lên là
+	+git init
+	+git add *
+	+git commit -am "tên add files"
+Cách 1:nếu up lên trong bài của mình
+	+git remote add origin +link trong github trang chủ
+	+git push orgin master
+Cách 2:úp lên bài chung của nhóm
+	+git commit -m"submit code 15-12"
+
+	+git push
