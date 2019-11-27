@@ -4,15 +4,17 @@ description: Marketing
 
 # Nhóm tính năng tiếp thị
 
-## Campaigns Email Marketing
+## Email Marketing
 
-### Tạo Campaigns \(Wizard\)
+### Campaigns 
+
+#### Tạo Campaigns \(Wizard\)
 
 | Bước 1 | Đưa chuột vào Menu Campaign chọn Create Campaign \(Wizard\). |
 | :--- | :--- |
 
 
-![T&#x1EA1;o Campaign Wizard](../.gitbook/assets/1.png)
+![T&#x1EA1;o Campaign Wizard](../.gitbook/assets/1%20%281%29.png)
 
 | Bước 2 | Hệ thống hiển thị thông tin danh sách các chiến dịch ,tiến hành các hoạt động chạy chiến dịch như Newsletter, Email,… Ví dụ tạo Campaign loại email: click Email, sau đó click Start. |
 | :--- | :--- |
@@ -41,13 +43,13 @@ description: Marketing
 | :--- | :--- |
 
 
-![](../.gitbook/assets/4.png)
+![](../.gitbook/assets/4%20%282%29.png)
 
 | Bước 5 | Xác định URL theo dõi ở đây để sử dụng với chiến dịch này. Bạn phải nhập cả tên và URL để tạo trình theo dõi, tiếp tục click Create Tracker, sau đó click Next. |
 | :--- | :--- |
 
 
-![](../.gitbook/assets/5.png)
+![](../.gitbook/assets/5%20%282%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -65,7 +67,7 @@ description: Marketing
 | :--- | :--- |
 
 
-![](../.gitbook/assets/6.png)
+![](../.gitbook/assets/6%20%282%29.png)
 
 {% hint style="info" %}
 Ghi chú:
@@ -79,13 +81,13 @@ Ghi chú:
 | :--- | :--- |
 
 
-![](../.gitbook/assets/7.png)
+![](../.gitbook/assets/7%20%282%29.png)
 
 | Bước 8 | Đây là bước cuối cùng. Chọn xem bạn có muốn gửi email dạng kiểm tra hoặc lập lịch gửi email \(Phần 4\) hoặc bạn chọn finish và có thể lên lịch gửi email sau và tiếp tục đến trang tổng quan |
 | :--- | :--- |
 
 
-![](../.gitbook/assets/8.png)
+![](../.gitbook/assets/8%20%281%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -97,7 +99,7 @@ Ghi chú:
 3: Lập lịch gửi Email \(**Phần 4**\)
 {% endhint %}
 
-### Tạo Campaigns \(Classic\)
+#### Tạo Campaigns \(Classic\)
 
 | Bước 1 | Đưa chuột vào Menu Campaign chọn Create Campaign \(Classic\) |
 | :--- | :--- |
@@ -143,9 +145,9 @@ Ghi chú:
 7:Tạo mẫu Email Marketing
 {% endhint %}
 
-## Quản lý Danh sách người nhận
+### Quản lý Danh sách người nhận \(Target Lists\)
 
-### Target
+### Email Template
 
 #### Nhập từ file \(Imports Target\)
 
@@ -153,5 +155,17 @@ Ghi chú:
 | :--- | :--- |
 
 
-![](../.gitbook/assets/1%20%281%29.png)
+![](../.gitbook/assets/1%20%283%29.png)
+
+### Lập lịch gửi Email
+
+### Xem báo cáo hiệu quả Campaigns
+
+## SMS Marketing
+
+### Tạo Template SMS
+
+### Gửi và xem lại lịch sử
+
+## Tích hợp Landing Pages/Website 
 

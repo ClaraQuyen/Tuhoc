@@ -1,5 +1,5 @@
 ---
-description: Quy Trình Tổng Quan
+description: Quy trình tổng quan CRM cho trung tâm đào tạo
 ---
 
 # Tổng Quan Quy Trình Nghiệp Vụ
