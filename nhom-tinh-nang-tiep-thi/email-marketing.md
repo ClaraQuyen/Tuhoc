@@ -234,7 +234,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 | :--- | :--- |
 
 
-![](../.gitbook/assets/email3.png)
+![](../.gitbook/assets/email3%20%281%29.png)
 
 ## Lập lịch gửi Email
 
