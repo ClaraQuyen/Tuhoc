@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Overview](README.md)
 
 ## Overview <a id="tong-quan-qui-trinh-nghiep-vu"></a>
 
