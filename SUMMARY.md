@@ -2,10 +2,6 @@
 
 * [Overview](README.md)
 
-## Overview <a id="tong-quan-qui-trinh-nghiep-vu"></a>
-
-* [Tổng Quan Quy Trình Nghiệp Vụ](tong-quan-qui-trinh-nghiep-vu/tong-quan-quy-trinh-nghiep-vu.md)
-
 ## Nhóm tính năng tiếp thị
 
 * [Email Marketing](nhom-tinh-nang-tiep-thi/email-marketing.md)
