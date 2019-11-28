@@ -1,12 +1,101 @@
+---
+description: >-
+  Là đối tượng Học viên thô nhưng có quan tâm tới dịch vụ, khóa học của trung
+  tâm thông qua việc phản hồi lại thông tin từ các chiến dịch.
+---
+
 # Lead
 
 ## Tạo Lead
 
+> Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để Create Lead.
+
+![](../.gitbook/assets/taolead1.png)
+
+> Bước 2: Tại màn hình tạo mới Lead, nhập đầy đủ các thông tin cần thiết, Sau đó Click Save để Hoàn tất việc tạo ra 1 Lead mới.
+
+![](../.gitbook/assets/taolead2.png)
+
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo
+
+![](../.gitbook/assets/taolead3%20%282%29.png)
+
 ## Import Leads
+
+> Bước 1: Đưa chuột vào Module Leads chọn Import Leads hoặc click vào module Leads để Imports Lead.
+
+![](../.gitbook/assets/importlead.png)
+
+> Bước 2: Click **Next.**
+
+![](../.gitbook/assets/2%20%281%29.png)
+
+> Bước 3:  Tải mẫu File Import \(nếu chưa có\), sau đó đưa file lên hệ thống click vào Choose File.Sau đó click **Next**.
+
+![](../.gitbook/assets/importlead2.png)
+
+{% hint style="info" %}
+**Chú thích** :
+
+1 : Dowload file Import mẫu \(nếu chưa có\)
+
+2 : Lựa chọn file để Import dữ liệu
+
+3 : Click chọn tạo leads mới từ dữ liệu được import
+
+4 : Click chọn tạo và cập nhật leads.
+
+5 : Chọn template import dữ liệu vào hệ thống \(bắt buộc chọn theo template đã cho\)
+
+Lưu ý : 
+
+* File Template dùng để Import dữ liệu Leads vào hệ thống.
+* Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\)
+{% endhint %}
+
+> Bước 4: Xác nhận các thuộc tính, Pre-set Import Setting. Click Next
+
+![](../.gitbook/assets/4%20%281%29.png)
+
+> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click Next.
+
+![](../.gitbook/assets/5%20%281%29.png)
+
+> Bước 6: Xác nhận việc kiểm tra trùng. Sau đó Click Tiến hành nhập dữ liệu để bắt đầu Import dữ liệu vào hệ thống.
+
+![](../.gitbook/assets/6%20%281%29.png)
+
+> Bước 7: Kết quả sau khi Import.
+
+![](../.gitbook/assets/7%20%281%29.png)
+
+{% hint style="info" %}
+**Ghi chú:** 
+
+1 : Click vào để quay lại bước nhập trước đó.
+
+2 : Click vào để tiến hành Import thêm dữ liệu .
+
+3 : Click vào để hoàn  tất việc Import hệ thống sẽ tự động chuyển về màn hình danh sách HVTN
+{% endhint %}
 
 ## Chỉnh sữa Lead
 
+> Bước 1: Đưa chuột vào module Leads chọn học viên cần sửa thông tin.
+
+![](../.gitbook/assets/chinhsualeada.png)
+
+> Bước 2: Tại màn hình View Lead,click Edit và nhập thông tin cần sửa, click Save để hoàn tất việc sửa 1 Leads.
+
+![](../.gitbook/assets/chihsualead2.png)
+
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Leads vừa được chỉnh sửa.
+
+![](../.gitbook/assets/chinhsualead3.png)
+
 ## Cảnh báo trùng dữ liệu
 
-## Phân bổ người phụ trách
+> Khi nhập dữ liệu vào bị trùng thông tin như số điện thoại hoặc Email ,hệ thống sẽ cảnh báo người dùng bị trùng dữ liệu,bạn có thể bỏ qua click cancel hoặc nhập lại thông tin click Go Back.
+
+![](../.gitbook/assets/canhbao.png)
 
