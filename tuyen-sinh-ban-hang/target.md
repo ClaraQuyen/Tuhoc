@@ -68,6 +68,8 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 ## Convert Target
 
+> Bước 1:
+
 ## Phân bổ người phụ trách
 
 > Bước 1: Lọc dữ liệu của Target ở trạng thái Transferred. Action menu bên trái click chọn Mass Update.
