@@ -68,7 +68,17 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 ## Convert Target
 
-> Bước 1:
+> Bước 1: Lọc dữ liệu của Target ở trạng thái Transferred. Action menu bên trái click chọn Mass Update.
+
+![](../.gitbook/assets/1%20%282%29.png)
+
+> Bước 2:  Tiếp theo chọn Convert to Lead là Yes, sau đó click Update
+
+![](../.gitbook/assets/converttarget1.png)
+
+> Bước 3: Hệ thống sẽ thông báo Update thành công và chuyển dữ liệu về Leads.
+
+![](../.gitbook/assets/converttarget2.png)
 
 ## Phân bổ người phụ trách
 
@@ -97,6 +107,46 @@ Ghi chú:
 > Bước  1:  Export dữ liệu của Target ở trạng thái Transferred của từng Users đã Assign.
 
 ![](../.gitbook/assets/update1.png)
+
+> Bước 2: Những Field nằm trong khung màu đỏ là bắt buộc
+>
+> +Bỏ những field trống.
+>
+> +Bỏ filed ID,Tracker Key ,Assigned User ID,Team Set ID,Date Created,Date Modified,Modified By Name,Modified By ID,Created By,Created By ID,Full Name.
+>
+> +Sửa filed  Lead Id thành ID.
+>
+> +Cột Assigned User Name lấy UserName không lấy Full Name:
+>
+>  Ví dụ Full Name là Dương Huyền Trang , Username là [trangdh.emaa@gmail.com](mailto:trangdh.emaa@gmail.com) thì lấy Username đó điền vào cột **Người phụ trách** \(Assigned User Name\).
+
+![](../.gitbook/assets/updadatelead1.png)
+
+> Bước 3: Sau khi đã được File như mẫu tiến hành Import Lead theo các bước sau :
+
+> Vào module Lead, chọn Import Lead.
+
+![](../.gitbook/assets/importlead.png)
+
+> Click Next
+
+![](../.gitbook/assets/2%20%281%29.png)
+
+> Chọn file đã được chỉnh sửa theo Template, sau đó tích vào 2 ô chọn, click Next như hình
+
+![](../.gitbook/assets/updatelead3.png)
+
+> Tiếp tục click Next
+
+![](../.gitbook/assets/4%20%281%29.png)
+
+> Check filed có khớp với nhau hay không, nếu không khớp, chọn sau cho đúng.
+
+![](../.gitbook/assets/5%20%281%29.png)
+
+> Tiếp theo click Next, sau đó click tiếp Import Now. Sau khi Update thành công hệ thống báo như sau:
+
+![](../.gitbook/assets/updatedlead4.png)
 
 ## 
 
