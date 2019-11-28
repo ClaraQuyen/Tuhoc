@@ -118,9 +118,9 @@ Ghi chú:
 >
 > +Cột Assigned User Name lấy UserName không lấy Full Name:
 >
->  Ví dụ Full Name là Dương Huyền Trang , Username là [trangdh.emaa@gmail.com](mailto:trangdh.emaa@gmail.com) thì lấy Username đó điền vào cột **Người phụ trách** \(Assigned User Name\).
+>  Ví dụ Full Name là Dương Huyền Trang , Username là [trangdh.emaa@gmail.com](mailto:trangdh.emaa@gmail.com) thì lấy Username đó điền vào cột Người phụ trách \(**Assigned User Name**\).
 
-![](../.gitbook/assets/updadatelead1.png)
+![](../.gitbook/assets/updatelead2.png)
 
 > Bước 3: Sau khi đã được File như mẫu tiến hành Import Lead theo các bước sau :
 
