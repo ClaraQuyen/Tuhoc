@@ -28,8 +28,6 @@
 **Send SMS** : Gửi tin nhắn SMS đến học viên.
 {% endhint %}
 
-
-
 ## Gửi SMS theo Report
 
 > Bước 1: Ví dụ gửi sms nhắc học viên chưa thanh toán tiền học phí
@@ -46,11 +44,7 @@ Ghi chú:
 1: Thông tin filter để xuất báo cáo
 
 2: click Apply để xem báo cáo 
-{% endhint %}
 
-![](../.gitbook/assets/sms_report3.png)
-
-{% hint style="info" %}
 3: Xuất report dạng **Excel**
 {% endhint %}
 
@@ -66,7 +60,11 @@ Ghi chú:
 
 ![](../.gitbook/assets/sms_report6.png)
 
+> Mẫu template sms
+
 ![](../.gitbook/assets/sms_report7.png)
+
+> ![](../.gitbook/assets/down-arrow-1.png)
 
 ![](../.gitbook/assets/sms_report8.png)
 
