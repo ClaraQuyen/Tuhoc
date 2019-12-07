@@ -152,7 +152,11 @@ Ghi chú:
 
 > Bước 1: Đưa chuột vào Menu Payment chọn Create Payment.
 
+![](../.gitbook/assets/deposit1.png)
+
 > Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin sách, số lượng mà học viên mua click Save để hoàn tất.
+
+![](../.gitbook/assets/bookgift.png)
 
 {% hint style="info" %}
 Ghi chú:
@@ -169,6 +173,8 @@ Ghi chú:
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment Book/Gift được tạo.
+
+![](../.gitbook/assets/bookgift1.png)
 
 ## Thanh toán cho Payment
 
