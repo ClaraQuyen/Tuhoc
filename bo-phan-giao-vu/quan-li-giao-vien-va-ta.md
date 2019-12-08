@@ -4,6 +4,10 @@
 
 ### Tạo giáo viên
 
+> Bước 1:
+
+>
+
 ### Tạo hợp đồng
 
 ## Xếp lịch giảng dạy
