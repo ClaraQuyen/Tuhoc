@@ -4,7 +4,11 @@
 
 > Bước 1: Đưa chuột vào menu Students, click chọn học viên mà bạn muốn xem thông tin.
 
+![](../.gitbook/assets/dshv1.png)
+
 > Bước 2: Hệ thống hiển thị thông tin thông tin của học viên như lịch sử thanh toán,lớp học,…
+
+![](../.gitbook/assets/dshv2.png)
 
 ## Điểm danh/ SMS bài học sau mỗi buổi học
 
@@ -12,9 +16,15 @@
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi điểm danh.
 
+![](../.gitbook/assets/diemanh1.png)
+
 > Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button Attendance & Homework.
 
+![](../.gitbook/assets/diemanh2.png)
+
 > Bước 3: Tại màn hình Điểm danh, lựa chọn các tiêu chí sau đó tiến hành Điểm danh cho Học sinh
+
+![](../.gitbook/assets/diemanh3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -40,9 +50,15 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi SMS,nội dung bài học, điểm danh đến cho học viên.
 
+![](../.gitbook/assets/guisms1.png)
+
 > Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button Attendance & Homework
 
+![](../.gitbook/assets/guisms2.png)
+
 > Bước 3: Tại màn hình Send SMS lựa chọn các tiêu chí sau đó nhấn Send.
+
+![](../.gitbook/assets/guisms3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -70,7 +86,35 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi SMS,nội dung bài học, điểm danh đến cho học viên.
 
+![](../.gitbook/assets/lambt1.png)
+
 > Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button Attendance & Homework.
+
+![](../.gitbook/assets/lambt2.png)
+
+> Bước 3: Tại màn hình Điểm danh, lựa chọn các tiêu chí sau đó tiến hành check homework cho Học sinh.
+
+![](../.gitbook/assets/lambt3.png)
+
+{% hint style="info" %}
+**Ghi chú**:
+
+1: Lớp thực hiện việc check homework
+
+2: Ngày thực hiện
+
+3: Danh sách Học viên
+
+4: Check homework cho học viên
+
+5: Đánh giá điểm chuyên cần cho Học viên
+
+6: Điểm tích lũy của học viên
+
+7: Gửi thông báo đến App về việc đi học,trể,làm bài tập về nhà,comment, điểm daily score của học viên
+
+**Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS
+{% endhint %}
 
 
 
@@ -78,7 +122,11 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần ghi nhận nội dung buổi học.
 
+![](../.gitbook/assets/ndbuoihoc.png)
+
 > Bước 2: Tại màn hình Lớp, click vào Tab Record of work để ghi nhận nội dung buổi học.
+
+![](../.gitbook/assets/ndbuoihoc1.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -90,47 +138,85 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 3:TA note lại buổi học
 {% endhint %}
 
+> Bước 3: Hệ thống hiển thị nội dung buổi học sau khi lưu thành công.
 
+![](../.gitbook/assets/ndbuoihoc2.png)
 
 ## Quản lí học viên học nợ, học demo
 
 ### Học viên học demo
 
-> Bước 1: Đưa chuột vào Menu Classes chọn View Classes.
+> Bước 1: Đưa chuột vào Menu Classes chọn View Classes, click chọn lớp cần thêm học viên vào lớp học Demo.
 
-> Bước 2: Tại màn hình danh sách Classes, Click chọn Classes cần thêm Student vào lớp học Demo.
-
-> Bước 3: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
-
-> Bước 4: Lựa chọn loại Học viên, Click Select để tiến hành thêm Học viên vào lớp học Demo.
-
-> Bước 5: Chọn Add để thêm học viên .
-
-> Bước 6: Kết quả
-
-
-
-### Học viên học nợ\(Outstanding\)
-
-> Bước 1: Đưa chuột vào Menu Classes chọn View Classes.
+![](../.gitbook/assets/hocdemo1.png)
 
 > Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
 
+![](../.gitbook/assets/hocdemo3.png)
+
+> Bước 3: Lựa chọn loại Học viên, click Select để tiến hành thêm Học viên vào lớp học Demo.
+
+![](../.gitbook/assets/hocdemo4.png)
+
+{% hint style="info" %}
+**Ghi chú:**
+
+1: Lựa chọn loại Học viên: Lead hoặc Student
+
+![](../.gitbook/assets/hocdemo5.png) 
+
+ 2: Click **Add  Demo** để chọn Học viên vào lớp
+{% endhint %}
+
+> Bước 4: Chọn Add để thêm học viên vào lớp
+
+![](../.gitbook/assets/hocdemo6.png)
+
+### Học viên học nợ\(Outstanding\)
+
+> Bước 1: Đưa chuột vào Menu Classes , click chọn lớp cần thêm học viên vào lớp học nợ.
+
+![](../.gitbook/assets/hocdemo1.png)
+
+> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
+
+![](../.gitbook/assets/hocdemo3.png)
+
 > Bước 3: Lựa chọn loại Học viên, click Select để tiến hành thêm Học viên vào lớp học Outstanding.
+
+![](../.gitbook/assets/hocno1.png)
+
+{% hint style="info" %}
+**Ghi chú:**
+
+1: Lựa chọn loại Học viên: Lead hoặc Student
+
+![](../.gitbook/assets/hocdemo5.png) 
+
+ 2: Click **Add  Outstanding** để chọn Học viên vào lớp
+{% endhint %}
 
 > Bước 4: Chọn Add để thêm học viên.
 
-> Bước 5: Kết quả
+![](../.gitbook/assets/hocdemo6.png)
 
 ## Quản lí bảng điểm
 
 > Bước 1: Đưa chuột vào Menu Class chọn View Class,sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
 
+![](../.gitbook/assets/bangdiem1.png)
+
 > Bước 2: Tại màn hình Lớp học,click vào Tab “Gradebook” sau đó chọn bảng điểm mà bạn cần xem/chấm điểm hoặc thay đổi cấu trúc bảng điểm.
+
+![](../.gitbook/assets/bangdiem2.png)
 
 > Bước 3: Tại màn hình quản lý bảng điểm,click “Input Mark”.
 
+![](../.gitbook/assets/bangdiem3.png)
+
 > Bước 4: Tiếp theo nhập thông tin điểm số,comment học viên.Người dùng có thể thay đổi cấu trúc bảng điểm hoặc đưa về cấu trúc bảng điểm mặc định,… sau đó click “Save Gradebook” để hoàn tất bảng điểm.
+
+![](../.gitbook/assets/bangdie3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -141,8 +227,12 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 
 3:Sửa cấu trúc bảng điểm
 
-4:Nhập điểm học viên \(Màu trắng bạn nhập, màu đậm hơn bạn không được nhập\) 5:Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống
+4:Nhập điểm học viên \(Màu trắng bạn nhập, màu đậm hơn bạn không được nhập\) 
+
+5:Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống  
 {% endhint %}
+
+![](../.gitbook/assets/bangdiem5.png)
 
 
 
@@ -152,9 +242,15 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 
 > **Bước 1:** Đưa chuột vào module Classes chọn lớp cần xuất báo cáo điểm danh.
 
+![](../.gitbook/assets/bangdiem1.png)
+
 > Bước 2: Tại màn hình Lớp, click chọn tab Attendance sau đó chọn Export Attendance List.
 
+![](../.gitbook/assets/bcdiemdanh1.png)
+
 > Bước 3: Chọn thông tin buổi học cần xuất báo cáo điểm danh trên màn hình xuất báo cáo, sau đó Click Export.
+
+![](../.gitbook/assets/bcdiemdanh.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -170,9 +266,15 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 
 > Bước 1: Đưa chuột vào module Classes chọn lớp cần xuất báo cáo điểm danh.
 
+![](../.gitbook/assets/bangdiem1.png)
+
 > Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button “Export Other File”.
 
+![](../.gitbook/assets/ketquack.png)
+
 > Bước 3: Chọn thông tin cần xuất file như Certificate ,. .trên màn hình, sau đó Click Export.
+
+![](../.gitbook/assets/kqcuoiki.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -182,11 +284,17 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 2: Thông tin học viên trong lớp,sau đó chọn học viên có yêu cầu xuất file \(có thể chọn hết lớp\)
 {% endhint %}
 
+![](../.gitbook/assets/kqcuoiki2.png)
+
 ## Ghi nhận Feedback/Complaint về lớp học
 
 > Bước 1: Click chuột vào module Feedback chọn Create Feedback.
 
+![](../.gitbook/assets/feedback1.png)
+
 > Bước 2: Tại màn hình tạo Feedback,nhập đầy đủ thông tin mà học viên/giáo viên,.. feedback,Sau đó nhấn nút Save.
+
+![](../.gitbook/assets/feedback2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -207,6 +315,8 @@ Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi c�
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị nội dung feedback sau khi lưu thành công.
+
+![](../.gitbook/assets/feedback3.png)
 
 
 

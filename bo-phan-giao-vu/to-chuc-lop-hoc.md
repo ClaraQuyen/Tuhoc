@@ -4,7 +4,11 @@
 
 > Bước 1: Đưa chuột vào module Class chọn Create Class.
 
+![](../.gitbook/assets/taolop1.png)
+
 > Bước 2: Tại màn hình tạo mới Lớp học, nhập đầy đủ các thông tin cần thiết, Sau đó Click Save để Hoàn tất việc tạo ra 1 Lớp học mới.
+
+![](../.gitbook/assets/taolop2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -28,13 +32,21 @@
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi tạo thành công.
 
+![](../.gitbook/assets/taolop3.png)
+
 ## Hủy buổi học/chọn ngày học bù
 
 > Bước 1: Click chuột vào module Classes, click chọn lớp mà Giáo viên đang dạy muốn hủy buổi học.
 
+![](../.gitbook/assets/hocbu.png)
+
 > Bước 2: Tại màn hình Classes click vào Tab Session,hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, click vào cancel để hủy buổi dạy của giáo viên \(Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…\)
 
+![](../.gitbook/assets/hocbu2.png)
+
 > Bước 3: Tại màn hình hủy buổi học,nhập thông tin lý do hủy lớp, chọn ngày dạy bù cho giáo viên
+
+![](../.gitbook/assets/hocbu3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -50,7 +62,11 @@
 +Nếu chọn Make up in other Schedule bộ phận giáo vụ có thể xếp lịch dạy bù vào ngày mà giáo viên rảnh hoặc ngày mà giáo viên yêu cầu \(3\)
 {% endhint %}
 
+![](../.gitbook/assets/hocbu4.png)
+
 > Bước 4: Hệ thống hiển thị thông tin lớp bị hủy và ngày được chọn dạy bù cho học viên trong Session
+
+![](../.gitbook/assets/hocbu5.png)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -64,13 +80,53 @@
 
 > Bước 1: Click chuột vào moudle Classes, click chọn Lớp mà bạn muốn đổi ngày khai giảng.
 
+![](../.gitbook/assets/doingaykhaigiang.png)
+
 > Bước 2: Tại màn hình Classes click vào Edit.
+
+![](../.gitbook/assets/doingaykhaigiang1.png)
+
+> Bước 3: Tiếp theo click vào Change Start Date để thay đổi ngày khai giảng.
+
+![](../.gitbook/assets/doingaykhaigiang3.png)
+
+> Bước 4: Tại màn hình chỉnh sửa ngày khai giảng,nhập đầy đủ các thông tin cần thiết, Sau đó click Save để hoàn tất.
+
+![](../.gitbook/assets/doingaykhaigiang4.png)
+
+{% hint style="info" %}
+**Ghi chú:**
+
+1:Chọn ngày khai giảng muốn thay đổi
+
+2:Lịch học gần đây của lớp được tạo 3:Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới \(nếu muốn\)
+{% endhint %}
 
 ## Đổi lịch học trong khoảng thời gian bất kì
 
 > Bước 1: Click chuột vào module Classes ,sau đó click chọn lớp muốn đổi lịch học.
 
+![](../.gitbook/assets/doingaykhaigiang.png)
+
 > Bước 2: Tại màn hình Lớp, click chọn Edit.
+
+![](../.gitbook/assets/doingaykhaigiang1.png)
+
+> Bước 3: Tiếp theo click vào Change Schedule để thay đổi lịch học.
+
+![](../.gitbook/assets/doingaykhaigiang2%20%281%29.png)
+
+> Bước 4: Nhập đầy đủ thông tin , sau đó click **Save** để hoàn tất.
+
+![](../.gitbook/assets/doilichhoc3.png)
+
+{% hint style="info" %}
+**Ghi chú**:
+
+1:Chọn khoảng thời gian thay đổi lịch học
+
+2:Lý do thay đổi lịch học và đổi lại lịch học mới
+{% endhint %}
 
 ## Quản lí lịch nghỉ lễ trong năm
 

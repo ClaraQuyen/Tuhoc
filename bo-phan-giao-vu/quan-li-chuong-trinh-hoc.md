@@ -4,7 +4,11 @@
 
 > Bước 1: Click chuột vào module Kind of Courses chọn Create.
 
+![](../.gitbook/assets/qlcth1.png)
+
 > Bước 2: Tại màn hình tạo mới Khóa học, nhập đầy đủ các thông tin cần thiết, sau đó click Save để hoàn tất việc tạo ra 1 Khóa học mới.
+
+![](../.gitbook/assets/qlcht2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -18,7 +22,11 @@
 
 > Bước 1: Đưa chuột vào module Class chọn Create .
 
+![](../.gitbook/assets/giaoan1.png)
+
 > Bước 2: Tại màn hình tạo mới chương trình học, nhập đầy đủ các thông tin cần thiết, Sau đó Click Add Syllabus để tạo giáo án cho 1 chương trình học mới.
+
+![](../.gitbook/assets/giaoan2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -50,11 +58,17 @@
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết giáo án theo chương trình học được tạo
 
+![](../.gitbook/assets/giaoan3.png)
+
 ## Định nghĩa cấu trúc bảng điểm**c**
 
 > Bước 1**:** Click chuột vào module Gradebook Setting chọn **Create Gradebook Setting.**
 
-> Bước 2: Tại màn hình tạo cấu trúc bảng điểm, nhập đầy đủ thông tin trung tâm,chương trình học,loại bảng điểm. Tiếp theo cick Load config.
+![](../.gitbook/assets/ctbangdiem.png)
+
+> Bước 2: Tại màn hình tạo cấu trúc bảng điểm, nhập đầy đủ thông tin trung tâm,chương trình học,loại bảng điểm. Tiếp theo cick **Load config.**
+
+![](../.gitbook/assets/cautrucbangdiem2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -69,6 +83,8 @@
 {% endhint %}
 
 > Bước 3: Tại màn hình định nghĩa cấu trúc bảng điểm,định nghĩa cấu trúc chương trình học theo trung tâm của bạn, sau đó click Save Config.
+
+![](../.gitbook/assets/cautrucbangdiem3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -96,9 +112,15 @@
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp muốn Upgrade.
 
+![](../.gitbook/assets/upgrade1.png)
+
 > Bước 2: Tại màn hình lớp , click vào Upgrade.
 
+![](../.gitbook/assets/upgrade2.png)
+
 > Bước 3: Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết \(thông tin chương trình học, sanh sách học viên,lớp Upgrade\), sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
+
+![](../.gitbook/assets/upgrad3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -112,15 +134,25 @@
 4. Danh sách học viên từ lớp củ.Người dung có thể chọn hết danh sách học viên từ lớp củ hoặc 1 vài học viên, sau đó click **Ok.**
 {% endhint %}
 
+![](../.gitbook/assets/upgrade4.png)
+
 > Bước 4: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi Upgrade thành công.
+
+![](../.gitbook/assets/upgrade5.png)
 
 ### Cấu hình số giờ/lớp
 
 > Bước 1: Đưa chuột vào module Kind of Courses , chọn khóa học cần cấu hình số giờ/lớp.
 
+![](../.gitbook/assets/cauhinhsogiolop1.png)
+
 > Bước 2: Tại màn hình tạo chương trình học View Kind of Courses, Click chọn khóa học cần cấu hình số giờ/lớp.
 
+![](../.gitbook/assets/cauhinsogiolop2.png)
+
 > Bước 3: Tại màn hình xem chương trình học,click Edit,nhập cấu hình số giờ/lớp.Sau đó click Save để hoàn tất.
+
+![](../.gitbook/assets/cauhinsogiolop2%20%281%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -138,5 +170,7 @@
 6:URL document
 {% endhint %}
 
-> Bước 4: Hệ thống hiển thị thông tin chi tiết số giờ/lớp và chương trình học.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết số giờ/lớp và chương trình học.
+
+![](../.gitbook/assets/cauhinhsogiolop3.png)
 
