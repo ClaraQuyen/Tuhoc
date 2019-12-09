@@ -60,7 +60,7 @@
 
 ![](../.gitbook/assets/giaoan3.png)
 
-## Định nghĩa cấu trúc bảng điểm**c**
+## Định nghĩa cấu trúc bảng điểm
 
 > Bước 1**:** Click chuột vào module Gradebook Setting chọn **Create Gradebook Setting.**
 
