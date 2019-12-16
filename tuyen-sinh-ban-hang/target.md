@@ -68,11 +68,11 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 ## Convert Target
 
-> Bước 1: Lọc dữ liệu của Target ở trạng thái Transferred. Action menu bên trái click chọn Mass Update.
+> Bước 1: Lọc dữ liệu của Target ở trạng thái **wait for deliver.** Action menu bên trái click chọn **Mass Update**.
 
 ![](../.gitbook/assets/1%20%282%29.png)
 
-> Bước 2:  Tiếp theo chọn Convert to Lead là Yes, sau đó click Update
+> Bước 2:  Tiếp theo chọn Convert to Lead là Yes, sau đó click Update.
 
 ![](../.gitbook/assets/converttarget1.png)
 
@@ -82,7 +82,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 ## Phân bổ người phụ trách
 
-> Bước 1: Lọc dữ liệu của Target ở trạng thái Transferred. Action menu bên trái click chọn Mass Update.
+> Bước 1: Lọc dữ liệu của Target ở trạng thái **wait for deliver.**  Action menu bên trái click chọn Mass Update.
 
 ![](../.gitbook/assets/1%20%282%29.png)
 
