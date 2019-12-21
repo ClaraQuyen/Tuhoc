@@ -26,7 +26,7 @@
 
 ![](../.gitbook/assets/man-hinh-diem-danh-hoc-vien-va-gui-sms.png)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Ghi chú:**
 
 1: Lớp thực hiện việc Điểm danh
