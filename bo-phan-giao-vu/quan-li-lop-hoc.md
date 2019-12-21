@@ -24,9 +24,9 @@
 
 > Bước 3: Tại màn hình Điểm danh, lựa chọn các tiêu chí sau đó tiến hành Điểm danh cho Học sinh
 
-![](../.gitbook/assets/diemanh3.png)
+![](../.gitbook/assets/man-hinh-diem-danh-hoc-vien-va-gui-sms.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Ghi chú:**
 
 1: Lớp thực hiện việc Điểm danh
@@ -37,13 +37,21 @@
 
 4: Điểm danh cho Học viên
 
-5: Đánh giá điểm chuyên cần cho Học viên
+5: Kiểm tra bài tập về nhà của Học viên\(nếu có\)
 
-6: Điểm tích lũy của học viên
+6: Đánh giá điểm chuyên cần cho Học viên
 
-7: Gửi thông báo đến App về việc đi học,trể,làm bài tập về nhà,comment, điểm daily score của học viên
+7: Gửi thông báo đến App về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
-Lưu ý: HV có màu trong danh sách: Đây là HV không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
+8: Gửi tin nhắn đến App về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+
+9: Gửi tin nhắn SMS về điện thoại  về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+
+10: Tải lại danh sách Học viên trong buổi học đó
+
+11: Lựa chọn lại buổi học cần điểm danh
+
+**Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
 {% endhint %}
 
 ### SMS
