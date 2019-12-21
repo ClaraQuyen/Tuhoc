@@ -302,24 +302,28 @@
 
 > Bước 2: Tại màn hình tạo Feedback,nhập đầy đủ thông tin mà học viên/giáo viên,.. feedback,Sau đó nhấn nút Save.
 
-![](../.gitbook/assets/feedback2.png)
+![](../.gitbook/assets/man-hinh-feedback.png)
 
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Loại Feedback \(Học viên,giáo viên,..\) phàn nàn,đề nghị,…
+1: Tiêu đề Feedback
 
-2:Lớp Feedback
+2: Loại Feedback \(Học viên,giáo viên,..\) phàn nàn,đề nghị,…
 
-3:Học viên Feedback
+3: Lớp Feedback
 
-4:Thời gian Feedback
+4: Học viên Feedback
 
-5:Nội dung Feedback
+5: Thời gian Feedback
 
-6:Feedback có độ ưu tiên cao/thấp
+6: Feedback có độ ưu tiên cao/thấp
 
-7:Ngày nhận Feedback và ngày đã giải quyết Feedback
+7: Ngày nhận Feedback và ngày đã giải quyết Feedback
+
+8: Nội dung Feedback
+
+9: Phản hồi giải quyết Feedback
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị nội dung feedback sau khi lưu thành công.
