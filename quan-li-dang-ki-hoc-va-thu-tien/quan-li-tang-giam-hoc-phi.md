@@ -4,13 +4,9 @@
 
 ![](../.gitbook/assets/tanggiam1.png)
 
-> Bước 2: Sau đó chọn filter là “Kind of Courses” và chọn chương trình học cần tăng giảm học phí.
+> Bước 2: Sau đó chọn filter là “Kind of Courses” ,level tương ứng ,sau đó chọn tháng cần tăng/giảm học phí.
 
-![](../.gitbook/assets/tanggiam2.png)
-
-> -Sau đó chọn  tháng cần tăng học phí.
-
-![](../.gitbook/assets/tanggiam3.png)
+![](../.gitbook/assets/updatetienhocphi.png)
 
 > Bước 3: Chọn list danh sách học viên cần tăng học phí và chọn Mass Update.
 
