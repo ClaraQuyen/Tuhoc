@@ -34,3 +34,7 @@
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
 * [Tạo và phân quyền cho users](tao-va-phan-quyen-cho-users.md)
 
+## Tính Năng Update mới trên CRM
+
+* [Tính năng Update mới trên CRM](tinh-nang-update-moi-tren-crm/tinh-nang-update-moi-tren-crm.md)
+
