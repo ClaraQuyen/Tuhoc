@@ -2,6 +2,10 @@
 
 * [Overview](README.md)
 
+## Tính Năng Update mới trên CRM
+
+* [Tính năng Update mới trên CRM](tinh-nang-update-moi-tren-crm/tinh-nang-update-moi-tren-crm.md)
+
 ## Nhóm tính năng tiếp thị
 
 * [Email Marketing](nhom-tinh-nang-tiep-thi/email-marketing.md)
@@ -33,8 +37,4 @@
 * [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc.md)
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
 * [Tạo và phân quyền cho users](tao-va-phan-quyen-cho-users.md)
-
-## Tính Năng Update mới trên CRM
-
-* [Tính năng Update mới trên CRM](tinh-nang-update-moi-tren-crm/tinh-nang-update-moi-tren-crm.md)
 
