@@ -99,3 +99,81 @@ Lưu ý :
 
 ![](../.gitbook/assets/canhbao.png)
 
+## Chăm sóc Lead \(Tạo Log Call\)
+
+### Cách 1
+
+> Bước 1 : Đưa chuột vào module **Calls**, sau đó click chọn **Create Call**.
+
+![](../.gitbook/assets/taocall1.png)
+
+> Bước 2: Tại màn hình tạo Log Call, nhập thông tin , sau đó click Save để lưu lại.
+
+![](../.gitbook/assets/taocall2.png)
+
+{% hint style="info" %}
+Ghi chú:
+
+1: Nội dung cuộc gọi
+
+2: Đối tượng thực hiện cuộc gọi
+
+3: Đặt lịch nhắc nhở gọi lại \(qua email hoặc Pop-up\).
+
+4: Trạng thái của cuộc gọi 
+
++ Scheduled : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up \(gọi lai hoặc nhắc gọi vào ngày set up\) \(3\)
+
++Completed : Cuộc gọi đã được thực hiện , record lại nội dung cuộc gọi
+
++Cancel : Hủy bỏ cuộc gọi
+
+5: Trạng thái, kết quả của cuộc gọi.
+
+6: Description của cuộc gọi \(Users có thể note chi tiết vào phần này\).
+{% endhint %}
+
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo.
+
+![](../.gitbook/assets/taocall1_3.PNG)
+
+### Cách 2
+
+> Bước 1: Đưa chuột vào module Students, chọn học viên thực hiện cuộc gọi.
+
+![](../.gitbook/assets/taocall1_1.png)
+
+> Bước 2: Tại màn hình hồ sơ học viên, dưới supanel click vào **Calls** , sau đó click vào dấu \(**+**\).
+
+![](../.gitbook/assets/taocall1_2.png)
+
+> Bước 3: Tại màn hình tạo Log Call, nhập thông tin , sau đó click Save để lưu lại.
+
+![](../.gitbook/assets/taocall2.png)
+
+{% hint style="info" %}
+**Ghi chú**:
+
+1: Nội dung cuộc gọi
+
+2: Đối tượng thực hiện cuộc gọi
+
+3: Đặt lịch nhắc nhở gọi lại \(qua email hoặc Pop-up\).
+
+4: Trạng thái của cuộc gọi.
+
++ Scheduled : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up \(gọi lai hoặc nhắc gọi vào ngày set up\) \(3\)
+
++Completed : Cuộc gọi đã được thực hiện , record lại nội dung cuộc gọi
+
++Cancel : Hủy bỏ cuộc gọi
+
+5: Trạng thái, kết quả của cuộc gọi.
+
+6: Description của cuộc gọi \(Users có thể note chi tiết vào phần này\).
+{% endhint %}
+
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Log call vừa được tạo.
+
+![](../.gitbook/assets/taocall3.PNG)
+
