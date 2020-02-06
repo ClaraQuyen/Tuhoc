@@ -107,7 +107,7 @@ Lưu ý :
 
 ![](../.gitbook/assets/taocall1.png)
 
-> Bước 2: Tại màn hình tạo Log Call, nhập thông tin , sau đó click Save để lưu lại.
+> Bước 2: Tại màn hình tạo Log Call, nhập thông tin , sau đó click **Save** để lưu lại.
 
 ![](../.gitbook/assets/taocall2.png)
 
@@ -139,7 +139,7 @@ Ghi chú:
 
 ### Cách 2
 
-> Bước 1: Đưa chuột vào module Students, chọn học viên thực hiện cuộc gọi.
+> Bước 1: Đưa chuột vào module **Students/Leads**, chọn học viên thực hiện cuộc gọi.
 
 ![](../.gitbook/assets/taocall1_1.png)
 
@@ -147,7 +147,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/taocall1_2.png)
 
-> Bước 3: Tại màn hình tạo Log Call, nhập thông tin , sau đó click Save để lưu lại.
+> Bước 3: Tại màn hình tạo Log Call, nhập thông tin , sau đó click **Save** để lưu lại.
 
 ![](../.gitbook/assets/taocall2.png)
 
