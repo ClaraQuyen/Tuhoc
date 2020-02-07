@@ -30,29 +30,29 @@
 4:Đơn vị \(Unit hay set\)
 {% endhint %}
 
-> Bước 4: Hệ thống hiển thị thông tin Book/Gift khiSave thành công.
+> Bước 4: Hệ thống hiển thị thông tin Book/Gift khi Save thành công.
 
 ![](.gitbook/assets/book5.png)
 
-## Category Book/gift 
+## Book/Gifts Categories.
 
 > Bước 1: Đưa chuột vào module Admin chọn Admin.
 
 ![](.gitbook/assets/book1.png)
 
-> Bước 2 : Tại màn hình Admin click vào chọn Book/Gift Categories.
+> Bước 2 : Tại màn hình Admin click vào chọn Book/Gifts Categories.
 
 ![](.gitbook/assets/gift2.png)
 
-> Bước 3: Tại màn hình Book/Gift Categories,Click Create.
+> Bước 3: Tại màn hình Book/Gifts Categories, click Create Book/Gift fo Catalog.
 
 ![](.gitbook/assets/gift3.png)
 
-> Bước 4:
+> Bước 4: Tại màn hình tạo mới, click chọn **Search và Select.**
 
 ![](.gitbook/assets/gift4.png)
 
-> Bước 5: Tại màn hình Book/Gift Categories, click Create.
+> Bước 5: Tại màn hình Search and select Book/Gift Categories, click chọn Create.
 
 ![](.gitbook/assets/gift7.png)
 
@@ -64,7 +64,7 @@
 
 ![](.gitbook/assets/gift6.PNG)
 
-## Book/Gift Type
+## Book/Gift Types
 
 > Bước 1: Đưa chuột vào Menu chọn Admin.Tại màn hình Admin click vào chọn Book/Gift Types.
 
@@ -74,7 +74,7 @@
 
 ![](.gitbook/assets/type3.png)
 
-> Bước 3: Tại màn hình Book/Gift Types,Click vào Menu chọn Create Book/Gift Types.
+> Bước 3: Tại màn hình Book/Gift Types, click chọn Create Book/Gift Types.
 
 ![](.gitbook/assets/type4.png)
 
@@ -100,7 +100,7 @@ Ghi chú:
 
 ![](.gitbook/assets/inven1.png)
 
-> Bước 2: Tại màn hình tao mới,nhập đầy đủ thông tin .Sau đó click Save.
+> Bước 2: Tại màn hình tao mới, nhập đầy đủ thông tin .Sau đó click Save.
 
 ![](.gitbook/assets/inven2.png)
 
