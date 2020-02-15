@@ -64,7 +64,7 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
 > Bước 4: Tại màn hình Delay fee, nhập đầy đủ thông tin. Sau đó click Save để hoàn tất.
 
-![](../.gitbook/assets/hvdelay5%20%281%29.png)
+![](../.gitbook/assets/5%20%282%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
