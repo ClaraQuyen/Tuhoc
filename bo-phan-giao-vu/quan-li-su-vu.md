@@ -228,16 +228,26 @@ Ghi chú:
 
 > Bước 3: Tại màn hình chuyển trung tâm, nhập trung tâm học viên muốn chuyển và những thông tin liên quan.Sau đó click Save.
 
-![](../.gitbook/assets/chuyentrungtam3.png)
+![](../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Thông tin gói học trước đó mà học viên đã mua và đã thanh toán
+1:Thông tin gói học trước đó mà học viên đã mua và đã thanh toán, và số tiền còn dư từ gói học đó.
 
-2:Trung tâm mà học viên muốn chuyển đến học
+2:Thông tin học viên chuyển trung tâm.
 
-3:Thông tin thời gian học, số tiền ,… của gói mà học viê đã đăng kí
+3: Thông tin trung tâm mới mà học viên lựa chọn chuyển tới..
+
+4:Thông tin số giờ học viên còn lại tại trung tâm hiện tại dùng để quy đổi số giờ tương đương tại trung tâm sắp chuyển đến.
+
+5:Thông tin số tiền học viên còn lại tại trung tâm hiện tại dùng để quy đổi số tiền đóng vào cho trung tâm sắp chuyển đến.
+
+6:Ngày chuyển đi tại trung tâm cũ
+
+7:Ngày chuyển tới trung tâm mới
+
+8:Nội dung mô tả thêm.
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin chuyển trung tâm của học viên sau khi Save thành công.
@@ -256,14 +266,26 @@ Ghi chú:
 
 > Bước 3: Tại màn hình chuyển nhượng học phí, chọn học viên được nhận học phí ,sau đó click Save để hoàn tất.
 
-![](../.gitbook/assets/nhuonghocphi3.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Thông tin gói học trước đó mà học viên đã mua và đã thanh toán
+1:Thông tin gói học trước đó mà học viên đã mua và đã thanh toán, số tiền còn lại có thể chuyển đổi cho học viên khác.
 
-2: Thông tin học viên được nhận học phí
+2: Thông tin học viên chuyển học phí của mình cho học viên khác.
+
+3:Thông tin học viên được nhận học phí chuyển đổi.
+
+4:Số giờ được quy đổi tương đương để chuyển cho học viên khác.
+
+5:Sô tiền dùng để chuyển đổi sang cho học viên khác.
+
+6:Ngày chuyển đổi học phí cho học viên khác.
+
+7:Ngày học viên khác nhận được học phí chuyển đổi.
+
+8:Nội dung mô tả thêm.
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin chuyển chuyển nhượng học phí của học viên sau khi Save thành công.
@@ -282,35 +304,25 @@ Ghi chú:
 
 > Bước 3: Tại màn hình hoàn học phí, nhập số tiền hoàn cho học viên và chi phí phát sinh\(nếu có\).Sau đó click save để hoàn tất.
 
-![](../.gitbook/assets/hoantien3.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
 
-1:Thông tin gói học trước đó mà học viên đã mua và đã thanh toán
+1:Thông tin gói học trước đó mà học viên đã mua và đã thanh toán, số tiền còn lại có thể refund.
 
-2:Số tiền hoàn  trả học viên và chi phí phát sinh học viên phải trả \(nếu có\) 3:Thông tin thời gian hoàn  tiền và nội dung hoàn  tiền
+2:Thông tin học viên nhận hoàn tiền.
+
+3:Thông tin số tiền hoàn trả.
+
+4:Phí chuyển đổi giao dịch cho admin\(nếu có\).
+
+5:Ngày hoàn tiền.
+
+6: Nội dung mô tả thêm.
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi Save thành công.
 
 ![](../.gitbook/assets/hoantien4.png)
-
-## Quản lí tồn kho
-
-### Nhập tên sách và đơn giá
-
-> Bước 1: Click chuột vào module Admin chọn Admin
-
-> Bước 2: Tại màn hình admin ,chọn Book/Gift.
-
-> Bước 3: Tại màn hình tao mới Book/Gift,nhập đầy đủ thông tin .Sau đó click Save
-
-> Bước 4: Hệ thống hiển thị thông tin Book/Gift khi lưu thành công.
-
-### Tạo danh mục Book/Gift
-
-### Tạo loại Book/Gift
-
-### Nhập Book/Gift vào kho
 
