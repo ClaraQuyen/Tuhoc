@@ -32,7 +32,7 @@
 
 ### Thêm hoc viên vào buổi PT
 
-> Bước 1: Click chuột vào module Schedule , click chọn buổi PT cần thêm học viên .
+> Bước 1: Click chuột vào module Schedule , click chọn buổi PT cần thêm học viên.
 
 ![](../.gitbook/assets/thempt1.png)
 
@@ -54,7 +54,7 @@ Ghi chú:
 4: Thêm vào buổi PT khác 5: Xuất danh sách học viên tham gia buổi PT.
 {% endhint %}
 
-> Bước 3: Kết quả sau khi thêm thành công Học viên vào buổi PT.
+> Bước 3: Kết quả sau khi thêm thành công Học viên vào buổi PT. Đồng thời, trạng thái của Leads sẽ được cập nhật là Ready to PT.
 
 ![](../.gitbook/assets/thempt4%20%281%29.png)
 
@@ -80,7 +80,7 @@ Ghi chú:
 ![](../.gitbook/assets/themdemo4.png) 
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin học viên sau khi được thêm vào lớp Demo thành công.
+> Bước 3: Hệ thống hiển thị thông tin học viên sau khi được thêm vào lớp Demo thành công. Đồng thời, trạng thái của Leads sẽ được cập nhật là Ready to Demo.
 
 ![](../.gitbook/assets/themdemo5.png)
 
@@ -104,7 +104,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/kq1.png)
 
-> Bước 2: Tại màn hình thông tin buổi PT,click vào tab **Placement Test**,sau đó nhập điểm cho học viên \(nếu học viên có tham gia buổi PT\).
+> Bước 2: Tại màn hình thông tin buổi PT,click vào tab **Placement Test**,sau đó nhập điểm cho học viên \(nếu học viên có tham gia buổi PT\). Đồng thời, trạng thái của Leads sẽ được cập nhật là PT/Demo.
 
 ![](../.gitbook/assets/kq2.png)
 

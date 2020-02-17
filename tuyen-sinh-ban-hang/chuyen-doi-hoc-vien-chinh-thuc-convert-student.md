@@ -12,7 +12,7 @@
 
 ![](../.gitbook/assets/convert3.png)
 
-> Bước 4: Hệ thống hiển thị thông tin Student mới được tạo.
+> Bước 4: Hệ thống hiển thị thông tin Student mới được tạo. Trạng thái của Student sẽ là Waiting to class. Đồng thời, trạng thái của Leads sẽ được cập nhật là Completed.
 
 ![](../.gitbook/assets/convert4.png)
 

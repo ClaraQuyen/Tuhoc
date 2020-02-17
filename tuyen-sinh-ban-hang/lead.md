@@ -16,9 +16,9 @@ description: >-
 
 ![](../.gitbook/assets/taolead2.png)
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New.
 
-![](../.gitbook/assets/taolead3%20%282%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## Import Leads
 
@@ -76,10 +76,10 @@ Lưu ý :
 
 2 : Click vào để tiến hành Import thêm dữ liệu .
 
-3 : Click vào để hoàn  tất việc Import hệ thống sẽ tự động chuyển về màn hình danh sách HVTN
+3 : Click vào để hoàn tất việc Import hệ thống sẽ tự động chuyển về màn hình danh sách HVTN
 {% endhint %}
 
-## Chỉnh sữa Lead
+## Chỉnh sửa Lead
 
 > Bước 1: Đưa chuột vào module Leads chọn học viên cần sửa thông tin.
 
@@ -133,9 +133,9 @@ Ghi chú:
 6: Description của cuộc gọi \(Users có thể note chi tiết vào phần này\).
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
 
-![](../.gitbook/assets/taocall1_3.PNG)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### Cách 2
 
@@ -143,7 +143,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/taocall1_1.png)
 
-> Bước 2: Tại màn hình hồ sơ học viên, dưới supanel click vào **Calls** , sau đó click vào dấu \(**+**\).
+> Bước 2: Tại màn hình hồ sơ học viên, dưới subpanel click vào **Calls** , sau đó click vào dấu \(**+**\).
 
 ![](../.gitbook/assets/taocall1_2.png)
 
@@ -173,7 +173,7 @@ Ghi chú:
 6: Description của cuộc gọi \(Users có thể note chi tiết vào phần này\).
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Log call vừa được tạo.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
 
-![](../.gitbook/assets/taocall3.PNG)
+![](../.gitbook/assets/image%20%283%29.png)
 
