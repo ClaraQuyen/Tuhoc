@@ -1,10 +1,6 @@
----
-description: >-
-  Là đối tượng Học viên thô nhưng có quan tâm tới dịch vụ, khóa học của trung
-  tâm thông qua việc phản hồi lại thông tin từ các chiến dịch.
----
-
 # Lead
+
+![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n ti&#x1EC1;m n&#x103;ng tr&#xEA;n EMS](../.gitbook/assets/leads_process.png)
 
 ## Tạo Lead
 

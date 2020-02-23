@@ -1,5 +1,7 @@
 # Chuyển đổi học viên chính thức\(Convert Student\)
 
+![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n EMS](../.gitbook/assets/students_process.png)
+
 > Bước 1: Click chuột vào module Leads , chọn Lead muốn chuyển đổi thành HV chính thức.
 
 ![](../.gitbook/assets/convet1.png)
