@@ -30,7 +30,7 @@
 ## Bộ phận giáo vụ
 
 * [Quản lí hồ sơ học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien.md)
-* [Quản lí sư vụ](bo-phan-giao-vu/quan-li-su-vu.md)
+* [Quản lí sự vụ](bo-phan-giao-vu/quan-li-su-vu.md)
 * [Quản lí chương trình học](bo-phan-giao-vu/quan-li-chuong-trinh-hoc.md)
 * [Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc.md)
 * [Quản lí giáo viên và TA](bo-phan-giao-vu/quan-li-giao-vien-va-ta.md)
