@@ -5,7 +5,19 @@ description: >-
   hành giáo vụ cho đến chăm sóc học viên
 ---
 
-# TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO - DOTB EMS
+# TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS
+
+```text
+MÔ HÌNH TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO - DOTB EMS
+```
+
+![](.gitbook/assets/capture.PNG)
+
+
+
+```text
+Qui trình tổng quan trung tâm đào tạo
+```
 
 ![](.gitbook/assets/tongquan.png)
 
