@@ -2,13 +2,8 @@
 
 > Bước 1: Tải ứng dụng Mobile DotB SEA tại đây:
 
-* Đối với người dùng Android: 
-
-![](../.gitbook/assets/image%20%2827%29.png)
-
-* Đối với người dùng IOS:
-
-![](../.gitbook/assets/image%20%2835%29.png)
+* Đối với người dùng Android:  [![](../.gitbook/assets/image%20%2827%29.png) ](https://play.google.com/store/apps/details?id=vn.dotb.sea)
+* Đối với người dùng IOS: 
 
 > Bước 2: Mở ứng dụng DotB SEA trên Mobile và Click vào ô Đăng nhập trên màn hình.
 
