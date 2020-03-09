@@ -1,2 +1,2 @@
-# Theo dõi kết quả học tập
+# Xem kết quả học tập
 

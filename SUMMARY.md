@@ -3,12 +3,14 @@
 * [Overview EMS](README.md)
 * [Mobile](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
-  * [Trao đổi với Trung tâm](mobile/trao-doi-voi-trung-tam.md)
-  * [Theo dõi tài liệu học](mobile/theo-doi-tai-lieu-hoc.md)
-  * [Theo dõi lịch học](mobile/theo-doi-lich-hoc.md)
-  * [Theo dõi kết quả học tập](mobile/theo-doi-ket-qua-hoc-tap.md)
-  * [Theo dõi việc nộp học phí](mobile/theo-doi-viec-nop-hoc-phi.md)
-  * [Sổ liên lạc](mobile/so-lien-lac.md)
+  * [Thông tin Thời khóa biểu](mobile/theo-doi-lich-hoc.md)
+  * [Thông tin bài giảng và bài tập về nhà](mobile/theo-doi-tai-lieu-hoc.md)
+  * [Lịch sử khoản thu](mobile/theo-doi-viec-nop-hoc-phi.md)
+  * [Lịch sử đăng ký học](mobile/lich-su-dang-ky-hoc.md)
+  * [Lịch sử khóa học](mobile/lich-su-khoa-hoc.md)
+  * [Ghi nhận phản hồi](mobile/trao-doi-voi-trung-tam.md)
+  * [Xem kết quả học tập](mobile/theo-doi-ket-qua-hoc-tap.md)
+  * [Xem thư viện ảnh của học viên](mobile/so-lien-lac.md)
 
 ## Tính Năng Update mới trên CRM
 

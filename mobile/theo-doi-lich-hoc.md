@@ -1,2 +1,2 @@
-# Theo dõi lịch học
+# Thông tin Thời khóa biểu
 

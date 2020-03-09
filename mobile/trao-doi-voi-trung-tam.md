@@ -1,4 +1,4 @@
-# Trao đổi với Trung tâm
+# Ghi nhận phản hồi
 
 > Bước 1: Tại màn hình Trang chủ, để trao đổi với Trung tâm, click vào chức năng Trao đổi:
 
