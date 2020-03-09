@@ -36,7 +36,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Ghi chú:
 
 - Đã tiếp nhận: Nội dung Trao đổi đã được gửi đến Trung tâm.
@@ -46,7 +46,7 @@ Ghi chú:
 - Đã giải quyết: Nội dung Trao đổi đã hoàn tất.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ nhận được tại phần thông báo như sau:
 
 * Click vào nút hình chuông:
