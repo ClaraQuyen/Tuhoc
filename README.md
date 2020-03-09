@@ -2,7 +2,7 @@
 description: Quy trình tổng quan CRM cho trung tâm đào tạo
 ---
 
-# Overview
+# Overview EMS
 
 ![](.gitbook/assets/tongquan.png)
 
