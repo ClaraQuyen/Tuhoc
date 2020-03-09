@@ -4,11 +4,11 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 # DotB -SEA \(SMART EDUCATION ACADEMY\)
 
-DotB SEA hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau :
+**DotB SEA** hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau :
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-> \*\*\*\*[**Thông tin thời khóa biểu**](https://help.dotb.vn/mobile/thong-tin-thoi-khoa-bieu)\*\*\*\*
+> \*\*\*\*[**Thông tin thời khóa biểu**](https://help.dotb.vn/mobile/thong-tin-thoi-khoa-bieu) ****![](../.gitbook/assets/lichhojc%20%281%29.jpg)
 
 > \*\*\*\*[**Thông tin bài giảng và bài tập về nhà**](https://help.dotb.vn/mobile/thong-tin-bai-giang-va-bai-tap-ve-nha)\*\*\*\*
 
