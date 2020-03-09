@@ -131,7 +131,7 @@ Ghi chú:
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 ### Cách 2
 
@@ -189,7 +189,7 @@ Ghi chú:
 
 Bước 4: Click Mass Updated để phân bổ cho người phụ trách.
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ và nhấn Update.
 

@@ -8,11 +8,11 @@
 
 * Đối với người dùng IOS:
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 > Bước 2: Mở ứng dụng DotB SEA trên Mobile và Click vào ô Đăng nhập trên màn hình.
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 > Bước 3: Nhập Số điện thoại/Mật khẩu đã được cung cấp sẵn. \(Đối với người dùng dùng thử, có thể đăng nhập với Số điện thoại/Mật khẩu là: Demo/Demo\). Và tiến hành đăng nhập.
 
