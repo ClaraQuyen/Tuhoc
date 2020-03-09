@@ -32,7 +32,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-> Bước 5: Màn hình hiển thị những trao đổi với Trung tâm và trạng thái của nó:
+> Bước 5: Màn hình hiển thị những trao đổi với Trung tâm và trạng thái của :
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
