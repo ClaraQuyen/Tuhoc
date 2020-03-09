@@ -8,7 +8,7 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-> \*\*\*\*[**Thông tin thời khóa biểu**](https://help.dotb.vn/mobile/thong-tin-thoi-khoa-bieu) ****![](../.gitbook/assets/lichhojc%20%281%29.jpg)
+> \*\*\*\*![](../.gitbook/assets/lichhojc%20%281%29.jpg) [**Thông tin thời khóa biểu**](https://help.dotb.vn/mobile/thong-tin-thoi-khoa-bieu) ****
 
 > \*\*\*\*[**Thông tin bài giảng và bài tập về nhà**](https://help.dotb.vn/mobile/thong-tin-bai-giang-va-bai-tap-ve-nha)\*\*\*\*
 
