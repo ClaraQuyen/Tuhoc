@@ -1,17 +1,17 @@
 # Ghi nhận phản hồi
 
-> Bước 1: Tại màn hình Trang chủ, để phản hồi với Trung tâm, click vào chức năng Trao đổi:
+> Bước 1: Tại màn hình Trang chủ, để phản hồi với Trung tâm, click vào chức năng Trao đổi.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
-> Bước 2: Lựa chọn Loại yêu cầu:
+> Bước 2: Lựa chọn Loại yêu cầu.
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="info" %}
 Ghi chú: 
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 * Loại yêu cầu: 
 
@@ -28,13 +28,13 @@ Ghi chú:
 
 ![](../.gitbook/assets/image.png)
 
-> Bước 4: Click vào ô Yêu cầu của bạn để theo dõi những nội dung Trao đổi của mình với Trung tâm:
+> Bước 4: Click vào ô Yêu cầu của bạn để theo dõi những nội dung Trao đổi của mình với Trung tâm.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-> Bước 5: Màn hình hiển thị những trao đổi với Trung tâm và trạng thái của :
+> Bước 5: Màn hình hiển thị những trao đổi với Trung tâm và trạng thái của.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 {% hint style="info" %}
 Ghi chú:
@@ -51,9 +51,9 @@ Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ 
 
 * Click vào nút hình chuông:
 
- ![](../.gitbook/assets/image%20%2827%29.png) 
+ ![](../.gitbook/assets/image%20%2830%29.png) 
 
-* Xem thông báo phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/image%20%2831%29.png) 
+* Xem thông báo phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/image%20%2835%29.png) 
 {% endhint %}
 
 
