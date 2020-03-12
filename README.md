@@ -16,7 +16,7 @@ MÔ HÌNH TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO - DOTB EMS
 
 
 ```text
-Qui trình tổng quan trung tâm đào tạo
+Quy trình tổng quan trung tâm đào tạo
 ```
 
 ![](.gitbook/assets/tongquan.png)

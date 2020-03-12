@@ -1,7 +1,5 @@
 # Thông tin bài giảng và bài tập về nhà
 
-
-
 > Bước 1: Tại màn hình Trang chủ, click vào chức năng Lịch học để theo dõi Thông tin bài giảng và bài tập về nhà của học sinh.
 
 ![](../.gitbook/assets/image%20%2814%29.png)

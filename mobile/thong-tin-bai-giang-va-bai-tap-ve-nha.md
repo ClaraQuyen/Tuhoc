@@ -1,6 +1,6 @@
 # Lịch sử khóa học
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Sổ liên lạc để theo dõi thông tin khóa học của học sinh.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Sổ liên lạc để theo dõi thông tin khóa học của học viên.
 
 ![](../.gitbook/assets/image%20%2845%29.png)
 

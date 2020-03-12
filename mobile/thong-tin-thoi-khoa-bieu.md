@@ -1,6 +1,6 @@
 # Thông tin Thời khóa biểu
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Lịch học để theo dõi Thời khóa biểu của học sinh.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Lịch học để theo dõi Thời khóa biểu của học viên.
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 

@@ -1,6 +1,6 @@
 # Lịch sử khoản thu
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Học phí để theo dõi lịch sử khoản thu của học sinh.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Học phí để theo dõi lịch sử khoản thu của học viên.
 
 ![](../.gitbook/assets/image%20%2816%29.png)
 

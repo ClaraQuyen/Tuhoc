@@ -1,8 +1,6 @@
 # Xem kết quả học tập
 
-
-
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Kết quả học tập để theo dõi kế quả học tập của học sinh.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Kết quả học tập để theo dõi kế quả học tập của học viên.
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
@@ -14,7 +12,7 @@
 
 ![](../.gitbook/assets/image%20%2865%29.png)
 
-> Bước 4: Ứng dụng sẽ hiển thị nội dung chi tiết về lớp học và kết quả học tập của học sinh trong lớp học đó.
+> Bước 4: Ứng dụng sẽ hiển thị nội dung chi tiết về lớp học và kết quả học tập của học viên trong lớp học đó.
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 

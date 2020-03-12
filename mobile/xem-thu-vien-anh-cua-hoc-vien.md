@@ -1,6 +1,6 @@
 # Xem thư viện ảnh của học viên
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Kết quả học tập để theo dõi kế quả học tập của học sinh.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Kết quả học tập để theo dõi kế quả học tập của học viên.
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
