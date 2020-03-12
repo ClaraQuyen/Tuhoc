@@ -14,13 +14,13 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > [**Lịch sử khoản thu**](https://help.dotb.vn/mobile/lich-su-khoan-thu)  ****![](../.gitbook/assets/image%20%282%29.png)\*\*\*\*
 
-> \*\*\*\*[**Lịch sử khóa học**](https://help.dotb.vn/mobile/lich-su-khoa-hoc)  ****
+> \*\*\*\*[**Lịch sử khóa học**](https://help.dotb.vn/mobile/lich-su-khoa-hoc)  **** ![](../.gitbook/assets/image%20%287%29.png)
 
 > ****[**Ghi nhận phản hồi**](https://help.dotb.vn/mobile/ghi-nhan-phan-hoi)\*\*\*\*![](../.gitbook/assets/image%20%2826%29.png)\*\*\*\*
 
 > **** [**Xem kết quả học tập**](https://help.dotb.vn/mobile/theo-doi-ket-qua-hoc-tap)![](../.gitbook/assets/image%20%289%29.png)
 
-> \*\*\*\*[**Xem thư viện ảnh của học viên**](https://help.dotb.vn/mobile/xem-thu-vien-anh-cua-hoc-vien)\*\*\*\*
+> \*\*\*\*[**Xem thư viện ảnh của học viên**](https://help.dotb.vn/mobile/xem-thu-vien-anh-cua-hoc-vien) ****![](../.gitbook/assets/image%20%2869%29.png)
 
-> [𝐐𝐮𝐚̉𝐧 𝐥𝐲́ 𝐭𝐚̀𝐢 𝐤𝐡𝐨𝐚̉𝐧](https://help.dotb.vn/mobile/quan-li-tai-khoan) ![](../.gitbook/assets/image%20%2872%29.png)
+> [𝐐𝐮𝐚̉𝐧 𝐥𝐲́ 𝐭𝐚̀𝐢 𝐤𝐡𝐨𝐚̉𝐧](https://help.dotb.vn/mobile/quan-li-tai-khoan) ![](../.gitbook/assets/image%20%2873%29.png)
 

@@ -6,5 +6,5 @@
 
 > Bước 2: Ứng dụng sẽ hiển thị danh sách các khoản thu đã thanh toán hoặc chưa thanh toán, gói học và ngày thanh toán,...
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
