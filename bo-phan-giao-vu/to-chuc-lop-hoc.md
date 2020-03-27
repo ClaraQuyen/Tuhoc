@@ -8,7 +8,7 @@
 
 > Bước 2: Tại màn hình tạo mới Lớp học, nhập đầy đủ các thông tin cần thiết, Sau đó Click Save để Hoàn tất việc tạo ra 1 Lớp học mới.
 
-![](../.gitbook/assets/taolop2.png)
+![](../.gitbook/assets/taolop.jpg)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -92,14 +92,16 @@
 
 > Bước 4: Tại màn hình chỉnh sửa ngày khai giảng,nhập đầy đủ các thông tin cần thiết, Sau đó click Save để hoàn tất.
 
-![](../.gitbook/assets/doingaykhaigiang4.png)
+![](../.gitbook/assets/taolop%20%282%29.jpg)
 
 {% hint style="info" %}
 **Ghi chú:**
 
 1:Chọn ngày khai giảng muốn thay đổi
 
-2:Lịch học gần đây của lớp được tạo 3:Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới \(nếu muốn\)
+2:Lịch học gần đây của lớp được tạo 
+
+3:Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới \(nếu muốn\)
 {% endhint %}
 
 ## Đổi lịch học trong khoảng thời gian bất kì
@@ -118,14 +120,16 @@
 
 > Bước 4: Nhập đầy đủ thông tin , sau đó click **Save** để hoàn tất.
 
-![](../.gitbook/assets/doilichhoc3.png)
+![](../.gitbook/assets/taolop1.jpg)
 
 {% hint style="info" %}
 **Ghi chú**:
 
 1:Chọn khoảng thời gian thay đổi lịch học
 
-2:Lý do thay đổi lịch học và đổi lại lịch học mới
+2:Lý do thay đổi lịch học
+
+3: Đổi lại lịch học mới \(nếu có\)
 {% endhint %}
 
 ## Quản lí lịch nghỉ lễ trong năm
