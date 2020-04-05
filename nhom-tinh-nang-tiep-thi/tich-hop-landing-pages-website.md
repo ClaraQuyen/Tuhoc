@@ -55,7 +55,7 @@ description: >-
 ![](../.gitbook/assets/ladi5.jpg)
 
 {% hint style="info" %}
-Ghi chú:
+**Ghi chú**:
 
 1: Tên lưu trữ: Lưu ý: nên đặt tên dễ nhớ
 
@@ -75,7 +75,7 @@ VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.c
 ![](../.gitbook/assets/ladi6.jpg)
 
 {% hint style="info" %}
-Ghi chú:
+**Ghi chú**:
 
 1: Chỉnh sữa
 
@@ -117,7 +117,7 @@ Ghi chú:
 ![](../.gitbook/assets/contact5.jpg)
 
 {% hint style="info" %}
-Ghi chú:
+**Ghi chú:**
 
 1: API URL: [**https://api.dotb.cloud/**](https://api.dotb.cloud/) 
 
