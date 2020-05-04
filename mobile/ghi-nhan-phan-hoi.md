@@ -2,7 +2,7 @@
 
 > Bước 1: Tại màn hình Trang chủ, để phản hồi với Trung tâm, click vào chức năng Trao đổi.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 > Bước 2: Lựa chọn Loại yêu cầu.
 
@@ -11,7 +11,7 @@
 {% hint style="info" %}
 Ghi chú: 
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 * Loại yêu cầu: 
 
@@ -34,7 +34,7 @@ Ghi chú:
 
 > Bước 5: Màn hình hiển thị những trao đổi với Trung tâm và trạng thái của.
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 {% hint style="info" %}
 Ghi chú:
@@ -51,9 +51,9 @@ Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ 
 
 * Click vào nút hình chuông:
 
- ![](../.gitbook/assets/image%20%2831%29.png) 
+ ![](../.gitbook/assets/image%20%2832%29.png) 
 
-* Xem thông báo phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/image%20%2836%29.png) 
+* Xem thông báo phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/image%20%2837%29.png) 
 {% endhint %}
 
 

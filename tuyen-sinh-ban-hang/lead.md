@@ -131,7 +131,7 @@ Ghi chú:
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 ### Cách 2
 
@@ -171,17 +171,17 @@ Ghi chú:
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
 ## **Phân bổ Leads\(theo trạng thái\) cho người phụ trách**
 
 > Bước 1: Click chuột vào module Leads, click Create để tạo bộ lọc Leads theo trạng thái.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 > Bước 2: Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 > Bước 3: Hệ thống hiển thị thông tin danh sách Leads có trạng thái cần để phân bổ người phụ trách, chọn tất cả.
 
@@ -189,11 +189,11 @@ Ghi chú:
 
 Bước 4: Click Mass Updated để phân bổ cho người phụ trách.
 
-![](../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2879%29.png)
 
 Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ và nhấn Update.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 
 

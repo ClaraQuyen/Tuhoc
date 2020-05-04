@@ -48,7 +48,11 @@
 * [Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc.md)
 * [Quản lí giáo viên và TA](bo-phan-giao-vu/quan-li-giao-vien-va-ta.md)
 * [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc.md)
-* [Inventory](inventory.md)
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
-* [Tạo và phân quyền cho users](tao-va-phan-quyen-cho-users.md)
+
+## Admin Guide
+
+* [Inventory](admin-guide/inventory.md)
+* [Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users.md)
+* [Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
 

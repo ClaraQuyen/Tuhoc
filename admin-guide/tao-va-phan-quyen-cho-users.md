@@ -1,18 +1,18 @@
 # Tạo và phân quyền cho users
 
-## Tạo Role
+## ạo Role
 
 > Bước 1: Click chuột vào module Admin chọn Admin.Tại màn hình Admin click vào chọn Role Management
 
-![](.gitbook/assets/role1.png)
+![](../.gitbook/assets/role1.png)
 
 > Bước 2: Tại màn hình Roles,Click vào Menu chọn Create Role.
 
-![](.gitbook/assets/role2.png)
+![](../.gitbook/assets/role2.png)
 
 > Bước 3: Tại màn hình tạo mới Role,nhập đầy đủ thông tin .Sau đó click Save.
 
-![](.gitbook/assets/role3.png)
+![](../.gitbook/assets/role3.png)
 
 {% hint style="info" %}
 **Ghi chú: \(\*\)**
@@ -24,11 +24,11 @@
 
 > Bước 4: Hệ thống hiển thị thông tin set quyền truy cập các module của Role.
 
-![](.gitbook/assets/role4.png)
+![](../.gitbook/assets/role4.png)
 
 > Bước 5: Double click vào từng module để Disable/Enable/Not Set/… cấp quyền truy cập/Edit/Import,… cho Role vừa tạo. Sau khi set quyền cho các module ,click Save để lưu lại.
 
-![](.gitbook/assets/role5.png)
+![](../.gitbook/assets/role5.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -102,7 +102,7 @@
 
 > Bước 6: Click vào Module để set quyền truy cập cho từng Field \(Nếu bạn muốn thay đổi quyền cho từng Field,nếu không thì mặc định quyền của Field là Not set\).Double click vào từng Field để thay đổi quyền Not set/Read/…. Sau khi set quyền cho các Field ,click Save để lưu lại.
 
-![](.gitbook/assets/role6.png)
+![](../.gitbook/assets/role6.png)
 
 {% hint style="info" %}
 **+Quyền truy cập các File trrong Module:**
@@ -120,39 +120,39 @@
 
 > Bước 7:Hệ thống hiển thị thông tin chi tiết của Role vừa được tạo và quyền truy cập cho các module thành công.
 
-![](.gitbook/assets/role7.png)
+![](../.gitbook/assets/role7.png)
 
 ## Tạo Center
 
 > Bước 1: Đưa chuột vào Menu Admin.Tại Action Menu click vào chọn Team Management.
 
-![](.gitbook/assets/center1.png)
+![](../.gitbook/assets/center1.png)
 
 > Bước 2: Tại màn hình Team management,Click vào \(+\) để thêm Center cho trung tâm.
 
-![](.gitbook/assets/center2.png)
+![](../.gitbook/assets/center2.png)
 
 > Bước 3: Tại màn hình tao mới Center, nhập đầy đủ thông tin .Sau đó click Save.
 
-![](.gitbook/assets/center3.png)
+![](../.gitbook/assets/center3.png)
 
 > Bước 4: Hệ thống hiển thị thông tin Center mới được tạo sau khi Save thành công.Bạn có thể click vào \(+\) để tạo Center mới tiếp theo.
 
-![](.gitbook/assets/center4.png)
+![](../.gitbook/assets/center4.png)
 
 ## Tạo Users
 
 > Bước 1: Đưa chuột vào Menu Admin.Tại Action Menu click vào chọn Users.
 
-![](.gitbook/assets/uses1.png)
+![](../.gitbook/assets/uses1.png)
 
 > Bước 2: Tại màn hình Users,Click vào Menu chọn Create New User.
 
-![](.gitbook/assets/user2.png)
+![](../.gitbook/assets/user2.png)
 
 > Bước 3: Tại màn hình tao mới Users,nhập đầy đủ thông tin ở tab User Profile.
 
-![](.gitbook/assets/users3.png)
+![](../.gitbook/assets/users3.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -164,11 +164,11 @@
 
 > Bước 4: Nhập Password cho users ở tab Password.
 
-![](.gitbook/assets/user4.png)
+![](../.gitbook/assets/user4.png)
 
 > Bước 5: Set ngày nghỉ,ẩn module,bật popup,… cho uses \(nếu muốn\).Sau đó click Save.Hệ thống hiển thị thông tin của Users sau khi tạo thành công.
 
-![](.gitbook/assets/uses5.png)
+![](../.gitbook/assets/uses5.png)
 
 ## Phân Quyền cho Users
 
@@ -176,13 +176,13 @@
 
 > Bước 1: Đưa chuột vào Menu Admin.Tại Action Menu click vào chọn Team Management.Sau đó chọn Center mặc định để set cho Users
 
-![](.gitbook/assets/center1.png)
+![](../.gitbook/assets/center1.png)
 
-![](.gitbook/assets/c12.png)
+![](../.gitbook/assets/c12.png)
 
 > Bước 2: Tại màn hình của Center set cho Users,Click vào Add Users,sau đó chọn người dùng Set vào trung tâm.
 
-![](.gitbook/assets/c13.png)
+![](../.gitbook/assets/c13.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -204,11 +204,11 @@
 +2:Danh sách Users
 {% endhint %}
 
-![](.gitbook/assets/c14.png)
+![](../.gitbook/assets/c14.png)
 
 > Bước 3: Sau khi set người dùng vào trung tâm.bạn có thể set quyền truy cập cho Users .Sau đó click Save.
 
-![](.gitbook/assets/c15.png)
+![](../.gitbook/assets/c15.png)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -217,22 +217,22 @@
 
 2:Phân Quyền cho Users
 
-3: ![](.gitbook/assets/c16.png) 
+3: ![](../.gitbook/assets/c16.png) 
 {% endhint %}
 
 ### Phân quyền cho Users \(Cách 2\)
 
 > Bước 1: Đưa chuột vào Menu Admin.Tại Action Menu click vào chọn Users.Sau đó Users cần set quyền.
 
-![](.gitbook/assets/uses1.png)
+![](../.gitbook/assets/uses1.png)
 
 > Bước 2: Tại màn hình Users,Click vào tab Access chọn Roles.
 
-![](.gitbook/assets/c22.png)
+![](../.gitbook/assets/c22.png)
 
 > Bước 3: Tại màn hình Roles.Click vào select để chọn quyền bạn cần set cho Users.
 
-![](.gitbook/assets/c23.png)
+![](../.gitbook/assets/c23.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -244,11 +244,11 @@
 
 > Bước 4: Tại màn hình set Roles cho Users,bạn cho role cần Set \(Có thể set cho nhiều users bằng cách click vào ô vuông,sau đó click Select\),nếu set cho 1 người bạn click vào Users đó.
 
-![](.gitbook/assets/c24.png)
+![](../.gitbook/assets/c24.png)
 
 > Bước 5: Hê thống hiển thị thông tin set quyền cho users thành công.
 
-![](.gitbook/assets/c25.png)
+![](../.gitbook/assets/c25.png)
 
 
 
