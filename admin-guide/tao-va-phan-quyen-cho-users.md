@@ -1,6 +1,6 @@
 # Tạo và phân quyền cho users
 
-## ạo Role
+## Tạo Role
 
 > Bước 1: Click chuột vào module Admin chọn Admin.Tại màn hình Admin click vào chọn Role Management
 

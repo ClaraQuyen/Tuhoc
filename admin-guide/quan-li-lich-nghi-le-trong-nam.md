@@ -1,7 +1,5 @@
 # Quản lí lịch nghỉ lễ trong năm
 
-
-
 > Bước 1: Đưa chuột vào proflie, sau đó click chọn **Admin.**
 
 ![](../.gitbook/assets/holiday1.jpg)

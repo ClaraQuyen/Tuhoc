@@ -1,7 +1,5 @@
 # Inventory
 
-
-
 ## Book/Gift
 
 > Bước 1: Click chuột vào module Admin chọn Admin.
