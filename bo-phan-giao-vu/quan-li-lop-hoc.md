@@ -197,7 +197,7 @@
 {% hint style="info" %}
 **Ghi chú:**
 
-1: Lựa chọn loại Học viên: Lead hoặc Student
+1: Lựa chọn loại học viên là Student.
 
 ![](../.gitbook/assets/hocdemo5.png) 
 
