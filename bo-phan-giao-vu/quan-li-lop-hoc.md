@@ -204,11 +204,11 @@
  2: Click **Add  Outstanding** để chọn Học viên vào lớp
 {% endhint %}
 
-> Bước 4: Chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add** để thêm học viên.
+> Bước 4: Chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Save** để thêm học viên.
 
-![](../.gitbook/assets/hocdemo6.png)
+![](../.gitbook/assets/add1.png)
 
-> Bước 5: Màn hình hiển thị thông báo Add ****học viên vào lớp thành công.
+> Bước 5: Màn hình hiển thị thông báo add học viên vào lớp thành công.
 
 ![](../.gitbook/assets/hocno.png)
 
