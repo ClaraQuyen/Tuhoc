@@ -12,7 +12,7 @@
 
 > Bước 3: Tại màn hình chuyển trung tâm, nhập trung tâm học viên muốn chuyển và những thông tin liên quan.Sau đó click Save.
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -50,7 +50,7 @@
 
 > Bước 3: Tại màn hình chuyển nhượng học phí, chọn học viên được nhận học phí ,sau đó click Save để hoàn tất.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%281%29%20%283%29.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -90,11 +90,11 @@
 
 > Bước 3: Tại màn hình hoàn học phí, nhập số tiền hoàn cho học viên và chi phí phát sinh\(nếu có\).Sau đó click save để hoàn tất.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 \*\*\*\*
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -114,5 +114,5 @@
 
 > Bước 4: Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi Save thành công.
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
