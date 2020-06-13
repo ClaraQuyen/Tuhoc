@@ -76,25 +76,27 @@ Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong x�
 
 ## Quản lí giờ phụ đạo, event, admin
 
-> Bước 1: click chuột vào module Admin Hours.
+> Bước 1: click chuột vào module **Admin Hours,** sau đó chọn ngày cần xếp cho giáo viên và nhập thông tin giáo viên cần xếp, thời gian, task,... tiếp theo click **Add.**
 
-![](../.gitbook/assets/giophudao1.png)
-
-> Bước 2: Tại màn hình quản lý giờ phụ đạo,even,.. nhập đầy đủ thông tin.Sau đó click Add.
-
-![](../.gitbook/assets/giophudao2.png)
+![](../.gitbook/assets/admin2.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+Ghi chú:
 
-1:Giáo viên phụ trách
+1: Giáo viên cần xếp buổi phụ đạo
 
-2:Nội dung giáo viên phụ trách
+2: Task giáo viên
 
-3:Thời gian giáo viên phụ trách 4:Mô tả nội dung \(nếu có\)
+3: Thời gian giáo viên tham gia
+
+4: Mô tả thêm thông tin \(nếu có\).
 {% endhint %}
 
-> Bước 3: Tiếp theo nhấn Save,hệ thống hiển thị thông tin giáo viên phụ trách tham gia event,….
+> Bước 2: sau khi click Add thành công, màn hình **Added entries** hiện thi thông tin giáo viên đã được xếp thời gian phụ đạo bên dưới. Cuối cùng click **Save**.
 
-![](../.gitbook/assets/giophudao3.png)
+![](../.gitbook/assets/admin3.jpg)
+
+> Bước 3: Khi lưu thành công, màn hình lịch của tháng những ô được tô màu vàng là thời gian giáo viên đã được xếp lịch, ô màu xanh là ngày hiện tại.
+
+![](../.gitbook/assets/admin4.jpg)
 
