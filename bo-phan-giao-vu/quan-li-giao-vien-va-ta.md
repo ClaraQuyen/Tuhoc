@@ -81,7 +81,7 @@ Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong x�
 ![](../.gitbook/assets/admin2.jpg)
 
 {% hint style="info" %}
-Ghi chú:
+**Ghi chú**:
 
 1: Giáo viên cần xếp buổi phụ đạo
 
