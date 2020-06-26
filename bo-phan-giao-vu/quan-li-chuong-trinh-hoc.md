@@ -120,7 +120,7 @@
 
 > Bước 3: Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết \(thông tin chương trình học, sanh sách học viên,lớp Upgrade\), sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
 
-![](../.gitbook/assets/upgrad3.png)
+![](../.gitbook/assets/upgrade1.jpg)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -133,8 +133,6 @@
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi Upgrade thành công.
->
-> > >
 
 ![](../.gitbook/assets/upgrade5.png)
 
