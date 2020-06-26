@@ -75,7 +75,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/themdemo3.png) 
 
-2: click **Add Demo** để chọn học viên
+2: Chọn thời gian cho học viên học demo sau đó click **Add** để thêm học viên vào lớp
 
 ![](../.gitbook/assets/themdemo4.png) 
 {% endhint %}
