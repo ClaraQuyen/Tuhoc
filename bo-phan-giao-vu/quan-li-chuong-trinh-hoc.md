@@ -118,7 +118,7 @@
 
 ![](../.gitbook/assets/upgrade2.png)
 
-> Bước 3: Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết \(thông tin chương trình học, sanh sách học viên,lớp Upgrade\), sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
+> Bước 3: Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
 
 ![](../.gitbook/assets/upgrade1.jpg)
 
