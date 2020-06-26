@@ -130,15 +130,45 @@
 2:Cấu hình thời gian mới cho lớp học được Upgrade , chương trình học
 
 3:Thông tin,sỉ số,ngày bắt đầu và kết thúc của lớp được Upgrade.
-
-4. Danh sách học viên từ lớp củ.Người dung có thể chọn hết danh sách học viên từ lớp củ hoặc 1 vài học viên, sau đó click **Ok.**
 {% endhint %}
 
-![](../.gitbook/assets/upgrade4.png)
-
 > Bước 4: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi Upgrade thành công.
+>
+> > >
 
 ![](../.gitbook/assets/upgrade5.png)
+
+> Bước 5: Khi upgarde lớp mới xong, ngay supanel click vào tab students situation,sau đó click vào button "**Add Student**".
+
+![](../.gitbook/assets/upgrade2.jpg)
+
+> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn Move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp \(3\) là được.
+
+![](../.gitbook/assets/upgrade4.jpg)
+
+{% hint style="info" %}
+Ghi chú : 
+
+1: Thông tin lớp học mới \(lớp đc upgrade\)
+
+2:  Lựa chọn khoảng thời gian move học viên qua lớp mới.
+
+3: Chọn lớp học mà bạn muốn đưa danh sách học viên vào lớp Upgrade.
+
+4: Danh sách học viên, check vòa để chọn học viên.
+
+5:  Thông tin học phí của học viên khi đăng kí lên lớp mới
+
+6: **Addmission Status :**Những học viên nào học lớp củ mà được chuyển sang lớp mới và đã có tên trong danh sách lớp mới thì trong danh sách sẽ đánh dấu X và ngược lại.
+{% endhint %}
+
+> Bước 7 Click Ok để xác nhận
+
+![](../.gitbook/assets/upgrade6.jpg)
+
+> Bước 8 : Màn hình hiên thị danh sách học viên khi add học viên vào lớp thành công.
+
+![](../.gitbook/assets/upgrade5.jpg)
 
 ### Cấu hình số giờ/lớp
 
