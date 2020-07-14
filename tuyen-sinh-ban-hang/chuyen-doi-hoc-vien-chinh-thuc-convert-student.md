@@ -1,6 +1,6 @@
 # Chuyển đổi học viên chính thức\(Convert Student\)
 
-![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n EMS](../.gitbook/assets/students_process.png)
+![](../.gitbook/assets/status.jpg)
 
 > **-Chi tiết  các trạng thái học viên :**
 >
