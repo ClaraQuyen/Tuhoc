@@ -66,20 +66,20 @@
 
 ![](../.gitbook/assets/ctbangdiem.png)
 
-> Bước 2: Tại màn hình tạo cấu trúc bảng điểm, nhập đầy đủ thông tin trung tâm,chương trình học,loại bảng điểm. Tiếp theo cick **Load config.**
+> Bước 2: Tại màn hình tạo cấu trúc bảng điểm, nhập đầy đủ thông tin trung tâm, chương trình học, loại bảng điểm. Tiếp theo click **Load config.**
 
 ![](../.gitbook/assets/cautrucbangdiem2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Trung tâm anh văn
+1: Trung tâm anh văn
 
-2:Chương trình học
+2: Chương trình học
 
-3:Loại cấu trúc bảng điểm \(Overall : bảng điểm cuối kì hay giữa kì , Process: bảng điểm minitest\)
+3: Loại cấu trúc bảng điểm \(Overall : bảng điểm cuối kì hay giữa kì , Progress: bảng điểm mini test\)
 
-4:Tên cấu trúc bảng điểm \(có thể không nhập,hệ thống sẽ tự tạo tên\).
+4: Tên cấu trúc bảng điểm \(có thể không nhập,hệ thống sẽ tự tạo tên\).
 {% endhint %}
 
 > Bước 3: Tại màn hình định nghĩa cấu trúc bảng điểm,định nghĩa cấu trúc chương trình học theo trung tâm của bạn, sau đó click Save Config.
@@ -89,21 +89,21 @@
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Đặt tên giống nhau đối với những cột điểm giống nhau\(Có thể không đặt tên\)
+1: Đặt tên nhóm cột điểm để gom nhóm các cột điểm có chức năng giống nhau hoặc chung một tên. \(Có thể bỏ trống\)
 
-2:Tên cột điểm
+2: Tên cột điểm
 
-3:Loại cột điểm \(cột đánh giá, comment của giáo viên,…\)
+3: Loại cột điểm \(Score: Điểm; Formula: Điểm dựa trên công thức; Band: Xếp loại; Total: Điểm tổng kết; Comment: Nhận xét\)
 
-4:Tich cho phép hiển thị cột hoặc không
+4: Visible: Tick cho phép hiển thị cột hoặc không
 
-5:Nhập điểm,loại kết quả,..
+5: Nhập điểm, loại kết quả,... phụ thuộc theo loại của cột điểm
 
-6:Công thức định nghĩa cấu trúc bảng điểm
+6: Công thức định nghĩa cấu trúc bảng điểm\(chỉ xuất hiện khi loại điểm là formula, band, total\)
 
-7:Bỏ cột
+7: Bỏ cột
 
-8:Thêm cột
+8: Thêm cột
 {% endhint %}
 
 ## Cấu hình số giờ/lớp và quản lí Upgrade lớp
