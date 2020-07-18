@@ -95,15 +95,15 @@
 
 3: Loại cột điểm \(Score: Điểm; Formula: Điểm dựa trên công thức; Band: Xếp loại; Total: Điểm tổng kết; Comment: Nhận xét\)
 
-4: Visible: Tick cho phép hiển thị cột hoặc không
+Visible: Tick cho phép hiển thị cột hoặc không
 
-5: Nhập điểm, loại kết quả,... phụ thuộc theo loại của cột điểm
+4: Nhập điểm tối đa, loại kết quả,... phụ thuộc theo loại của cột điểm
 
-6: Công thức định nghĩa cấu trúc bảng điểm\(chỉ xuất hiện khi loại điểm là formula, band, total\)
+5: Công thức định nghĩa cấu trúc bảng điểm\(chỉ xuất hiện khi loại cột điểm là formula, band, total\)
 
-7: Bỏ cột
+6: Bỏ cột
 
-8: Thêm cột
+7: Thêm cột
 {% endhint %}
 
 ## Cấu hình số giờ/lớp và quản lí Upgrade lớp
