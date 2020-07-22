@@ -12,7 +12,7 @@
 
 ## Điểm danh/ SMS bài học sau mỗi buổi học
 
-### Điểm danh
+### Điểm Danh
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi điểm danh.
 
