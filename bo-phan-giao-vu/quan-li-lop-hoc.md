@@ -150,35 +150,39 @@
 
 ![](../.gitbook/assets/ndbuoihoc2.png)
 
-## Quản lí học viên học nợ, học demo
+## Quản lí học viên học nợ, học Trail Class
 
-### Học viên học demo
+### Học viên học Trail Class
 
 > Bước 1: Đưa chuột vào Menu Classes chọn View Classes, click chọn lớp cần thêm học viên vào lớp học Demo.
 
 ![](../.gitbook/assets/hocdemo1.png)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
+> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. 
+>
+> Lựa chọn loại học viên Lead/Student.  Sau đó chọn **Add to Class Demo**
 
-![](../.gitbook/assets/hocdemo3.png)
+![](../.gitbook/assets/addtodemo.png)
 
-> Bước 3: Lựa chọn loại Học viên, click Select để tiến hành thêm Học viên vào lớp học Demo.
+> Bước 3: Chọn học viên đưa vào lớp Trail, sau đó chọn ngày bắt dầu /kết thúc mà học viên học trail. Cuối cùng click **Add** để thêm học viên vào lớp.
 
-![](../.gitbook/assets/hocdemo4.png)
+![](../.gitbook/assets/addtoclass1.png)
 
-{% hint style="info" %}
-**Ghi chú:**
+```text
+HOặc có thể vào Profile của Lead/Student để Add học viên vào Trail Class.
+```
 
-1: Lựa chọn loại Học viên: Lead hoặc Student
-
-![](../.gitbook/assets/hocdemo5.png) 
-
- 2: Click **Add  Demo** để chọn Học viên vào lớp
+{% hint style="success" %}
+Với Leads : 
 {% endhint %}
 
-> Bước 4: Chọn Add để thêm học viên vào lớp
+![](../.gitbook/assets/leadsdemo.png)
 
-![](../.gitbook/assets/hocdemo6.png)
+{% hint style="success" %}
+Với Studens :
+{% endhint %}
+
+![](../.gitbook/assets/studentdemo.png)
 
 ### Học viên học nợ\(Outstanding\)
 
