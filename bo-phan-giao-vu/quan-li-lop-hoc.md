@@ -332,6 +332,14 @@ Pending Input: Đang xử lí
 Closed : Đã giải quyết.
 {% endhint %}
 
+```text
+Hoặc có thể tạo Feedback của phụ huynh trong profile của học viên băng cách
+Vào Module Students, chọn Student cần tạo Feedback.
+Sau đó chọn Case.
+```
+
+![](../.gitbook/assets/feedback3%20%281%29.png)
+
 > Bước 3: Hệ thống hiển thị nội dung feedback sau khi lưu thành công.
 
 ![](../.gitbook/assets/feedback2%20%281%29.png)
