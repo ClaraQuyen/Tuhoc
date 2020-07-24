@@ -184,7 +184,7 @@ Với Studens :
 
 ![](../.gitbook/assets/studentdemo.png)
 
-### Học viên học nợ\(Outstanding\)
+### Add học viên vào lớp
 
 > Bước 1: Đưa chuột vào Menu Classes , click chọn lớp cần thêm học viên vào lớp học nợ.
 
@@ -194,23 +194,39 @@ Với Studens :
 
 ![](../.gitbook/assets/hocdemo3.png)
 
-> Bước 3: Lựa chọn loại Học viên, click Select để tiến hành thêm Học viên vào lớp học Outstanding.
+> Bước 3: Sau đó click chọn Add Students.
 
-![](../.gitbook/assets/hocno1.png)
+![](../.gitbook/assets/upgrade2.jpg)
+
+> Bước 4: chọn Slect Student để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
+
+![](../.gitbook/assets/upgrade_new.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+**Ghi Chú** :
 
-1: Lựa chọn loại học viên là Student.
+1: Thông tin lớp học mới \(lớp đc upgrade, hoặc lớp New\)
 
-![](../.gitbook/assets/hocdemo5.png) 
+2:  Lựa chọn khoảng thời gian move học viên qua lớp mới.
 
- 2: Click **Add  Outstanding** để chọn Học viên vào lớp
+3: Chọn lớp học mà bạn muốn đưa danh sách học viên vào lớp Upgrade.
+
+4: Add thêm học viên hàng loạt, bạn có thể chọn 1 hay nhiều học viên cùng 1 lúc.
+
+5:  Join with type :Thông tin học phí của học viên khi đăng kí lên lớp mới .
+
+👉 **Enrolled**: Học viên còn khoảng học phí 
+
+👉 **Outstanding** : Học viên không đủ phí để join lớp mới nên add vào học nợ
+
+6: **Addmission Status :** 
+
+ ✖ : Học viên đã có trong lớp, không thể add vào
+
+✔ : Học viên chưa có trong lớp, có thể add vào
+
+7 : ⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
 {% endhint %}
-
-> Bước 4: Chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Save** để thêm học viên.
-
-![](../.gitbook/assets/add1.png)
 
 > Bước 5: Màn hình hiển thị thông báo add học viên vào lớp thành công.
 

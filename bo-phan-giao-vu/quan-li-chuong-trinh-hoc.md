@@ -140,24 +140,34 @@ Visible: Tick cho phép hiển thị cột hoặc không
 
 ![](../.gitbook/assets/upgrade2.jpg)
 
-> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn Move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp \(3\) là được.
+> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp \(3\) là được hoặc nếu muốn thêm nhiều học viên mới khác vào thì bạn click chọn số \(4\) : Select Students.
 
-![](../.gitbook/assets/upgrade4.jpg)
+![](../.gitbook/assets/upgrade_new.png)
 
 {% hint style="info" %}
-Ghi chú : 
+**Ghi chú** : 
 
-1: Thông tin lớp học mới \(lớp đc upgrade\)
+1: Thông tin lớp học mới \(lớp đc upgrade, hoặc lớp New\)
 
 2:  Lựa chọn khoảng thời gian move học viên qua lớp mới.
 
 3: Chọn lớp học mà bạn muốn đưa danh sách học viên vào lớp Upgrade.
 
-4: Danh sách học viên, check vòa để chọn học viên.
+4: Add thêm học viên hàng loạt, bạn có thể chọn 1 hay nhiều học viên cùng 1 lúc.
 
-5:  Thông tin học phí của học viên khi đăng kí lên lớp mới
+5:  Join with type :Thông tin học phí của học viên khi đăng kí lên lớp mới .
 
-6: **Addmission Status :**Những học viên nào học lớp củ mà được chuyển sang lớp mới và đã có tên trong danh sách lớp mới thì trong danh sách sẽ đánh dấu X và ngược lại.
+👉 **Enrolled**: Học viên còn khoảng học phí 
+
+👉 **Outstanding** : Học viên không đủ phí để join lớp mới nên add vào học nợ
+
+6: **Addmission Status :** 
+
+ ✖ : Học viên đã có trong lớp, không thể add vào
+
+✔ : Học viên chưa có trong lớp, có thể add vào
+
+7 : ⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
 {% endhint %}
 
 > Bước 7 Click Ok để xác nhận
