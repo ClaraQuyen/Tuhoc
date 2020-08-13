@@ -232,7 +232,7 @@ Với Studens :
 
 ![](../.gitbook/assets/hocno.png)
 
-## Quản lí bảng điểm
+## Quản lí bảng điểm và xuất kết quả ra Excel
 
 > Bước 1: Đưa chuột vào Menu Class chọn View Class,sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
 
@@ -262,11 +262,13 @@ Với Studens :
 4:Nhập điểm học viên \(Màu trắng bạn nhập, màu đậm hơn bạn không được nhập\) 
 
 5:Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống  
+
+![](../.gitbook/assets/2020-08-13_16-19-53.jpg) 
 {% endhint %}
 
-![](../.gitbook/assets/bangdiem5.png)
+> Bước 5: Sau khi input bảng điểm , click **Export to Exce**l để xuất kết quả cuối kì/giữa kì.
 
-
+![](../.gitbook/assets/2020-08-13_16-17-47.jpg)
 
 ## Xuất báo cáo, điểm danh
 
@@ -294,7 +296,7 @@ Với Studens :
 
 
 
-### Xuất kết quả cuối kì, form kết quả theo mẫu
+### Xuất kết quả cuối kì theo form Certificate
 
 > Bước 1: Đưa chuột vào module Classes chọn lớp cần xuất báo cáo điểm danh.
 
