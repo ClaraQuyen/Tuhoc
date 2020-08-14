@@ -4,7 +4,7 @@
 
 > **-Chi tiết  các trạng thái học viên :**
 >
-> **+ Waiting for class:** Đã được convert lên thành học viên, nhưng chưa có payment nào.
+> **+ Waiting for class:** Đã được convert lên thành học viên, dù có hay chưa có payment nào.
 >
 > **+Registed :** Đã đăng kí enroll vào lớp, nhưng lớp đó chưa diễn ra.Và khi outstanding thanh toán xong, lớp đag diễn ra quay lại trạng thái In Process.,với lớp Planing thì quay về trạng thái Registed.
 
@@ -12,7 +12,7 @@
 >
 > **+ Delay :**  bảo lưu \(hoàn tất học phí mới được bảo lưu\)
 >
-> **+ Outstanding :** vẫn chưa đóng học phí, nếu đóng hoàn thành trong thời gian đag học sẽ chuyển thành In Progress, nếu sau khi kết thúc vẫn chưa hoàn thành học phí sẽ là Outstanding Và nếu hoàn tất học phí khi lớp học kết thúc sẽ là Finished.
+> **+ Outstanding :** Add học nợ, nếu đóng hoàn thành trong thời gian đag học sẽ chuyển thành In Progress, nếu sau khi kết thúc vẫn chưa hoàn thành học phí sẽ là Outstanding Và nếu hoàn tất học phí khi lớp học kết thúc sẽ là Finished.
 >
 > **+ Finished :** Hoàn tất việc học và học phí.
 
