@@ -1,6 +1,6 @@
 # Chuyển đổi học viên chính thức\(Convert Student\)
 
-![](../.gitbook/assets/dotb_edu.jpg)
+![](../.gitbook/assets/dotb_edu%20%281%29.jpg)
 
 > **-Chi tiết  các trạng thái học viên :**
 >
