@@ -220,12 +220,12 @@ Ghi chú:
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Sau đó, Click Pay để thanh toán toàn bộ số tiền của Payment đó.
+> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”.
 
 ![](../.gitbook/assets/image%20%2832%29.png)
 
 {% hint style="info" %}
-**Ghi chú**: có thể **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử\(như hình dưới\) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
+**Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử\(như hình dưới\) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2846%29.png)
