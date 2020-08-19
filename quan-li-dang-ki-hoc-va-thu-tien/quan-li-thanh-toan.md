@@ -214,29 +214,33 @@ Ghi chú:
 3: Xóa Phiếu thu, khi thực hiện thiện việc xóa Phiếu thu thì trạng thái của Phiếu thu sẽ chuyển về: Cancel
 {% endhint %}
 
-## Xuất hóa đơn điện tử E-invoice
+## Xuất hóa đơn điện tử \(E-invoice\)
 
-> Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thực hiện việc xuất hóa đơn điện tử E-invoice.
+{% hint style="info" %}
+**GHI CHÚ:**
+
+* **MÔ TẢ:** Hóa đơn điện tử \(E-invoice\) là tập hợp các thông điệp dữ liệu điện tử về bán hàng hóa, cung ứng dịch vụ, được khởi tạo, lập, gửi, nhận, lưu trữ và quản lý bằng phương tiện điện tử theo quy định của pháp luật về giao dịch điện tử.
+* **LƯU Ý:** Chức năng của hóa đơn điện tử chỉ hoạt động khi Đơn vị có sử dụng HT E-invoice và đã được cài đặt lên hệ thống EMS.
+* **CHI TIẾT:** Mọi thông tin về cài đặt vui lòng liên hệ bộ phận IT Administrator để được giải đáp.
+{% endhint %}
+
+> Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thực hiện việc xuất hóa đơn điện tử \(E-invoice\).
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”.
-
-![](../.gitbook/assets/image%20%2832%29.png)
-
-{% hint style="info" %}
-**Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử\(như hình dưới\) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
-{% endhint %}
-
-![](../.gitbook/assets/image%20%2846%29.png)
-
-> Bước 3: Click chuột vào ô **Get E-invoice**, để xuất hóa đơn điện tử cho Payment đó.
-
-![](../.gitbook/assets/image%20%2848%29.png)
-
-> Bước 4: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click OK.
+> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô **Get E-invoice**, để xuất hóa đơn điện tử cho Payment đó.
 
 ![](../.gitbook/assets/image%20%2842%29.png)
+
+{% hint style="info" %}
+**Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử \(như hình dưới\) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2847%29.png)
+
+> Bước 3: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click OK.
+
+![](../.gitbook/assets/image%20%2844%29.png)
 
 {% hint style="info" %}
 **Ghi chú**:
