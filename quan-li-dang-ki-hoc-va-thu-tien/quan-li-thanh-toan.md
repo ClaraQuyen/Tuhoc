@@ -263,7 +263,7 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 
 2: Void E-invoice hoặc Void Receipt: Khi Payment chưa được dùng để Enroll học viên vào lớp và thời hạn Void E-invoice trong tháng đó.
 
-3: E-VAT No: Sẽ tự động cập nhật tất cả các Recepit trong 1 Payment.
+3: E-VAT No: Sẽ tự động cập nhật tất cả các Receipt trong 1 Payment.
 {% endhint %}
 
 ## Thay đổi được nội dung thu tiền và số tiền cho học viên tháng tiếp theo khi chưa thanh toán
@@ -287,7 +287,7 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 
 2: Số tiền thay đổi thu tháng tiếp theo cho học viên
 
-3: Ngày mong muốn phụ huynh có thể thanh toán sớm/trể hơn \(Thông báo gửi đến App\). 
+3: Ngày mong muốn phụ huynh có thể thanh toán sớm/trễ hơn \(Thông báo gửi đến App\). 
 
 4: Nội dung thay đổi số tiền thu phí học viên tháng tới.
 {% endhint %}
