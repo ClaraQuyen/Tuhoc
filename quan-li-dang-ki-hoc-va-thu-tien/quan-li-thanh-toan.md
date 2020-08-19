@@ -230,7 +230,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/image%20%2846%29.png)
 
-> Bước 3: Click chuột vào ô Get E-invoice, để xuất hóa đơn điện tử cho Payment đó.
+> Bước 3: Click chuột vào ô **Get E-invoice**, để xuất hóa đơn điện tử cho Payment đó.
 
 ![](../.gitbook/assets/image%20%2848%29.png)
 
