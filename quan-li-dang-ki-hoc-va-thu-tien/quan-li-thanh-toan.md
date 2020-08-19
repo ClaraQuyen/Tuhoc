@@ -214,6 +214,54 @@ Ghi chú:
 3: Xóa Phiếu thu, khi thực hiện thiện việc xóa Phiếu thu thì trạng thái của Phiếu thu sẽ chuyển về: Cancel
 {% endhint %}
 
+## Xuất hóa đơn điện tử E-invoice
+
+> Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thực hiện việc xuất hóa đơn điện tử E-invoice.
+
+![](../.gitbook/assets/image%20%2825%29.png)
+
+> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Sau đó, Click Pay để thanh toán toàn bộ số tiền của Payment đó.
+
+![](../.gitbook/assets/image%20%2832%29.png)
+
+{% hint style="info" %}
+**Ghi chú**: có thể **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử\(như hình dưới\) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2846%29.png)
+
+> Bước 3: Click chuột vào ô Get E-invoice, để xuất hóa đơn điện tử cho Payment đó.
+
+![](../.gitbook/assets/image%20%2848%29.png)
+
+> Bước 4: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click OK
+
+![](../.gitbook/assets/image%20%2842%29.png)
+
+{% hint style="info" %}
+**Ghi chú**:
+
+1:  Họ tên người mua hàng: Họ tên người mua hàng được hiển thị trên hóa đơn điện tử có thể là tên học viên hoặc tên phụ huynh học viên\(nếu có\). Ngoài ra, nếu muốn chỉnh sửa các thông tin này có thể click vào Edit.
+
+2: Tên đơn vị: Tên công ty hoặc Add company\(Nếu học viên muốn xuất hóa đơn doanh nghiệp\)
+{% endhint %}
+
+{% hint style="success" %}
+Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2839%29.png)
+
+{% hint style="info" %}
+**Ghi chú**:
+
+1: Export PDF E-invoice: Xuất E-invoice thành file PDF, tự động lưu về máy.
+
+2: Void E-invoice hoặc Void Receipt: Khi Payment chưa được dùng để Enroll học viên vào lớp và thời hạn Void E-invoice trong tháng đó.
+
+3: E-VAT No: Sẽ tự động cập nhật tất cả các Recepit trong 1 Payment.
+{% endhint %}
+
 ## Thay đổi được nội dung thu tiền và số tiền cho học viên tháng tiếp theo khi chưa thanh toán
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán và xuất phiếu thu.
