@@ -234,7 +234,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/image%20%2848%29.png)
 
-> Bước 4: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click OK
+> Bước 4: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click OK.
 
 ![](../.gitbook/assets/image%20%2842%29.png)
 
@@ -243,11 +243,11 @@ Ghi chú:
 
 1:  Họ tên người mua hàng: Họ tên người mua hàng được hiển thị trên hóa đơn điện tử có thể là tên học viên hoặc tên phụ huynh học viên\(nếu có\). Ngoài ra, nếu muốn chỉnh sửa các thông tin này có thể click vào Edit.
 
-2: Tên đơn vị: Tên công ty hoặc Add company\(Nếu học viên muốn xuất hóa đơn doanh nghiệp\)
+2: Tên đơn vị: Tên công ty hoặc Add company\(Nếu học viên muốn xuất hóa đơn doanh nghiệp\).
 {% endhint %}
 
 {% hint style="success" %}
-Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau
+Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2839%29.png)
