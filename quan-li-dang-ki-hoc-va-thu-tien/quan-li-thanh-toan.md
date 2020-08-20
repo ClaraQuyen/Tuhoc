@@ -266,6 +266,24 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 3: E-VAT No: Sẽ tự động cập nhật tất cả các Receipt trong 1 Payment.
 {% endhint %}
 
+### Void E-invoice
+
+> Bước 1: Click **Void E-invoice**.
+
+![](../.gitbook/assets/image%20%2865%29.png)
+
+> Bước 2: Nhập nội dung lý do Void E-invoice. Click Submit.
+
+![](../.gitbook/assets/image%20%2867%29.png)
+
+> Bước 3: Void thành công.
+
+{% hint style="info" %}
+**Ghi chú**:
+
+1: Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
+{% endhint %}
+
 ## Thay đổi được nội dung thu tiền và số tiền cho học viên tháng tiếp theo khi chưa thanh toán
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán và xuất phiếu thu.
