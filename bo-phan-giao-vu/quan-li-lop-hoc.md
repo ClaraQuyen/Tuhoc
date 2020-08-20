@@ -192,7 +192,7 @@ Với Studens :
 
 > Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
 
-![](../.gitbook/assets/hocdemo3.png)
+![](../.gitbook/assets/2.jpg)
 
 > Bước 3: Sau đó click chọn Add Students.
 
