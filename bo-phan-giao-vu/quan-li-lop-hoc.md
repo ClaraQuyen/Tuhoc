@@ -251,7 +251,7 @@ Với Studens :
 
 1: Lựa chọn tất cả học viên trong danh sách có khả năng Enroll OutStanding.
 
-2:  **Join with type:** Thông tin trạng thái của học viên khi tiến hành Enroll OutStanding
+2: **Join with type:** Thông tin trạng thái của học viên khi tiến hành Enroll OutStanding
 
 👉 **Enrolled**: Học viên còn khoảng học phí có thể Enroll vào lớp
 
