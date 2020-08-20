@@ -261,7 +261,7 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 
 1: Export PDF E-invoice: Xuất E-invoice thành file PDF, tự động lưu về máy.
 
-2: Void E-invoice hoặc Void Receipt: Khi Payment chưa được dùng để Enroll học viên vào lớp và thời hạn Void E-invoice trong tháng đó.
+2: Void E-invoice: Thời hạn Void E-invoice trong tháng.
 
 3: E-VAT No: Sẽ tự động cập nhật tất cả các Receipt trong 1 Payment.
 {% endhint %}

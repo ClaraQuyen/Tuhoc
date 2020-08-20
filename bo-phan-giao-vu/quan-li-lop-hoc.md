@@ -232,6 +232,10 @@ Với Studens :
 
 ![](../.gitbook/assets/hocno.png)
 
+### Enroll OutStanding
+
+
+
 ## Quản lí bảng điểm và xuất kết quả ra Excel
 
 > Bước 1: Đưa chuột vào Menu Class chọn View Class,sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.

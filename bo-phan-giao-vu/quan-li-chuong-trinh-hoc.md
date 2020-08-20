@@ -20,7 +20,7 @@
 
 ## Giáo án theo từng buổi học
 
-> Bước 1: Đưa chuột vào module Class chọn Create .
+> Bước 1: Đưa chuột vào module **Kind of courses** chọn **Create** .
 
 ![](../.gitbook/assets/giaoan1.png)
 
@@ -136,11 +136,11 @@ Visible: Tick cho phép hiển thị cột hoặc không
 
 ![](../.gitbook/assets/upgrade5.png)
 
-> Bước 5: Khi upgarde lớp mới xong, ngay supanel click vào tab students situation,sau đó click vào button "**Add Student**".
+> Bước 5: Khi upgarde lớp mới xong, ngay supanel click vào tab **Students Situation** ,sau đó click vào button "**Add Student**".
 
 ![](../.gitbook/assets/upgrade2.jpg)
 
-> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp \(3\) là được hoặc nếu muốn thêm nhiều học viên mới khác vào thì bạn click chọn số \(4\) : Select Students.
+> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp \(**3**\) là được hoặc nếu muốn thêm nhiều học viên mới khác vào thì bạn click chọn số \(4**\)** : **Select Students**.
 
 ![](../.gitbook/assets/upgrade_new.png)
 
