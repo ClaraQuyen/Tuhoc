@@ -268,6 +268,8 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 
 
 
+
+
 ### Void E-invoice
 
 > Bước 1: Click **Void E-invoice**.
