@@ -268,10 +268,6 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 
 
 
-
-
-
-
 ### Void E-invoice
 
 > Bước 1: Click **Void E-invoice**.
@@ -289,6 +285,10 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 
 1: Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
 {% endhint %}
+
+
+
+
 
 ## Thay đổi được nội dung thu tiền và số tiền cho học viên tháng tiếp theo khi chưa thanh toán
 
