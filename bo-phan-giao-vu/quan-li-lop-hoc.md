@@ -198,7 +198,7 @@ Với Studens :
 
 ![](../.gitbook/assets/upgrade2.jpg)
 
-> Bước 4: chọn Slect Student để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
+> Bước 4: chọn Slect Student \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
 
 ![](../.gitbook/assets/upgrade_new.png)
 
@@ -209,7 +209,7 @@ Với Studens :
 
 2:  Lựa chọn khoảng thời gian move học viên qua lớp mới.
 
-3: Chọn lớp học mà bạn muốn đưa danh sách học viên vào lớp Upgrade.
+3: Chọn lớp học mà bạn muốn đưa danh sách học viên vào lớp.
 
 4: Add thêm học viên hàng loạt, bạn có thể chọn 1 hay nhiều học viên cùng 1 lúc.
 
