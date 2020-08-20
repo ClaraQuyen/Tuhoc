@@ -266,6 +266,12 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 3: E-VAT No: Sẽ tự động cập nhật tất cả các Receipt trong 1 Payment.
 {% endhint %}
 
+
+
+
+
+
+
 ### Void E-invoice
 
 > Bước 1: Click **Void E-invoice**.
