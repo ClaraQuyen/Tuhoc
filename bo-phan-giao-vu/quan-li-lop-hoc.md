@@ -198,7 +198,7 @@ Với Studens :
 
 ![](../.gitbook/assets/upgrade2.jpg)
 
-> Bước 4: chọn Slect Student \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
+> Bước 4: chọn Select Student \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
 
 ![](../.gitbook/assets/upgrade_new.png)
 
@@ -233,6 +233,36 @@ Với Studens :
 ![](../.gitbook/assets/hocno.png)
 
 ### Enroll OutStanding
+
+> Bước 1: Đưa chuột vào Menu Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
+
+![](../.gitbook/assets/image%20%2870%29.png)
+
+> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”. Sau đó, click Enroll OutStanding.
+
+![](../.gitbook/assets/image%20%2871%29.png)
+
+> Bước 3: Lựa chọn học viên cần Enroll OutStanding và nhấn Enroll.
+
+![](../.gitbook/assets/image%20%2872%29.png)
+
+{% hint style="info" %}
+**Ghi chú:**
+
+1: Lựa chọn tất cả học viên trong danh sách có khả năng Enroll OutStanding.
+
+2:  **Join with type:** Thông tin trạng thái của học viên khi tiến hành Enroll OutStanding
+
+👉 **Enrolled**: Học viên còn khoảng học phí có thể Enroll vào lớp
+
+👉 **Outstanding** : Học viên không đủ phí để Enroll vào lớp, vẫn tiếp tục học OutStanding
+
+3: **Addmission Status :** 
+
+ ✖ : Học viên chưa đóng đủ số giờ để vào lớp, không thể Enroll.
+
+✔ : Học viên đã đóng đủ số giờ để vào lớp, có thể Enroll.
+{% endhint %}
 
 
 
