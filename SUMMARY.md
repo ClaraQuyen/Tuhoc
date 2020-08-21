@@ -45,7 +45,12 @@
   * [Quản Lí Delay](bo-phan-giao-vu/quan-li-su-vu/quan-li-delay.md)
   * [Quản lí Chuyển trung tâm, học phí, hoàn tiền](bo-phan-giao-vu/quan-li-su-vu/quan-li-chuyen-trung-tam-hoc-phi-hoan-tien.md)
 * [Quản lí chương trình học](bo-phan-giao-vu/quan-li-chuong-trinh-hoc.md)
-* [Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc.md)
+* [Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc/README.md)
+  * [Tạo lớp học, lớp chờ](bo-phan-giao-vu/to-chuc-lop-hoc/tao-lop-hoc-lop-cho.md)
+  * [Hủy buổi học/chọn ngày học bù](bo-phan-giao-vu/to-chuc-lop-hoc/huy-buoi-hoc-chon-ngay-hoc-bu.md)
+  * [Đổi ngày khai giảng](bo-phan-giao-vu/to-chuc-lop-hoc/doi-ngay-khai-giang.md)
+  * [Đổi lịch học trong khoảng thời gian bất kì](bo-phan-giao-vu/to-chuc-lop-hoc/doi-lich-hoc-trong-khoang-thoi-gian-bat-ki.md)
+  * [Quản lí lịch nghỉ lễ trong năm](bo-phan-giao-vu/to-chuc-lop-hoc/quan-li-lich-nghi-le-trong-nam.md)
 * [Quản lí giáo viên và TA](bo-phan-giao-vu/quan-li-giao-vien-va-ta.md)
 * [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc.md)
 
