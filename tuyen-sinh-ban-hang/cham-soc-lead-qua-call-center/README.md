@@ -1,6 +1,6 @@
 # Chăm sóc Lead qua Call Center
 
-![](../.gitbook/assets/status_leads.png)
+![](../../.gitbook/assets/status_leads.png)
 
 > **Ghi chú :**
 >
