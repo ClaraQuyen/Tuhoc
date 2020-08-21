@@ -1,4 +1,4 @@
-# Click to call
+# Click to Call
 
 > Bước 1: Vào module Leads/Students chọn học viên muốn thực hiện cuộc gọi tư vấn, sau đó click vào 📞 .
 
