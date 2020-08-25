@@ -7,15 +7,11 @@
   * [Thông tin bài giảng và bài tập về nhà](mobile/lich-su-khoa-hoc.md)
   * [Tài liệu học tập](mobile/tai-lieu-hoc-tap.md)
   * [Lịch sử khoản thu](mobile/lich-su-khoan-thu.md)
-  * [Lịch sử khóa học](mobile/thong-tin-bai-giang-va-bai-tap-ve-nha.md)
   * [Ghi nhận phản hồi](mobile/ghi-nhan-phan-hoi.md)
   * [Xem kết quả học tập](mobile/theo-doi-ket-qua-hoc-tap.md)
   * [Xem thư viện ảnh của học viên](mobile/xem-thu-vien-anh-cua-hoc-vien.md)
   * [Quản lí tài khoản](mobile/quan-li-tai-khoan.md)
-
-## Tính Năng Update mới trên CRM
-
-* [Tính năng Update mới trên CRM](tinh-nang-update-moi-tren-crm/tinh-nang-update-moi-tren-crm.md)
+  * [Quên mật khẩu](mobile/quen-mat-khau.md)
 
 ## Nhóm tính năng tiếp thị
 

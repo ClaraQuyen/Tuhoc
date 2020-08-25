@@ -1,18 +1,18 @@
 # Xem thư viện ảnh của học viên
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Kết quả học tập để theo dõi kế quả học tập của học viên.
+> Bước 1: Tại màn hình Trang chủ, click vào **Thư Viện Ảnh** để xem hoạt động của học viên trong lớp.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/hinhanh1.jpg)
 
-> Bước 2: Click vào biểu tượng hình ảnh trên màn hình để theo dõi thư viện ảnh của học viên.
+> Bước 2: Click vào chọn lớp mà phụ huynh muốn xem hoạt động của bé.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/hianh2.jpg)
 
-> Bước 3: Chọn vào thư viện ảnh của lớp cần xem.
+> Bước 3: Chọn vào lớp cần xem ảnh.
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/hinhanh3.jpg)
 
 > Bước 4: Hệ thống hiển thị thư viện ảnh của học viên.
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/hinhanh4.jpg)
 

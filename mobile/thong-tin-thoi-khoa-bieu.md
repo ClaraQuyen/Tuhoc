@@ -6,18 +6,19 @@
 
 > Bước 2: Click vào để lựa chọn buổi học tương ứng cần xem chi tiết.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/1_lh.jpg)
 
 {% hint style="info" %}
-Ghi chú:
+**Ghi chú**:
 
 * Màu xám: Buổi học đã hết thúc.
 * Màu xanh: Buổi học chưa kết thúc.
+* Click vào ô hình chữ nhật màu xanh/màu xanh thông tin lịch học hệ thống sẽ show ra chi tiết lịch học.
 {% endhint %}
 
 > Bước 3: Ứng dụng hiển thị thông tin chi tiết của buổi học đó.
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/2_lh.jpg)
 
 
 

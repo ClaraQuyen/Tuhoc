@@ -6,13 +6,13 @@
 
 > Bước 2: Click vào Danh sách để xem danh sách liệt kê các buổi học, thông tin bài giảng và bài tập về nhà.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/3_lh%20%281%29.jpg)
 
 > Bước 3: Xem chi tiết khi click xem thêm vào từng buổi học trong danh sách.
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/3_lh.jpg)
 
 > Bước 4: Ứng dụng hiển thị thông tin chi tiết bài giảng và bài tập về nhà của buổi học đó.
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/2_lh.jpg)
 
