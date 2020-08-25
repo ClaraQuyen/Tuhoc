@@ -1,7 +1,7 @@
 ---
 description: >-
   Chăm sóc học viên tiềm năng : Như tạo cuộc gọi (Log Call) , Add học viên tham
-  gia học thử, thi thử vào các buổi PT/demo .
+  gia học thử, thi thử vào các buổi PT/Demo .
 ---
 
 # Leads
@@ -10,21 +10,21 @@ description: >-
 
 ## Tạo Lead
 
-> Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để Create Lead.
+> Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để **Create Lead**.
 
 ![](../.gitbook/assets/taolead1.png)
 
-> Bước 2: Tại màn hình tạo mới Lead, nhập đầy đủ các thông tin cần thiết, Sau đó Click Save để Hoàn tất việc tạo ra 1 Lead mới.
+> Bước 2: Tại màn hình tạo mới Lead, nhập đầy đủ các thông tin cần thiết, sau đó click Save để hoàn tất việc tạo ra 1 Lead mới.
 
 ![](../.gitbook/assets/taolead2.png)
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tường tác.
 
 ![](../.gitbook/assets/image%20%281%29%20%282%29.png)
 
 ## Import Leads
 
-> Bước 1: Đưa chuột vào Module Leads chọn Import Leads hoặc click vào module Leads để Imports Lead.
+> Bước 1: Đưa chuột vào Module Leads chọn **Import Leads**.
 
 ![](../.gitbook/assets/importlead.png)
 
@@ -63,7 +63,7 @@ Lưu ý :
 
 ![](../.gitbook/assets/5%20%281%29.png)
 
-> Bước 6: Xác nhận việc kiểm tra trùng. Sau đó Click Tiến hành nhập dữ liệu để bắt đầu Import dữ liệu vào hệ thống.
+> Bước 6: Xác nhận việc kiểm tra trùng, và việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "Filed to check" . Sau đó click "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 
 ![](../.gitbook/assets/6%20%281%29.png)
 
@@ -72,13 +72,13 @@ Lưu ý :
 ![](../.gitbook/assets/7%20%281%29.png)
 
 {% hint style="info" %}
-**Ghi chú:** 
+**Ghi chú**:
 
-1 : Click vào để quay lại bước nhập trước đó.
+1: Import Again: Import lại danh sách khách hàng \(Nếu muốn\)
 
-2 : Click vào để tiến hành Import thêm dữ liệu .
+2:Exit : Thoát ra màn hình Overview của module Targets
 
-3 : Click vào để hoàn tất việc Import hệ thống sẽ tự động chuyển về màn hình danh sách HVTN
+3: Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Tareget List để chạy Campains hoặc gửi email,..
 {% endhint %}
 
 ## Chỉnh sửa Lead
@@ -87,7 +87,7 @@ Lưu ý :
 
 ![](../.gitbook/assets/chinhsualeada.png)
 
-> Bước 2: Tại màn hình View Lead,click Edit và nhập thông tin cần sửa, click Save để hoàn tất việc sửa 1 Leads.
+> Bước 2: Tại màn hình View Lead, click Edit và nhập thông tin cần sửa, click **Save** để hoàn tất việc Edit 1 Lead.
 
 ![](../.gitbook/assets/chihsualead2.png)
 
@@ -97,13 +97,13 @@ Lưu ý :
 
 ## Cảnh báo trùng dữ liệu
 
-> Khi nhập dữ liệu vào bị trùng thông tin như số điện thoại hoặc Email ,hệ thống sẽ cảnh báo người dùng bị trùng dữ liệu,bạn có thể bỏ qua click cancel hoặc nhập lại thông tin click Go Back.
+> Khi nhập dữ liệu vào bị trùng thông tin về số điện thoại và họ tên ,hệ thống sẽ cảnh báo người dùng bị trùng dữ liệu,bạn có thể bỏ qua click cancel hoặc nhập lại thông tin click **Go Back**.
 
 ![](../.gitbook/assets/canhbao.png)
 
 ## Chăm sóc Lead \(Tạo Log Call\)
 
-### Cách 1
+### Cách 1: Tạo Loag call từ module Calls
 
 > Bước 1 : Đưa chuột vào module **Calls**, sau đó click chọn **Create Call**.
 
@@ -114,38 +114,42 @@ Lưu ý :
 ![](../.gitbook/assets/taocall2.png)
 
 {% hint style="info" %}
-Ghi chú:
+**Ghi chú**:
 
-1: Nội dung cuộc gọi
+1: Nội dung cuộc gọi \(Subject\)
 
-2: Đối tượng thực hiện cuộc gọi
+2: Đối tượng thực hiện cuộc gọi có thể là **Targets/Leads/Students**.
 
-3: Đặt lịch nhắc nhở gọi lại \(qua email hoặc Pop-up\).
+3: Đặt lịch nhắc nhở gọi \(**Request Callback\)** va người dùng có thể đặt lịch cho hệ thống thông báo qua Email hoặc **Popup reminder** trước 5 hoặc 10 phút.
 
 4: Trạng thái của cuộc gọi 
 
-+ Scheduled : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up \(gọi lai hoặc nhắc gọi vào ngày set up\) \(3\)
++ **Scheduled** : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up \(gọi lai hoặc nhắc gọi vào ngày set up\) \(3\)
 
-+Completed : Cuộc gọi đã được thực hiện , record lại nội dung cuộc gọi
++**Completed** : Cuộc gọi đã được thực hiện \(Người dùng đã gọi xong và ghi chú lại nội dung cuộc gọi\)
 
-+Cancel : Hủy bỏ cuộc gọi
++**Cancel** : Hủy bỏ cuộc gọi đa được set up remind.
 
 5: Trạng thái, kết quả của cuộc gọi.
 
 6: Description của cuộc gọi \(Users có thể note chi tiết vào phần này\).
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo, đồng thời trạng thái của Leads củng được thay đổi, tuy nhiên kết quả cuộc gọi nằm trong các lựa chọn bên dưới thì trạng thái của Lead sẽ **không chuyển thành In Process**
+>
+> > * **Deny** \(máy bận, khóa máy\)
+> > * **Call Back Later** \(không nhấc máy\)
+> > * **Invalid Number**\(sai số\).
 
 ![](../.gitbook/assets/image%20%285%29%20%282%29.png)
 
-### Cách 2
+### Cách 2 : Tạo Log Call từ Profile của học viên
 
 > Bước 1: Đưa chuột vào module **Students/Leads**, chọn học viên thực hiện cuộc gọi.
 
 ![](../.gitbook/assets/taocall1_1.png)
 
-> Bước 2: Tại màn hình hồ sơ học viên, dưới subpanel click vào **Calls** , sau đó click vào dấu \(**+**\).
+> Bước 2: Tại màn hình hồ sơ học viên, dưới subpanel click vào **Calls** , sau đó click vào dấu \(+\).
 
 ![](../.gitbook/assets/taocall1_2.png)
 
@@ -156,26 +160,32 @@ Ghi chú:
 {% hint style="info" %}
 **Ghi chú**:
 
-1: Nội dung cuộc gọi
+1: Nội dung cuộc gọi \(Subject\)
 
-2: Đối tượng thực hiện cuộc gọi
+2: Đối tượng thực hiện cuộc gọi có thể là **Targets/Leads/Students**.
 
-3: Đặt lịch nhắc nhở gọi lại \(qua email hoặc Pop-up\).
+3: Đặt lịch nhắc nhở gọi \(**Request Callback\)** va người dùng có thể đặt lịch cho hệ thống thông báo qua Email hoặc **Popup reminder** trước 5 hoặc 10 phút.
 
-4: Trạng thái của cuộc gọi.
+4: Trạng thái của cuộc gọi 
 
-+ Scheduled : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up \(gọi lai hoặc nhắc gọi vào ngày set up\) \(3\)
++ **Scheduled** : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up \(gọi lai hoặc nhắc gọi vào ngày set up\) \(3\)
 
-+Completed : Cuộc gọi đã được thực hiện , record lại nội dung cuộc gọi
++**Completed** : Cuộc gọi đã được thực hiện \(Người dùng đã gọi xong và ghi chú lại nội dung cuộc gọi\)
 
-+Cancel : Hủy bỏ cuộc gọi
++**Cancel** : Hủy bỏ cuộc gọi đa được set up remind.
 
 5: Trạng thái, kết quả của cuộc gọi.
 
 6: Description của cuộc gọi \(Users có thể note chi tiết vào phần này\).
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Log call vừa được tạo, đồng thời cũng thể hiện trạng thái của Lead lúc này là In Process.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của log call vừa được tạo, đồng thời trạng thái của Leads củng được thay đổi, tuy nhiên kết quả cuộc gọi nằm trong các lựa chọn bên dưới thì trạng thái của Lead sẽ **không chuyển thành In Process**
+>
+> > **Deny** \(máy bận, khóa máy\)
+> >
+> > **Call Back Later** \(không nhấc máy\)
+> >
+> > **Invalid Number**\(sai số\).
 
 ![](../.gitbook/assets/image%20%283%29%20%283%29.png)
 
