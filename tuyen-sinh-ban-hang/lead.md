@@ -1,4 +1,10 @@
-# Lead
+---
+description: >-
+  Chăm sóc học viên tiềm năng : Như tạo cuộc gọi (Log Call) , Add học viên tham
+  gia học thử, thi thử vào các buổi PT/demo .
+---
+
+# Leads
 
 ![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n ti&#x1EC1;m n&#x103;ng tr&#xEA;n EMS](../.gitbook/assets/leads_process.png)
 

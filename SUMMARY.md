@@ -21,8 +21,8 @@
 
 ## Tuyển Sinh - Bán Hàng
 
-* [Target](tuyen-sinh-ban-hang/target.md)
-* [Lead](tuyen-sinh-ban-hang/lead.md)
+* [Targets](tuyen-sinh-ban-hang/target.md)
+* [Leads](tuyen-sinh-ban-hang/lead.md)
 * [Chăm sóc Lead qua Call Center](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center/README.md)
   * [Click to Call](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center/click-to-call.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
