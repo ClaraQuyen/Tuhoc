@@ -14,8 +14,6 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > ![](../.gitbook/assets/payment_1.png) **Lịch sử khoản thu**
 
-> ****![](../.gitbook/assets/ic_kqht.png) **Lịch sử khóa học**
-
 > ****![](../.gitbook/assets/feedback.PNG) **Ghi nhận phản hồi**
 
 > ****![](../.gitbook/assets/ic_kqht.png) **Xem kết quả học tập**
