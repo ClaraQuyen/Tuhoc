@@ -10,10 +10,10 @@ description: >-
 
 ```text
 New : Leads mới được assign chưa được chưa chăm sóc
-In Process : Đã có tương tác, gọi điện
-Ready to PT : Hẹn lịch tham gia thi thử, xếp lớp
-Ready to Demo : Hẹn học thử, tham quan trung tâm
-PT/Demo : Có tham gia buổi thi thử, học thử
+In Process : Đã có tương tác, gọi điện, tư vấn
+Ready to PT :Lead đồng ý tham gia lịch thi thử, thi đầu vào.
+Ready to Demo :Lead đồng ý tham gia học thử, tham quan trung tâm
+PT/Demo :Lead có tham gia buổi thi thử, học thử
 Completed : Đã chuyển Lead lên thành Student
 Dead : Không có tiềm năng
 ```
