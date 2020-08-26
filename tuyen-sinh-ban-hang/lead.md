@@ -6,7 +6,7 @@ description: >-
 
 # Leads
 
-![](../.gitbook/assets/chamsocleadspng.png)
+![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n ti&#x1EC1;m n&#x103;ng \(Leads\)](../.gitbook/assets/chamsocleadspng.png)
 
 ```text
 New : Leads mới được assign chưa được chưa chăm sóc
