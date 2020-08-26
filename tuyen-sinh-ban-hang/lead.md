@@ -6,7 +6,17 @@ description: >-
 
 # Leads
 
-![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n ti&#x1EC1;m n&#x103;ng tr&#xEA;n EMS](../.gitbook/assets/leads_process.png)
+![](../.gitbook/assets/chamsocleadspng.png)
+
+```text
+New : Leads mới được assign chưa được chưa chăm sóc
+In Process : Đã có tương tác, gọi điện
+Ready to PT : Hẹn lịch tham gia thi thử, xếp lớp
+Ready to Demo : Hẹn học thử, tham quan trung tâm
+PT/Demo : Có tham gia buổi thi thử, học thử
+Completed : Đã chuyển Lead lên thành Student
+Dead : Không có tiềm năng
+```
 
 ## Tạo Lead
 
