@@ -59,7 +59,7 @@ Dead : Không có tiềm năng
 
 5 : Chọn template import dữ liệu vào hệ thống \(bắt buộc chọn theo template đã cho\)
 
-Lưu ý : 
+**Lưu ý** : 
 
 * File Template dùng để Import dữ liệu Leads vào hệ thống.
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\)
@@ -217,9 +217,9 @@ Bước 4: Click Mass Updated để phân bổ cho người phụ trách.
 
 ![](../.gitbook/assets/image%20%2814%29%20%281%29.png)
 
-Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ và nhấn Update.
+Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record \(hơn 20 record\) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng click **Update**.
 
-![](../.gitbook/assets/image%20%288%29%20%281%29.png)
+![](../.gitbook/assets/lead_mass.jpg)
 
 
 

@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/sms_lop1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button Attendance & Homework
+> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework**
 
 ![](../.gitbook/assets/sms_lop2.png)
 

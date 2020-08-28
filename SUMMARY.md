@@ -23,11 +23,10 @@
 
 * [Targets](tuyen-sinh-ban-hang/target.md)
 * [Leads](tuyen-sinh-ban-hang/lead.md)
-* [Chăm sóc Lead qua Call Center](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center/README.md)
-  * [Click to Call](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center/click-to-call.md)
+* [Chăm sóc Lead qua Call Center \(Click to Call\)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
 * [Quản lí thi đầu vào, học thử \(PT/Demo\)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
-* [Chuyển đổi học viên chính thức\(Convert Student\)](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
+* [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 

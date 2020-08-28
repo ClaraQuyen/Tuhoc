@@ -6,11 +6,11 @@
 
 > Bước 1: Click vào module Schedules, sau đó click Create PT.
 
-![](../.gitbook/assets/taopt1.png)
+![](../.gitbook/assets/schedule.jpg)
 
-> Bước 2: Tại màn hình tạo mới buổi PT, nhập đầy đủ các thông tin cần thiết, Click Save để hoàn tất.
+> Bước 2: Tại màn hình tạo mới buổi PT, nhập đầy đủ các thông tin cần thiết, click **Save** để hoàn tất.
 
-![](../.gitbook/assets/taopt3.png)
+![](../.gitbook/assets/schedule1.jpg)
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết buổi PT được tạo.
 

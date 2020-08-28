@@ -1,6 +1,12 @@
-# Chuyển đổi học viên chính thức\(Convert Student\)
+---
+description: >-
+  Convert Leads thành học viên chính thức khi Leads depost hoặc đăng kí gói học
+  ở trung tâm.
+---
 
-![](../.gitbook/assets/dotb_edu%20%281%29.jpg)
+# Students
+
+![](../.gitbook/assets/chamsocstudents.png)
 
 > **-Chi tiết  các trạng thái học viên :**
 >
@@ -15,6 +21,8 @@
 > **+ Outstanding :** Add học nợ, nếu đóng hoàn thành trong thời gian đag học sẽ chuyển thành In Progress, nếu sau khi kết thúc vẫn chưa hoàn thành học phí sẽ là Outstanding Và nếu hoàn tất học phí khi lớp học kết thúc sẽ là Finished.
 >
 > **+ Finished :** Hoàn tất việc học và học phí.
+
+## Convert to Student
 
 > Bước 1: Click chuột vào module Leads , chọn Lead muốn chuyển đổi thành HV chính thức.
 
