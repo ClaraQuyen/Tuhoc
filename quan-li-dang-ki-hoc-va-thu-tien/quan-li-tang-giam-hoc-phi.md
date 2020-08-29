@@ -1,6 +1,6 @@
 # Quản lí tăng giảm học phí
 
-> Bước 1: Đưa chuột vào module Receipt click vào Filter sau đó click chọn “Create”.
+> Bước 1: Đưa chuột vào module Receipt click vào filter sau đó click chọn “Create”.
 
 ![](../.gitbook/assets/tanggiam1.png)
 
