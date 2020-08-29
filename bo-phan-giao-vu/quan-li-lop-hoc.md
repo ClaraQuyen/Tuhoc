@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/dshv2.png)
 
-## Điểm danh/ SMS bài học sau mỗi buổi học
+## Điểm danh/ Send App Message sau mỗi buổi học
 
 ### Điểm Danh
 
@@ -54,7 +54,7 @@
 **Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
 {% endhint %}
 
-### SMS
+### Send App Message
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi SMS,nội dung bài học, điểm danh đến cho học viên.
 
@@ -64,7 +64,7 @@
 
 ![](../.gitbook/assets/guisms2.png)
 
-> Bước 3: Tại màn hình Send SMS lựa chọn các tiêu chí sau đó nhấn Send.
+> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage** nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
 
 ![](../.gitbook/assets/guisms3.png)
 
@@ -85,7 +85,7 @@
 
 7: **Send Attendance Report**: gửi thông báo về việc đi học,trể,làm bài tập về nhà,comment, điểm daily score của học viên đến app.
 
-**Send App Messages** : Gửi tin nhắn đến App như lịch khai giảng, học bù,…
+**Send App Messages** : Gửi tin nhắn đến App như lịch khai giảng, học bù, đăng kí học lớp mới.
 
 **Send SMS** : Gửi tin nhắn SMS đến học viên.
 {% endhint %}
