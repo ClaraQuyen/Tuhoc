@@ -56,7 +56,7 @@
 
 ### Send App Message
 
-> Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi SMS,nội dung bài học, điểm danh đến cho học viên.
+> Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi thông báo đến App như lịch học bù lịch khai giảng,..đến cho học viên.
 
 ![](../.gitbook/assets/guisms1.png)
 
@@ -85,10 +85,14 @@
 
 7: **Send Attendance Report**: gửi thông báo về việc đi học,trể,làm bài tập về nhà,comment, điểm daily score của học viên đến app.
 
-**Send App Messages** : Gửi tin nhắn đến App như lịch khai giảng, học bù, đăng kí học lớp mới.
+**Send App Messages** : Gửi tin nhắn đến App như lịch khai giảng, học bù, đăng kí học lớp mới...
 
 **Send SMS** : Gửi tin nhắn SMS đến học viên.
 {% endhint %}
+
+> Sau khi gửi thành công , mobile app sẽ nhận được thông báo như hình mẫu bên dưới.
+
+![](../.gitbook/assets/z2050025829813_4b3abf07dc37c2731bb7b4325755af76.jpg)
 
 ## Ghi nhận hoc viên làm bài tập
 
