@@ -178,9 +178,9 @@ Ghi chú:
 
 ## Thanh toán trả góp
 
-> Bước 1: Đưa chuột vào module Payment click Create Enrollment .
+> Bước 1: Đưa chuột vào module Payment click Create Payment/Enrollment.
 
-![](../.gitbook/assets/enroll1.png)
+![](../.gitbook/assets/1.jpg)
 
 > Bước 2: Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click chọn option **Installment Plan.**
 
