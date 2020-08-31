@@ -176,6 +176,24 @@ Ghi chú:
 
 ![](../.gitbook/assets/bookgift1.png)
 
+## Thanh toán trả góp
+
+> Bước 1: Đưa chuột vào module Payment click Create Enrollment .
+
+![](../.gitbook/assets/enroll1.png)
+
+> Bước 2: Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click chọn option **Installment Plan.**
+
+![](../.gitbook/assets/1_tragop.jpg)
+
+> Bước 4: Sau đó hệ thống sẽ tự động generate số tiền thanh hình thức trả góp, EC chỉ cần chọn thời gian khách hàng muốn thanh toán, cuối cùng click Save.
+
+![](../.gitbook/assets/tragop2.jpg)
+
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment được tạo.
+
+![](../.gitbook/assets/tragop3.jpg)
+
 ## Thanh toán cho Payment
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán.

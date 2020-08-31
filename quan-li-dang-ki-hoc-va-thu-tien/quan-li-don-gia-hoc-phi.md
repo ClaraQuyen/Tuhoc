@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/dongia1.png)
 
-> Bước 2: Tại màn hình tạo đơn giá học phí, nhập đầy đủ các thông tin cần thiết, Click Save để hoàn tất
+> Bước 2: Tại màn hình tạo đơn giá học phí, nhập đầy đủ các thông tin cần thiết, click Save để hoàn tất.
 
 ![](../.gitbook/assets/taodongiahocphi2.png)
 
