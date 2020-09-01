@@ -1,3 +1,9 @@
+---
+description: >-
+  Quản lí các thông tin thanh toán, lịch sử các khóa học, điểm danh , các phản
+  hồi của học viên gửi về cho trung tâm....
+---
+
 # Quản lí hồ sơ học viên
 
 ## Quản lí hồ sơ học viên, lịch sử thanh toán
@@ -33,7 +39,9 @@
 
 +Is not any of:không bất kì
 
-+Is empty: Trống +Is not empty: Không trống
++Is empty: Trống 
+
++Is not empty: Không trống
 {% endhint %}
 
 > Bước 4: Hệ thống sẽ load trạng thái của học viên theo danh sách cho người dùng chọn, ví dụ chúng tôi chọn lọc học viên theo Status đang chờ lớp học “Ready to PT”. Hệ thống hiển thị danh sách học viên theo tiêu chí mà người dùng đã lọc.
@@ -41,8 +49,6 @@
 ![](../.gitbook/assets/trichloc4.png)
 
 ### Tìm kiếm học viên 
-
-> Bước 1:
 
 ![](../.gitbook/assets/timkiem1.png)
 
@@ -54,7 +60,7 @@
 2:Private search : tìm kiếm trong module
 {% endhint %}
 
-> Bước 2: Ví dụ chức năng tìm kiếm gobal search.
+> Ví dụ chức năng tìm kiếm gobal search.
 
 ![](../.gitbook/assets/timkiem2.png)
 
@@ -66,7 +72,7 @@
 .2 : Thông tin kết quả bạn đã tìm kiếm ở global search
 {% endhint %}
 
-> Bước 3: Ví dụ tìm kiếm học viên trong Private search.
+> Ví dụ tìm kiếm học viên trong Private search.
 
 ![](../.gitbook/assets/timkiem3.png)
 
