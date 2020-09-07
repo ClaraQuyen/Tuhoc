@@ -8,15 +8,21 @@ description: >-
 
 ![Qui tr&#xEC;nh ch&#x103;m s&#xF3;c h&#x1ECD;c vi&#xEA;n ti&#x1EC1;m n&#x103;ng \(Leads\)](../.gitbook/assets/chamsocleadspng.png)
 
-```text
-New : Leads mới được assign chưa được chưa chăm sóc
-In Process : Đã có tương tác, gọi điện, tư vấn
-Ready to PT :Lead đồng ý tham gia lịch thi thử, thi đầu vào.
-Ready to Demo :Lead đồng ý tham gia học thử, tham quan trung tâm
-PT/Demo :Lead có tham gia buổi thi thử, học thử
-Completed : Đã chuyển Lead lên thành Student
-Dead : Không có tiềm năng
-```
+> \*\*\*\*👉 **Chi tiết các trạng thái Học Viên Tiềm Năng**
+>
+> **+ New** : Leads mới được assign chưa được chưa chăm sóc 
+>
+> **+ In Process** : Đã có tương tác, gọi điện, tư vấn ****
+>
+> **+ Ready to PT** :Lead đồng ý tham gia lịch thi thử, thi đầu vào. 
+>
+> **+ Ready to Demo** :Lead đồng ý tham gia học thử, tham quan trung tâm 
+>
+> **+ PT/Demo** :Lead có tham gia buổi thi thử, học thử 
+>
+> **+ Completed** : Đã chuyển Lead lên thành Student 
+>
+> **+ Dead** : Không có tiềm năng
 
 ## Tạo Lead
 
