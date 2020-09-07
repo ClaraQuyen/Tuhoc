@@ -12,7 +12,7 @@
 
 > Bước 3: Kết quả sau khi thực hiện việc xuất phiếu thu cho học viên.
 
-![](../../.gitbook/assets/qlphieuthu2.png)
+![](../../.gitbook/assets/pt.png)
 
 ## Quản lí chiết khấu\(Discount\)
 
