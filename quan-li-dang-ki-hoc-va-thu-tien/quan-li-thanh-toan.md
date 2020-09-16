@@ -178,6 +178,8 @@ Ghi chú:
 
 ## Thanh toán trả góp
 
+#### Cách 1 : Sử dụng Installment Plan \(Thanh toán trả góp\)
+
 > Bước 1: Đưa chuột vào module Payment click Create Payment/Enrollment.
 
 ![](../.gitbook/assets/1.jpg)
@@ -193,6 +195,8 @@ Ghi chú:
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment được tạo.
 
 ![](../.gitbook/assets/tragop3.jpg)
+
+#### Cách 2: Thanh toán trả góp hàng tháng  \(sử dụng Split Payment\)
 
 ## Thanh toán cho Payment
 
