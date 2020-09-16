@@ -236,7 +236,11 @@ Với Studens :
 
 ![](../.gitbook/assets/hocno.png)
 
-### Enroll OutStanding
+### Enroll OutStanding 
+
+{% hint style="success" %}
+_**Tính** năng này được sử dụng khi  reamain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp \(Outstanding -&gt; Enrolled\) và remain hour của học viên._ 
+{% endhint %}
 
 > Bước 1: Đưa chuột vào Menu Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
 
