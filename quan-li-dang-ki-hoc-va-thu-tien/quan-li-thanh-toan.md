@@ -198,6 +198,18 @@ Ghi chú:
 
 #### Cách 2: Thanh toán trả góp hàng tháng  \(sử dụng Split Payment\)
 
+> Bước 1: Tạo payment và phần slit payment chọn option Month-Plan, khách hàng sẽ trả họ cphis hàng tháng
+
+![](../.gitbook/assets/pm1.jpg)
+
+> Bước 2: Sau đó nhập số tháng mà khách hàng muốn thanh toán hành tháng, ví dụ 3 tháng nhập 3, 6 tháng nhập 6,...
+
+![](../.gitbook/assets/pm2.jpg)
+
+> Bước 3: Hệ thống sẽ tự động Generate khoảng tiền sau mỗi tháng cần đóng cho khách hàng.
+
+![](../.gitbook/assets/pm3.jpg)
+
 ## Thanh toán cho Payment
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán.
