@@ -1,10 +1,14 @@
-# Quản Lí Delay
+---
+description: >-
+  Quản lí học viên bảo lưu trong lớp, action delay xảy ta khi học viên đã thanh
+  toán đầy đủ tiền học phí trong lớp mà học viên muốn delay.
+---
 
-## Quản lí phí Delay
+# Quản Lí Bảo Lưu \(Delay\)
 
 ### Xem danh sách học viên delay hoc phí
 
-> Bước 1: Click chuột vào module Payments, tại Menu Action Filter click chọn **Create**.
+> Bước 1: Click chuột vào module **Payments**, tại menu action filter click chọn **Create**.
 
 ![](../../.gitbook/assets/xemdelay1.png)
 
@@ -12,15 +16,15 @@
 
 ![](../../.gitbook/assets/xemde-ay2.png)
 
-> Bước 3: Chọn Type Payment là Delay Fee.
+> Bước 3: Chọn **Payment Type** là **Delay**.
 
-![](../../.gitbook/assets/xemdelay3.png)
+![](../../.gitbook/assets/delay3.jpg)
 
 > Bước 4: Hệ thống sẽ load danh sách những học viên nào đang Delay học phí.
 
-![](../../.gitbook/assets/xemdelay4.png)
+![](../../.gitbook/assets/delay4.jpg)
 
-### Tạo phí Delay
+### Tạo phí Delay \(Charge Delay Fee\)
 
 > Bước 1: Đưa chuột vào Menu Payment chọn Create Payment.
 
@@ -48,21 +52,17 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 4: Ngày thanh toán, Số lần thanh toán và Thông tin thanh toán
 {% endhint %}
 
-### Học viên Delay khỏi lớp
+### Học viên Delay \(Bảo lưu\)
 
 > Bước 1: Đưa chuột vào module Classes , click chọn lớp mà học viên muốn delay.
 
 ![](../../.gitbook/assets/hvdelay1.png)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
+> Bước 2: Tại màn hình chi tiết Classes, Click vào subpanel chọn tab “Student Situations” sau đó click button Delay.
 
-![](../../.gitbook/assets/hvdelay2.png)
+![](../../.gitbook/assets/delay.jpg)
 
-> Bước 3: Click Delay.
-
-![](../../.gitbook/assets/hvdelay3.png)
-
-> Bước 4: Tại màn hình Delay fee, nhập đầy đủ thông tin. Sau đó click Save để hoàn tất.
+> Bước 3: Tại màn hình Delay , nhập đầy đủ thông tin. Sau đó click Save để hoàn tất.
 
 ![](../../.gitbook/assets/5%20%282%29.png)
 
@@ -73,54 +73,12 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
 2: Khoảng thời gian delay
 
-3: Số dư của học viên.
+3: Số dư của học viên trong khoảng thời gian Delay.
 
 4: Lý do delay.
 {% endhint %}
 
-> Bước 5: Kết quả.
-
-![](../../.gitbook/assets/hvdelay5.png)
-
-### Re-enroll học viên vào lớp mới dùng tiền Delay
-
-> Bước 1: Tại màn hình chi tiết Classes, tại tab Subpanel “Student Situations”,học viên đang có type là “Delayed” click enroll để Re-enroll học viên vào lớp.
-
-![](../../.gitbook/assets/reenroll1.png)
-
-> Bước 2: Tại màn hình tạo mới, chọn Payment đã có trước đó.
-
-![](../../.gitbook/assets/reenroll2.png)
-
-> Bước 3: Tại màn hình chi tiết Payment, nhập đầy đủ các thông tin cần thiết. Click Save để hoàn tất.
-
-![](../../.gitbook/assets/reenroll3.png)
-
-{% hint style="info" %}
-**Ghi chú:**
-
-**1**: Lựa chọn Student. Các phương pháp lựa chọn Student:
-
-Cách 1: Nhập tên vào ô Textbox sau đó Enter
-
-![](../../.gitbook/assets/enroll3%20%281%29.png) 
-
-Cách 2: Click vào biểu tượng ![](../../.gitbook/assets/enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
-
-**2**: Lựa chọn Classes. Có thể nhập tên Class hoặc lựa chọn Class trong danh sách và thời gian bắt đầu và kết thúc của Lớp học.
-
-![](../../.gitbook/assets/enroll5.png) 
-
-3: Học phí cho khóa học trước khi chưa có Discount hoặc tiền đặt cọc/Delay fee trước đó.
-
-4: Học phí cho khóa học sau khi chưa có Discount hoặc tiền đặt cọc/Delay fee trước đó.
-
-5: Thông tin về số lần thanh toán: Ngày thanh toán, tổng số tiền cần thanh toán cho lần enrollment này.
-{% endhint %}
-
 > Bước 4: Kết quả.
 
-![](../../.gitbook/assets/reenroll4.png)
-
-## 
+![](../../.gitbook/assets/delay2.jpg)
 
