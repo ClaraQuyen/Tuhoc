@@ -202,7 +202,7 @@ Với Studens :
 
 ![](../.gitbook/assets/upgrade2.jpg)
 
-> Bước 4: chọn Select Student \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
+> Bước 4: chọn **Select Student** \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
 
 ![](../.gitbook/assets/upgrade_new.png)
 
