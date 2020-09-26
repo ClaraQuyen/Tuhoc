@@ -57,7 +57,9 @@ description: >-
 
 1:Gobal search : tìm kiếm toàn hệ thống 
 
-2:Private search : tìm kiếm trong module
+2:Private search : tìm kiếm trong module.
+
+Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía trước kí tự search.
 {% endhint %}
 
 > Ví dụ chức năng tìm kiếm gobal search.

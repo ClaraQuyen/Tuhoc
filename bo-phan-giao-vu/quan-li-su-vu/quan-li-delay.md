@@ -62,7 +62,7 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
 ![](../../.gitbook/assets/delay.jpg)
 
-> Bước 3: Tại màn hình Delay , nhập đầy đủ thông tin. Sau đó click Save để hoàn tất.
+> Bước 3: Tại màn hình Delay , nhập chọn thời gian mà học viên này bắt đầu delay, nhập lí do delay. Sau đó click Save để hoàn tất.
 
 ![](../../.gitbook/assets/5%20%282%29.png)
 
@@ -71,7 +71,7 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
 1: Thông tin học viên delay lớp.
 
-2: Khoảng thời gian delay
+2: Chọn thời gian bắt đầu Delay \(Mặc định hệ thống sẽ lấy từ ngày user chọn ngày bắt đầu delay đến hết ngày kết thúc lớp học\). 
 
 3: Số dư của học viên trong khoảng thời gian Delay.
 
