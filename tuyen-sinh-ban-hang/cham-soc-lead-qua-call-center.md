@@ -2,7 +2,9 @@
 
 > Video :
 
-[https://www.youtube.com/watch?v=PP\_Fu65IqNc&ab\_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL](https://www.youtube.com/watch?v=PP_Fu65IqNc&ab_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL)
+{% embed url="https://www.youtube.com/watch?v=PP\_Fu65IqNc&ab\_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL" %}
+
+
 
 > **Ghi chú :**
 >
