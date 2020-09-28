@@ -62,3 +62,7 @@
 * [Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
 * [Search](admin-guide/search.md)
 
+---
+
+* [Call](https://www.youtube.com/watch?v=PP_Fu65IqNc&ab_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL)
+
