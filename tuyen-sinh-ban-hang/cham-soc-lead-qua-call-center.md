@@ -1,5 +1,7 @@
 # Chăm sóc Lead qua Call Center \(Click to Call\)
 
+> Video : 👉 [https://www.youtube.com/watch?v=PP\_Fu65IqNc&ab\_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL](https://www.youtube.com/watch?v=PP_Fu65IqNc&ab_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL)
+
 > **Ghi chú :**
 >
 > 👉 Kết quả cuộc gọi nằm trong các option sau sẽ hiện phần Mark Dead Lead :
