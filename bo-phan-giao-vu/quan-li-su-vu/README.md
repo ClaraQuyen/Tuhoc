@@ -22,7 +22,7 @@
 
 > Bước 2: Tại màn hình tạo mới chiết khấu, nhập đầy đủ các thông tin cần thiết, Sau đó click Save để hoàn tất.
 
-![](../../.gitbook/assets/qldiscount1.png)
+![](../../.gitbook/assets/discount2.png)
 
 {% hint style="info" %}
 Ghi chú:
@@ -42,7 +42,7 @@ Ghi chú:
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của chiết khấu sau khi tạo thành công.
 
-![](../../.gitbook/assets/discount3.png)
+![](../../.gitbook/assets/discount.png)
 
 ## Quản lí Voucher
 
