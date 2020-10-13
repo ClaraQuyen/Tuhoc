@@ -11,9 +11,9 @@ description: >-
 > \*\*\*\*👉 **Chi tiết  các trạng thái học viên :**
 >
 > **+ Waiting for class:** Đã được convert lên thành học viên, dù có hay chưa có payment nào.
-
+>
 > **+ In Progress:**  Đã đăng kí enroll vào lớp, nhưng lớp đó chưa diễn ra và học viên ****đang học trong lớp.
-
+>
 > **+ Delay :** Khi thực hiện thao tác ****bảo lưu \(hoàn tất học phí mới được bảo lưu\)
 >
 > **+ Outstanding :** Học nợ \(Chưa đóng đủ học phí cho khóa học hoặc add vào lớp cho học nợ khi chưa có payment nào\).
