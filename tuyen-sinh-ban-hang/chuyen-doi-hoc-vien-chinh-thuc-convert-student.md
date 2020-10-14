@@ -6,7 +6,7 @@ description: >-
 
 # Students
 
-![](../.gitbook/assets/chamsocstudents.png)
+![](../.gitbook/assets/new_chamsocstudetns.png)
 
 > \*\*\*\*👉 **Chi tiết  các trạng thái học viên :**
 >
