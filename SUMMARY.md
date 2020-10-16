@@ -30,7 +30,7 @@
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
-* [Quản lí đơn giá học phí](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
+* [Quản lí đơn giá học phí \(kèm Sách\)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
 * [Quản lí tăng giảm học phí](quan-li-dang-ki-hoc-va-thu-tien/quan-li-tang-giam-hoc-phi.md)
 * [Quản lí thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan.md)
 

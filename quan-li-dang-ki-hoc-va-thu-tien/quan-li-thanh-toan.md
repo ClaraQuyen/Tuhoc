@@ -2,129 +2,63 @@
 
 ## Tạo Payment
 
-### Học viên ghi danh khi chưa đặt cọc \(Create Enrollment\)
+### Tạo Payment Deposit
 
-> Bước 1: Đưa chuột vào module Payment click Create Enrollment .
+> Bước 1: Đưa chuột vào menu **Payment** chọn **Create Payment**.
 
-![](../.gitbook/assets/enroll1.png)
+![](../.gitbook/assets/payment1.jpg)
 
-> Bước 2: Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click **Save** để hoàn tất.
+> Bước 2: Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc. Click **Save** để hoàn tất.
 
-![](../.gitbook/assets/enroll2.png)
-
-{% hint style="info" %}
-Ghi chú:
-
-**1**: Lựa chọn Student. Các phương pháp lựa chọn Student:
-
-Cách 1: Nhập tên vào ô Textbox sau đó Enter
-
-![](../.gitbook/assets/enroll3%20%281%29.png) 
-
-Cách 2: Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
-
-**2**: Lựa chọn Classes. Có thể nhập tên Class hoặc lựa chọn Class trong danh sách và thời gian bắt đầu và kết thúc của Lớp học.
-
-![](../.gitbook/assets/enroll5.png) 
-
-3: Lựa chọn học phí cho khóa học.
-
-4: Lựa chọn Discount, Sponsor, Loyalty và thông tin Discount ,Sponsor, Loyalty được lựa chọn.
-
-5: Thông tin về số giờ,số tiền của khóa học trước giảm giá và sau giảm giá.
-
-6: Ngày thanh toán và tổng số tiền cần thanh toán cho lần enrollment này,thông tin về số lần thanh toán. 
-
-7: Chọn Corporate nếu cần xuất hóa đơn cho công ty và nhập thông tin công ty.
-{% endhint %}
-
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Enrollment được tạo.
-
-![](../.gitbook/assets/enroll6.png)
-
-### Tạo Enrollment khi học viên đã có đặt cọc
-
-> Bước 1: Đưa chuột vào module Payment click Create Enrollment.
-
-![](../.gitbook/assets/enroll1.png)
-
-> Bước 2: Nhập đầy đủ các thông tin cần thiết. Click Save để hoàn tất.
-
-![](../.gitbook/assets/deposit2.png)
+![](../.gitbook/assets/payment2.jpg)
 
 {% hint style="info" %}
-**Ghi chú** :
+**Ghi chú**
 
-1: Tại màn hình tạo mới, chọn Payment đã có trước đó \(đã thanh toán tiền đặt cọc trước đó\).
-
-2: Lựa chọn Student. Các phương pháp lựa chọn Student:
-
-    Cách 1: Nhập tên vào ô Textbox sau đó Enter.
-
-![](../.gitbook/assets/enroll3%20%281%29.png) 
-
-     Cách 2: Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
-
-3: Lựa chọn Classes. Có thể nhập tên Class hoặc lựa chọn Class trong danh sách và thông tin Thời gian bắt đầu và kết thúc của Lớp học.
-
-![](../.gitbook/assets/enroll5.png) 
-
-4: Lựa chọn học phí cho khóa học.
-
-5: Lựa chọn Discount, Sponsor, Loyalty và thông tin Discount ,Sponsor, Loyalty được lựa chọn 6: Lựa chọn Sponsor và thông tin Sponsor được lựa chọn.
-
-6: Ngày thanh toán và Thông tin về số lần thanh toán.
-
-7: Thông tin về số giờ,số tiền của khóa học trước giảm giá và sau giảm giá.
-
-8: Tổng số tiền cần thanh toán cho lần enrollment này 
-
-9: Chọn Corporate nếu cần xuất hóa đơn cho công ty và nhập thông tin công ty.
-{% endhint %}
-
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Enrollment được tạo.
-
-![](../.gitbook/assets/deposit3.png)
-
-## Tạo Enrollment
-
-### Tạo Payment Deposit \(Ghi nhận Đặt cọc\)
-
-> Bước 1: Đưa chuột vào Menu Payment chọn Create Payment.
-
-![](../.gitbook/assets/deposit1.png)
-
-> Bước 2: Tại màn hình tạo mới thanh toán Nhập đầy đủ các thông tin mà học viên đặt cọc. Click **Save** để hoàn tất.
-
-![](../.gitbook/assets/payment_deposit2.png)
-
-{% hint style="info" %}
-**Ghi chú**:
-
-1: Lựa chọn Student. Các phương pháp lựa chọn Student:
-
-    Cách 1: Nhập tên vào ô Textbox sau đó Enter.
-
-![](../.gitbook/assets/enroll3%20%281%29.png) 
-
-     Cách 2: Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
+1: Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
 2: Lựa chọn Khóa học
 
-3: Lựa chọn loại Payment là: **Deposit**
+3: Lựa chọn Payment Type là: **Deposit**
 
-4: Lựa chọn ngày thanh toán Payment và Số lần thanh toán
+4: Nhập số tiền đặt cọc**.**
 
-5: Nhập số tiền muốn đặt cọc**.**
+5: Lựa chọn số lần thanh toán
+{% endhint %}
 
-6: Chọn xuất hóa đơn cho công ty \(nếu có\) và điền đầy đủ thông tin yêu cầu.
+### Tạo Payment Cashholder \(Mua khóa học\)
+
+> Bước 1: Đưa chuột vào module **Payment** chọn **Create Payment**.
+
+![](../.gitbook/assets/payment1.jpg)
+
+> Bước 2: Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc. Click **Save** để hoàn tất.
+
+![](../.gitbook/assets/payment3.jpg)
+
+{% hint style="info" %}
+**Ghi chú**
+
+Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+
+1: Lựa chọn Khóa học
+
+2: Lựa chọn các discount/sponsor \(Nếu có\).
+
+3: Lựa chọn Payment Type là: **Cashholder**
+
+3: Nhập số giờ học viên mua khóa học \(có thể nhập tổng số giờ nếu 2 hoặc 3 khóa cùng KOC\)**.**
+
+4: Lựa chọn số lần thanh toán
+
+5: Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
 {% endhint %}
 
 ### **Tạo Payment PT \(Đóng tiền kiểm tra đầu vào\)** 
 
 > Bước 1: Đưa chuột vào Menu Payment & Enrollment chọn Create Payment.
 
-![](../.gitbook/assets/deposit1.png)
+![](../.gitbook/assets/payment1.jpg)
 
 > Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
 
