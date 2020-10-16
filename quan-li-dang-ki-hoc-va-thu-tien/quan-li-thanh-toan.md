@@ -252,29 +252,5 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 1: Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
 {% endhint %}
 
-## Thay đổi được nội dung thu tiền và số tiền cho học viên tháng tiếp theo khi chưa thanh toán
 
-> Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán và xuất phiếu thu.
-
-![](../.gitbook/assets/thanhtoanchopayment1.png)
-
-> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”.Sau đó click vào Payement muốn thay đội số tiền thu học viên vào tháng tới \(áp dụng đối với phiếu thu chưa thu tiền học viên ở trạng thái Unpaid\), sau đó click **Edit.**
-
-![](../.gitbook/assets/thaydoindthutien1.png)
-
-> Bước 3: Nhập nội dung thay đổi số tiền thu, ngày thu, sau đó click **Save** để hoàn tất.
-
-![](../.gitbook/assets/thaydoindthutien.png)
-
-{% hint style="info" %}
-**Ghi chú**:
-
-1: Chọn ngày thông báo thu tiền đến phụ huynh
-
-2: Số tiền thay đổi thu tháng tiếp theo cho học viên
-
-3: Ngày mong muốn phụ huynh có thể thanh toán sớm/trễ hơn \(Thông báo gửi đến App\). 
-
-4: Nội dung thay đổi số tiền thu phí học viên tháng tới.
-{% endhint %}
 
