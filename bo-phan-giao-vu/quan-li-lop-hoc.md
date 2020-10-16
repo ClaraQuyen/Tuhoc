@@ -18,7 +18,7 @@
 
 ![](../.gitbook/assets/diemanh1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button Attendance & Homework.
+> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button Attendance & Homework.
 
 ![](../.gitbook/assets/diemanh2.png)
 
@@ -41,11 +41,11 @@
 
 6: Đánh giá điểm chuyên cần cho Học viên
 
-7: Gửi thông báo đến App về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+7: [**Gửi thông báo**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#diem-danh) đến App về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
-8: Gửi tin nhắn đến App về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+8: ****[**Gửi tin nhắn đến App**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#send-app-message) về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
-9: Gửi tin nhắn SMS về điện thoại  về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+9: [**Gửi  SMS**](https://help.dotb.vn/tuyen-sinh-ban-hang/sms#gui-sms-theo-lop) về điện thoại  về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
 10: Tải lại danh sách Học viên trong buổi học đó
 
@@ -154,7 +154,7 @@
 
 ![](../.gitbook/assets/ndbuoihoc2.png)
 
-## Quản lí học viên học nợ, học Trail Class
+## Quản lí học viên học nợ, học Trail và Enrolled
 
 ### Học viên học Trail Class
 
@@ -217,11 +217,11 @@ Với Studens :
 
 4: Add thêm học viên hàng loạt, bạn có thể chọn 1 hay nhiều học viên cùng 1 lúc.
 
-5:  Join with type :Thông tin học phí của học viên khi đăng kí lên lớp mới .
+5:  **Join with type** :Thông tin học phí của học viên khi đăng kí lên lớp mới .
 
-👉 **Enrolled**: Học viên còn khoảng học phí 
+👉 **Enrolled**: Học viên đủ điều kiện add vào lớp \(đã đóng đủ hoặc dư học phí\).
 
-👉 **Outstanding** : Học viên không đủ phí để join lớp mới nên add vào học nợ
+👉 **Outstanding** : Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
 
 6: **Addmission Status :** 
 
@@ -239,7 +239,7 @@ Với Studens :
 ### Enroll OutStanding 
 
 {% hint style="success" %}
-_**Tính** năng này được sử dụng khi  reamain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp \(Outstanding -&gt; Enrolled\) và remain hour của học viên._ 
+_**Tính** năng này được sử dụng khi  remain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp \(Outstanding -&gt; Enrolled\) và remain hour của học viên._ 
 {% endhint %}
 
 > Bước 1: Đưa chuột vào Menu Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
@@ -255,24 +255,22 @@ _**Tính** năng này được sử dụng khi  reamain hour của học viên �
 ![](../.gitbook/assets/image%20%2872%29.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+**Ghi chú**:
 
-1: Lựa chọn tất cả học viên trong danh sách có khả năng Enroll OutStanding.
+1:⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
 
-2: **Join with type:** Thông tin trạng thái của học viên khi tiến hành Enroll OutStanding
+2**: Join with type** :Thông tin học phí của học viên khi đăng kí lên lớp mới .
 
-👉 **Enrolled**: Học viên còn khoảng học phí có thể Enroll vào lớp
+👉 **Enrolled**: Học viên đủ điều kiện add vào lớp \(đã đóng đủ hoặc dư học phí\).
 
-👉 **Outstanding** : Học viên không đủ phí để Enroll vào lớp, vẫn tiếp tục học OutStanding
+👉 **Outstanding** : Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
 
 3: **Addmission Status :** 
 
- ✖ : Học viên chưa đóng đủ số giờ để vào lớp, không thể Enroll.
+ ✖ : Học viên đã có trong lớp, không thể add vào
 
-✔ : Học viên đã đóng đủ số giờ để vào lớp, có thể Enroll.
+✔ : Học viên chưa có trong lớp, có thể add vào.
 {% endhint %}
-
-
 
 ## Quản lí bảng điểm và xuất kết quả ra Excel
 
@@ -290,20 +288,22 @@ _**Tính** năng này được sử dụng khi  reamain hour của học viên �
 
 > Bước 4: Tiếp theo nhập thông tin điểm số,comment học viên.Người dùng có thể thay đổi cấu trúc bảng điểm hoặc đưa về cấu trúc bảng điểm mặc định,… sau đó click “Save Gradebook” để hoàn tất bảng điểm.
 
-![](../.gitbook/assets/bangdie3.png)
+![](../.gitbook/assets/bangdiem.jpg)
 
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Lưu bảng điểm
+1: Clear \(chọn lại bảng điểm mới để nhập vào\)
 
 2:Đưa bảng điểm về phiên bản mới \(bảng điểm còn ở cấu trúc củ khi click vào \(2\) hệ thống sẽ đưa về cấu trúc bạn thay đổi mới\)
 
-3:Sửa cấu trúc bảng điểm
+3: Sửa cấu trúc bảng điểm
 
-4:Nhập điểm học viên \(Màu trắng bạn nhập, màu đậm hơn bạn không được nhập\) 
+4: Sau khi Lưu bảng điểm, bạn có thể Export bảng điểm ra Excel
 
-5:Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống  
+Nhập điểm học viên \(Màu trắng bạn nhập, màu đậm hơn bạn không được nhập\) 
+
+Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống  
 
 ![](../.gitbook/assets/2020-08-13_16-19-53.jpg) 
 {% endhint %}
