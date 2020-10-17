@@ -310,7 +310,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 
 > Bước 5: Sau khi input bảng điểm , click **Export to Exce**l để xuất kết quả cuối kì/giữa kì.
 
-![](../.gitbook/assets/2020-08-13_16-17-47.jpg)
+![](../.gitbook/assets/bangdiem2.jpg)
 
 ## Xuất báo cáo, điểm danh
 
