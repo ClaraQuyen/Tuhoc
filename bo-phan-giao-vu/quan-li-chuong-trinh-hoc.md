@@ -68,7 +68,7 @@
 
 > Bước 2: Tại màn hình tạo cấu trúc bảng điểm, nhập đầy đủ thông tin trung tâm, chương trình học, loại bảng điểm. Tiếp theo click **Load config.**
 
-![](../.gitbook/assets/cautrucbangdiem2.png)
+![](../.gitbook/assets/bangdiem3.jpg)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -78,13 +78,11 @@
 2: Chương trình học
 
 3: Loại cấu trúc bảng điểm \(Overall : bảng điểm cuối kì hay giữa kì , Progress: bảng điểm mini test\)
-
-4: Tên cấu trúc bảng điểm \(có thể không nhập,hệ thống sẽ tự tạo tên\).
 {% endhint %}
 
 > Bước 3: Tại màn hình định nghĩa cấu trúc bảng điểm,định nghĩa cấu trúc chương trình học theo trung tâm của bạn, sau đó click Save Config.
 
-![](../.gitbook/assets/cautrucbangdiem3.png)
+![](../.gitbook/assets/bangdiem4.jpg)
 
 {% hint style="info" %}
 **Ghi chú:**
