@@ -65,4 +65,5 @@
 ---
 
 * [Call](https://www.youtube.com/watch?v=PP_Fu65IqNc&ab_channel=%C4%90%E1%BB%A8CPH%C3%9ACOFFICIAL)
+* [Cập nhật cho Edu Hàng tháng](cap-nhat-cho-edu-hang-thang.md)
 
