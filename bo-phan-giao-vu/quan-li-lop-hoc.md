@@ -166,7 +166,7 @@
 >
 > Lựa chọn loại học viên Lead/Student.  Sau đó chọn **Add to Class Demo**
 
-![](../.gitbook/assets/addtodemo.png)
+![](../.gitbook/assets/5.jpg)
 
 > Bước 3: Chọn học viên đưa vào lớp Trail, sau đó chọn ngày bắt dầu /kết thúc mà học viên học trail. Cuối cùng click **Add** để thêm học viên vào lớp.
 
@@ -194,15 +194,11 @@ Với Studens :
 
 ![](../.gitbook/assets/hocdemo1.png)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”.
+> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”. Sau đó click chọn "**Add Students**"
 
-![](../.gitbook/assets/2.jpg)
+![](../.gitbook/assets/9.jpg)
 
-> Bước 3: Sau đó click chọn Add Students.
-
-![](../.gitbook/assets/upgrade2.jpg)
-
-> Bước 4: chọn **Select Student** \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, tiếp theo chọn payment mà học viên đã mua để enroll vòa lớp \(mặc định hẹ thống sẽ tự lấy payment nếu cùng KOC\).
+> Bước 3: click **Select Student** \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, tiếp theo chọn payment mà học viên đã mua để enroll vòa lớp \(mặc định hẹ thống sẽ tự lấy payment nếu cùng KOC\).
 
 ![](../.gitbook/assets/main%20%281%29.jpg)
 
