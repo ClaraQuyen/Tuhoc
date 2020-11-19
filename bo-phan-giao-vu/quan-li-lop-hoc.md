@@ -202,9 +202,9 @@ Với Studens :
 
 ![](../.gitbook/assets/upgrade2.jpg)
 
-> Bước 4: chọn **Select Student** \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, sau đó click **Add Students** để thêm học viên.
+> Bước 4: chọn **Select Student** \(4\) hoặc chọn học viên từ lớp khác \(3\) để chọn học viên add vào lớp \(có thể chọn 1 hoặc nhiều học viên\),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp, tiếp theo chọn payment mà học viên đã mua để enroll vòa lớp \(mặc định hẹ thống sẽ tự lấy payment nếu cùng KOC\).
 
-![](../.gitbook/assets/upgrade_new.png)
+![](../.gitbook/assets/main%20%281%29.jpg)
 
 {% hint style="info" %}
 **Ghi Chú** :
@@ -217,29 +217,47 @@ Với Studens :
 
 4: Add thêm học viên hàng loạt, bạn có thể chọn 1 hay nhiều học viên cùng 1 lúc.
 
-5:  **Join with type** :Thông tin học phí của học viên khi đăng kí lên lớp mới .
+5: Chọn Payment để Enroll học viên \(Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học \)
+{% endhint %}
+
+![](../.gitbook/assets/2%20%282%29.jpg)
+
+{% hint style="info" %}
+Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**".
+{% endhint %}
+
+![](../.gitbook/assets/3%20%281%29.jpg)
+
+{% hint style="info" %}
+6 : ⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
+
+7:  **Join with type** :Thông tin học phí của học viên khi đăng kí lên lớp mới .
 
 👉 **Enrolled**: Học viên đủ điều kiện add vào lớp \(đã đóng đủ hoặc dư học phí\).
 
 👉 **Outstanding** : Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
 
-6: **Addmission Status :** 
+8: **Addmission Status :** 
 
  ✖ : Học viên đã có trong lớp, không thể add vào
 
 ✔ : Học viên chưa có trong lớp, có thể add vào
 
-7 : ⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
+6 : ⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
 {% endhint %}
 
-> Bước 5: Màn hình hiển thị thông báo add học viên vào lớp thành công.
+> Bước 5: Sau khi chọn xong học viên củng như Payment enroll học viên vào lớp, click "Add Student" để hoàn tất đưa học viên vào lớp.
+
+![](../.gitbook/assets/4.jpg)
+
+> Bước 6: Màn hình hiển thị thông tin học viên sau khi add vào lớp thành công.
 
 ![](../.gitbook/assets/hocno.png)
 
 ### Enroll OutStanding 
 
 {% hint style="success" %}
-_**Tính** năng này được sử dụng khi  remain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp \(Outstanding -&gt; Enrolled\) và remain hour của học viên._ 
+_Tính năng này được sử dụng khi  remain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp \(Outstanding -&gt; Enrolled\) và remain hour của học viên._ 
 {% endhint %}
 
 > Bước 1: Đưa chuột vào Menu Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
@@ -248,11 +266,17 @@ _**Tính** năng này được sử dụng khi  remain hour của học viên đ
 
 > Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”. Sau đó, click Enroll OutStanding.
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/7.jpg)
 
-> Bước 3: Lựa chọn học viên cần Enroll OutStanding và nhấn Enroll.
+> Bước 3:Chọn Payment để Enroll học viên \(Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học \) , ngược lại nếu khác KOC người dùng vẫn muốn sử dụng để enroll học viên thì click chọn payment tương ứng.
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/6.jpg)
+
+{% hint style="info" %}
+Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**" để enroll học viên.
+{% endhint %}
+
+![](../.gitbook/assets/8.jpg)
 
 {% hint style="info" %}
 **Ghi chú**:
