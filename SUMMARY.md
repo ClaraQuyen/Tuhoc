@@ -61,7 +61,7 @@
 * [Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users.md)
 * [Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
 * [Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
-* [Search](admin-guide/search.md)
+* [Cấu hình Search](admin-guide/search.md)
 
 ---
 

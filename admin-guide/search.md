@@ -4,7 +4,7 @@ description: >-
   found."
 ---
 
-# Search
+# Cấu hình Search
 
 > Bước 1: Click chọn action "Admin".
 
