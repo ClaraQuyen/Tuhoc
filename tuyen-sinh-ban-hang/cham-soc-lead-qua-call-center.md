@@ -39,7 +39,7 @@
 
 **Waiting**: Đang chờ kết nối**.**
 
-**Ringing** : Đang kết nối
+**Ringing**: Đang kết nối
 
 **Connected**: Đã kết nối được với người dùng đang trong cuộc gọi.
 

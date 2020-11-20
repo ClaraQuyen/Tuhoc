@@ -22,9 +22,13 @@ description: >-
 
 ## Import Target
 
-> Bước 1: Đưa chuột vào Menu Targets chọn Import Target, tính năng này cho phép người dùng Import data từ local
+> Video:
 
-![](../.gitbook/assets/1.png)
+ [https://youtu.be/yZJOBJkVV-Y](https://youtu.be/yZJOBJkVV-Y)
+
+> Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
+
+![](../.gitbook/assets/import1.jpg)
 
 > Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 
@@ -54,15 +58,15 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 > Bước 4:  Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next**.
 
-> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click Next.
+> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
 
 ![](../.gitbook/assets/5%20%281%29.png)
 
-> Bước 6:  Xác nhận việc kiểm tra trùng, và việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "Filed to check" . Sau đó click "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
+> Bước 6:  Xác nhận việc **kiểm tra trùng**, và việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**" . Sau đó click "**Import Now**" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 
 ![](../.gitbook/assets/6%20%281%29.png)
 
-> Bước 7: Kết quả sau khi Import, hệ thống sẽ báo có bao nhiêu Target được tạo, bao nhiêu Target bị trùng và bao nhiêu Target lỗi.
+> Bước 7: Kết quả sau khi Import, hệ thống sẽ báo có bao nhiêu Target được tạo, bao nhiêu Target bị trùng và bao nhiêu Target import bị lỗi do format hoặc trường dữ liệu,...
 
 ![](../.gitbook/assets/7%20%281%29.png)
 
@@ -78,13 +82,13 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 ## Convert Target
 
-> Bước 1: Lọc dữ liệu của Target ở trạng thái **Wait for deliver \(**Tức dữ liệu này dã được xác thực và bàn giao cho EC chăm sóc**\).** Action menu bên trái click chọn **Mass Update**.
+> Bước 1: Lọc dữ liệu của Target ở trạng thái **In Process \(**Tức dữ liệu này dã được xác thực**\).** Tại action menu bên trái click chọn **Mass Update**.
 
-![](../.gitbook/assets/1%20%282%29.png)
+![](../.gitbook/assets/import2.jpg)
 
 > Bước 2:  Tiếp theo chọn **Convert to Lead** là Yes \(data sẽ được chuyển sang module Leads và bàn giao lại cho EC\) tại filer này có thể chọn thêm người [**Assign to**](https://help.dotb.vn/tuyen-sinh-ban-hang/target#phan-bo-nguoi-phu-trach) , sau đó click **Update**.
 
-![](../.gitbook/assets/converttarget1.png)
+![](../.gitbook/assets/import3.jpg)
 
 > Bước 3: Hệ thống sẽ thông báo Update thành công và chuyển dữ liệu về Leads.
 

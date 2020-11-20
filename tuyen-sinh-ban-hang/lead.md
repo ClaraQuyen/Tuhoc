@@ -34,13 +34,13 @@ description: >-
 
 ![](../.gitbook/assets/taolead2.png)
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tường tác.
+> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tương tác.
 
 ![](../.gitbook/assets/image%20%281%29%20%282%29.png)
 
 ## Import Leads
 
-> Bước 1: Đưa chuột vào Module Leads chọn **Import Leads**.
+> Bước 1: Đưa chuột vào Module **Leads** chọn **Import Leads**.
 
 ![](../.gitbook/assets/importlead.png)
 
@@ -48,7 +48,7 @@ description: >-
 
 ![](../.gitbook/assets/2%20%281%29.png)
 
-> Bước 3:  Tải mẫu File Import \(nếu chưa có\), sau đó đưa file lên hệ thống click vào Choose File.Sau đó click **Next**.
+> Bước 3:  Tải mẫu File Import \(nếu chưa có\), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
 
 ![](../.gitbook/assets/importlead2.png)
 
@@ -71,11 +71,11 @@ description: >-
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\)
 {% endhint %}
 
-> Bước 4: Xác nhận các thuộc tính, Pre-set Import Setting. Click Next
+> Bước 4: Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next.**
 
 ![](../.gitbook/assets/4%20%281%29.png)
 
-> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click Next.
+> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
 
 ![](../.gitbook/assets/5%20%281%29.png)
 
@@ -119,7 +119,7 @@ description: >-
 
 ## Chăm sóc Lead \(Tạo Log Call\)
 
-### Cách 1: Tạo Loag call từ module Calls
+### Cách 1: Tạo Log call từ module Calls
 
 > Bước 1 : Đưa chuột vào module **Calls**, sau đó click chọn **Create Call**.
 

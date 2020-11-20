@@ -13,15 +13,17 @@
 {% hint style="info" %}
 **Ghi chú:**
 
-1:Tên Template
+1: Tên Template
 
-2:Loại Template \(Email,Campaign ,SMS\)
+2: Loại Template \(Email,Campaign ,SMS\)
 
-3:Chèn biến :Tên,Loại,Địa chỉ,…
+3: Chèn biến :Tên,Loại,Địa chỉ,…
 
-Subject:Tiêu đề của Template
+4: Subject:Tiêu đề của Template
 
-4:Nội dung Template
+5: Nội dung Template
+
+6: Đính kèm tệp \(Nếu có\)
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin mẫu Email Template vừa được tạo.
@@ -30,7 +32,7 @@ Subject:Tiêu đề của Template
 
 ## Gửi và xem lại lịch sử gửi
 
-### Gửi sms hàng loạt
+### Gửi SMS hàng loạt
 
 > Bước 1 : Đưa chuột vào module Leads hoặc Student, sau đó chọn học viên mà bạn muốn gửi sms,tiếp theo click vào ![](../.gitbook/assets/sms1.png)
 
@@ -40,7 +42,7 @@ Subject:Tiêu đề của Template
 
 ![](../.gitbook/assets/sms3.png)
 
-> Bước 3 : Hệ thống hiển thị thông tin sms như: người nhận mẫu SMS và nội dung SMS, sau đó chọn Template gửi SMS \(nội dung có thể nhập vào \) ,cuối cùng click Send để gửi.
+> Bước 3 : Hệ thống hiển thị thông tin sms như: người nhận mẫu SMS và nội dung SMS, sau đó chọn Template gửi SMS \(nội dung có thể nhập vào \) ,cuối cùng click **Send** để gửi.
 
 ![](../.gitbook/assets/sms4.png)
 
@@ -54,7 +56,7 @@ Subject:Tiêu đề của Template
 3:Nội dung gửi tin nhắn \(Người dùng có thể nhập vào thêm nội dung\)
 {% endhint %}
 
-### Gửi sms đơn lẻ
+### Gửi SMS đơn lẻ
 
 > Bước 1: Đưa chuột vào module Leads hoặc Student, sau đó chọn học viên mà bạn muốn gửi sms, tiếp theo click vào ![](../.gitbook/assets/smsdonle.png)
 
