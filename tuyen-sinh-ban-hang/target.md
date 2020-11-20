@@ -22,9 +22,11 @@ description: >-
 
 ## Import Target
 
-> Video:
+> _Video hướng dẫn Import Target_
 
- [https://youtu.be/yZJOBJkVV-Y](https://youtu.be/yZJOBJkVV-Y)
+{% embed url="https://youtu.be/yZJOBJkVV-Y" %}
+
+
 
 > Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
 
