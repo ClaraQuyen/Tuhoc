@@ -49,7 +49,7 @@
 ![](../.gitbook/assets/6.png)
 
 {% hint style="info" %}
-🙆♀ Ghi chú:
+🙆♀ **Ghi chú**:
 
 1.Select : Chọn Danh sách mục tiêu tồn tại trong hệ thống 
 
@@ -89,7 +89,7 @@
 ![](../.gitbook/assets/8.png)
 
 {% hint style="info" %}
-🙆♀ Ghi chú:
+🙆♀ **Ghi chú:**
 
 1: Finish: hoàn  tất thông tin chạy chiến dich
 
@@ -273,6 +273,4 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 
 10:Danh sách Email Opted out
 {% endhint %}
-
-
 
