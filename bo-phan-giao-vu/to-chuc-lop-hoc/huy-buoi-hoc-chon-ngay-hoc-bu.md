@@ -13,13 +13,13 @@
 ![](../../.gitbook/assets/hocbu3.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Thông tin Lớp học bị hủy
 
 2: Thông tin buổi học bị hủy và lý do hủy
 
-**Lưu ý:**
+\*\*\*\*🙋♂ **Lưu ý:**
 
 + Nếu chọn Make up in this schedule thì hệ thống sẽ tư lên lịch dạy bù cho giáo viên vào buổi cuối cùng của tháng kết thúc khóa học
 
@@ -33,10 +33,10 @@
 ![](../../.gitbook/assets/hocbu5.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
-1: Trạng thái cancelled: Buổi học đã được hủy trên hệ thống
+1: Trạng thái **Cancelled**: Buổi học đã được hủy trên hệ thống
 
-2: Trạng thái Make-up: Buổi học được chọn cho giáo viên dạy bù \(buổi dạy bù linh động cho người dùng tự set\)
+2: Trạng thái **Make-up**: Buổi học được chọn cho giáo viên dạy bù \(buổi dạy bù linh động cho người dùng tự set\)
 {% endhint %}
 

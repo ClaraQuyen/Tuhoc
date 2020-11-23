@@ -229,30 +229,6 @@ Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tê
 
 
 
-## Phân bổ Leads theo số record được định nghĩa trước.
-
-> Bước 1: Click chuột vào module Leads, click Create để tạo bộ lọc Leads theo trạng thái.
-
-![](../.gitbook/assets/image%20%289%29%20%281%29.png)
-
-> Bước 2: Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
-
-![](../.gitbook/assets/image%20%287%29%20%281%29.png)
-
-> Bước 3: Hệ thống hiển thị thông tin danh sách Leads có trạng thái cần để phân bổ người phụ trách, chọn tất cả.
-
-![](../.gitbook/assets/image%20%284%29.png)
-
-Bước 4: Click Mass Updated để phân bổ cho người phụ trách.
-
-![](../.gitbook/assets/image%20%2814%29%20%281%29.png)
-
-Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record \(hơn 20 record\) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng click **Update**.
-
-![](../.gitbook/assets/lead_mass.jpg)
-
-
-
 
 
 

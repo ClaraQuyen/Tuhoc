@@ -32,7 +32,7 @@
 
 ![](../.gitbook/assets/payment1.jpg)
 
-> Bước 2: Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc. Click **Save** để hoàn tất.
+> Bước 2: Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/payment3.jpg)
 
@@ -43,7 +43,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enr
 
 1: Lựa chọn Khóa học
 
-2: Lựa chọn các discount/sponsor \(Nếu có\).
+2: Lựa chọn các Discount/Sponsor \(Nếu có\).
 
 3: Lựa chọn Payment Type là: **Cashholder**
 
@@ -206,7 +206,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/image%20%2847%29.png)
 
-> Bước 3: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click OK.
+> Bước 3: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click **OK**.
 
 ![](../.gitbook/assets/image%20%2844%29.png)
 

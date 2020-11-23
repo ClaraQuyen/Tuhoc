@@ -117,17 +117,17 @@ Ghi chú:
 
 5 : Chọn template import dữ liệu vào hệ thống \(bắt buộc chọn theo template đã cho\)
 
-Lưu ý :
+**Lưu ý** :
 
-* File Template dùng để Import dữ liệu Leads vào hệ thống.
-* Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\)
+* File Template dùng để Import dữ liệu Leads vào hệ thống đã được đính kèm trên hệ hống.
+* Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\).
 {% endhint %}
 
 > Bước 4: Xác nhận các thuộc tính, Pre-set Import Setting. Click Next
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjHitqdHtQvQ5m7kL%2F4.png?alt=media&token=43ea25dd-016f-4f04-9ffc-7dd181d66b8b)
 
-> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click Next.
+> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjNESlyJ8i--KyXei%2F5.png?alt=media&token=1b750cb8-2ce7-4916-aae4-e0e809438633)
 

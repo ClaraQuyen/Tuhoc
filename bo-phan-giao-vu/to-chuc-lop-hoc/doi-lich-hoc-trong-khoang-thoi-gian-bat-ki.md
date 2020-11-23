@@ -17,7 +17,7 @@
 ![](../../.gitbook/assets/taolop1.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Chọn khoảng thời gian thay đổi lịch học
 
@@ -27,6 +27,6 @@
 {% endhint %}
 
 {% hint style="danger" %}
-**Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
+🙋♂ **Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
 {% endhint %}
 

@@ -84,11 +84,5 @@ Ghi chú:
 3: Kết quả: Thống kê số lượng bạn học viên nào đã nhận được tin nhắn, chưa nhận được tin nhắn, tổng số lượng tin nhắn đã gửi\)
 {% endhint %}
 
-> Như vậy, **DotB** đã thực hiện xong phần hướng dẫn gửi **SMS, c**ác bạn có thể tham khảo qua video clip **Hướng Dẫn Gửi SMS** [_**`Tại Đây`**_](https://www.youtube.com/watch?v=op1QYwRAQpI)_**\`\`**_
->
-> Mọi thắc mắc xin liên hệ tổng đài 02873089091 \(miễn phí\) hoặc email cho chúng tôi tại địa chỉ: **contact@dotb.vn** để được tư vấn và giải đáp.
->
-> Chúc Quý khách thành công!
-
 
 

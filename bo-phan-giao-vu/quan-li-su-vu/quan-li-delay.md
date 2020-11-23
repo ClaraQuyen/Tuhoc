@@ -12,7 +12,7 @@ description: >-
 
 ![](../../.gitbook/assets/xemdelay1.png)
 
-> Bước 2: Tiếp theo click Payment Type.
+> Bước 2: Tiếp theo click **Payment Type**.
 
 ![](../../.gitbook/assets/xemde-ay2.png)
 
@@ -35,7 +35,7 @@ description: >-
 ![](../../.gitbook/assets/taodelay2.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Lựa chọn Student. Các phương pháp lựa chọn Student:
 
@@ -67,7 +67,7 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 ![](../../.gitbook/assets/5%20%282%29.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Thông tin học viên delay lớp.
 

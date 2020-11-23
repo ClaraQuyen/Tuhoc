@@ -9,7 +9,7 @@
 ![](../../.gitbook/assets/taolop.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Tên của Lớp học, có thể để rỗng hệ thống sẽ tự động sinh ra tên Lớp.
 

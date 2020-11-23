@@ -27,7 +27,7 @@
 ![](../.gitbook/assets/man-hinh-diem-danh-hoc-vien-va-gui-sms.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Lớp thực hiện việc Điểm danh
 
@@ -51,7 +51,7 @@
 
 11: Lựa chọn lại buổi học cần điểm danh
 
-**Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
+\*\*\*\*🙋♂ **Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
 {% endhint %}
 
 ### Send App Message
@@ -69,11 +69,11 @@
 ![](../.gitbook/assets/guisms3.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Lớp thực hiện việc gửi SMS/Bài tập về nhà,điểm danh
 
-2: Syllabus Custom:nội dung bài giảng của giáo viên \(không phải nội dung dạy theo giáo án\)
+2: Syllabus Custom: nội dung bài giảng của giáo viên \(không phải nội dung dạy theo giáo án\)
 
 3: Nội dung của bài học theo Syllabus như: Lession, Topic, Homework và thông tin các buổi học gần nhất.
 
@@ -109,7 +109,7 @@
 ![](../.gitbook/assets/lambt3.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Lớp thực hiện việc check homework
 
@@ -125,7 +125,7 @@
 
 7: Gửi thông báo đến App về việc đi học,trể,làm bài tập về nhà,comment, điểm daily score của học viên
 
-**Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS
+\*\*\*\*🙋♂ **Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS
 {% endhint %}
 
 
@@ -141,7 +141,7 @@
 ![](../.gitbook/assets/ndbuoihoc1.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Ghi chú nội dung bài học
 
@@ -203,7 +203,7 @@ Với Studens :
 ![](../.gitbook/assets/main%20%281%29.jpg)
 
 {% hint style="info" %}
-**Ghi Chú** :
+\*\*\*\*🙆♀ **Ghi Chú** :
 
 1: Thông tin lớp học mới \(lớp đc upgrade, hoặc lớp New\)
 
@@ -219,7 +219,7 @@ Với Studens :
 ![](../.gitbook/assets/2%20%282%29.jpg)
 
 {% hint style="info" %}
-Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**".
+👉 Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**".
 {% endhint %}
 
 ![](../.gitbook/assets/3%20%281%29.jpg)
@@ -275,7 +275,7 @@ Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ
 ![](../.gitbook/assets/8.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:⏹ Có thể chọn hàng loạt hoặc chọn từng học viên.
 
@@ -311,7 +311,7 @@ Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ
 ![](../.gitbook/assets/bangdiem.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Clear \(chọn lại bảng điểm mới để nhập vào\)
 
@@ -349,7 +349,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 ![](../.gitbook/assets/bcdiemdanh.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Thông tin lớp xuất báo cáo điểm danh 
 
@@ -373,7 +373,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 ![](../.gitbook/assets/kqcuoiki.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Chọn mẫu template cần xuất file
 
@@ -393,7 +393,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 ![](../.gitbook/assets/feedback1%20%281%29.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Tiêu đề Feedback
 
@@ -405,15 +405,15 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 
 5: Nguồn Feedback
 
-**Status Feedback** :
+\*\*\*\*👉 **Status Feedback** :
 
-New : Mới nhận/tạo Feedback từ phụ huynh/học viên
+**New** : Mới nhận/tạo Feedback từ phụ huynh/học viên
 
-Assign : Đã tiếp nhận
+**Assign** : Đã tiếp nhận
 
-Pending Input: Đang xử lí
+**Pending Input**: Đang xử lí
 
-Closed : Đã giải quyết.
+**Closed** : Đã giải quyết.
 {% endhint %}
 
 ```text

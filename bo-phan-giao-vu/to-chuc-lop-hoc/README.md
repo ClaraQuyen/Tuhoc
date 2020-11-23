@@ -11,7 +11,7 @@
 ![](../../.gitbook/assets/taolop.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Tên của Lớp học, có thể để rỗng hệ thống sẽ tự động sinh ra tên Lớp.
 
@@ -49,13 +49,13 @@
 ![](../../.gitbook/assets/hocbu3.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Thông tin Lớp học bị hủy
 
 2: Thông tin buổi học bị hủy và lý do hủy
 
-**Lưu ý:**
+\*\*\*\*🙋♂ **Lưu ý:**
 
 + Nếu chọn Make up in this schedule thì hệ thống sẽ tư lên lịch dạy bù cho giáo viên vào buổi cuối cùng của tháng kết thúc khóa học
 
@@ -69,11 +69,11 @@
 ![](../../.gitbook/assets/hocbu5.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
-1:Trạng thái cancelled: Buổi học đã được hủy trên hệ thống
+1:Trạng thái **Cancelled**: Buổi học đã được hủy trên hệ thống
 
-2:Trạng thái Make-up: Buổi học được chọn cho giáo viên dạy bù \(buổi dạy bù linh động cho người dùng tự set\)
+2:Trạng thái **Make-up**: Buổi học được chọn cho giáo viên dạy bù \(buổi dạy bù linh động cho người dùng tự set\)
 {% endhint %}
 
 ## Đổi ngày khai giảng
@@ -86,7 +86,7 @@
 
 ![](../../.gitbook/assets/doingaykhaigiang1.png)
 
-> Bước 3: Tiếp theo click vào Change Start Date để thay đổi ngày khai giảng.
+> Bước 3: Tiếp theo click vào **Change Start Date** để thay đổi ngày khai giảng.
 
 ![](../../.gitbook/assets/doingaykhaigiang3.png)
 
@@ -95,7 +95,7 @@
 ![](../../.gitbook/assets/image%20%2874%29.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Chọn ngày khai giảng muốn thay đổi.
 
@@ -105,7 +105,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-**Lưu ý:** Khi thay đổi ngày khai giảng \(Change Start Date\), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất.
+\*\*\*\*🙋♂ **Lưu ý:** Khi thay đổi ngày khai giảng \(**Change Start Date**\), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất.
 {% endhint %}
 
 ## Đổi lịch học trong khoảng thời gian bất kì
@@ -118,7 +118,7 @@
 
 ![](../../.gitbook/assets/doingaykhaigiang1.png)
 
-> Bước 3: Tiếp theo click vào Change Schedule để thay đổi lịch học.
+> Bước 3: Tiếp theo click vào **Change Schedule** để thay đổi lịch học.
 
 ![](../../.gitbook/assets/doingaykhaigiang2%20%281%29.png)
 
@@ -127,7 +127,7 @@
 ![](../../.gitbook/assets/taolop1.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Chọn khoảng thời gian thay đổi lịch học
 
@@ -137,7 +137,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-**Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
+\*\*\*\*🙋♂ **Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
 {% endhint %}
 
 ## Quản lí lịch nghỉ lễ trong năm

@@ -19,7 +19,7 @@
 ![](../.gitbook/assets/book4.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Tên sách và mã sách
 
@@ -83,7 +83,7 @@
 ![](../.gitbook/assets/type5.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ Ghi chú:
 
 1::Tên loại Book/Gift 
 
@@ -105,7 +105,7 @@ Ghi chú:
 ![](../.gitbook/assets/inven2.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ Ghi chú:
 
 1:Thông tin sản phẩm \(mã,tên,số lượng,đơn vị\)
 

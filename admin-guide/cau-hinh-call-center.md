@@ -13,7 +13,7 @@
 ![](../.gitbook/assets/set3.jpg)
 
 {% hint style="info" %}
-**Lưu ý** :
+\*\*\*\*🙆♀ **Lưu ý** :
 
 \(1\) và \(4\) : Thông số kĩ thuật từ nhà cung cấp Call Center và thông số này sẽ do nhà cung cấp cấp phát.
 {% endhint %}

@@ -17,7 +17,7 @@
 ![](../../.gitbook/assets/image%20%2874%29.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Chọn ngày khai giảng muốn thay đổi.
 
@@ -27,6 +27,6 @@
 {% endhint %}
 
 {% hint style="danger" %}
-**Lưu ý:** Khi thay đổi ngày khai giảng \(Change Start Date\), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
+\*\*\*\*🙋♂ **Lưu ý:** Khi thay đổi ngày khai giảng \(Change Start Date\), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
 {% endhint %}
 

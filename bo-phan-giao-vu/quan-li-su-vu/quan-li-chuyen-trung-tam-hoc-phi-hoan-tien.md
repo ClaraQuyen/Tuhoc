@@ -9,7 +9,7 @@ description: >-
 ### Chuyển Trung Tâm
 
 {% hint style="info" %}
-**Lưu ý** :
+\*\*\*\*🙆♀ **Lưu ý** :
 
 Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện 👉 [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó sử dụng tính năng **Moving center** này để chuyển center cho học viên.
 {% endhint %}
@@ -27,7 +27,7 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 ![](../../.gitbook/assets/delay5.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Thông tin gói học, số giờ remain và số tiền mà học viên còn lại ở hiện tại center hiện tại.
 
@@ -43,7 +43,7 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 ### Chuyển nhượng học phí
 
 {% hint style="info" %}
-**Lưu ý** :
+\*\*\*\*🙆♀ **Lưu ý** :
 
 Khi thực hiện chuyển học phí từ học viên A đến học viên B, bạn phải thực hiện 👉 [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó sử dụng tính năng **Transfer Fee**  này để chuyển học phí đến cho học viên B.
 {% endhint %}
@@ -61,7 +61,7 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 ![](../../.gitbook/assets/delay6.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Thông tin gói học còn lại \(Remain hour/Remain Amount\) mà học viên đã paid \(delay, cashholder, deposit \).
 
@@ -77,7 +77,7 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 ### Hoàn tiền
 
 {% hint style="info" %}
-**Lưu ý** :
+\*\*\*\*🙆♀ **Lưu ý** :
 
 Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực hiện 👉 [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên trước, sau đó sử dụng tính năng **Refund** này để hoàn tiền cho học viên.
 {% endhint %}
@@ -95,7 +95,7 @@ Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực 
 ![](../../.gitbook/assets/refund.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:Thông tin gói học còn lại \(Remain hour/Remain Amount\) mà học viên đã paid \(delay, cashholder, deposit \).
 
@@ -106,7 +106,7 @@ Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực 
 4: Lí do, thông tin thêm về việc refund.
 {% endhint %}
 
-> Bước 4: Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi Save thành công.
+> Bước 4: Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi **Save** thành công.
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 

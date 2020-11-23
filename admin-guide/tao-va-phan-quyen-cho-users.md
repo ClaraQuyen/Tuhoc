@@ -31,7 +31,7 @@
 ![](../.gitbook/assets/role5.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 **Quyền truy cập các Module :**
 
@@ -155,7 +155,7 @@
 ![](../.gitbook/assets/users3.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Thông tin đăng nhập của Users \(Usersname,Họ,Tên\)
 
@@ -185,7 +185,7 @@
 ![](../.gitbook/assets/c13.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Thông tin Users
 
@@ -211,7 +211,7 @@
 ![](../.gitbook/assets/c15.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:Center mặc định
 
@@ -235,7 +235,7 @@
 ![](../.gitbook/assets/c23.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Chọn quyền cho Users 
 
