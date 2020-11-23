@@ -82,7 +82,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 3: Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Tareget List để chạy Campains hoặc gửi email,..
 {% endhint %}
 
-## Convert Target
+## 💫 Convert Target
 
 > Bước 1: Lọc dữ liệu của Target ở trạng thái **In Process \(**Tức dữ liệu này dã được xác thực**\).** Tại action menu bên trái click chọn **Mass Update**.
 
