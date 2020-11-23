@@ -6,7 +6,7 @@ description: >-
 
 # Quản lí thi đầu vào, học thử \(PT/Demo\)
 
-## Placement Test/Demo
+## 📝 Placement Test/Demo
 
 ### Tạo buổi PT cho học viên
 
@@ -98,7 +98,7 @@ Bước 3: Hệ thống hiển thị thông tin học viên sau khi được th�
 
 ![](../.gitbook/assets/demo.jpg)
 
-## Thu phí thi thử
+## 💿 Thu phí thi thử
 
 > Bươc 1: Đưa chuột vào Menu Payment & Enrollment chọn Create Payment.
 
@@ -112,7 +112,7 @@ Bước 3: Hệ thống hiển thị thông tin học viên sau khi được th�
 
 ![](../.gitbook/assets/thuphi3.png)
 
-## Quản lí Kết Quả PT của học viên
+## 📋 Quản lí Kết Quả PT của học viên
 
 > Bước 1: Đưa chuột vào menu Schedules ,chọn buổi PT cần chấm điểm cho học viên.
 

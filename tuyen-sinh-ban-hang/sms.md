@@ -15,7 +15,7 @@
 ![](../.gitbook/assets/sms_lop3.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Lớp thực hiện việc gửi SMS
 
@@ -39,11 +39,11 @@
 ![](../.gitbook/assets/sms_report2.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ **Ghi chú** :
 
 1: Thông tin filter để xuất báo cáo
 
-2: click Apply để xem báo cáo 
+2: Click **Apply** để xem báo cáo 
 
 3: Xuất report dạng **Excel**
 {% endhint %}

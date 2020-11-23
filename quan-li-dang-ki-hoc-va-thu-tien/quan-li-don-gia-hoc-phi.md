@@ -11,7 +11,7 @@
 ![](../.gitbook/assets/dongia-.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Tên đơn giá học phí
 

@@ -6,7 +6,7 @@
 
 
 
-> **Ghi chú :**
+> \*\*\*\*🙆♀ **Ghi chú :**
 >
 > 👉 Kết quả cuộc gọi nằm trong các option sau sẽ hiện phần Mark Dead Lead :
 >
@@ -35,7 +35,7 @@
 ![](../.gitbook/assets/call1.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 **Waiting**: Đang chờ kết nối**.**
 

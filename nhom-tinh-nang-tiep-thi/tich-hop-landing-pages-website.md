@@ -6,7 +6,7 @@ description: >-
 
 # Tích hợp Landing Pages /Website
 
-## Giới thiệu Ladipage
+## ✍ Giới thiệu Ladipage
 
 > Tích hợp landing page website này làm gì ?
 
@@ -26,7 +26,7 @@ description: >-
 
  **Web API** là một phương thức dùng để cho phép các ứng dụng khác nhau có thể giao tiếp, trao đổi dữ liệu qua lại. Dữ liệu được Web API trả lại thường ở dạng [JSON](https://topdev.vn/blog/json-la-gi/) hoặc XML thông qua giao thức HTTP hoặc HTTPS.
 
-## Tích hợp với Ladipage.vn
+## ⚡ Tích hợp với Ladipage.vn
 
 > Bước 1 : Chọn **Lưu Data.**
 
@@ -41,7 +41,7 @@ description: >-
 ![](../.gitbook/assets/ladi3.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
  **Tên cấu hình** : Lưu ý: tên cấu hình nên đặt tên dễ nhớ.
 {% endhint %}
@@ -55,7 +55,7 @@ description: >-
 ![](../.gitbook/assets/ladi5.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Tên lưu trữ: Lưu ý: nên đặt tên dễ nhớ
 
@@ -75,7 +75,7 @@ VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.c
 ![](../.gitbook/assets/ladi6.jpg)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Chỉnh sữa
 
@@ -90,7 +90,7 @@ VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.c
 
 ![](../.gitbook/assets/ladi7%20%281%29.jpg)
 
-## Tích hợp với Wordpress - Contact Form 7
+## ⚡ Tích hợp với Wordpress - Contact Form 7
 
 > Bước 1: Vào module **Plugins** chọn **Add New.**
 
@@ -117,7 +117,7 @@ VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.c
 ![](../.gitbook/assets/contact5.jpg)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: API URL: [**https://api.dotb.cloud/**](https://api.dotb.cloud/) 
 

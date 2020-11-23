@@ -1,6 +1,6 @@
 # SMS Marketing
 
-## Tạo Template SMS chèn tham số
+## 👋 Tạo Template SMS chèn tham số
 
 > Bước 1: Đưa chuột vào module Email chọn Create Email Template .
 
@@ -30,7 +30,7 @@
 
 ![](../.gitbook/assets/email3.png)
 
-## Gửi và xem lại lịch sử gửi
+## 📩 Gửi và xem lại lịch sử gửi
 
 ### Gửi SMS hàng loạt
 
@@ -47,7 +47,7 @@
 ![](../.gitbook/assets/sms4.png)
 
 {% hint style="info" %}
-**Ghi chú** :
+\*\*\*\*🙆♀ **Ghi chú** :
 
 1:Danh sách người nhận SMS
 
@@ -67,7 +67,7 @@
 ![](../.gitbook/assets/smsdonle3.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Chọn Template SMS gửi tin nhắn 
 

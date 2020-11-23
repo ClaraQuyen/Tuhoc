@@ -13,7 +13,7 @@
 ![](../.gitbook/assets/campaigns1.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1. Newsletter: Gửi email dạng bản tin hàng tháng, tuần,..
 2. Email: gửi emaik hàng loạt
@@ -33,7 +33,7 @@
 ![](../.gitbook/assets/5.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1.Tracker Name:Tên chiến dịch theo dõi
 
@@ -49,7 +49,7 @@
 ![](../.gitbook/assets/6.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ Ghi chú:
 
 1.Select : Chọn Danh sách mục tiêu tồn tại trong hệ thống 
 
@@ -61,7 +61,7 @@ Ghi chú:
 ![](../.gitbook/assets/7.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Nhập tên Email Marketing
 
@@ -89,9 +89,9 @@ Ghi chú:
 ![](../.gitbook/assets/8.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ Ghi chú:
 
-1: Finish:hoàn  tất thông tin chạy chiến dich
+1: Finish: hoàn  tất thông tin chạy chiến dich
 
 2: Gửi chiến dịch dạng Test 
 
@@ -109,7 +109,7 @@ Ghi chú:
 ![](../.gitbook/assets/1_2.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+ 🙆♀ **Ghi chú:**
 
 1.Thông tin chiến dịch \(Ngày bắt đầu,kết thúc,trạng thái,…\)
 
@@ -121,7 +121,7 @@ Ghi chú:
 ![](../.gitbook/assets/1_3.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:Chỉnh sửa chiến dịch
 
@@ -155,7 +155,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 ![](../.gitbook/assets/tl3.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:Link tới khách hàng thô \(Target/Lead\) 
 
@@ -181,7 +181,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 ![](../.gitbook/assets/email2.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:Tên Template
 
@@ -225,7 +225,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 ![](../.gitbook/assets/laplich6.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1:Ngày gửi \(Ngày và thời gian lên lịch gửi Email\)
 
@@ -251,7 +251,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 ![](../.gitbook/assets/xembc3.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1 : Filter biểu đồ danh sách chiến dịch email
 

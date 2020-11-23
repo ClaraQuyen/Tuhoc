@@ -13,7 +13,7 @@
 ![](../.gitbook/assets/payment2.jpg)
 
 {% hint style="info" %}
-**Ghi chú**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
@@ -37,7 +37,7 @@
 ![](../.gitbook/assets/payment3.jpg)
 
 {% hint style="info" %}
-**Ghi chú**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
@@ -65,7 +65,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enr
 ![](../.gitbook/assets/payment_pt1.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ **Ghi chú**:
 
 1: Lựa chọn Học viên đóng tiền PT.
 
@@ -93,7 +93,7 @@ Ghi chú:
 ![](../.gitbook/assets/bookgift.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ **Ghi chú**:
 
 1: Lựa chọn Học sinh.
 
@@ -110,7 +110,7 @@ Ghi chú:
 
 ![](../.gitbook/assets/bookgift1.png)
 
-## Thanh toán trả góp
+## 🎯 Thanh toán trả góp
 
 #### Cách 1 : Sử dụng Installment Plan \(Thanh toán trả góp\)
 
@@ -159,7 +159,7 @@ Ghi chú:
 ![](../.gitbook/assets/thanhtoanchopayment3.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Lựa chọn hình thức thanh toán
 
@@ -173,7 +173,7 @@ Ghi chú:
 ![](../.gitbook/assets/thanhtoanchopayment4.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+\*\*\*\*🙆♀ **Ghi chú:**
 
 1: Xuất Phiếu thu
 
@@ -182,10 +182,10 @@ Ghi chú:
 3: Xóa Phiếu thu, khi thực hiện thiện việc xóa Phiếu thu thì trạng thái của Phiếu thu sẽ chuyển về: Cancel
 {% endhint %}
 
-## Xuất hóa đơn điện tử \(E-invoice\)
+## 📃 Xuất hóa đơn điện tử \(E-invoice\)
 
 {% hint style="info" %}
-**GHI CHÚ:**
+\*\*\*\*🙆♀ **GHI CHÚ:**
 
 * **MÔ TẢ:** Hóa đơn điện tử \(E-invoice\) là tập hợp các thông điệp dữ liệu điện tử về bán hàng hóa, cung ứng dịch vụ, được khởi tạo, lập, gửi, nhận, lưu trữ và quản lý bằng phương tiện điện tử theo quy định của pháp luật về giao dịch điện tử.
 * **LƯU Ý:** Chức năng của hóa đơn điện tử chỉ hoạt động khi Đơn vị có sử dụng HT E-invoice và đã được cài đặt lên hệ thống EMS.
@@ -211,7 +211,7 @@ Ghi chú:
 ![](../.gitbook/assets/image%20%2844%29.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1:  Họ tên người mua hàng: Họ tên người mua hàng được hiển thị trên hóa đơn điện tử có thể là tên học viên hoặc tên phụ huynh học viên \(nếu có\). Ngoài ra, nếu muốn chỉnh sửa các thông tin này có thể click vào Edit.
 
@@ -219,13 +219,13 @@ Ghi chú:
 {% endhint %}
 
 {% hint style="success" %}
-Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
+🙋♂ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2839%29.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Export PDF E-invoice: Xuất E-invoice thành file PDF, tự động lưu về máy.
 
@@ -247,7 +247,7 @@ Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông 
 > Bước 3: Void thành công.
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
 {% endhint %}

@@ -38,7 +38,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%281%29%20%282%29.png)
 
-## Import Leads
+## 📥 Import Leads
 
 > Bước 1: Đưa chuột vào Module **Leads** chọn **Import Leads**.
 
@@ -53,7 +53,7 @@ description: >-
 ![](../.gitbook/assets/importlead2.png)
 
 {% hint style="info" %}
-**Chú thích** :
+\*\*\*\*🙆♀ **Chú thích** :
 
 1 : Dowload file Import mẫu \(nếu chưa có\)
 
@@ -65,7 +65,7 @@ description: >-
 
 5 : Chọn template import dữ liệu vào hệ thống \(bắt buộc chọn theo template đã cho\)
 
-**Lưu ý** : 
+\*\*\*\*🙋♂ **Lưu ý** : 
 
 * File Template dùng để Import dữ liệu Leads vào hệ thống.
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\)
@@ -88,11 +88,11 @@ description: >-
 ![](../.gitbook/assets/7%20%281%29.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Import Again: Import lại danh sách khách hàng \(Nếu muốn\)
 
-2:Exit : Thoát ra màn hình Overview của module Targets
+2: Exit : Thoát ra màn hình Overview của module Targets
 
 3: Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Tareget List để chạy Campains hoặc gửi email,..
 {% endhint %}
@@ -130,7 +130,7 @@ description: >-
 ![](../.gitbook/assets/taocall2.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Nội dung cuộc gọi \(Subject\)
 
@@ -174,7 +174,7 @@ description: >-
 ![](../.gitbook/assets/taocall2.png)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1: Nội dung cuộc gọi \(Subject\)
 

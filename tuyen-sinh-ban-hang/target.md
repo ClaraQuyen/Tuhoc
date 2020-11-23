@@ -41,7 +41,7 @@ description: >-
 ![](../.gitbook/assets/3%20%282%29.png)
 
 {% hint style="info" %}
-**Ghi Chú:**
+\*\*\*\*🙆♀ **Ghi Chú:**
 
 1 : Dowload file Import mẫu \(nếu chưa có\)
 
@@ -73,7 +73,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 ![](../.gitbook/assets/7%20%281%29.png)
 
 {% hint style="info" %}
-**Ghi chú** :
+\*\*\*\*🙆♀ **Ghi chú** :
 
 1: Import Again: Import lại danh sách khách hàng \(Nếu muốn\)
 
@@ -107,7 +107,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 ![](../.gitbook/assets/2%20%282%29.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ Ghi chú:
 
 \(+\) : Thêm điều kiện Mass Update 
 

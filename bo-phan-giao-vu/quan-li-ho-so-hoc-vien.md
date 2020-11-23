@@ -33,7 +33,7 @@ description: >-
 ![](../.gitbook/assets/trichloc3.png)
 
 {% hint style="info" %}
-**Ghi chú** :
+\*\*\*\*🙆♀ **Ghi chú** :
 
 +Is any of:Bất kì
 
@@ -57,7 +57,7 @@ description: >-
 ![](../.gitbook/assets/timkiem1.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+ 🙆♀ **Ghi chú:**
 
 1:Gobal search : tìm kiếm toàn hệ thống 
 
@@ -71,7 +71,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 ![](../.gitbook/assets/timkiem2.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+ 🙆♀ **Ghi chú:**
 
 1 :Tìm kiếm học viên,giáo viên,User ,… bất kì 
 
@@ -83,7 +83,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 ![](../.gitbook/assets/timkiem3.png)
 
 {% hint style="info" %}
-Ghi chú:
+🙆♀ Ghi chú:
 
 1: Tìm kiếm học viên trong module Student.Ví dụ muốn tim học viên có tên hoặc họ đệm là Phương thì bạn search %Phuong hoặc có thể nhập cả tên của học viên. 
 
@@ -105,7 +105,7 @@ Ghi chú:
 ![](../.gitbook/assets/importstudent.png)
 
 {% hint style="info" %}
-**Chú thích** :
+\*\*\*\*🙆♀ **Chú thích** :
 
 1 : Dowload file Import mẫu \(nếu chưa có\)
 
@@ -117,7 +117,7 @@ Ghi chú:
 
 5 : Chọn template import dữ liệu vào hệ thống \(bắt buộc chọn theo template đã cho\)
 
-**Lưu ý** :
+\*\*\*\*🙋♂ **Lưu ý** :
 
 * File Template dùng để Import dữ liệu Leads vào hệ thống đã được đính kèm trên hệ hống.
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu \( các cột còn lại có thể có hoặc không \) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng\).
@@ -140,7 +140,7 @@ Ghi chú:
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjamgRtLaAkNJW20E%2F7.png?alt=media&token=1ef8695e-033d-46d6-81ab-4976108ea4b3)
 
 {% hint style="info" %}
-**Ghi chú**:
+\*\*\*\*🙆♀ **Ghi chú**:
 
 1 : Click vào để quay lại bước nhập trước đó.
 
@@ -160,7 +160,7 @@ Ghi chú:
 ![](../.gitbook/assets/phuhuynh1.png)
 
 {% hint style="info" %}
-**Ghi chú:**
+ 🙆♀ **Ghi chú:**
 
 1: Thông tin chi tiết của phụ huynh 
 
