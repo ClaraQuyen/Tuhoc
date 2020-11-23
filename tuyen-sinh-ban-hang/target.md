@@ -6,7 +6,7 @@ description: >-
 
 # Targets
 
-## Tạo Target
+## 🎯 Tạo Target
 
 > Bước 1: Đưa chuột vào Menu **Targets** chọn **Create Target.**
 

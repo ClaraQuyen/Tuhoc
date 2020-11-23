@@ -1,6 +1,6 @@
 # Quản lí chương trình học
 
-## Danh mục khóa học, chương trình học
+## 👋 Danh mục khóa học, chương trình học
 
 > Bước 1: Click chuột vào module Kind of Courses chọn Create.
 
@@ -18,7 +18,7 @@
 2:Cấu hình chương trình học và tạo giáo án theo từng buổi học \(Phần 2 của giáo án theo từng buổi hoc\).
 {% endhint %}
 
-## Giáo án theo từng buổi học
+## ✍ Giáo án theo từng buổi học
 
 > Bước 1: Đưa chuột vào module **Kind of courses** chọn **Create** .
 
@@ -60,9 +60,9 @@
 
 ![](../.gitbook/assets/giaoan3.png)
 
-## Định nghĩa cấu trúc bảng điểm
+## ✍ Định nghĩa cấu trúc bảng điểm
 
-> Bước 1**:** Click chuột vào module Gradebook Setting chọn **Create Gradebook Setting.**
+> Bước 1**:** Click chuột vào module **Gradebook Setting** chọn **Create Gradebook Setting.**
 
 ![](../.gitbook/assets/ctbangdiem.png)
 
@@ -80,7 +80,7 @@
 3: Loại cấu trúc bảng điểm \(Overall : bảng điểm cuối kì hay giữa kì , Progress: bảng điểm mini test\)
 {% endhint %}
 
-> Bước 3: Tại màn hình định nghĩa cấu trúc bảng điểm,định nghĩa cấu trúc chương trình học theo trung tâm của bạn, sau đó click Save Config.
+> Bước 3: Tại màn hình định nghĩa cấu trúc bảng điểm,định nghĩa cấu trúc chương trình học theo trung tâm của bạn, sau đó click **Save Config**.
 
 ![](../.gitbook/assets/bangdiem4.jpg)
 
@@ -104,7 +104,7 @@ Visible: Tick cho phép hiển thị cột hoặc không
 7: Thêm cột
 {% endhint %}
 
-## Cấu hình số giờ/lớp và quản lí Upgrade lớp
+## 🦴 Cấu hình số giờ/lớp và quản lí Upgrade lớp
 
 ### Quản lí Upgrade Lớp
 

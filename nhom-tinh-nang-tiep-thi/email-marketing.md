@@ -1,6 +1,6 @@
 # Email Marketing
 
-## Campaigns
+## 🌟 Campaigns
 
 ### Tạo Campaigns\(Wizard\)
 
@@ -170,7 +170,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 
 ![](../.gitbook/assets/tl5.png)
 
-## Email Template
+## 📝 Email Template
 
 > Bước 1: Đưa chuột vào Menu Email chọn Create Email Template.
 
@@ -198,7 +198,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 
 ![](../.gitbook/assets/email3%20%281%29.png)
 
-## Lập lịch gửi Email
+## 🕑 Lập lịch gửi Email
 
 > Bước 1: Đưa chuột vào Menu Campaign s chọn View Campaign s ,sau đó chọn chiến dịch muốn lập lịch gửi Email.
 
@@ -236,7 +236,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 4:Click vào Send Queued Campaign  Emails để gưi chiến dịch
 {% endhint %}
 
-## Xem báo cáo hiệu quả Campaigns
+## 📈 Xem báo cáo hiệu quả Campaigns
 
 > Bước 1: Đưa chuột vào module Campaigns chọn View Campaign s ,sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
 
