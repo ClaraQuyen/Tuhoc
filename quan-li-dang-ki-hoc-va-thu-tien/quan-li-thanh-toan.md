@@ -196,9 +196,9 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enr
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
-> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô **Get E-invoice**, để xuất hóa đơn điện tử cho Payment đó.
+> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/e-invoice.jpg)
 
 {% hint style="info" %}
 **Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử \(như hình dưới\) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
