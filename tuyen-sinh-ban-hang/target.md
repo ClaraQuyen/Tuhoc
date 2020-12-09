@@ -6,6 +6,16 @@ description: >-
 
 # Targets
 
+> \*\*\*\*👉 **Chi tiết các trạng thái Học viên thô \(Target\)**
+>
+> **+ New** : Leads mới được assign chưa được chưa chăm sóc 
+>
+> **+ In Process** : Đã có tương tác, gọi điện, tư vấn ****
+>
+> **+ Converted :** Đã chuyển Target lên Lead
+>
+> **+ Dead :** Không có tiềm năng
+
 ## 🎯 Tạo Target
 
 > Bước 1: Đưa chuột vào Menu **Targets** chọn **Create Target.**
