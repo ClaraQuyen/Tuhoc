@@ -98,5 +98,19 @@ Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong x�
 
 > Bước 3: Khi lưu thành công, màn hình lịch của tháng những ô được tô màu vàng là thời gian giáo viên đã được xếp lịch, ô màu xanh là ngày hiện tại.
 
-![](../.gitbook/assets/admin4.jpg)
+![](../.gitbook/assets/admin2.png)
+
+{% hint style="info" %}
+**Ghi chú**: 
+
+_**Tính năng Sync PT/Demo**_ sẽ đồng bộ các buổi PT/Demo lên Module Admin Hour khi giáo viên được book vào các buổi PT/Demo thông qua module Schedules
+
+Khi tạo các buổi PT/Demo mà có thêm giáo viên vào các buổi đó.
+{% endhint %}
+
+![](../.gitbook/assets/scheduele_sync1.png)
+
+> Tính năng Sync PT/Demo sẽ hoạt động khi click vào button Sync PT/Demo, hệ thống sẽ thêm giáo viên vào lịch lên module Admin Hour tương ứng với buổi mà bạn đã setup trong module Schedules.
+
+![](../.gitbook/assets/admin.png)
 
