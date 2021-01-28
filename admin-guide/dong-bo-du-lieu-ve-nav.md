@@ -4,7 +4,7 @@ description: >-
   gian của NAV
 ---
 
-# Đồng bộ dữ liệu về NAV
+# Đẩy dữ liệu về database trung gian NAV
 
 > Bước 1: Click chuột vào module Admin chọn .
 

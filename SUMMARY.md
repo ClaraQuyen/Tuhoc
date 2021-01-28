@@ -58,7 +58,7 @@
 ## Admin Guide
 
 * [Inventory](admin-guide/inventory.md)
-* [Đồng bộ dữ liệu về NAV](admin-guide/dong-bo-du-lieu-ve-nav.md)
+* [Đẩy dữ liệu về database trung gian NAV](admin-guide/dong-bo-du-lieu-ve-nav.md)
 * [Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users.md)
 * [Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
 * [Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
