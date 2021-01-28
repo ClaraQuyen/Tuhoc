@@ -1,7 +1,7 @@
 ---
 description: >-
   Chức năng này sẽ đẩy dữ các payment đã thanh toán từ ems sang hệ thống trung
-  gian của NAV theo link hướng dẫn.
+  gian của NAV
 ---
 
 # Đồng bộ dữ liệu về NAV
