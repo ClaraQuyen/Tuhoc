@@ -4,7 +4,7 @@ description: >-
   gian của NAV
 ---
 
-# Đẩy dữ liệu về database trung gian NAV
+# Đẩy dữ liệu về database trung gian NAV ERP
 
 > Bước 1: Click chuột vào module Admin chọn .
 
