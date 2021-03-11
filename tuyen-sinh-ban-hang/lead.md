@@ -156,6 +156,7 @@ description: >-
 > > * **Deny** \(máy bận, khóa máy\)
 > > * **Call Back Later** \(không nhấc máy\)
 > > * **Invalid Number**\(sai số\).
+> > * **Busy/No Answers** \(Máy bận/ Không trả lời\)
 
 ![](../.gitbook/assets/image%20%285%29%20%282%29.png)
 
