@@ -1,0 +1,42 @@
+# Cấu hình thư viện ảnh, tài liệu trong KOC
+
+## Cấu hình Thư viện ảnh
+
+> Bước 1: Click vào Admin
+
+![](../.gitbook/assets/1%20%286%29.png)
+
+> Bươc 2: Tại màn hình quản trị viên, chọn Google API Config
+
+![](../.gitbook/assets/2%20%286%29.png)
+
+> Bước 3: Sau đó nhập Floder ID của thư mục mà bạn đã tạo trên Google Drive, tiếp theo click chọn **Get Author Code.**
+
+![](../.gitbook/assets/3%20%286%29.png)
+
+> Bước 4: Chọn tài khoản gmail chứa cài đặt thư mục hình ảnh.
+
+![](../.gitbook/assets/4%20%284%29.png)
+
+> Bước 5: Tiếp theo chọn Nâng cao, để cấp quyền truy cập
+
+![](../.gitbook/assets/5%20%284%29.png)
+
+> Bước 6: Chọn "Đi tới Google API Application"
+
+![](../.gitbook/assets/6%20%283%29.png)
+
+> Bước 7: Sau đó click chon Cho Phép để cấp quyền truy cập từ hệ thống
+
+![](../.gitbook/assets/7%20%283%29.png)
+
+> Bước 8: Sau khi cấp quyề truy cập xong, hệ thống sẽ gửi về một mã code, copy mã code.
+
+![](../.gitbook/assets/8%20%282%29.png)
+
+> Bước 9: Sau khi copy mã code xong, dán vào ô và click **Save**.
+
+![](../.gitbook/assets/9.png)
+
+## Cấu hình URL Document
+

@@ -63,6 +63,7 @@
 * [Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
 * [Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
 * [Cấu hình Search](admin-guide/search.md)
+* [Cấu hình thư viện ảnh, tài liệu trong KOC](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc.md)
 
 ---
 
