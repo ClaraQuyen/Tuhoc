@@ -1,4 +1,24 @@
-# Drop Payment
+# Convert -Drop Payment
+
+## Convert Payment
+
+{% hint style="success" %}
+Tính năng này được sử dụng khi học viên _**đã mua một gói học mà chưa sử dụng hoặc Delay**_ số giờ cho lớp học , và họ muốn sử dụng gói học A này hoặc số giờ Delay để học gói học B hoặc mua gói học khác.
+{% endhint %}
+
+> Bước 1: Chọn payment mà học viên đã mua trước đó. Trong thông tin Payment chọn "**Admin Action**" ,lưu ý lúc nào use type là **Hour**, sau đó chọn **Convert Payment**.
+
+![](.gitbook/assets/delay3%20%281%29.jpg)
+
+> Bước 2: Sau đó chọn use type là "**To Amount**" , và cuối cùng click **Submit**.
+
+![](.gitbook/assets/delay4%20%281%29.jpg)
+
+> Bước 6: Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount** . Lưu ý use type khi chuyển thành công sẽ là **Amount**.
+
+![](.gitbook/assets/delay5%20%281%29.jpg)
+
+## Drop Payment
 
 {% hint style="success" %}
 Tính năng này được sử dụng khi học viên _**đã mua và đã sử dụng được một khoản**_ với KOC là A nhưng lại muốn sử dụng phần remain của gói đã mua này để học KOC B, thì người dùng sẽ phải convert qua số tiền ,sau đó tạo lại payment sử dụng số tiền đó để mua gói KOC B.

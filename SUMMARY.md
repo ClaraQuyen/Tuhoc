@@ -53,7 +53,7 @@
 ---
 
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
-* [Drop Payment](drop-payment.md)
+* [Convert -Drop Payment](drop-payment.md)
 
 ## Admin Guide
 
