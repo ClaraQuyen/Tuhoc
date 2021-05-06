@@ -6,3 +6,7 @@ description: >-
 
 # Upload hình ảnh học tập
 
+> Bước 1: Vào module **Gallery**, chọn **Create Gallery**.
+
+> Bước 2: Tại màn hình Gallery, chọn lớp và nhập hoạt động của bé, sau đó Upload hình ảnh và chọn ngày gửi thông báo đến phụ huynh về hoạt động. Cuối cùng click **Save**.
+
