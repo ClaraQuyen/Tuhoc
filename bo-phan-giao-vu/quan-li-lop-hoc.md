@@ -10,19 +10,17 @@
 
 ![](../.gitbook/assets/dshv2.png)
 
-## Điểm danh/ Send App Message sau mỗi buổi học
-
-### Điểm Danh
+## Điểm danh
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi điểm danh.
 
 ![](../.gitbook/assets/diemanh1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button Attendance & Homework.
+> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework.**
 
 ![](../.gitbook/assets/diemanh2.png)
 
-> Bước 3: Tại màn hình Điểm danh, lựa chọn các tiêu chí sau đó tiến hành Điểm danh cho Học sinh
+> Bước 3: Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học.
 
 ![](../.gitbook/assets/man-hinh-diem-danh-hoc-vien-va-gui-sms.png)
 
@@ -41,7 +39,7 @@
 
 6: Đánh giá điểm chuyên cần cho Học viên
 
-7: [**Gửi thông báo**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#diem-danh) đến App về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+7: [**Gửi thông báo** **đến App**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#diem-danh) về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
 8: ****[**Gửi tin nhắn đến App**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#send-app-message) về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
@@ -54,13 +52,15 @@
 \*\*\*\*🙋♂ **Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
 {% endhint %}
 
-### Send App Message
+## Tính năng dành cho App Parents
+
+### Gửi thông báo nghỉ học, học bù - Send App Message
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi thông báo đến App như lịch học bù lịch khai giảng,..đến cho học viên.
 
 ![](../.gitbook/assets/guisms1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button Attendance & Homework
+> Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button **Attendance & Homework**
 
 ![](../.gitbook/assets/guisms2.png)
 
@@ -94,17 +94,17 @@
 
 ![](../.gitbook/assets/z2050025829813_4b3abf07dc37c2731bb7b4325755af76.jpg)
 
-## Ghi nhận hoc viên làm bài tập
+### Gửi thông báo điểm danh, Ghi nhận hoc viên làm bài tập
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi SMS,nội dung bài học, điểm danh đến cho học viên.
 
 ![](../.gitbook/assets/lambt1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button Attendance & Homework.
+> Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button **Attendance & Homework.**
 
 ![](../.gitbook/assets/lambt2.png)
 
-> Bước 3: Tại màn hình Điểm danh, lựa chọn các tiêu chí sau đó tiến hành check homework cho Học sinh.
+> Bước 3: Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học, và cuối cùng click chọn **Send Attendance Report** để gửi thông báo đến phụ huynh về buổi học của bé.
 
 ![](../.gitbook/assets/lambt3.png)
 
@@ -127,8 +127,6 @@
 
 \*\*\*\*🙋♂ **Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS
 {% endhint %}
-
-
 
 ## Ghi nhận nội dung buổi học
 

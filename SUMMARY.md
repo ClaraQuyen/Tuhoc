@@ -50,6 +50,15 @@
 * [Quản lí giáo viên và TA](bo-phan-giao-vu/quan-li-giao-vien-va-ta.md)
 * [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc.md)
 
+## Tính năng dành cho Parents App trên CRM
+
+* [Cập nhật hồ sơ học viên](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-ho-so-hoc-vien.md)
+* [Gửi thông báo nghỉ học, học bù - Send App Message](tinh-nang-danh-cho-parents-app-tren-crm/gui-thong-bao-nghi-hoc-hoc-bu-send-app-message.md)
+* [Gửi kết quả điểm danh về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh.md)
+* [Gửi Kết Quả Học Tập](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-hoc-tap.md)
+* [Cập nhật hình ảnh học tập của học viên](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
+* [Marketing - Gửi thông báo các sự kiện, hoạt động của trung tâm.](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
+
 ---
 
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
@@ -65,8 +74,4 @@
 * [Cấu hình SMS](admin-guide/cau-hinh-sms.md)
 * [Cấu hình Search](admin-guide/search.md)
 * [Cấu hình thư viện ảnh, tài liệu trong KOC](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc.md)
-
----
-
-* [Cập nhật cho Edu Hàng tháng](cap-nhat-cho-edu-hang-thang.md)
 
