@@ -64,10 +64,10 @@
 ---
 
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
-* [Convert -Drop Payment](drop-payment.md)
 
 ## Admin Guide
 
+* [Convert -Drop Payment](admin-guide/drop-payment.md)
 * [Inventory](admin-guide/inventory.md)
 * [Đẩy dữ liệu về database trung gian NAV ERP](admin-guide/day-du-lieu-ve-database-trung-gian-nav-erp.md)
 * [Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users.md)
