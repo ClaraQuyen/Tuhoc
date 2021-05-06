@@ -1,4 +1,4 @@
-# Gửi thông báo nghỉ học, học bù - Send App Message
+# Gửi thông báo nghỉ học, học bù
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi thông báo đến App như lịch học bù lịch khai giảng,..đến cho học viên.
 

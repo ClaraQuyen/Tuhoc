@@ -53,11 +53,13 @@
 ## Tính năng dành cho Parents App trên CRM
 
 * [Cập nhật hồ sơ học viên](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-ho-so-hoc-vien.md)
-* [Gửi thông báo nghỉ học, học bù - Send App Message](tinh-nang-danh-cho-parents-app-tren-crm/gui-thong-bao-nghi-hoc-hoc-bu-send-app-message.md)
-* [Gửi kết quả điểm danh về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh.md)
+* [Gửi thông báo nghỉ học, học bù](tinh-nang-danh-cho-parents-app-tren-crm/gui-thong-bao-nghi-hoc-hoc-bu-send-app-message.md)
+* [Gửi kết quả điểm danh](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh.md)
 * [Gửi Kết Quả Học Tập](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-hoc-tap.md)
-* [Cập nhật hình ảnh học tập của học viên](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
-* [Marketing - Gửi thông báo các sự kiện, hoạt động của trung tâm.](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
+* [Upload hình ảnh học tập](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
+* [Marketing - News](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
+* [Nhận và gửi phản hồi về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/nhan-va-gui-phan-hoi-ve-phu-huynh.md)
+* [Thông tin học phí](tinh-nang-danh-cho-parents-app-tren-crm/thong-tin-hoc-phi.md)
 
 ---
 

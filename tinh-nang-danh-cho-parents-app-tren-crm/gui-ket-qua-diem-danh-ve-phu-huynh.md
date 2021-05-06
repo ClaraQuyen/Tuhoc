@@ -2,7 +2,7 @@
 description: 'Gửi thông báo điểm danh, Ghi nhận hoc viên làm bài tập sau mỗi buổi học.'
 ---
 
-# Gửi kết quả điểm danh về Phụ Huynh
+# Gửi kết quả điểm danh
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi SMS,nội dung bài học, điểm danh đến cho học viên.
 
