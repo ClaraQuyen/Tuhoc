@@ -14,7 +14,3 @@ description: >-
 
 ![](../.gitbook/assets/2%20%283%29.jpg)
 
-> Bước 3 : Sau khi Save ảnh thành công, click chọn Send Notification để gửi thông báo về app.
-
-![](../.gitbook/assets/3%20%282%29.jpg)
-
