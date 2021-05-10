@@ -18,3 +18,11 @@
 
 
 
+{% hint style="info" %}
+Lưu ý:
+
+Trường hợp muốn gửi thông báo điểm cho học viên nhiều lần click **Send Notification**.
+{% endhint %}
+
+![](../.gitbook/assets/kqht.jpg)
+
