@@ -6,7 +6,7 @@ description: >-
 
 # Students
 
-![](../.gitbook/assets/new_chamsocstudetns.png)
+![](../.gitbook/assets/edu_chamsocstudetns.png)
 
 > \*\*\*\*👉 **Chi tiết  các trạng thái học viên :**
 >
@@ -19,6 +19,8 @@ description: >-
 > **+ Outstanding :** Học nợ \(Chưa đóng đủ học phí cho khóa học hoặc add vào lớp cho học nợ khi chưa có payment nào\).
 >
 > **+ Finished :** Hoàn tất việc học.
+>
+> + **Stop** : Học viên không đăng kí lớp học mới, **sau 60 ngày.**
 
 ## Convert to Student
 
