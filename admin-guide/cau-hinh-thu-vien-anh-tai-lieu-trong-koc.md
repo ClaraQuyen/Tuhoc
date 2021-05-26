@@ -1,6 +1,6 @@
 # Cấu hình thư viện ảnh, tài liệu trong KOC
 
-## Cấu hình Thư viện ảnh
+## Cấu hình Thư viện ảnh - Google Drive
 
 > Bước 1: Click vào Admin
 
@@ -47,4 +47,45 @@
 > Bước 2: Sau đó click Edit, tại trường URL Document, nhập Folder ID của thư mực đã tạo trên Dirve, dán vào Kind of courese trên hệ thống. Cuối cùng click **Save**.
 
 ![](../.gitbook/assets/koc2.png)
+
+{% hint style="info" %}
+Ghi Chú :
+
+**URL Document** : sẽ được lấy bằng **Tên Thư Mục chứa các tệp đó.**
+
+**Ví dụ:**  **DOTB**
+{% endhint %}
+
+![](../.gitbook/assets/11.jpg)
+
+{% hint style="info" %}
+**Hoặc** :  **DOTB/02. Pre-CleverKid** \(nếu có thư mục con trong thư mục lớn\).
+{% endhint %}
+
+![](../.gitbook/assets/12.jpg)
+
+## Cấu hình HotLine
+
+
+
+> Bước 1: Click chuột vào module Admin chọn .
+
+![](../.gitbook/assets/1%20%284%29.png)
+
+> Bước 2: Tại màn hình Admin click vào chọn **Mobile App Config**.
+
+![](../.gitbook/assets/13.jpg)
+
+> Bước 3: Nhập số HotLine và cuối cùng click **Save**.
+
+![](../.gitbook/assets/14.jpg)
+
+{% hint style="info" %}
+**Ghi chú:**
+
+1. Setup màu cho Mobile App, nếu không set thì mặc định app sẽ lấy theo màu mặc định của Brand.
+2. Số HotLine của Center.
+3. Cho phép người dùng Upload ảnh Profile hoặc ảnh bìa.
+4. Hide/Unhide lượt view của News trên Mobile App.
+{% endhint %}
 
