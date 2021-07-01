@@ -54,7 +54,7 @@
 
 * [Cập nhật hồ sơ học viên](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-ho-so-hoc-vien.md)
 * [Gửi thông báo nghỉ học, học bù](tinh-nang-danh-cho-parents-app-tren-crm/gui-thong-bao-nghi-hoc-hoc-bu-send-app-message.md)
-* [Gửi kết quả điểm danh, Nội dung Bài Học](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh-noi-dung-bai-tap.md)
+* [Gửi kết quả điểm danh, Nội dung Bài Học](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh-noi-dung-bai-hoc.md)
 * [Gửi Kết Quả Học Tập](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-hoc-tap.md)
 * [Upload hình ảnh học tập](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
 * [Marketing - News](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
