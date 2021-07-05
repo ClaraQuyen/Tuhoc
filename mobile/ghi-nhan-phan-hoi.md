@@ -1,12 +1,25 @@
 # Ghi nhận phản hồi
 
-> Bước 1: Tại màn hình Trang chủ, để phản hồi với Trung tâm, click vào chức năng Trao đổi.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Phản hồi để phản hồi về trung tâm.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/f00917cec630326e6b21%20%281%29.jpg)
 
-> Bước 2: Lựa chọn Loại yêu cầu.
+> Bước 2: Click vào biểu tượng dấu cộng góc phải dưới cùng để tạo mới Phản hồi.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/f0219b1fb2e646b81ff7.jpg)
+
+> Bước 3: Chọn 1 trong 2 loại Phản hồi cần thực hiện. Click chọn option Tạo phản hồi.
+
+![](../.gitbook/assets/2642547c7d8589dbd094.jpg)
+
+{% hint style="info" %}
+Ghi chú:
+
+1. Liên hệ trực tiếp: Gọi điện trực tiếp đến hotline trung tâm.
+2. Tạo phản hồi: Phản hồi dưới dạng gửi văn bản đến trung tâm
+{% endhint %}
+
+
 
 {% hint style="info" %}
 Ghi chú: 
