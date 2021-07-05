@@ -8,11 +8,11 @@
 
 ![](../.gitbook/assets/2%20%284%29.jpg)
 
-> Bước 3: Click vào tên lớp cần theo dõi kết quả học tập.
+> Bước 3: Click vào tính năng Kết quả học tập để xem kết quả học tập.
 
 ![](../.gitbook/assets/4%20%281%29.jpg)
 
-> Bước 4: Ứng dụng sẽ hiển thị nội dung chi tiết về lớp học và kết quả học tập của học viên trong lớp học đó.
+> Bước 4: Ứng dụng sẽ hiển thị kết quả học tập của học viên trong lớp học đó.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/c2e8938fdd7629287067.jpg)
 
