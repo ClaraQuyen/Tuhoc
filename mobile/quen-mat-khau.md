@@ -8,11 +8,11 @@ description: >-
 
 > Bước 1 : Nếu phụ huynh quên mật khẩu đăng nhập, Phụ huynh click vào ô **Quên Mật Khẩu .**
 
-![](../.gitbook/assets/qmk1.jpg)
+![](../.gitbook/assets/88.jpg)
 
 > Bước 2: Sau đó nhập số điện thoại của phụ huynh vào để hệ thống gửi mã xác thực, tiếp theo click vào nút **Gửi**.
 
-![](../.gitbook/assets/qmk2.jpg)
+![](../.gitbook/assets/11%20%281%29.jpg)
 
 > Bước 3: Sau khi click nút **Gửi , t**rong 60 hệ thống sẽ gửi mã xác thực \(mã code\) cho Phụ Huynh, sau đó Phụ huynh chỉ cần nhập vào 4 ô như hình, nếu nhập đúng thì nút màu vàng **"Tiếp"** sẽ hiện ra, Phụ huynh click vào nú**t Tiếp.**
 
