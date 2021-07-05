@@ -2,7 +2,7 @@
 
 > Bước 1: Tại màn hình Trang chủ, click vào chức năng Học phí để theo dõi lịch sử các khoản thu của học viên.
 
-![](../.gitbook/assets/f00917cec630326e6b21.jpg)
+![](../.gitbook/assets/f00917cec630326e6b21%20%281%29.jpg)
 
 > Bước 2: Ứng dụng sẽ hiển thị danh sách các khoản thu đã thanh toán hoặc chưa thanh toán, khóa học và ngày thanh toán,... Click vào khoản thu để xem chi tiết.
 

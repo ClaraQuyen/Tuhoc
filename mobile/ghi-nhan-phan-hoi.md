@@ -2,7 +2,7 @@
 
 > Bước 1: Tại màn hình Trang chủ, click vào chức năng Phản hồi để phản hồi về trung tâm.
 
-![](../.gitbook/assets/f00917cec630326e6b21%20%281%29.jpg)
+![](../.gitbook/assets/f00917cec630326e6b21%20%282%29.jpg)
 
 > Bước 2: Click vào biểu tượng dấu cộng góc phải dưới cùng để tạo mới Phản hồi.
 
@@ -19,12 +19,14 @@ Ghi chú:
 2. Tạo phản hồi: Phản hồi dưới dạng gửi văn bản đến trung tâm
 {% endhint %}
 
+> Bước 4: Chọn Loại phản hồi.
 
+![](../.gitbook/assets/7a270e1927e0d3be8af1%20%281%29.jpg)
 
 {% hint style="info" %}
 Ghi chú: 
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/195c49124bebbfb5e6fa-1-.jpg)
 
 * Loại yêu cầu: 
 
@@ -37,36 +39,26 @@ Ghi chú:
 - Khác \(Những trao đổi khác với 3 nội dung trên\).
 {% endhint %}
 
-> Bước 3: Nhập chủ đề và nội dung cần trao đổi, sau đó nhấn Gửi.
+> Bước 5: Nhập nội dung cần phản hồi, sau đó nhấn Gửi.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/c761a5a6a95f5d01044e.jpg)
 
-> Bước 4: Click vào ô Yêu cầu của bạn để theo dõi những nội dung Trao đổi của mình với Trung tâm.
+> Bước 6: Khi trung tâm Phản hồi lại, màn hình sẽ hiển thị thông báo. Click vào để đọc chi tiết tin nhắn được phản hồi.
 
-![](../.gitbook/assets/image%20%281%29%20%281%29.png)
+![](../.gitbook/assets/4f8cbc8acf733b2d6262.jpg)
 
-> Bước 5: Màn hình hiển thị những trao đổi với Trung tâm và trạng thái của.
+> Bước 6: Chi tiết trả lời phản hồi của trung tâm. Có thể tiếp tục cuộc trò chuyện \(nếu cần\).
 
-![](../.gitbook/assets/image%20%2826%29%20%281%29.png)
-
-{% hint style="info" %}
-Ghi chú:
-
-- Đã tiếp nhận: Nội dung Trao đổi đã được gửi đến Trung tâm.
-
-- Đang xử lý: Nội dung Trao đổi đang được Trung tâm xử lý và phản hồi.
-
-- Đã giải quyết: Nội dung Trao đổi đã hoàn tất.
-{% endhint %}
+![](../.gitbook/assets/868d9133e4ca109449db.jpg)
 
 {% hint style="warning" %}
 Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ nhận được tại phần thông báo như sau:
 
 * Click vào nút hình chuông:
 
- ![](../.gitbook/assets/image%20%2815%29%20%281%29.png) 
+ ![](../.gitbook/assets/f00917cec630326e6b21.jpg) 
 
-* Xem thông báo phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/image%20%2816%29.png) 
+* Xem thông báo nhanh các phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/5b7f1367609e94c0cd8f.jpg) 
 {% endhint %}
 
 
