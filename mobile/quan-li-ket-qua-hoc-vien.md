@@ -16,7 +16,7 @@
 
 > Bước 4: Đăng nhập thành công, ứng dụng sẽ hiển thị màn hình Trang chủ như hình bên dưới:
 
-![](../.gitbook/assets/f0077e9a4065b43bed74.jpg)
+![](../.gitbook/assets/f0077e9a4065b43bed74%20%281%29.jpg)
 
 
 
