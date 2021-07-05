@@ -45,9 +45,9 @@ Ghi chú:
 
 > Bước 6: Khi trung tâm Phản hồi lại, màn hình sẽ hiển thị thông báo. Click vào để đọc chi tiết tin nhắn được phản hồi.
 
-![](../.gitbook/assets/4f8cbc8acf733b2d6262.jpg)
+![](../.gitbook/assets/4f8cbc8acf733b2d6262%20%281%29.jpg)
 
-> Bước 6: Chi tiết trả lời phản hồi của trung tâm. Có thể tiếp tục cuộc trò chuyện \(nếu cần\).
+> Bước 7: Chi tiết trả lời phản hồi của trung tâm. Có thể tiếp tục cuộc trò chuyện \(nếu cần\).
 
 ![](../.gitbook/assets/868d9133e4ca109449db.jpg)
 
