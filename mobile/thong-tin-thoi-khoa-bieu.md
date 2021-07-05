@@ -18,7 +18,7 @@
 
 > Bước 3: Ứng dụng hiển thị thông tin chi tiết của buổi học đó.
 
-![](../.gitbook/assets/2_lh.jpg)
+![](../.gitbook/assets/66d465b48f4a7b14225b.jpg)
 
 
 
