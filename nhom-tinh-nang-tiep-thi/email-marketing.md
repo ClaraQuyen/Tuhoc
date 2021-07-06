@@ -157,7 +157,7 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 {% hint style="info" %}
 \*\*\*\*🙆♀ **Ghi chú**:
 
-1:Link tới khách hàng thô \(Target/Lead\) 
+1:Link tới khách hàng \(Target/Lead/Students\) 
 
 2:Chọn từ báo cáo
 {% endhint %}
