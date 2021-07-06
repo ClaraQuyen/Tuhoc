@@ -10,5 +10,5 @@
 
 Bước 3: Click chọn hình ảnh cần xem, có thể tải về máy \(nếu cần\).
 
-![](../.gitbook/assets/13%20%281%29.jpg)
+![](../.gitbook/assets/d41686f90b01ff5fa610-1-.jpg)
 
