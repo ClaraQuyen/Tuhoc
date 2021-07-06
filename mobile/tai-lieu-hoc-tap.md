@@ -1,10 +1,18 @@
 # Tài liệu học tập
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Tài liệu để theo dõi tài liệu học tập của học sinh theo từng bài học.
+> Bước 1: Tại màn hình Trang chủ, click vào chức năng Lớp học để theo dõi tài liệu học tập của học sinh theo từng Lớp học.
 
-![](../.gitbook/assets/image%20%2821%29%20%281%29.png)
+![](../.gitbook/assets/22.jpg)
 
-> Bước 2: Click vào buổi học cần xem tài liệu sau đó click vào tài liệu để xem trực tiếp tài liệu trên ứng dụng.
+> Bước 2: Click vào Lớp muốn xem tài liệu học tập của lớp đó.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/12%20%281%29.jpg)
+
+> Bước 3: Click chọn thư mục Tài liệu để xem các tài liệu học tập được upload.
+
+![](../.gitbook/assets/14%20%281%29.jpg)
+
+> Bước 4: Ứng dụng hiển thị các tài liệu học tập: hình ảnh, powerpoint, file nghe...
+
+![](../.gitbook/assets/50504c12fdea09b450fb.jpg)
 
