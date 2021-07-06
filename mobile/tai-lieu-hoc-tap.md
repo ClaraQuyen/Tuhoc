@@ -2,7 +2,7 @@
 
 > Bước 1: Tại màn hình Trang chủ, click vào chức năng Lớp học để theo dõi tài liệu học tập của học sinh theo từng Lớp học.
 
-![](../.gitbook/assets/22.jpg)
+![](../.gitbook/assets/22%20%281%29.jpg)
 
 > Bước 2: Click vào Lớp muốn xem tài liệu học tập của lớp đó.
 

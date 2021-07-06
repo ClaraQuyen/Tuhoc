@@ -1,18 +1,14 @@
 # Xem thư viện ảnh của học viên
 
-> Bước 1: Tại màn hình Trang chủ, click vào **Thư Viện Ảnh** để xem hoạt động của học viên trong lớp.
+> Bước 1: Tại màn hình Trang chủ, click vào **Bảng Tin** để xem thư viện ảnh của học viên trong lớp.
 
-![](../.gitbook/assets/hinhanh1.jpg)
+![](../.gitbook/assets/24.jpg)
 
-> Bước 2: Click vào chọn lớp mà phụ huynh muốn xem hoạt động của bé.
+> Bước 2: Ứng dụng hiển thị thư viện ảnh của học viên theo lớp
 
-![](../.gitbook/assets/hianh2.jpg)
+![](../.gitbook/assets/34.jpg)
 
-> Bước 3: Chọn vào lớp cần xem ảnh.
+Bước 3: Click chọn hình ảnh cần xem, có thể tải về máy \(nếu cần\).
 
-![](../.gitbook/assets/hinhanh3.jpg)
-
-> Bước 4: Hệ thống hiển thị thư viện ảnh của học viên.
-
-![](../.gitbook/assets/hinhanh4.jpg)
+![](../.gitbook/assets/13%20%281%29.jpg)
 
