@@ -1,8 +1,8 @@
 ---
 description: >-
   Phụ Huynh lưu ý : Nếu có hơn 1 bé học ở trung tâm cùng 1 số điện thoại thì mục
-  Quản lí Tài Khoản thì phụ huynh có thể click vào icon avt để tùy chọn học viên
-  muốn xem.
+  Quản lí Tài Khoản thì phụ huynh có thể click vào icon avatar để tùy chọn học
+  viên muốn xem.
 ---
 
 # Quản lí tài khoản
