@@ -61,9 +61,3 @@ Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ 
 * Xem thông báo nhanh các phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/5b7f1367609e94c0cd8f.jpg) 
 {% endhint %}
 
-
-
-
-
-
-
