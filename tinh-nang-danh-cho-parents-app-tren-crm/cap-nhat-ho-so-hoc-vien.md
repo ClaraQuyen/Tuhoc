@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/2%20%287%29.png)
 
-> Bước 3: Click vào tab ParentsApp Infor để chỉnh sữa lại mật khẩu học viên \(Nếu học viên quên mật khẩu\).
+> Bước 3: Click vào tab **ParentsApp Infor** , sau đó click vào chữ **Change Password**, nhập Passwork để chỉnh sữa lại mật khẩu học viên \(Nếu học viên quên mật khẩu\).
 
 ![](../.gitbook/assets/1%20%284%29.jpg)
 
