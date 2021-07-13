@@ -18,13 +18,13 @@
 2:Cấu hình chương trình học và tạo giáo án theo từng buổi học \(Phần 2 của giáo án theo từng buổi hoc\).
 {% endhint %}
 
-## ✍ Giáo án theo từng buổi học
+## ✍ Tạo giáo án theo từng buổi học
 
-> Bước 1: Đưa chuột vào module **Kind of courses** chọn **Create** .
+> Bước 1: Đưa chuột vào module **Kind of courses** chọn **Create**.
 
 ![](../.gitbook/assets/giaoan1.png)
 
-> Bước 2: Tại màn hình tạo mới chương trình học, nhập đầy đủ các thông tin cần thiết, Sau đó Click Add Syllabus để tạo giáo án cho 1 chương trình học mới.
+> Bước 2: Tại màn hình tạo mới/Chỉnh sữa chương trình học, nhập đầy đủ các thông tin cần thiết, Sau đó Click **Add Syllabus** để tạo giáo án cho 1 chương trình học mới.
 
 ![](../.gitbook/assets/giaoan2.png)
 
@@ -59,6 +59,20 @@
 > Bước 3: Hệ thống hiển thị thông tin chi tiết giáo án theo chương trình học được tạo
 
 ![](../.gitbook/assets/giaoan3.png)
+
+## Chỉnh sửa giáo án theo từng buổi học
+
+> Bước 1: Đưa chuột vào module **Kind of courses, click** chọn một chương trình học cần update giáo án, sau đó chọn **Edit**.
+
+![](../.gitbook/assets/ga1.jpg)
+
+> Bước 2: Tại màn hình chỉnh sữa chương trình học, nhập đầy đủ các thông tin cần thiết. Sau đó click **Create** để edit giáo án cho 1 chương trình học.
+
+![](../.gitbook/assets/ga2.jpg)
+
+> Bước 3:Sau đó nhập thông tin giáo án cần chỉnh sửa, có thể import lại file mới \(1\) hoặc nhập  trực tiếp lên hẹ thống \(2\). Cuối cùng click **Save**.
+
+![](../.gitbook/assets/ga3.jpg)
 
 ## ✍ Định nghĩa cấu trúc bảng điểm
 
