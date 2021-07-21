@@ -6,7 +6,7 @@ description: >-
 
 # Tích hợp Landing Pages /Website
 
-## ✍ Giới thiệu Ladipage
+## ✍ Giới thiệu Landing page
 
 > Tích hợp landing page website này làm gì ?
 
