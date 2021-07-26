@@ -74,15 +74,17 @@
 
 ![](../.gitbook/assets/ga3.jpg)
 
-## ✍ Định nghĩa cấu trúc bảng điểm
+## 📝 Định nghĩa cấu trúc bảng điểm
 
-> Bước 1**:** Click chuột vào module **Gradebook Setting** chọn **Create Gradebook Setting.**
+### Phần 1: Tạo nhóm cấu trúc bảng điểm
 
-![](../.gitbook/assets/ctbangdiem.png)
+> Bước 1**:** Click chuột vào module **Gradebook Setting Groups**, sau đó click **Create** để tạo 1 nhóm cấu trúc bảng điểm mới.
 
-> Bước 2: Tại màn hình tạo cấu trúc bảng điểm, nhập đầy đủ thông tin trung tâm, chương trình học, loại bảng điểm. Tiếp theo click **Load config.**
+![](../.gitbook/assets/gdstg.jpg)
 
-![](../.gitbook/assets/bangdiem3.jpg)
+> Bước 2: Tại màn hình tạo nhóm cấu trúc bảng điểm, nhập tên nhóm cấu trúc bảng điểm \(bắt buộc\) và mô tả thêm \(nếu có\). Sau đó click **Save** để lưu lại.
+
+![](../.gitbook/assets/gb.jpg)
 
 {% hint style="info" %}
 \*\*\*\*🙆♀ **Ghi chú:**
