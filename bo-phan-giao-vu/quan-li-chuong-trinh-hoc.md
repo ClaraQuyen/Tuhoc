@@ -105,7 +105,7 @@
 
 1. Tên bảng điểm\*
 2. Loại bảng điểm: Progress 1, Progress 2, Progress 3... Overall. Đây là cách để hệ thống tính toán ra được bảng điểm cuối cùng \(nếu có nhiều các điểm thành phần\)
-3. Chọn nhóm cấu trúc bảng điểm chứa bảng điểm này.
+3. Chọn nhóm cấu trúc bảng điểm của bảng điểm này.
 {% endhint %}
 
 > Bước 3: Sau khi tạo 1 cấu trúc bảng điểm, màn hình sẽ chuyển sang phần cấu hình chi tiết cho các cột điểm của bảng điểm. Tại đây, tiến hành định nghĩa bảng điểm theo chương trình học của trung tâm. Cuối cùng click **Save Setting.**
