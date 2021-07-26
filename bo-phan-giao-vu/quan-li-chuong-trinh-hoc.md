@@ -92,7 +92,7 @@
 
 ### Phần 2: Tạo cấu trúc bảng điểm 
 
-> Bước 1: Click chuột vào module Gradebook Settings, sau đó click Create để tạo mới 1 cấu trúc bảng điểm.
+> Bước 1: Click chuột vào module **Gradebook Settings,** sau đó click **Create** để tạo mới 1 cấu trúc bảng điểm.
 
 ![](../.gitbook/assets/gs.jpg)
 
@@ -123,7 +123,7 @@
 
 4: Loại cột điểm \(Score: Điểm; Formula: Điểm dựa trên công thức; Band: Xếp loại; Total: Điểm tổng kết; Comment: Nhận xét\)
 
-5: Visible: Tick cho phép hiển thị cột hoặc kẩn cột
+5: Visible: Tick cho phép hiển thị cột hoặc ẩn cột
 
 6: Nhập điểm tối đa, loại kết quả,... phụ thuộc theo loại của cột điểm
 
