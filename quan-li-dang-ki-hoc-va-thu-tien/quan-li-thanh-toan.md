@@ -252,5 +252,17 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/enr
 1: Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
 {% endhint %}
 
+## Quản lí Chi
 
+> Bước 1: Click vào dấu 3 chấm, sao đó chọn tính năng **Center Expense**
+
+![](../.gitbook/assets/1%20%285%29.jpg)
+
+> Bước 2: Tại màn hình Chi, click nút tạo \(**Create**\).
+
+![](../.gitbook/assets/2%20%285%29.jpg)
+
+> Bước 3: Nhập thông tin Chi cho trung tâm, cuối cùng click **Save**.
+
+![](../.gitbook/assets/3%20%283%29.jpg)
 
