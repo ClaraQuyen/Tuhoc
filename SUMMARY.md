@@ -76,4 +76,5 @@
 * [Cấu hình SMS](admin-guide/cau-hinh-sms.md)
 * [Cấu hình Search](admin-guide/search.md)
 * [Cấu hình thư viện ảnh, tài liệu trong KOC](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc.md)
+* [Cấu hình logo trên EMS](admin-guide/cau-hinh-logo-tren-ems.md)
 
