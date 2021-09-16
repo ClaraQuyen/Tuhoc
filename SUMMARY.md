@@ -81,4 +81,8 @@
 ## Teacher Guide
 
 * [Đăng Nhập](teacher-guide/dang-nhap.md)
+* [Thông tin Lớp giảng dạy](teacher-guide/thong-tin-lop-giang-day.md)
+* [Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
+* [Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
+* [Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)
 
