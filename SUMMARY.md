@@ -51,6 +51,9 @@
 * [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc/README.md)
   * [Điểm danh](bo-phan-giao-vu/quan-li-lop-hoc/diem-danh.md)
   * [Ghi nhận nội dung buổi học](bo-phan-giao-vu/quan-li-lop-hoc/ghi-nhan-noi-dung-buoi-hoc.md)
+  * [Add học viên Trail Class](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-trail-class.md)
+  * [Add học viên vào Lớp](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-vao-lop.md)
+  * [Enroll OutStanding](bo-phan-giao-vu/quan-li-lop-hoc/enroll-outstanding.md)
 
 ## Tính năng dành cho Parents App trên CRM
 
