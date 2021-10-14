@@ -54,6 +54,7 @@
   * [Add học viên Trail Class](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-trail-class.md)
   * [Add học viên vào Lớp](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-vao-lop.md)
   * [Enroll OutStanding](bo-phan-giao-vu/quan-li-lop-hoc/enroll-outstanding.md)
+  * [Nhập điểm](bo-phan-giao-vu/quan-li-lop-hoc/nhap-diem.md)
 
 ## Tính năng dành cho Parents App trên CRM
 
