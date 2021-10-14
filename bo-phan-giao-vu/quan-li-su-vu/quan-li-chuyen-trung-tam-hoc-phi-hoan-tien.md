@@ -11,7 +11,7 @@ description: >-
 {% hint style="info" %}
 ****:woman_gesturing_ok: **Lưu ý** :
 
-Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó sử dụng tính năng **Moving center** này để chuyển center cho học viên.
+Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó [**Convert Payment**](../../admin-guide/drop-payment.md#convert-payment) sang Amount, cuối cùng sử dụng tính năng **Moving Center ** này để chuyển trung tâm A đến cho trung tâm B.
 {% endhint %}
 
 > Bước 1:Đưa chuột vào module Student ,chọn vào học viên có nhu cầu chuyển trung tâm hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
@@ -24,7 +24,7 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 
 > Bước 3: Tại màn hình chuyển trung tâm, chọn trung tâm học viên muốn chuyển đến (2) và những thông tin liên quan cần thiết như số giờ học viên còn lại và số tiền ở trung tâm hiện tại (1) và lí do chuyển center (3). Sau đó click **Save**.
 
-![](../../.gitbook/assets/delay5.jpg)
+![](../../.gitbook/assets/moving.png)
 
 {% hint style="info" %}
 ****:woman_gesturing_ok: **Ghi chú:**
@@ -33,7 +33,9 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 
 2:Trung tâm mà học viên muốn chuyển đến.
 
-3: Thông tin trung tâm mới mà học viên lựa chọn chuyển tới..
+3\. Phí admin chuyển trung tâm
+
+4: Thông tin trung tâm mới mà học viên lựa chọn chuyển tới..
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin chuyển trung tâm của học viên sau khi Save thành công.
@@ -45,7 +47,7 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 {% hint style="info" %}
 ****:woman_gesturing_ok: **Lưu ý** :
 
-Khi thực hiện chuyển học phí từ học viên A đến học viên B, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó sử dụng tính năng **Transfer Fee**  này để chuyển học phí đến cho học viên B.
+Khi thực hiện chuyển học phí từ học viên A đến học viên B, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước (Nếu học viên đang học trong lớp ), sau đó [**Convert Payment**](../../admin-guide/drop-payment.md#convert-payment) sang Amount, cuối cùng sử dụng tính năng **Transfer Fee**  này để chuyển học phí đến cho học viên B.
 {% endhint %}
 
 > Bước 1: Đưa chuột vào module Student ,click vào học viên có nhu cầu chuyển nhượng học phí hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
@@ -56,9 +58,9 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 
 ![](../../.gitbook/assets/nhuonghocphi2.png)
 
-> Bước 3: Tại màn hình chuyển nhượng học phí, chọn học viên được nhận học phí (2) sau đó chọn loại học phí (delay, cashholder,deposit) muốn chuyển đến cho học viên B(1), nhập thêm thông tin (3)  ,sau đó click **Save **để hoàn tất.
+> Bước 3: Tại màn hình chuyển nhượng học phí, chọn học viên được nhận học phí (2) sau đó chọn loại học phí (delay, cashholder,deposit) muốn chuyển đến cho học viên B(1), nhập phí admin charge(3) và Lí do (4)  ,sau đó click **Save **để hoàn tất.
 
-![](../../.gitbook/assets/delay6.jpg)
+![](../../.gitbook/assets/guide1.png)
 
 {% hint style="info" %}
 ****:woman_gesturing_ok: **Ghi chú:**
@@ -67,7 +69,9 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 
 2: Thông tin học viên được nhận học phí (học viên B) từ học viên A.
 
-3: Thông tin thêm được chuyển học phí (nếu có).
+3\. Phí admin chuyển học viên từ A sang B (Nếu có).
+
+4: Thông tin thêm được chuyển học phí .
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin chuyển chuyển nhượng học phí của học viên sau khi Save thành công.
