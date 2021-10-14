@@ -7,19 +7,17 @@ description: >-
 
 # TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS
 
-```text
+```
 MÔ HÌNH TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO - DOTB EMS
 ```
 
-![](.gitbook/assets/capture.PNG)
+![](.gitbook/assets/Capture.PNG)
 
 
 
-```text
+```
 Quy trình tổng quan trung tâm đào tạo
 ```
 
 ![](.gitbook/assets/tongquan.png)
-
-
 

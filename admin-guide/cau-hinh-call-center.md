@@ -8,19 +8,17 @@
 
 ![](../.gitbook/assets/set2.jpg)
 
-> Bước 3: Chọn nhà cung cấp Call Center, sau đó click vào dấu ➕ và chọn User để set up thông số kĩ thuật Extension \(3\) cho users đó.
+> Bước 3: Chọn nhà cung cấp Call Center, sau đó click vào dấu :heavy_plus_sign: và chọn User để set up thông số kĩ thuật Extension (3) cho users đó.
 
 ![](../.gitbook/assets/set3.jpg)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Lưu ý** :
+****:woman_gesturing_ok: **Lưu ý **:
 
-\(1\) và \(4\) : Thông số kĩ thuật từ nhà cung cấp Call Center và thông số này sẽ do nhà cung cấp cấp phát.
+(1) và (4) : Thông số kĩ thuật từ nhà cung cấp Call Center và thông số này sẽ do nhà cung cấp cấp phát.
 {% endhint %}
 
 > Bước 4: Cuối cùng click **Save**.
 
 ![](../.gitbook/assets/set4.jpg)
-
-
 

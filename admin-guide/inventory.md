@@ -4,7 +4,7 @@
 
 > Bước 1: Click chuột vào module Admin chọn Admin.
 
-![](../.gitbook/assets/book1.png)
+![](../.gitbook/assets/Book1.png)
 
 > Bước 2: Tại màn hình admin ,chọn Book/Gift.
 
@@ -19,7 +19,7 @@
 ![](../.gitbook/assets/book4.png)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1:Tên sách và mã sách
 
@@ -27,7 +27,7 @@
 
 3:Thể loại và tên danh mục
 
-4:Đơn vị \(Unit hay set\)
+4:Đơn vị (Unit hay set)
 {% endhint %}
 
 > Bước 4: Hệ thống hiển thị thông tin Book/Gift khi Save thành công.
@@ -38,7 +38,7 @@
 
 > Bước 1: Đưa chuột vào module Admin chọn Admin.
 
-![](../.gitbook/assets/book1.png)
+![](../.gitbook/assets/Book1.png)
 
 > Bước 2 : Tại màn hình Admin click vào chọn Book/Gifts Categories.
 
@@ -68,7 +68,7 @@
 
 > Bước 1: Đưa chuột vào Menu chọn Admin.Tại màn hình Admin click vào chọn Book/Gift Types.
 
-![](../.gitbook/assets/book1%20%281%29.png)
+![](<../.gitbook/assets/Book1 (1).png>)
 
 > Bước 2: Tại màn hình Admin click vào chọn Book/Gift Types.
 
@@ -83,11 +83,11 @@
 ![](../.gitbook/assets/type5.png)
 
 {% hint style="info" %}
-🙆♀ Ghi chú:
+:woman_gesturing_ok: Ghi chú:
 
 1::Tên loại Book/Gift 
 
-2:Order : Độ ưu tiên \(Loại hay sử dụng hoặc quan trọng để số1\)
+2:Order : Độ ưu tiên (Loại hay sử dụng hoặc quan trọng để số1)
 {% endhint %}
 
 > Bước 5: Hệ thống hiển thị thông tin Book/Gift Types khi Save thành công.
@@ -105,14 +105,13 @@
 ![](../.gitbook/assets/inven2.png)
 
 {% hint style="info" %}
-🙆♀ Ghi chú:
+:woman_gesturing_ok: Ghi chú:
 
-1:Thông tin sản phẩm \(mã,tên,số lượng,đơn vị\)
+1:Thông tin sản phẩm (mã,tên,số lượng,đơn vị)
 
-2:Ngày nhập sản phẩm và thông tin \(Income : nhập sản phẩm vào, Expense : xuất sản phẩm ra bên ngoài\).
+2:Ngày nhập sản phẩm và thông tin (Income : nhập sản phẩm vào, Expense : xuất sản phẩm ra bên ngoài).
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin sau khi Save thành công.
 
-![](../.gitbook/assets/image%20%2813%29.png)
-
+![](<../.gitbook/assets/image (80).png>)

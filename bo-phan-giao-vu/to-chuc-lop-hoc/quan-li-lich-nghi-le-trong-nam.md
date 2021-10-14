@@ -12,7 +12,6 @@
 
 ![](../../.gitbook/assets/holiday3.jpg)
 
-> Bước 4: Sau đó chọn ngày cần set up Holiday, click **Save** để hoàn tất.
+> Bước 4: Sau đó chọn ngày cần set up Holiday, click **Save **để hoàn tất.
 
 ![](../../.gitbook/assets/holiday4.jpg)
-

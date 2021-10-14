@@ -8,7 +8,6 @@
 
 ![](../.gitbook/assets/34.jpg)
 
-Bước 3: Click chọn hình ảnh cần xem, có thể tải về máy \(nếu cần\).
+Bước 3: Click chọn hình ảnh cần xem, có thể tải về máy (nếu cần).
 
-![](../.gitbook/assets/d41686f90b01ff5fa610-1-.jpg)
-
+![](<../.gitbook/assets/d41686f90b01ff5fa610 (1).jpg>)

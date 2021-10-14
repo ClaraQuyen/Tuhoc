@@ -1,6 +1,6 @@
 # Thông tin bài giảng và bài tập về nhà
 
-> Bước 1: Tại màn hình Trang chủ, click vào tab Lớp học để theo dõi Thông tin bài giảng và bài tập về nhà của học viên theo lớp.
+> Bước 1: Tại màn hình Trang chủ, click vào tab Lớp học để theo dõi Thông tin bài giảng và bài tập về nhà của học viên theo lớp.  
 
 ![](../.gitbook/assets/d4613477c18935d76c98.jpg)
 
@@ -19,4 +19,3 @@
 > Bước 5: Ứng dụng hiển thị thông tin chi tiết bài giảng và bài tập về nhà của buổi học đó.
 
 ![](../.gitbook/assets/ef0b475c8fa27bfc22b3.jpg)
-

@@ -14,19 +14,18 @@
 
 > Bước 4: Tại màn hình chỉnh sửa ngày khai giảng, nhập đầy đủ các thông tin cần thiết. Sau đó click Save để hoàn tất.
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](<../../.gitbook/assets/image (103).png>)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1: Chọn ngày khai giảng muốn thay đổi.
 
-2: Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới \(nếu muốn\).
+2: Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới (nếu muốn).
 
 3: Lịch học gần đây của lớp được tạo.
 {% endhint %}
 
 {% hint style="danger" %}
-\*\*\*\*🙋♂ **Lưu ý:** Khi thay đổi ngày khai giảng \(Change Start Date\), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
+****:man_raising_hand: **Lưu ý: **Khi thay đổi ngày khai giảng (Change Start Date), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
 {% endhint %}
-

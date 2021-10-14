@@ -4,17 +4,17 @@ description: >-
   toán đầy đủ tiền học phí trong lớp mà học viên muốn delay.
 ---
 
-# Quản Lí Bảo Lưu \(Delay\)
+# Quản Lí Bảo Lưu (Delay)
 
 ### Xem danh sách học viên delay hoc phí
 
-> Bước 1: Click chuột vào module **Payments**, tại menu action filter click chọn **Create**.
+> Bước 1: > Click chuột vào module **Payments**, tại menu action filter click chọn **Create**.
 
 ![](../../.gitbook/assets/xemdelay1.png)
 
 > Bước 2: Tiếp theo click **Payment Type**.
 
-![](../../.gitbook/assets/xemde-ay2.png)
+![](../../.gitbook/assets/xemde;ay2.png)
 
 > Bước 3: Chọn **Payment Type** là **Delay**.
 
@@ -24,26 +24,26 @@ description: >-
 
 ![](../../.gitbook/assets/delay4.jpg)
 
-### Tạo phí Delay \(Charge Delay Fee\)
+### Tạo phí Delay (Charge Delay Fee)
 
 > Bước 1: Đưa chuột vào Menu Payment chọn Create Payment.
 
-![](../../.gitbook/assets/taodelay1.png)
+![](../../.gitbook/assets/tạodelay1.png)
 
-> Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin mà học viên đặt **Delay Fee**. Click **Save** để hoàn tất.
+> Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin mà học viên đặt **Delay Fee**. Click **Save **để hoàn tất.
 
 ![](../../.gitbook/assets/taodelay2.png)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1: Lựa chọn Student. Các phương pháp lựa chọn Student:
 
 Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
-![](../../.gitbook/assets/enroll3%20%281%29.png) 
+![](../../.gitbook/assets/Enroll3.png) 
 
-Cách 2: Click vào biểu tượng ![](../../.gitbook/assets/enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
+Cách 2: Click vào biểu tượng ![](../../.gitbook/assets/Enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
 
 2: Lựa chọn loại Payment là: **Delay Fee**
 
@@ -52,11 +52,11 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 4: Ngày thanh toán, Số lần thanh toán và Thông tin thanh toán
 {% endhint %}
 
-### Học viên Delay \(Bảo lưu\)
+### Học viên Delay (Bảo lưu)
 
 > Bước 1: Đưa chuột vào module Classes , click chọn lớp mà học viên muốn delay.
 
-![](../../.gitbook/assets/hvdelay1.png)
+![](../../.gitbook/assets/HVdelay1.png)
 
 > Bước 2: Tại màn hình chi tiết Classes, Click vào subpanel chọn tab “Student Situations” sau đó click button Delay.
 
@@ -64,14 +64,14 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
 > Bước 3: Tại màn hình Delay , nhập chọn thời gian mà học viên này bắt đầu delay, nhập lí do delay. Sau đó click Save để hoàn tất.
 
-![](../../.gitbook/assets/5%20%282%29.png)
+![](<../../.gitbook/assets/5 (3).png>)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú**:
+****:woman_gesturing_ok: **Ghi chú**:
 
 1: Thông tin học viên delay lớp.
 
-2: Chọn thời gian bắt đầu Delay \(Mặc định hệ thống sẽ lấy từ ngày user chọn ngày bắt đầu delay đến hết ngày kết thúc lớp học\). 
+2: Chọn thời gian bắt đầu Delay (Mặc định hệ thống sẽ lấy từ ngày user chọn ngày bắt đầu delay đến hết ngày kết thúc lớp học). 
 
 3: Số dư của học viên trong khoảng thời gian Delay.
 
@@ -81,4 +81,3 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 > Bước 4: Kết quả.
 
 ![](../../.gitbook/assets/delay2.jpg)
-

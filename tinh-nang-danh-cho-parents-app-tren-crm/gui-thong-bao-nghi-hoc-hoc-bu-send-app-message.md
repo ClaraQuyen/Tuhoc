@@ -2,22 +2,22 @@
 
 > Bước 1: Click chuột vào module Classes sau đó click chọn lớp cần gửi thông báo đến App như lịch học bù lịch khai giảng,..đến cho học viên.
 
-![](../.gitbook/assets/guisms1.png)
+![](../.gitbook/assets/Guisms1.png)
 
 > Bước 2: Tại màn hình chi tiết của Lớp học, Click vào button **Attendance & Homework**
 
-![](../.gitbook/assets/guisms2.png)
+![](../.gitbook/assets/Guisms2.png)
 
-> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage** nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
+> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage **nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
 
-![](../.gitbook/assets/guisms3.png)
+![](../.gitbook/assets/Guisms3.png)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1: Lớp thực hiện việc gửi SMS/Bài tập về nhà,điểm danh
 
-2: Syllabus Custom: nội dung bài giảng của giáo viên \(không phải nội dung dạy theo giáo án\)
+2: Syllabus Custom: nội dung bài giảng của giáo viên (không phải nội dung dạy theo giáo án)
 
 3: Nội dung của bài học theo Syllabus như: Lession, Topic, Homework và thông tin các buổi học gần nhất.
 
@@ -36,5 +36,4 @@
 
 > Sau khi gửi thành công , mobile app sẽ nhận được thông báo như hình mẫu bên dưới.
 
-![](../.gitbook/assets/z2050025829813_4b3abf07dc37c2731bb7b4325755af76.jpg)
-
+![](../.gitbook/assets/z2050025829813\_4b3abf07dc37c2731bb7b4325755af76.jpg)

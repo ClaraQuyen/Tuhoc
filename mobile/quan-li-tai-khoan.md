@@ -9,9 +9,8 @@ description: >-
 
 > Bước 1: Tại màn hình Trang chủ, click vào icon avatar để chọn học viên mà phụ huynh muốn xem thông tin học tập.
 
-![](../.gitbook/assets/5%20%281%29.jpg)
+![](<../.gitbook/assets/5 (1).jpg>)
 
 > Bước 2: App sẽ hiển thị danh sách các học viên. Click lựa chọn tài khoản học viên để xem thông tin.
 
 ![](../.gitbook/assets/66.jpg)
-

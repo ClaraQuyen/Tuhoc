@@ -18,5 +18,4 @@
 
 > Bước 5: Hệ thống hiển thị thông báo số tiền được cập nhật thành công.
 
-![](../.gitbook/assets/tanggiam6.png)
-
+![](<../.gitbook/assets/tanggiam6 (1).png>)

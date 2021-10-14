@@ -4,35 +4,35 @@
 
 > Bước 1: Click vào Admin
 
-![](../.gitbook/assets/1%20%286%29.png)
+![](<../.gitbook/assets/1 (6).png>)
 
 > Bươc 2: Tại màn hình quản trị viên, chọn Google API Config
 
-![](../.gitbook/assets/2%20%286%29.png)
+![](<../.gitbook/assets/2 (6).png>)
 
 > Bước 3: Sau đó nhập Floder ID của thư mục mà bạn đã tạo trên Google Drive, tiếp theo click chọn **Get Author Code.**
 
-![](../.gitbook/assets/3%20%286%29.png)
+![](<../.gitbook/assets/3 (6).png>)
 
 > Bước 4: Chọn tài khoản gmail chứa cài đặt thư mục hình ảnh.
 
-![](../.gitbook/assets/4%20%284%29.png)
+![](<../.gitbook/assets/4 (4).png>)
 
 > Bước 5: Tiếp theo chọn Nâng cao, để cấp quyền truy cập
 
-![](../.gitbook/assets/5%20%284%29.png)
+![](<../.gitbook/assets/5 (5).png>)
 
 > Bước 6: Chọn "Đi tới Google API Application"
 
-![](../.gitbook/assets/6%20%283%29.png)
+![](<../.gitbook/assets/6 (3).png>)
 
-> Bước 7: Sau đó click chon Cho Phép để cấp quyền truy cập từ hệ thống
+> Bước 7: Sau đó click chon Cho Phép để cấp quyền truy cập từ hệ thống 
 
-![](../.gitbook/assets/7%20%283%29.png)
+![](<../.gitbook/assets/7 (3).png>)
 
 > Bước 8: Sau khi cấp quyề truy cập xong, hệ thống sẽ gửi về một mã code, copy mã code.
 
-![](../.gitbook/assets/8%20%282%29.png)
+![](<../.gitbook/assets/8 (2).png>)
 
 > Bước 9: Sau khi copy mã code xong, dán vào ô và click **Save**.
 
@@ -53,13 +53,13 @@ Ghi Chú :
 
 **URL Document** : sẽ được lấy bằng **Tên Thư Mục chứa các tệp đó.**
 
-**Ví dụ:**  **DOTB**
+**Ví dụ: ** **DOTB**
 {% endhint %}
 
 ![](../.gitbook/assets/11.jpg)
 
 {% hint style="info" %}
-**Hoặc** :  **DOTB/02. Pre-CleverKid** \(nếu có thư mục con trong thư mục lớn\).
+**Hoặc **: ** DOTB/02. Pre-CleverKid** (nếu có thư mục con trong thư mục lớn).
 {% endhint %}
 
 ![](../.gitbook/assets/12.jpg)
@@ -70,7 +70,7 @@ Ghi Chú :
 
 > Bước 1: Click chuột vào module Admin chọn .
 
-![](../.gitbook/assets/1%20%284%29.png)
+![](<../.gitbook/assets/1 (4).png>)
 
 > Bước 2: Tại màn hình Admin click vào chọn **Mobile App Config**.
 
@@ -88,4 +88,3 @@ Ghi Chú :
 3. Cho phép người dùng Upload ảnh Profile hoặc ảnh bìa.
 4. Hide/Unhide lượt view của News trên Mobile App.
 {% endhint %}
-

@@ -2,11 +2,11 @@
 
 > Bước 1: Tại màn hình Trang chủ, click vào chức năng Lịch học để theo dõi Thời khóa biểu của học viên.
 
-![](../.gitbook/assets/f0077e9a4065b43bed74.jpg)
+![](<../.gitbook/assets/f0077e9a4065b43bed74 (1).jpg>)
 
 > Bước 2: Click vào để lựa chọn buổi học tương ứng cần xem chi tiết.
 
-![](../.gitbook/assets/a9102e1129eeddb084ff%20%281%29.jpg)
+![](<../.gitbook/assets/a9102e1129eeddb084ff (1).jpg>)
 
 {% hint style="info" %}
 **Ghi chú**:
@@ -18,7 +18,5 @@
 
 > Bước 3: Ứng dụng hiển thị thông tin chi tiết của buổi học đó.
 
-![](../.gitbook/assets/66d465b48f4a7b14225b%20%281%29.jpg)
-
-
+![](../.gitbook/assets/66d465b48f4a7b14225b.jpg)
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
-* [DotB-SEA \(SMART EDUCATION ACADEMY\)](mobile/README.md)
+* [DotB-SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin Thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
   * [Thông tin bài giảng và bài tập về nhà](mobile/lich-su-khoa-hoc.md)
@@ -23,14 +23,14 @@
 
 * [Targets](tuyen-sinh-ban-hang/target.md)
 * [Leads](tuyen-sinh-ban-hang/lead.md)
-* [Chăm sóc Lead qua Call Center \(Click to Call\)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)
+* [Chăm sóc Lead qua Call Center (Click to Call)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
-* [Quản lí thi đầu vào, học thử \(PT/Demo\)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
+* [Quản lí thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
 * [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
-* [Quản lí đơn giá học phí \(kèm Sách\)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
+* [Quản lí đơn giá học phí (kèm Sách)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
 * [Quản lí tăng giảm học phí](quan-li-dang-ki-hoc-va-thu-tien/quan-li-tang-giam-hoc-phi.md)
 * [Quản lí thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan.md)
 
@@ -38,7 +38,7 @@
 
 * [Quản lí hồ sơ học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien.md)
 * [Quản lí sự vụ](bo-phan-giao-vu/quan-li-su-vu/README.md)
-  * [Quản Lí Bảo Lưu \(Delay\)](bo-phan-giao-vu/quan-li-su-vu/quan-li-delay.md)
+  * [Quản Lí Bảo Lưu (Delay)](bo-phan-giao-vu/quan-li-su-vu/quan-li-delay.md)
   * [Quản lí chuyển trung tâm, học phí, hoàn tiền](bo-phan-giao-vu/quan-li-su-vu/quan-li-chuyen-trung-tam-hoc-phi-hoan-tien.md)
 * [Quản lí chương trình học](bo-phan-giao-vu/quan-li-chuong-trinh-hoc.md)
 * [Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc/README.md)
@@ -48,7 +48,9 @@
   * [Đổi lịch học trong khoảng thời gian bất kì](bo-phan-giao-vu/to-chuc-lop-hoc/doi-lich-hoc-trong-khoang-thoi-gian-bat-ki.md)
   * [Quản lí lịch nghỉ lễ trong năm](bo-phan-giao-vu/to-chuc-lop-hoc/quan-li-lich-nghi-le-trong-nam.md)
 * [Quản lí giáo viên và TA](bo-phan-giao-vu/quan-li-giao-vien-va-ta.md)
-* [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc.md)
+* [Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc/README.md)
+  * [Điểm danh](bo-phan-giao-vu/quan-li-lop-hoc/diem-danh.md)
+  * [Ghi nhận nội dung buổi học](bo-phan-giao-vu/quan-li-lop-hoc/ghi-nhan-noi-dung-buoi-hoc.md)
 
 ## Tính năng dành cho Parents App trên CRM
 
@@ -61,7 +63,7 @@
 * [Nhận và gửi phản hồi về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/nhan-va-gui-phan-hoi-ve-phu-huynh.md)
 * [Thông tin học phí](tinh-nang-danh-cho-parents-app-tren-crm/thong-tin-hoc-phi.md)
 
----
+***
 
 * [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
 
@@ -85,4 +87,3 @@
 * [Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
 * [Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
 * [Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)
-

@@ -4,14 +4,14 @@
 
 > Bước 1: Đưa chuột vào module Class chọn Create Class.
 
-![](../../.gitbook/assets/taolop1.png)
+![](../../.gitbook/assets/Taolop1.png)
 
 > Bước 2: Tại màn hình tạo mới Lớp học, nhập đầy đủ các thông tin cần thiết, Sau đó Click Save để Hoàn tất việc tạo ra 1 Lớp học mới.
 
 ![](../../.gitbook/assets/taolop.jpg)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1: Tên của Lớp học, có thể để rỗng hệ thống sẽ tự động sinh ra tên Lớp.
 
@@ -27,12 +27,12 @@
 
 7: Ngày học của Lớp học trong tuần
 
-8. Thời gian học tương ứng với ngày học của Lớp học
+8\. Thời gian học tương ứng với ngày học của Lớp học
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi tạo thành công.
 
-![](../../.gitbook/assets/taolop3.png)
+![](../../.gitbook/assets/TaoLop3.png)
 
 ## Hủy buổi học/chọn ngày học bù
 
@@ -40,7 +40,7 @@
 
 ![](../../.gitbook/assets/hocbu.png)
 
-> Bước 2: Tại màn hình Classes click vào Tab Session,hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, click vào cancel để hủy buổi dạy của giáo viên \(Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…\)
+> Bước 2: > Tại màn hình Classes click vào Tab Session,hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, click vào cancel để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
 
 ![](../../.gitbook/assets/hocbu2.png)
 
@@ -49,17 +49,17 @@
 ![](../../.gitbook/assets/hocbu3.png)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1: Thông tin Lớp học bị hủy
 
 2: Thông tin buổi học bị hủy và lý do hủy
 
-\*\*\*\*🙋♂ **Lưu ý:**
+****:man_raising_hand: **Lưu ý:**
 
-+ Nếu chọn Make up in this schedule thì hệ thống sẽ tư lên lịch dạy bù cho giáo viên vào buổi cuối cùng của tháng kết thúc khóa học
+\+ Nếu chọn Make up in this schedule thì hệ thống sẽ tư lên lịch dạy bù cho giáo viên vào buổi cuối cùng của tháng kết thúc khóa học
 
-+ Nếu chọn Make up in other Schedule bộ phận giáo vụ có thể xếp lịch dạy bù vào ngày mà giáo viên rảnh hoặc ngày mà giáo viên yêu cầu \(3\)
+\+ Nếu chọn Make up in other Schedule bộ phận giáo vụ có thể xếp lịch dạy bù vào ngày mà giáo viên rảnh hoặc ngày mà giáo viên yêu cầu (3)
 {% endhint %}
 
 ![](../../.gitbook/assets/hocbu4.png)
@@ -69,11 +69,11 @@
 ![](../../.gitbook/assets/hocbu5.png)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú**:
+****:woman_gesturing_ok: **Ghi chú**:
 
 1:Trạng thái **Cancelled**: Buổi học đã được hủy trên hệ thống
 
-2:Trạng thái **Make-up**: Buổi học được chọn cho giáo viên dạy bù \(buổi dạy bù linh động cho người dùng tự set\)
+2:Trạng thái **Make-up**: Buổi học được chọn cho giáo viên dạy bù (buổi dạy bù linh động cho người dùng tự set)
 {% endhint %}
 
 ## Đổi ngày khai giảng
@@ -86,26 +86,26 @@
 
 ![](../../.gitbook/assets/doingaykhaigiang1.png)
 
-> Bước 3: Tiếp theo click vào **Change Start Date** để thay đổi ngày khai giảng.
+> Bước 3: Tiếp theo click vào **Change Start Date **để thay đổi ngày khai giảng.
 
 ![](../../.gitbook/assets/doingaykhaigiang3.png)
 
 > Bước 4: Tại màn hình chỉnh sửa ngày khai giảng, nhập đầy đủ các thông tin cần thiết. Sau đó click Save để hoàn tất.
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](<../../.gitbook/assets/image (103).png>)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú:**
+****:woman_gesturing_ok: **Ghi chú:**
 
 1: Chọn ngày khai giảng muốn thay đổi.
 
-2: Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới \(nếu muốn\).
+2: Lý do thay đổi ngày khai giảng và có thể đổi lại lịch học mới (nếu muốn).
 
 3: Lịch học gần đây của lớp được tạo.
 {% endhint %}
 
 {% hint style="danger" %}
-\*\*\*\*🙋♂ **Lưu ý:** Khi thay đổi ngày khai giảng \(**Change Start Date**\), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất.
+****:man_raising_hand: **Lưu ý: **Khi thay đổi ngày khai giảng (**Change Start Date**), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất.
 {% endhint %}
 
 ## Đổi lịch học trong khoảng thời gian bất kì
@@ -120,24 +120,24 @@
 
 > Bước 3: Tiếp theo click vào **Change Schedule** để thay đổi lịch học.
 
-![](../../.gitbook/assets/doingaykhaigiang2%20%281%29.png)
+![](<../../.gitbook/assets/doingaykhaigiang2 (1).png>)
 
-> Bước 4: Nhập đầy đủ thông tin, sau đó click **Save** để hoàn tất.
+> Bước 4: Nhập đầy đủ thông tin, sau đó click **Save **để hoàn tất.
 
 ![](../../.gitbook/assets/taolop1.jpg)
 
 {% hint style="info" %}
-\*\*\*\*🙆♀ **Ghi chú**:
+****:woman_gesturing_ok: **Ghi chú**:
 
 1: Chọn khoảng thời gian thay đổi lịch học
 
 2: Lý do thay đổi lịch học
 
-3: Đổi lại lịch học mới \(nếu có\)
+3: Đổi lại lịch học mới (nếu có)
 {% endhint %}
 
 {% hint style="danger" %}
-\*\*\*\*🙋♂ **Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
+****:man_raising_hand: **Lưu ý: **Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
 {% endhint %}
 
 ## Quản lí lịch nghỉ lễ trong năm
@@ -154,7 +154,6 @@
 
 ![](../../.gitbook/assets/holiday3.jpg)
 
-> Bước 4: Sau đó chọn ngày cần set up Holiday, click **Save** để hoàn tất.
+> Bước 4: Sau đó chọn ngày cần set up Holiday, click **Save **để hoàn tất.
 
 ![](../../.gitbook/assets/holiday4.jpg)
-
