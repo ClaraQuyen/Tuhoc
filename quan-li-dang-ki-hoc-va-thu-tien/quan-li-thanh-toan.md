@@ -8,14 +8,14 @@
 
 ![](../.gitbook/assets/payment1.jpg)
 
-> Bước 2: > Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc. Click **Save** để hoàn tất.
+> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc. Click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/payment2.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
-1: Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+1: Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/assets/Enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
 2: Lựa chọn Khóa học
 
@@ -32,26 +32,28 @@
 
 ![](../.gitbook/assets/payment1.jpg)
 
-> Bước 2: > Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó click **Save** để hoàn tất.
+> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó click **Save** để hoàn tất.
 
-![](../.gitbook/assets/payment3.jpg)
+![](../.gitbook/assets/pm.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
-Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/assets/Enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
 1: Lựa chọn Khóa học
 
-2: Lựa chọn các Discount/Sponsor (Nếu có).
+2: Lựa chọn Payment type là Cashholder.
 
-3: Lựa chọn Payment Type là: **Cashholder**
+3: Lựa chọn khoá học viên mua.
 
-3: Nhập số giờ học viên mua khóa học (có thể nhập tổng số giờ nếu 2 hoặc 3 khóa cùng KOC)**.**
+4: Nhập số giờ học viên mua khóa học (có thể nhập tổng số giờ nếu 2 hoặc 3 khóa cùng KOC)**.**
 
-4: Lựa chọn số lần thanh toán
+5: Lựa chọn các Discount/Sponsor (Nếu có).
 
-5: Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
+6: Lựa chọn số lần thanh toán
+
+(\*): Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
 {% endhint %}
 
 ### &#xD;**Tạo Payment PT (Đóng tiền kiểm tra đầu vào) **
@@ -60,12 +62,12 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 
 ![](../.gitbook/assets/payment1.jpg)
 
-> Bước 2: > Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
+> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
 
-![](../.gitbook/assets/Payment_PT1.png)
+![](../.gitbook/assets/Payment\_PT1.png)
 
 {% hint style="info" %}
-:woman_gesturing_ok: **Ghi chú**:
+:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Lựa chọn Học viên đóng tiền PT.
 
@@ -80,7 +82,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment được tạo.
 
-![](../.gitbook/assets/Payment_PT3.png)
+![](../.gitbook/assets/Payment\_PT3.png)
 
 ### Tạo Payment Book/Gift (thu tiền sách)
 
@@ -93,7 +95,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 ![](../.gitbook/assets/bookgift.png)
 
 {% hint style="info" %}
-:woman_gesturing_ok:** Ghi chú**:
+:woman\_gesturing\_ok:** Ghi chú**:
 
 1: Lựa chọn Học sinh.
 
@@ -101,7 +103,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 
 3: Thêm voucher,discount cho học viên (Nếu có)
 
-4: Sách,số lượng mà học viên  đăng kí mua 
+4: Sách,số lượng mà học viên  đăng kí mua&#x20;
 
 5: Thông tin về số lần thanh toán, lựa chọn số lần thanh toán tương ứng
 {% endhint %}
@@ -118,7 +120,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 
 ![](../.gitbook/assets/1.jpg)
 
-> Bước 2: > Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click chọn option **Installment Plan.**
+> Bước 2:&#x20;> Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click chọn option **Installment Plan.**
 
 ![](../.gitbook/assets/1\_tragop.jpg)
 
@@ -159,21 +161,21 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 ![](../.gitbook/assets/ThanhToanChoPayment3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Lựa chọn hình thức thanh toán
 
-2: Chọn ngày thanh toán (hệ thống set mặc định là ngày hiện tại của hệ thống, người dùng có thể chọn ngày khác). 
+2: Chọn ngày thanh toán (hệ thống set mặc định là ngày hiện tại của hệ thống, người dùng có thể chọn ngày khác).&#x20;
 
 3: Desciption : Nội dung thu tiền của khóa học theo tháng (User có thể bổ sung thêm nội dung).
 {% endhint %}
 
-> Bước 4: > Lựa chọn hình thức thanh toán,nhập nội dung thu tiền, sau đó click **Save** để hoàn tất.
+> Bước 4:&#x20;> Lựa chọn hình thức thanh toán,nhập nội dung thu tiền, sau đó click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/ThanhToanChoPayment4.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Xuất Phiếu thu
 
@@ -182,10 +184,10 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 3: Xóa Phiếu thu, khi thực hiện thiện việc xóa Phiếu thu thì trạng thái của Phiếu thu sẽ chuyển về: Cancel
 {% endhint %}
 
-## :page_with_curl: Xuất hóa đơn điện tử (E-invoice)
+## :page\_with\_curl: Xuất hóa đơn điện tử (E-invoice)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **GHI CHÚ:**
+****:woman\_gesturing\_ok: **GHI CHÚ:**
 
 * **MÔ TẢ: **Hóa đơn điện tử (E-invoice) là tập hợp các thông điệp dữ liệu điện tử về bán hàng hóa, cung ứng dịch vụ, được khởi tạo, lập, gửi, nhận, lưu trữ và quản lý bằng phương tiện điện tử theo quy định của pháp luật về giao dịch điện tử.
 * **LƯU Ý:** Chức năng của hóa đơn điện tử chỉ hoạt động khi Đơn vị có sử dụng HT E-invoice và đã được cài đặt lên hệ thống EMS.
@@ -196,7 +198,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 
 ![](<../.gitbook/assets/image (81).png>)
 
-> Bước 2: > Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
+> Bước 2:&#x20;> Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 
 ![](../.gitbook/assets/E-Invoice.jpg)
 
@@ -211,7 +213,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 ![](<../.gitbook/assets/image (92).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1:  Họ tên người mua hàng: Họ tên người mua hàng được hiển thị trên hóa đơn điện tử có thể là tên học viên hoặc tên phụ huynh học viên (nếu có). Ngoài ra, nếu muốn chỉnh sửa các thông tin này có thể click vào Edit.
 
@@ -219,13 +221,13 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 {% endhint %}
 
 {% hint style="success" %}
-:man_raising_hand: Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
+:man\_raising\_hand: Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
 ![](<../.gitbook/assets/image (93).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Export PDF E-invoice: Xuất E-invoice thành file PDF, tự động lưu về máy.
 
@@ -247,7 +249,7 @@ Lựa chọn học viên. Click vào biểu tượng ![](../.gitbook/assets/Enr
 > Bước 3: Void thành công.
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
 {% endhint %}
