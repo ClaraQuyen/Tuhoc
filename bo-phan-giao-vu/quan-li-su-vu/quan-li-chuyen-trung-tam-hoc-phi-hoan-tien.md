@@ -9,9 +9,13 @@ description: >-
 ### Chuyển Trung Tâm
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Lưu ý** :
+****:woman\_gesturing\_ok: **Lưu ý** :
 
-Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó [**Convert Payment**](../../admin-guide/drop-payment.md#convert-payment) sang Amount, cuối cùng sử dụng tính năng **Moving Center ** này để chuyển trung tâm A đến cho trung tâm B.
+Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó [**Convert Payment**](../../admin-guide/drop-payment.md#convert-payment) sang Amount.
+
+Nếu học viên không có Delay thì sẽ [Convert Payment](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
+
+Cuối cùng sử dụng tính năng **Moving Center ** này để chuyển trung tâm A đến cho trung tâm B.
 {% endhint %}
 
 > Bước 1:Đưa chuột vào module Student ,chọn vào học viên có nhu cầu chuyển trung tâm hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
@@ -27,7 +31,7 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 ![](../../.gitbook/assets/moving.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Thông tin gói học, số giờ remain và số tiền mà học viên còn lại ở hiện tại center hiện tại.
 
@@ -45,9 +49,9 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 ### Chuyển nhượng học phí
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Lưu ý** :
+****:woman\_gesturing\_ok: **Lưu ý** :
 
-Khi thực hiện chuyển học phí từ học viên A đến học viên B, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước (Nếu học viên đang học trong lớp ), sau đó [**Convert Payment**](../../admin-guide/drop-payment.md#convert-payment) sang Amount, cuối cùng sử dụng tính năng **Transfer Fee**  này để chuyển học phí đến cho học viên B.
+Khi thực hiện chuyển học phí từ học viên A đến học viên B, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước (Nếu học viên đang học trong lớp ), sau đó [**Convert Payment**](../../admin-guide/drop-payment.md#convert-payment) sang Amount, cuối cùng sử dụng tính năng **Transfer Fee**  này để chuyển học phí đến cho học viên B.
 {% endhint %}
 
 > Bước 1: Đưa chuột vào module Student ,click vào học viên có nhu cầu chuyển nhượng học phí hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
@@ -63,7 +67,7 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 ![](../../.gitbook/assets/guide1.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Thông tin gói học còn lại (Remain hour/Remain Amount) mà học viên đã paid (delay, cashholder, deposit ).
 
@@ -81,9 +85,13 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 ### Hoàn tiền
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Lưu ý** :
+****:woman\_gesturing\_ok: **Lưu ý** :
 
-Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực hiện :point_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên trước, sau đó sử dụng tính năng **Refund **này để hoàn tiền cho học viên.
+Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên trước (Nếu học viên đang học trong lớp)
+
+Nếu học viên không có Delay thì sẽ [**Convert Payment**](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
+
+Cuối cùng sử dụng tính năng **Refund **này để hoàn tiền cho học viên.
 {% endhint %}
 
 > Bước 1: Đưa chuột vào module **Student **,click vào học viên có nhu cầu hoàn tiền hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
@@ -99,7 +107,7 @@ Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực 
 ![](../../.gitbook/assets/refund.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1:Thông tin gói học còn lại (Remain hour/Remain Amount) mà học viên đã paid (delay, cashholder, deposit ).
 
