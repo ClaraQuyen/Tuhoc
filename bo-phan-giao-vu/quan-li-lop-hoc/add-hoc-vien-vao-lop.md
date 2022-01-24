@@ -13,7 +13,7 @@
 ![](<../../.gitbook/assets/main (1).jpg>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi Chú** :
+****:woman\_gesturing\_ok: **Ghi Chú** :
 
 1: Thông tin lớp học mới (lớp đc upgrade, hoặc lớp New)
 
@@ -29,27 +29,27 @@
 ![](<../../.gitbook/assets/2 (2).jpg>)
 
 {% hint style="info" %}
-:point_right: Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**".
+:point\_right: Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**".
 {% endhint %}
 
 ![](<../../.gitbook/assets/3 (1).jpg>)
 
 {% hint style="info" %}
-6 : :stop_button: Có thể chọn hàng loạt hoặc chọn từng học viên.
+6 : :stop\_button: Có thể chọn hàng loạt hoặc chọn từng học viên.
 
 7:  **Join with type** :Thông tin học phí của học viên khi đăng kí lên lớp mới .
 
-:point_right:** Enrolled**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
+:point\_right: **Enrolled**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
 
-:point_right: **Outstanding **: Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
+:point\_right: **Outstanding** : Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
 
-8: **Addmission Status : **
+8: **Addmission Status :**&#x20;
 
- :heavy_multiplication_x: : Học viên đã có trong lớp, không thể add vào
+&#x20;:heavy\_multiplication\_x: : Học viên đã có trong lớp, không thể add vào
 
-:heavy_check_mark: : Học viên chưa có trong lớp, có thể add vào
+:heavy\_check\_mark: : Học viên chưa có trong lớp, có thể add vào
 
-6 : :stop_button: Có thể chọn hàng loạt hoặc chọn từng học viên.
+6 : :stop\_button: Có thể chọn hàng loạt hoặc chọn từng học viên.
 {% endhint %}
 
 > Bước 5: Sau khi chọn xong học viên củng như Payment enroll học viên vào lớp, click "Add Student" để hoàn tất đưa học viên vào lớp.

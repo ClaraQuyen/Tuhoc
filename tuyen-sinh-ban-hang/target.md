@@ -6,23 +6,23 @@ description: >-
 
 # Targets
 
-> ****:point_right: **Chi tiết các trạng thái Học viên thô (Target)**
+> ****:point\_right: **Chi tiết các trạng thái Học viên thô (Target)**
 >
-> **+ New **: Leads mới được assign chưa được chưa chăm sóc 
+> **+ New** : Leads mới được assign chưa được chưa chăm sóc&#x20;
 >
-> **+ In Process** : Đã có tương tác, gọi điện, tư vấn** **
+> **+ In Process** : Đã có tương tác, gọi điện, tư vấn ****&#x20;
 >
-> **+ Converted : **Đã chuyển Target lên Lead
+> **+ Converted :** Đã chuyển Target lên Lead
 >
-> **+ Dead : **Không có tiềm năng
+> **+ Dead :** Không có tiềm năng
 
 ## :dart: Tạo Target
 
-> Bước 1: Đưa chuột vào Menu **Targets **chọn **Create Target.**
+> Bước 1: Đưa chuột vào Menu **Targets** chọn **Create Target.**
 
 ![](../.gitbook/assets/TaoTarget1.png)
 
-> Bước 2: Tại màn hình tạo mới Target, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ required bắt buộc phải input thông tin vào, những fileld khác có thể bỏ qua, sau đó click **Save **để hoàn tất việc tạo ra 1 Target mới.
+> Bước 2: Tại màn hình tạo mới Target, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ required bắt buộc phải input thông tin vào, những fileld khác có thể bỏ qua, sau đó click **Save** để hoàn tất việc tạo ra 1 Target mới.
 
 ![](../.gitbook/assets/TaoTarget2.png)
 
@@ -38,7 +38,7 @@ description: >-
 
 
 
-> Bước 1: Đưa chuột vào module **Targets **chọn** Import Targets**, tính năng này cho phép người dùng Import data từ local.
+> Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
 
 ![](../.gitbook/assets/import1.jpg)
 
@@ -46,12 +46,12 @@ description: >-
 
 ![](<../.gitbook/assets/2 (1).png>)
 
-> Bước 3: >  Tải mẫu Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
+> Bước 3:&#x20;> &#x20;Tải mẫu Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
 
 ![](<../.gitbook/assets/3 (1).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi Chú:**
+****:woman\_gesturing\_ok: **Ghi Chú:**
 
 1 : Dowload file Import mẫu (nếu chưa có)
 
@@ -63,12 +63,12 @@ description: >-
 
 **Lưu ý** :
 
-\-      _** **File Template dùng để Import dữ liệu Target vào hệ thống. _
+\-      _**** File Template dùng để Import dữ liệu Target vào hệ thống._&#x20;
 
-_**-       **Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu ( các cột còn lại có thể có hoặc không ). Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng._
+_**-**       Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu ( các cột còn lại có thể có hoặc không ). Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng._
 {% endhint %}
 
-> Bước 4: >  Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next**.
+> Bước 4:&#x20;> &#x20;Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next**.
 
 > Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
 
@@ -83,7 +83,7 @@ _**-       **Các cột có tô màu là những cột bắt buộc phải nhậ
 ![](<../.gitbook/assets/7 (1).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú** :
+****:woman\_gesturing\_ok: **Ghi chú** :
 
 1: Import Again: Import lại danh sách khách hàng (Nếu muốn)
 
@@ -117,9 +117,9 @@ _**-       **Các cột có tô màu là những cột bắt buộc phải nhậ
 ![](<../.gitbook/assets/2 (2).png>)
 
 {% hint style="info" %}
-:woman_gesturing_ok: Ghi chú:
+:woman\_gesturing\_ok: Ghi chú:
 
-(+) : Thêm điều kiện Mass Update 
+(+) : Thêm điều kiện Mass Update&#x20;
 
 (-) : Bỏ điều kiện Mass Update
 {% endhint %}
@@ -140,7 +140,7 @@ Nếu muốn chọn nhiều Target thì có thể làm theo hướng dẫn các 
 
 ![](../.gitbook/assets/Update1.png)
 
-> Bước 2: > Những Field nằm trong khung màu đỏ là bắt buộc
+> Bước 2:&#x20;> Những Field nằm trong khung màu đỏ là bắt buộc
 >
 > \+Bỏ những field trống.
 >
@@ -150,7 +150,7 @@ Nếu muốn chọn nhiều Target thì có thể làm theo hướng dẫn các 
 >
 > \+Cột Assigned User Name lấy UserName không lấy Full Name:
 >
->  Ví dụ Full Name là Dương Huyền Trang , Username là [trangdh.emaa@gmail.com](mailto:trangdh.emaa@gmail.com) thì lấy Username đó điền vào cột Người phụ trách (**Assigned User Name**).
+> &#x20;Ví dụ Full Name là Dương Huyền Trang , Username là [trangdh.emaa@gmail.com](mailto:trangdh.emaa@gmail.com) thì lấy Username đó điền vào cột Người phụ trách (**Assigned User Name**).
 
 ![](../.gitbook/assets/UpdateLead2.png)
 

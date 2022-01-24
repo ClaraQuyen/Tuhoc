@@ -11,14 +11,14 @@
 ![](../.gitbook/assets/QLCHT2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
-1:Tên chương trình học. 
+1:Tên chương trình học.&#x20;
 
 2:Cấu hình chương trình học và tạo giáo án theo từng buổi học (Phần 2 của giáo án theo từng buổi hoc).
 {% endhint %}
 
-## :writing_hand: Tạo giáo án theo từng buổi học
+## :writing\_hand: Tạo giáo án theo từng buổi học
 
 > Bước 1: Đưa chuột vào module **Kind of courses** chọn **Create**.
 
@@ -29,7 +29,7 @@
 ![](../.gitbook/assets/GiaoAn2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Cấp độ của chương trình học
 
@@ -66,7 +66,7 @@
 
 ![](../.gitbook/assets/ga1.jpg)
 
-> Bước 2: Tại màn hình chỉnh sữa chương trình học, nhập đầy đủ các thông tin cần thiết. Sau đó click **Create **để edit giáo án cho 1 chương trình học.
+> Bước 2: Tại màn hình chỉnh sữa chương trình học, nhập đầy đủ các thông tin cần thiết. Sau đó click **Create** để edit giáo án cho 1 chương trình học.
 
 ![](../.gitbook/assets/ga2.jpg)
 
@@ -78,7 +78,7 @@
 
 ### Phần 1: Tạo nhóm cấu trúc bảng điểm
 
-> Bước 1**: **> Click chuột vào module **Gradebook Setting Groups**, sau đó click **Create** để tạo 1 nhóm cấu trúc bảng điểm mới.
+> Bước 1**:**> Click chuột vào module **Gradebook Setting Groups**, sau đó click **Create** để tạo 1 nhóm cấu trúc bảng điểm mới.
 
 ![](../.gitbook/assets/gdstg.jpg)
 
@@ -90,9 +90,9 @@
 
 ![](../.gitbook/assets/vgb.jpg)
 
-### Phần 2: Tạo cấu trúc bảng điểm 
+### Phần 2: Tạo cấu trúc bảng điểm&#x20;
 
-> Bước 1: Click chuột vào module **Gradebook Settings,** sau đó click** Create** để tạo mới 1 cấu trúc bảng điểm.
+> Bước 1: Click chuột vào module **Gradebook Settings,** sau đó click **Create** để tạo mới 1 cấu trúc bảng điểm.
 
 ![](../.gitbook/assets/gs.jpg)
 
@@ -101,7 +101,7 @@
 ![](../.gitbook/assets/gs1.jpg)
 
 {% hint style="info" %}
-****:person_gesturing_ok_tone1: **Ghi chú:**
+****:person\_gesturing\_ok\_tone1: **Ghi chú:**
 
 1. Tên bảng điểm\*
 2. Loại bảng điểm: Progress 1, Progress 2, Progress 3... Overall. Đây là cách để hệ thống tính toán ra được bảng điểm cuối cùng (nếu có nhiều các điểm thành phần)
@@ -113,7 +113,7 @@
 ![](../.gitbook/assets/gs2.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Hướng dẫn cách sử dụng công thức để cấu hình bảng điểm.
 
@@ -146,12 +146,12 @@
 
 ![](../.gitbook/assets/Upgrade2.png)
 
-> Bước 3: > Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
+> Bước 3:&#x20;> Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
 
 ![](../.gitbook/assets/Upgrade1.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Thông tin lớp học mới Upgrade
 
@@ -168,12 +168,12 @@
 
 ![](../.gitbook/assets/Upgrade2.jpg)
 
-> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp (**3**) là được hoặc nếu muốn thêm nhiều học viên mới khác vào thì bạn click chọn số (4**) **:** Select Students**.
+> Bước 6: Danh sách học viên từ lớp củ sẽ được hiện lên hoặc nếu bạn muốn chọn danh sách học viên từ lớp khác bạn muốn move không phải lớp củ thì bạn chỉ cần lick vào chọn lớp (**3**) là được hoặc nếu muốn thêm nhiều học viên mới khác vào thì bạn click chọn số (4**)** : **Select Students**.
 
 ![](<../.gitbook/assets/main (2).jpg>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú **: 
+****:woman\_gesturing\_ok: **Ghi chú** :&#x20;
 
 1: Thông tin lớp học mới (lớp đc upgrade, hoặc lớp New)
 
@@ -185,19 +185,19 @@
 
 5: Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học )
 
-6 : :stop_button: Có thể chọn hàng loạt hoặc chọn từng học viên.
+6 : :stop\_button: Có thể chọn hàng loạt hoặc chọn từng học viên.
 
 7:  Join with type :Thông tin học phí của học viên khi đăng kí lên lớp mới .
 
-:point_right:** Enrolled**: Học viên còn khoảng học phí 
+:point\_right: **Enrolled**: Học viên còn khoảng học phí&#x20;
 
-:point_right: **Outstanding **: Học viên không đủ phí để join lớp mới nên add vào học nợ
+:point\_right: **Outstanding** : Học viên không đủ phí để join lớp mới nên add vào học nợ
 
-8: **Addmission Status : **
+8: **Addmission Status :**&#x20;
 
- :heavy_multiplication_x: : Học viên đã có trong lớp, không thể add vào
+&#x20;:heavy\_multiplication\_x: : Học viên đã có trong lớp, không thể add vào
 
-:heavy_check_mark: : Học viên chưa có trong lớp, có thể add vào
+:heavy\_check\_mark: : Học viên chưa có trong lớp, có thể add vào
 
 
 {% endhint %}
@@ -225,7 +225,7 @@
 ![](<../.gitbook/assets/Cauhinsogiolop2 (1).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1:Số giờ/lớp
 

@@ -12,12 +12,12 @@
 
 ![](<../../.gitbook/assets/doingaykhaigiang2 (1).png>)
 
-> Bước 4: Nhập đầy đủ thông tin, sau đó click **Save **để hoàn tất.
+> Bước 4: Nhập đầy đủ thông tin, sau đó click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/taolop1.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Chọn khoảng thời gian thay đổi lịch học
 
@@ -27,5 +27,5 @@
 {% endhint %}
 
 {% hint style="danger" %}
-:man_raising_hand: **Lưu ý: **Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
+:man\_raising\_hand: **Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
 {% endhint %}

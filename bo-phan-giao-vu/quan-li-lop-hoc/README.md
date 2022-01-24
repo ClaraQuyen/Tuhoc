@@ -26,12 +26,12 @@
 
 ![](../../.gitbook/assets/Guisms2.png)
 
-> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage **nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
+> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage** nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
 
 ![](../../.gitbook/assets/Guisms3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Lớp thực hiện việc gửi SMS/Bài tập về nhà,điểm danh
 
@@ -71,7 +71,7 @@
 ![](../../.gitbook/assets/LamBT3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Lớp thực hiện việc check homework
 
@@ -87,10 +87,10 @@
 
 7: Gửi thông báo đến App về việc đi học,trể,làm bài tập về nhà,comment, điểm daily score của học viên
 
-****:man_raising_hand: **Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS
+****:man\_raising\_hand: **Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS
 {% endhint %}
 
-##  Quản lí bảng điểm và xuất kết quả ra Excel
+## &#x20;Quản lí bảng điểm và xuất kết quả ra Excel
 
 ### Nhập Điểm
 
@@ -111,7 +111,7 @@
 ![](../../.gitbook/assets/bangdiem.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Clear (chọn lại bảng điểm mới để nhập vào)
 
@@ -121,11 +121,11 @@
 
 4: Sau khi Lưu bảng điểm, bạn có thể Export bảng điểm ra Excel
 
-Nhập điểm học viên (Màu trắng bạn nhập, màu đậm hơn bạn không được nhập) 
+Nhập điểm học viên (Màu trắng bạn nhập, màu đậm hơn bạn không được nhập)&#x20;
 
-Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống  
+Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống &#x20;
 
-![](../../.gitbook/assets/2020-08-13\_16-19-53.jpg) 
+![](../../.gitbook/assets/2020-08-13\_16-19-53.jpg)&#x20;
 {% endhint %}
 
 > Bước 5: Sau khi input bảng điểm , click **Export to Exce**l để xuất kết quả cuối kì/giữa kì.
@@ -136,7 +136,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 
 ### Xuất báo cáo, điểm danh
 
-> **Bước 1: **Đưa chuột vào module Classes chọn lớp cần xuất báo cáo điểm danh.
+> **Bước 1:** Đưa chuột vào module Classes chọn lớp cần xuất báo cáo điểm danh.
 
 ![](../../.gitbook/assets/BangDiem1.png)
 
@@ -149,9 +149,9 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 ![](../../.gitbook/assets/BCDiemDanh.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
-1: Thông tin lớp xuất báo cáo điểm danh 
+1: Thông tin lớp xuất báo cáo điểm danh&#x20;
 
 2: Chọn buổi cần xuất báo cáo điểm danh
 {% endhint %}
@@ -173,7 +173,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 ![](../../.gitbook/assets/KQCuoiKi.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Chọn mẫu template cần xuất file
 
@@ -193,7 +193,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 ![](../../.gitbook/assets/feedback1.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Tiêu đề Feedback
 
@@ -205,15 +205,15 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 
 5: Nguồn Feedback
 
-****:point_right: **Status Feedback** :
+****:point\_right: **Status Feedback** :
 
-**New **: Mới nhận/tạo Feedback từ phụ huynh/học viên
+**New** : Mới nhận/tạo Feedback từ phụ huynh/học viên
 
-**Assign **: Đã tiếp nhận
+**Assign** : Đã tiếp nhận
 
 **Pending Input**: Đang xử lí
 
-**Closed **: Đã giải quyết.
+**Closed** : Đã giải quyết.
 {% endhint %}
 
 ```

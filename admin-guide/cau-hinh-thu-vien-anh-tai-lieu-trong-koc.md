@@ -26,7 +26,7 @@
 
 ![](<../.gitbook/assets/6 (3).png>)
 
-> Bước 7: Sau đó click chon Cho Phép để cấp quyền truy cập từ hệ thống 
+> Bước 7: Sau đó click chon Cho Phép để cấp quyền truy cập từ hệ thống&#x20;
 
 ![](<../.gitbook/assets/7 (3).png>)
 
@@ -53,13 +53,13 @@ Ghi Chú :
 
 **URL Document** : sẽ được lấy bằng **Tên Thư Mục chứa các tệp đó.**
 
-**Ví dụ: ** **DOTB**
+**Ví dụ:** **DOTB**
 {% endhint %}
 
 ![](../.gitbook/assets/11.jpg)
 
 {% hint style="info" %}
-**Hoặc **: ** DOTB/02. Pre-CleverKid** (nếu có thư mục con trong thư mục lớn).
+**Hoặc** : **DOTB/02. Pre-CleverKid** (nếu có thư mục con trong thư mục lớn).
 {% endhint %}
 
 ![](../.gitbook/assets/12.jpg)

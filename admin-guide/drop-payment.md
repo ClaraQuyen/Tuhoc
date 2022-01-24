@@ -14,7 +14,7 @@ Tính năng này được sử dụng khi học viên _**đã mua một gói h�
 
 ![](<../.gitbook/assets/delay4 (1).jpg>)
 
-> Bước 6: Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount **. Lưu ý use type khi chuyển thành công sẽ là **Amount**.
+> Bước 6: Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount** . Lưu ý use type khi chuyển thành công sẽ là **Amount**.
 
 ![](<../.gitbook/assets/delay5 (1).jpg>)
 
@@ -23,14 +23,14 @@ Tính năng này được sử dụng khi học viên _**đã mua một gói h�
 {% hint style="success" %}
 Tính năng này được sử dụng khi học viên _**đã mua và đã sử dụng được một khoản**_ với KOC là A nhưng lại muốn sử dụng phần remain của gói đã mua này để học KOC B, thì người dùng sẽ phải convert qua số tiền ,sau đó tạo lại payment sử dụng số tiền đó để mua gói KOC B.
 
-Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ số giờ nào cho lớp học , và họ muốn sử dụng gói học A này để học gói học B thì lúc này chỉ cần thao tác các_** bước 4,5**_ bên dưới.
+Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ số giờ nào cho lớp học , và họ muốn sử dụng gói học A này để học gói học B thì lúc này chỉ cần thao tác các _**bước 4,5**_ bên dưới.
 {% endhint %}
 
 > Bước 1: Chọn payment mà học viên đã mua trước đó. Trong thông tin payment chọn "**Admin Action**" ,lưu ý lúc nào use type à Hour, sau đó chọn **Drop Payment**.
 
 ![](../.gitbook/assets/drop4.jpg)
 
-> Bước 2: Tại màn hình Drop Payment, chọn button** "Drop to Payment Delay" **và nhập lí do Drop.
+> Bước 2: Tại màn hình Drop Payment, chọn button **"Drop to Payment Delay"** và nhập lí do Drop.
 
 ![](<../.gitbook/assets/drop2 (1).jpg>)
 
@@ -46,6 +46,6 @@ Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ s�
 
 ![](<../.gitbook/assets/delay4 (1).jpg>)
 
-> Bước 6: Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount **. Lưu ý use type khi chuyển thành công sẽ là **Amount**.
+> Bước 6: Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount** . Lưu ý use type khi chuyển thành công sẽ là **Amount**.
 
 ![](<../.gitbook/assets/delay5 (1).jpg>)

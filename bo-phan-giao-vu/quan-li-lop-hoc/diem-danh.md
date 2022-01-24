@@ -13,7 +13,7 @@
 ![](<../../.gitbook/assets/màn hình điểm danh học viên và gửi sms.png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Lớp thực hiện việc Điểm danh
 
@@ -29,7 +29,7 @@
 
 7: [**Gửi thông báo** **đến App**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#diem-danh) về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
-8:** **[**Gửi tin nhắn đến App**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#send-app-message) về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
+8: **** [**Gửi tin nhắn đến App**](https://help.dotb.vn/bo-phan-giao-vu/quan-li-lop-hoc#send-app-message) về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
 9: [**Gửi  SMS**](https://help.dotb.vn/tuyen-sinh-ban-hang/sms#gui-sms-theo-lop) về điện thoại  về việc đi học trễ, làm bài tập về nhà, comment, điểm daily score của học viên
 
@@ -37,5 +37,5 @@
 
 11: Lựa chọn lại buổi học cần điểm danh
 
-****:man_raising_hand: **Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
+****:man\_raising\_hand: **Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
 {% endhint %}

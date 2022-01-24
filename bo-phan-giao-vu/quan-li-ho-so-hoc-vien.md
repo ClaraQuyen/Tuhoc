@@ -8,7 +8,7 @@ description: >-
 
 ## Quản lí hồ sơ học viên, lịch sử thanh toán
 
-> Bước 1: Click vào module **Students **, hệ thống sẽ hiển thị thông tin sơ lược hồ sơ học viên cho User
+> Bước 1: Click vào module **Students** , hệ thống sẽ hiển thị thông tin sơ lược hồ sơ học viên cho User
 
 ![](../.gitbook/assets/hsHV1.png)
 
@@ -33,13 +33,13 @@ description: >-
 ![](../.gitbook/assets/trichloc3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú** :
+****:woman\_gesturing\_ok: **Ghi chú** :
 
 \+Is any of:Bất kì
 
 \+Is not any of:không bất kì
 
-\+Is empty: Trống 
+\+Is empty: Trống&#x20;
 
 \+Is not empty: Không trống
 {% endhint %}
@@ -48,7 +48,7 @@ description: >-
 
 ![](../.gitbook/assets/trichloc4.png)
 
-### Tìm kiếm học viên 
+### Tìm kiếm học viên&#x20;
 
 {% embed url="https://youtu.be/I3A3G7Mu_Ko" %}
 
@@ -57,13 +57,13 @@ description: >-
 ![](../.gitbook/assets/timkiem1.png)
 
 {% hint style="info" %}
- :woman_gesturing_ok: **Ghi chú:**
+&#x20;:woman\_gesturing\_ok: **Ghi chú:**
 
-1:Gobal search : tìm kiếm toàn hệ thống 
+1:Gobal search : tìm kiếm toàn hệ thống&#x20;
 
 2:Private search : tìm kiếm trong module.
 
-Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía trước kí tự search.
+Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía trước kí tự search.
 {% endhint %}
 
 > Ví dụ chức năng tìm kiếm gobal search.
@@ -71,9 +71,9 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía
 ![](../.gitbook/assets/timkiem2.png)
 
 {% hint style="info" %}
- :woman_gesturing_ok: **Ghi chú:**
+&#x20;:woman\_gesturing\_ok: **Ghi chú:**
 
-1 :Tìm kiếm học viên,giáo viên,User ,… bất kì 
+1 :Tìm kiếm học viên,giáo viên,User ,… bất kì&#x20;
 
 .2 : Thông tin kết quả bạn đã tìm kiếm ở global search
 {% endhint %}
@@ -83,9 +83,9 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía
 ![](../.gitbook/assets/timkiem3.png)
 
 {% hint style="info" %}
-:woman_gesturing_ok: Ghi chú:
+:woman\_gesturing\_ok: Ghi chú:
 
-1: Tìm kiếm học viên trong module Student.Ví dụ muốn tim học viên có tên hoặc họ đệm là Phương thì bạn search %Phuong hoặc có thể nhập cả tên của học viên. 
+1: Tìm kiếm học viên trong module Student.Ví dụ muốn tim học viên có tên hoặc họ đệm là Phương thì bạn search %Phuong hoặc có thể nhập cả tên của học viên.&#x20;
 
 2: Thông tin kết quả bạn đã tìm kiếm ở Module Student (Private search) .
 {% endhint %}
@@ -105,7 +105,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía
 ![](../.gitbook/assets/importstudent.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Chú thích** :
+****:woman\_gesturing\_ok: **Chú thích** :
 
 1 : Dowload file Import mẫu (nếu chưa có)
 
@@ -117,7 +117,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía
 
 5 : Chọn template import dữ liệu vào hệ thống (bắt buộc chọn theo template đã cho)
 
-****:man_raising_hand: **Lưu ý** :
+****:man\_raising\_hand: **Lưu ý** :
 
 * File Template dùng để Import dữ liệu Leads vào hệ thống đã được đính kèm trên hệ hống.
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu ( các cột còn lại có thể có hoặc không ) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng).
@@ -133,14 +133,14 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía
 
 > Bước 6: Xác nhận việc kiểm tra trùng. Sau đó Click Tiến hành nhập dữ liệu để bắt đầu Import dữ liệu vào hệ thống.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjVg5Qr3a_xKHLqQ0%2F6.png?alt=media\&token=f7e61c9a-0fbf-4231-8610-6a4b1ae20b40)
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjVg5Qr3a\_xKHLqQ0%2F6.png?alt=media\&token=f7e61c9a-0fbf-4231-8610-6a4b1ae20b40)
 
 > Bước 7: Kết quả sau khi Import.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjamgRtLaAkNJW20E%2F7.png?alt=media\&token=1ef8695e-033d-46d6-81ab-4976108ea4b3)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1 : Click vào để quay lại bước nhập trước đó.
 
@@ -160,9 +160,9 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**% **_phía
 ![](../.gitbook/assets/phuhuynh1.png)
 
 {% hint style="info" %}
- :woman_gesturing_ok: **Ghi chú:**
+&#x20;:woman\_gesturing\_ok: **Ghi chú:**
 
-1: Thông tin chi tiết của phụ huynh 
+1: Thông tin chi tiết của phụ huynh&#x20;
 
 2:Thông tin học viên mà phụ phuynh đã đăng kí**.**
 {% endhint %}

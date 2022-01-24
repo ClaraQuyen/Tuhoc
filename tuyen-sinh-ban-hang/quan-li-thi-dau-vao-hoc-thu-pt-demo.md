@@ -14,7 +14,7 @@ description: >-
 
 ![](../.gitbook/assets/Schedule.jpg)
 
-> Bước 2: Tại màn hình tạo mới buổi PT, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể input vào thông tin thêm(3), sau đó click **Save **để hoàn tất.
+> Bước 2: Tại màn hình tạo mới buổi PT, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể input vào thông tin thêm(3), sau đó click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/Schedule1.jpg)
 
@@ -28,7 +28,7 @@ description: >-
 
 ![](../.gitbook/assets/Schedule4.jpg)
 
-> Bước 2: Tại màn hình tạo mới buổi Demo, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể input vào thông tin thêm(3), sau đó click **Save **để hoàn tất.
+> Bước 2: Tại màn hình tạo mới buổi Demo, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể input vào thông tin thêm(3), sau đó click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/Schedule1.jpg)
 
@@ -38,7 +38,7 @@ description: >-
 
 ### Thêm hoc viên vào buổi PT
 
-> Bước 1: Click chuột vào module Schedule , click chọn buổi PT cần thêm học viên. 
+> Bước 1: Click chuột vào module Schedule , click chọn buổi PT cần thêm học viên.&#x20;
 
 ![](<../.gitbook/assets/Schedule4 (1).jpg>)
 
@@ -51,7 +51,7 @@ Ghi chú:
 
 1: Lựa chọn loại Học viên: Lead hoặc Student
 
-![](../.gitbook/assets/ThemDemo3.png) 
+![](../.gitbook/assets/ThemDemo3.png)&#x20;
 
 2: Click Select để chọn Học viên .
 
@@ -81,7 +81,7 @@ Ghi chú:
 
 1: Lựa chọn loại Học viên: Lead hoặc Student
 
-![](../.gitbook/assets/ThemDemo3.png) 
+![](../.gitbook/assets/ThemDemo3.png)&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -104,7 +104,7 @@ Bước 3: Hệ thống hiển thị thông tin học viên sau khi được th�
 
 ![](../.gitbook/assets/ThuPhi1.png)
 
-> Bước 2: >  Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
+> Bước 2:&#x20;> &#x20;Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/ThuPhi2.png)
 
@@ -118,6 +118,6 @@ Bước 3: Hệ thống hiển thị thông tin học viên sau khi được th�
 
 ![](<../.gitbook/assets/Schedule4 (1).jpg>)
 
-> Bước 2: > Tại màn hình thông tin buổi PT,click vào tab **Placement Test**,sau đó nhập điểm cho học viên (nếu học viên có tham gia buổi PT). Đồng thời, trạng thái của Leads sẽ được cập nhật là PT/Demo.
+> Bước 2:&#x20;> Tại màn hình thông tin buổi PT,click vào tab **Placement Test**,sau đó nhập điểm cho học viên (nếu học viên có tham gia buổi PT). Đồng thời, trạng thái của Leads sẽ được cập nhật là PT/Demo.
 
 ![](../.gitbook/assets/KQ2.png)

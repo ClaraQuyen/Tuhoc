@@ -5,7 +5,7 @@
 {% hint style="success" %}
 Lưu ý :
 
-Username :** là email đuôi VMG**
+Username : **là email đuôi VMG**
 
 Password : **vmg@12345**
 {% endhint %}

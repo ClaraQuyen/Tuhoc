@@ -15,14 +15,14 @@ Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phả
 
 Nếu học viên không có Delay thì sẽ [Convert Payment](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
 
-Cuối cùng sử dụng tính năng **Moving Center ** này để chuyển trung tâm A đến cho trung tâm B.
+Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung tâm A đến cho trung tâm B.
 {% endhint %}
 
 > Bước 1:Đưa chuột vào module Student ,chọn vào học viên có nhu cầu chuyển trung tâm hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
 
 ![](../../.gitbook/assets/chuyentrungtam1.png)
 
-> Bước 2: Tại màn hình Student, click vào action kế button edit chọn** Moving Center.**
+> Bước 2: Tại màn hình Student, click vào action kế button edit chọn **Moving Center.**
 
 ![](../../.gitbook/assets/chuyentrungtam2.png)
 
@@ -62,7 +62,7 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 
 ![](../../.gitbook/assets/nhuonghocphi2.png)
 
-> Bước 3: Tại màn hình chuyển nhượng học phí, chọn học viên được nhận học phí (2) sau đó chọn loại học phí (delay, cashholder,deposit) muốn chuyển đến cho học viên B(1), nhập phí admin charge(3) và Lí do (4)  ,sau đó click **Save **để hoàn tất.
+> Bước 3: Tại màn hình chuyển nhượng học phí, chọn học viên được nhận học phí (2) sau đó chọn loại học phí (delay, cashholder,deposit) muốn chuyển đến cho học viên B(1), nhập phí admin charge(3) và Lí do (4)  ,sau đó click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/guide1.png)
 
@@ -91,10 +91,10 @@ Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực 
 
 Nếu học viên không có Delay thì sẽ [**Convert Payment**](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
 
-Cuối cùng sử dụng tính năng **Refund **này để hoàn tiền cho học viên.
+Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho học viên.
 {% endhint %}
 
-> Bước 1: Đưa chuột vào module **Student **,click vào học viên có nhu cầu hoàn tiền hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
+> Bước 1: Đưa chuột vào module **Student** ,click vào học viên có nhu cầu hoàn tiền hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
 
 ![](../../.gitbook/assets/hoantien1.png)
 
@@ -102,7 +102,7 @@ Cuối cùng sử dụng tính năng **Refund **này để hoàn tiền cho họ
 
 ![](../../.gitbook/assets/hoantien2.png)
 
-> Bước 3: Tại màn hình hoàn học phí, chọn loại học phí (delay,cashholder,deposit) (1) mà học viên muốn hoàn trả sau đó nhập số tiền charge phí giữ chổ học viên ở trung tâm (nếu có) (2), sau đó nhập thêm thông tin, lí do refund(4). Sau đó click **Save **để hoàn tất.
+> Bước 3: Tại màn hình hoàn học phí, chọn loại học phí (delay,cashholder,deposit) (1) mà học viên muốn hoàn trả sau đó nhập số tiền charge phí giữ chổ học viên ở trung tâm (nếu có) (2), sau đó nhập thêm thông tin, lí do refund(4). Sau đó click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/refund.jpg)
 
@@ -118,6 +118,6 @@ Cuối cùng sử dụng tính năng **Refund **này để hoàn tiền cho họ
 4: Lí do, thông tin thêm về việc refund.
 {% endhint %}
 
-> Bước 4: Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi **Save **thành công.
+> Bước 4: Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi **Save** thành công.
 
 ![](<../../.gitbook/assets/image (79).png>)

@@ -44,6 +44,7 @@
 * [Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc/README.md)
   * [Tạo lớp học, lớp chờ](bo-phan-giao-vu/to-chuc-lop-hoc/tao-lop-hoc-lop-cho.md)
   * [Tạo Room (Class In: Teacher)](bo-phan-giao-vu/to-chuc-lop-hoc/tao-room-class-in-teacher.md)
+  * [Xếp Room](bo-phan-giao-vu/to-chuc-lop-hoc/xep-room.md)
   * [Hủy buổi học/chọn ngày học bù](bo-phan-giao-vu/to-chuc-lop-hoc/huy-buoi-hoc-chon-ngay-hoc-bu.md)
   * [Đổi ngày khai giảng](bo-phan-giao-vu/to-chuc-lop-hoc/doi-ngay-khai-giang.md)
   * [Đổi lịch học trong khoảng thời gian bất kì](bo-phan-giao-vu/to-chuc-lop-hoc/doi-lich-hoc-trong-khoang-thoi-gian-bat-ki.md)

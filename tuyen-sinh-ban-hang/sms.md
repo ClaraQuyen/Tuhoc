@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/SMS\_Lop1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework  **
+> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework** &#x20;
 
 ![](../.gitbook/assets/SMS\_Lop2.png)
 
@@ -39,11 +39,11 @@
 ![](../.gitbook/assets/SMS\_report2.png)
 
 {% hint style="info" %}
-:woman\_gesturing\_ok: **Ghi chú **:
+:woman\_gesturing\_ok: **Ghi chú** :
 
 1: Thông tin filter để xuất báo cáo
 
-2: Click **Apply **để xem báo cáo&#x20;
+2: Click **Apply** để xem báo cáo&#x20;
 
 3: Xuất report dạng **Excel**
 {% endhint %}

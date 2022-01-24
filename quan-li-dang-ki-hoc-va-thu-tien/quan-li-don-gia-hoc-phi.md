@@ -6,22 +6,22 @@
 
 ![](../.gitbook/assets/dongia1.png)
 
-> Bước 2: Tại màn hình tạo đơn giá học phí, nhập đầy đủ các thông tin cần thiết, click **Save **để hoàn tất.
+> Bước 2: Tại màn hình tạo đơn giá học phí, nhập đầy đủ các thông tin cần thiết, click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/dongia].jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Tên đơn giá học phí
 
-Gói giờ : 
+Gói giờ :&#x20;
 
-**Hours **: học phí bao nhiêu giờ và được sử dụng trong bao hiêu tháng
+**Hours** : học phí bao nhiêu giờ và được sử dụng trong bao hiêu tháng
 
-**Session **: học phí bao nhiêu buổi và được sử dụng trong bao nhiểu buổi
+**Session** : học phí bao nhiêu buổi và được sử dụng trong bao nhiểu buổi
 
-**Hour/month **: học phí 1 giờ bao nhiêu, học bao nhiêu giờ và gói này được sử dụng trong bao nhiêu tháng
+**Hour/month** : học phí 1 giờ bao nhiêu, học bao nhiêu giờ và gói này được sử dụng trong bao nhiêu tháng
 
 **Hour/week**: học phí 1 giờ bao nhiêu, học bao nhiêu giờ và gói này hết hạn trong vòng bao nhiêu tuần
 

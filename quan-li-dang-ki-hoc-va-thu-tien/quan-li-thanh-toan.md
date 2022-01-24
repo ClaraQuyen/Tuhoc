@@ -4,7 +4,7 @@
 
 ### Tạo Payment Deposit
 
-> Bước 1: Đưa chuột vào menu **Payment **chọn **Create Payment**.
+> Bước 1: Đưa chuột vào menu **Payment** chọn **Create Payment**.
 
 ![](../.gitbook/assets/payment1.jpg)
 
@@ -28,7 +28,7 @@
 
 ### Tạo Payment Cashholder (Mua khóa học)
 
-> Bước 1: Đưa chuột vào module **Payment **chọn **Create Payment**.
+> Bước 1: Đưa chuột vào module **Payment** chọn **Create Payment**.
 
 ![](../.gitbook/assets/payment1.jpg)
 
@@ -56,7 +56,7 @@ Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/asset
 (\*): Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
 {% endhint %}
 
-### &#xD;**Tạo Payment PT (Đóng tiền kiểm tra đầu vào) **
+### &#xD;**Tạo Payment PT (Đóng tiền kiểm tra đầu vào)**&#x20;
 
 > Bước 1: Đưa chuột vào Menu Payment & Enrollment chọn Create Payment.
 
@@ -95,7 +95,7 @@ Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/asset
 ![](../.gitbook/assets/bookgift.png)
 
 {% hint style="info" %}
-:woman\_gesturing\_ok:** Ghi chú**:
+:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Lựa chọn Học sinh.
 
@@ -189,7 +189,7 @@ Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/asset
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **GHI CHÚ:**
 
-* **MÔ TẢ: **Hóa đơn điện tử (E-invoice) là tập hợp các thông điệp dữ liệu điện tử về bán hàng hóa, cung ứng dịch vụ, được khởi tạo, lập, gửi, nhận, lưu trữ và quản lý bằng phương tiện điện tử theo quy định của pháp luật về giao dịch điện tử.
+* **MÔ TẢ:** Hóa đơn điện tử (E-invoice) là tập hợp các thông điệp dữ liệu điện tử về bán hàng hóa, cung ứng dịch vụ, được khởi tạo, lập, gửi, nhận, lưu trữ và quản lý bằng phương tiện điện tử theo quy định của pháp luật về giao dịch điện tử.
 * **LƯU Ý:** Chức năng của hóa đơn điện tử chỉ hoạt động khi Đơn vị có sử dụng HT E-invoice và đã được cài đặt lên hệ thống EMS.
 * **CHI TIẾT:** Mọi thông tin về cài đặt vui lòng liên hệ bộ phận IT Administrator để được giải đáp.
 {% endhint %}
@@ -203,7 +203,7 @@ Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/asset
 ![](../.gitbook/assets/E-Invoice.jpg)
 
 {% hint style="info" %}
-**Ghi chú**: **Get E-invoice **khi có thông báo. Thông báo có thể xuất hóa đơn điện tử (như hình dưới) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
+**Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử (như hình dưới) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
 {% endhint %}
 
 ![](<../.gitbook/assets/image (86).png>)

@@ -17,7 +17,7 @@
 ![](<../../.gitbook/assets/image (103).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Chọn ngày khai giảng muốn thay đổi.
 
@@ -27,5 +27,5 @@
 {% endhint %}
 
 {% hint style="danger" %}
-****:man_raising_hand: **Lưu ý: **Khi thay đổi ngày khai giảng (Change Start Date), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
+****:man\_raising\_hand: **Lưu ý:** Khi thay đổi ngày khai giảng (Change Start Date), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
 {% endhint %}

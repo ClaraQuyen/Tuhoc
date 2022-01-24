@@ -25,7 +25,7 @@
 ![](../../.gitbook/assets/discount2.png)
 
 {% hint style="info" %}
-:woman_gesturing_ok: **Ghi chú:**
+:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Số tiền discount.
 
@@ -37,7 +37,7 @@
 
 5: Ngày bắt đầu,ngày kết thúc discount.
 
-****:man_raising_hand: **Lưu ý**: Có thể chỉ nhập số tiền hoặc phần trăm Discount
+****:man\_raising\_hand: **Lưu ý**: Có thể chỉ nhập số tiền hoặc phần trăm Discount
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của chiết khấu sau khi tạo thành công.
@@ -55,11 +55,11 @@
 ![](../../.gitbook/assets/Voucher2.png)
 
 {% hint style="info" %}
- :woman_gesturing_ok: **Ghi chú:**
+&#x20;:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Tên Voucher (có thể nhập chữ hoặc số),Số tiền, phần trăm giảm giá
 
-2: Trạng thái của Voucher và loại áp dụng 
+2: Trạng thái của Voucher và loại áp dụng&#x20;
 
 3: Số lần sử dụng Voucher và ngày bắt đầu,kết thúc lượt sử dụng Voucher
 {% endhint %}
@@ -77,11 +77,11 @@ Tính năng tích điểm này cho phép học viên sử dụng để trừ và
 ### Tích điểm Loyalty
 
 {% hint style="info" %}
-:woman_gesturing_ok: Có 2 cách tích điểm Loyalty cho học viên
+:woman\_gesturing\_ok: Có 2 cách tích điểm Loyalty cho học viên
 
-**Cách 1 **: Học viên đi học, điểm danh mỗi buổi sẽ tích điểm cho học viên trong màn hình điểm danh cột **"Loyalty Point "**
+**Cách 1** : Học viên đi học, điểm danh mỗi buổi sẽ tích điểm cho học viên trong màn hình điểm danh cột **"Loyalty Point "**
 
-**Cách 2: **Tích điểm khi học viên mua gói học hoặc Enroll vào lớp.
+**Cách 2:** Tích điểm khi học viên mua gói học hoặc Enroll vào lớp.
 
 **Cách 3**: User tạo điểm thưởng/trừ điểm học viên
 {% endhint %}
@@ -90,7 +90,7 @@ Tính năng tích điểm này cho phép học viên sử dụng để trừ và
 
 > Tích điểm dựa vào quá trình học làm bài tập về nhà, điểm danh cho học viên trong màn hình Attendance and Homework
 
-![](../../.gitbook/assets/Loyalty_point.jpg)
+![](../../.gitbook/assets/Loyalty\_point.jpg)
 
 #### Cách 2
 
@@ -113,13 +113,13 @@ Bước 2 : Môi học viên nếu mua gói học (cashholder) với chương tr
 ![](../../.gitbook/assets/Loyalty2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Loại Loyalty (Điểm giới thiệu,điểm thưởng,điểm trừ).
 
 2:Số điểm cộng/trừ
 
-3: Chọn học viên cộng/trừ điểm 
+3: Chọn học viên cộng/trừ điểm&#x20;
 
 4: Ngày cộng/trừ điểm
 {% endhint %}
@@ -131,7 +131,7 @@ Bước 2 : Môi học viên nếu mua gói học (cashholder) với chương tr
 ### Sử dụng điểm Loyalty
 
 {% hint style="info" %}
-:woman_gesturing_ok: Mỗi điểm học viên tích được sẽ được đổi thành tiền và trừ ra cho payment học viên thanh toán, **1 Điểm** sẽ tương đương với **1000 VNĐ**
+:woman\_gesturing\_ok: Mỗi điểm học viên tích được sẽ được đổi thành tiền và trừ ra cho payment học viên thanh toán, **1 Điểm** sẽ tương đương với **1000 VNĐ**
 {% endhint %}
 
 > Bước 1: Tại màn hình thanh toán ví dụ với thanh toán Book/Gift, chọn **Loyalty** sau đó click vào button **Use Loyalty**, nhập số điểm mà học viên muốn sử dụng.

@@ -14,7 +14,7 @@ description: >-
 
 ![](<../.gitbook/assets/11 (1).jpg>)
 
-> Bước 3: Sau khi click nút **Gửi , t**rong 60 hệ thống sẽ gửi mã xác thực (mã code) cho Phụ Huynh, sau đó Phụ huynh chỉ cần nhập vào 4 ô như hình, nếu nhập đúng thì nút màu vàng** "Tiếp" **sẽ hiện ra, Phụ huynh click vào nú**t Tiếp.**
+> Bước 3: Sau khi click nút **Gửi , t**rong 60 hệ thống sẽ gửi mã xác thực (mã code) cho Phụ Huynh, sau đó Phụ huynh chỉ cần nhập vào 4 ô như hình, nếu nhập đúng thì nút màu vàng **"Tiếp"** sẽ hiện ra, Phụ huynh click vào nú**t Tiếp.**
 
 ![](../.gitbook/assets/qmk4.jpg)
 

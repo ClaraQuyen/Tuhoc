@@ -8,12 +8,12 @@
 
 ![](../.gitbook/assets/Guisms2.png)
 
-> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage **nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
+> Bước 3: Tại màn hình điểm danh, click chọn **Send App Mesage** nhập tin nhắn muốn gửi thông báo đến học viên qua app. Sau dó click **Send**
 
 ![](../.gitbook/assets/Guisms3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Lớp thực hiện việc gửi SMS/Bài tập về nhà,điểm danh
 

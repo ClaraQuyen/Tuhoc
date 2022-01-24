@@ -30,7 +30,9 @@
 
 > Bước 3:Nhập thông tin cấu hình Class In.
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi tạo thành công.
+![](<../../.gitbook/assets/Class 1.png>)
+
+> Bước 4: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi tạo thành công.
 
 ![](../../.gitbook/assets/TaoLop3.png)
 

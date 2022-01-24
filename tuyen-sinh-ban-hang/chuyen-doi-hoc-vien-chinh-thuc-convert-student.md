@@ -6,21 +6,21 @@ description: >-
 
 # Students
 
-![](../.gitbook/assets/Edu_ChamSocStudetns.png)
+![](../.gitbook/assets/Edu\_ChamSocStudetns.png)
 
-> ****:point_right: **Chi tiết  các trạng thái học viên :**
+> ****:point\_right: **Chi tiết  các trạng thái học viên :**
 >
-> **+ Waiting for class: **Đã được convert lên thành học viên, dù có hay chưa có payment nào.
+> **+ Waiting for class:** Đã được convert lên thành học viên, dù có hay chưa có payment nào.
 >
 > **+ In Progress:**  Đã xếp học viên vào lớp.
 >
-> **+ Delay : **Khi thực hiện thao tác** **bảo lưu (hoàn tất học phí mới được bảo lưu)
+> **+ Delay :** Khi thực hiện thao tác **** bảo lưu (hoàn tất học phí mới được bảo lưu)
 >
 > **+ Outstanding :** Học nợ (Chưa đóng đủ học phí cho khóa học hoặc add vào lớp cho học nợ khi chưa có payment nào).
 >
-> **+ Finished : **Hoàn tất việc học.
+> **+ Finished :** Hoàn tất việc học.
 >
-> \+ **Stop **: Học viên không đăng kí lớp học mới, **sau 60 ngày.**
+> \+ **Stop** : Học viên không đăng kí lớp học mới, **sau 60 ngày.**
 
 ## Convert to Student
 
@@ -28,7 +28,7 @@ description: >-
 
 ![](../.gitbook/assets/Convet1.png)
 
-> Bước 2: > Tại màn hình thông tin chi tiết của Lead, click **Convert to Student** để chuyển đổi HV chính thức.
+> Bước 2:&#x20;> Tại màn hình thông tin chi tiết của Lead, click **Convert to Student** để chuyển đổi HV chính thức.
 
 ![](../.gitbook/assets/Convert2.png)
 
@@ -42,7 +42,7 @@ description: >-
 
 ## Cập nhật hồ sơ Học viên
 
-> Bước 1: Vào Profile học viên, chọn Edit. 
+> Bước 1: Vào Profile học viên, chọn Edit.&#x20;
 
 > Bước 2: Sau đó upload ảnh đại diện của học viên lên , cập nhật thông tin ngày sinh hoặc số điện thoại (Nếu có).
 

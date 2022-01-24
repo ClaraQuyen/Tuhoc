@@ -11,7 +11,7 @@
 ![](../../.gitbook/assets/taolop.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Tên của Lớp học, có thể để rỗng hệ thống sẽ tự động sinh ra tên Lớp.
 
@@ -40,7 +40,7 @@
 
 ![](../../.gitbook/assets/hocbu.png)
 
-> Bước 2: > Tại màn hình Classes click vào Tab Session,hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, click vào cancel để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
+> Bước 2:&#x20;> Tại màn hình Classes click vào Tab Session,hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, click vào cancel để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
 
 ![](../../.gitbook/assets/hocbu2.png)
 
@@ -49,13 +49,13 @@
 ![](../../.gitbook/assets/hocbu3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Thông tin Lớp học bị hủy
 
 2: Thông tin buổi học bị hủy và lý do hủy
 
-****:man_raising_hand: **Lưu ý:**
+****:man\_raising\_hand: **Lưu ý:**
 
 \+ Nếu chọn Make up in this schedule thì hệ thống sẽ tư lên lịch dạy bù cho giáo viên vào buổi cuối cùng của tháng kết thúc khóa học
 
@@ -69,7 +69,7 @@
 ![](../../.gitbook/assets/hocbu5.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1:Trạng thái **Cancelled**: Buổi học đã được hủy trên hệ thống
 
@@ -86,7 +86,7 @@
 
 ![](../../.gitbook/assets/doingaykhaigiang1.png)
 
-> Bước 3: Tiếp theo click vào **Change Start Date **để thay đổi ngày khai giảng.
+> Bước 3: Tiếp theo click vào **Change Start Date** để thay đổi ngày khai giảng.
 
 ![](../../.gitbook/assets/doingaykhaigiang3.png)
 
@@ -95,7 +95,7 @@
 ![](<../../.gitbook/assets/image (103).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Chọn ngày khai giảng muốn thay đổi.
 
@@ -105,7 +105,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-****:man_raising_hand: **Lưu ý: **Khi thay đổi ngày khai giảng (**Change Start Date**), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất.
+****:man\_raising\_hand: **Lưu ý:** Khi thay đổi ngày khai giảng (**Change Start Date**), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất.
 {% endhint %}
 
 ## Đổi lịch học trong khoảng thời gian bất kì
@@ -122,12 +122,12 @@
 
 ![](<../../.gitbook/assets/doingaykhaigiang2 (1).png>)
 
-> Bước 4: Nhập đầy đủ thông tin, sau đó click **Save **để hoàn tất.
+> Bước 4: Nhập đầy đủ thông tin, sau đó click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/taolop1.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Chọn khoảng thời gian thay đổi lịch học
 
@@ -137,7 +137,7 @@
 {% endhint %}
 
 {% hint style="danger" %}
-****:man_raising_hand: **Lưu ý: **Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
+****:man\_raising\_hand: **Lưu ý:** Khi thay đổi lịch học trong khoảng thời gian bất kỳ, dữ liệu điểm danh của các buổi học trong khoảng thời gian thay đổi sẽ bị mất.
 {% endhint %}
 
 ## Quản lí lịch nghỉ lễ trong năm
@@ -154,6 +154,6 @@
 
 ![](../../.gitbook/assets/holiday3.jpg)
 
-> Bước 4: Sau đó chọn ngày cần set up Holiday, click **Save **để hoàn tất.
+> Bước 4: Sau đó chọn ngày cần set up Holiday, click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/holiday4.jpg)

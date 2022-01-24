@@ -8,7 +8,7 @@ description: >-
 
 ### Xem danh sách học viên delay hoc phí
 
-> Bước 1: > Click chuột vào module **Payments**, tại menu action filter click chọn **Create**.
+> Bước 1:&#x20;> Click chuột vào module **Payments**, tại menu action filter click chọn **Create**.
 
 ![](../../.gitbook/assets/xemdelay1.png)
 
@@ -30,18 +30,18 @@ description: >-
 
 ![](../../.gitbook/assets/tạodelay1.png)
 
-> Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin mà học viên đặt **Delay Fee**. Click **Save **để hoàn tất.
+> Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin mà học viên đặt **Delay Fee**. Click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/taodelay2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Lựa chọn Student. Các phương pháp lựa chọn Student:
 
 Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
-![](../../.gitbook/assets/Enroll3.png) 
+![](../../.gitbook/assets/Enroll3.png)&#x20;
 
 Cách 2: Click vào biểu tượng ![](../../.gitbook/assets/Enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
 
@@ -67,11 +67,11 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 ![](<../../.gitbook/assets/5 (3).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Thông tin học viên delay lớp.
 
-2: Chọn thời gian bắt đầu Delay (Mặc định hệ thống sẽ lấy từ ngày user chọn ngày bắt đầu delay đến hết ngày kết thúc lớp học). 
+2: Chọn thời gian bắt đầu Delay (Mặc định hệ thống sẽ lấy từ ngày user chọn ngày bắt đầu delay đến hết ngày kết thúc lớp học).&#x20;
 
 3: Số dư của học viên trong khoảng thời gian Delay.
 

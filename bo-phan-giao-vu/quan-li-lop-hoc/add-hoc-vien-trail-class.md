@@ -4,13 +4,13 @@
 
 ![](../../.gitbook/assets/HocDemo1.png)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. 
+> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”.&#x20;
 >
 > Lựa chọn loại học viên Lead/Student.  Sau đó chọn **Add to Class Demo**
 
 ![](../../.gitbook/assets/5.jpg)
 
-> Bước 3: Chọn học viên đưa vào lớp Trail, sau đó chọn ngày bắt dầu /kết thúc mà học viên học trail. Cuối cùng click **Add **để thêm học viên vào lớp.
+> Bước 3: Chọn học viên đưa vào lớp Trail, sau đó chọn ngày bắt dầu /kết thúc mà học viên học trail. Cuối cùng click **Add** để thêm học viên vào lớp.
 
 ![](../../.gitbook/assets/addtoclass1.png)
 
@@ -19,7 +19,7 @@ HOặc có thể vào Profile của Lead/Student để Add học viên vào Trai
 ```
 
 {% hint style="success" %}
-Với Leads : 
+Với Leads :&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/Leadsdemo.png)

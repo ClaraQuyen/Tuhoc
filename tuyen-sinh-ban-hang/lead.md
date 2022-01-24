@@ -8,25 +8,25 @@ description: >-
 
 ![Qui trình chăm sóc học viên tiềm năng (Leads)](<../.gitbook/assets/ChamSocLeadspng (1).png>)
 
-> ****:point_right: **Chi tiết các trạng thái Học Viên Tiềm Năng**
+> ****:point\_right: **Chi tiết các trạng thái Học Viên Tiềm Năng**
 >
-> **+ New **: Leads mới được assign chưa được chưa chăm sóc 
+> **+ New** : Leads mới được assign chưa được chưa chăm sóc&#x20;
 >
-> **+ In Process** : Đã có tương tác, gọi điện, tư vấn** **
+> **+ In Process** : Đã có tương tác, gọi điện, tư vấn ****&#x20;
 >
-> **+ Ready to PT** :Lead đồng ý tham gia lịch thi thử, thi đầu vào. 
+> **+ Ready to PT** :Lead đồng ý tham gia lịch thi thử, thi đầu vào.&#x20;
 >
-> **+ Ready to Demo** :Lead đồng ý tham gia học thử, tham quan trung tâm 
+> **+ Ready to Demo** :Lead đồng ý tham gia học thử, tham quan trung tâm&#x20;
 >
-> **+ PT/Demo** :Lead có tham gia buổi thi thử, học thử 
+> **+ PT/Demo** :Lead có tham gia buổi thi thử, học thử&#x20;
 >
-> **+ Completed **: Đã chuyển Lead lên thành Student 
+> **+ Completed** : Đã chuyển Lead lên thành Student&#x20;
 >
-> **+ Dead **: Không có tiềm năng
+> **+ Dead** : Không có tiềm năng
 
 ## Tạo Lead
 
-> Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để** Create Lead**.
+> Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để **Create Lead**.
 
 ![](../.gitbook/assets/TaoLead1.png)
 
@@ -38,9 +38,9 @@ description: >-
 
 ![](<../.gitbook/assets/image (3).png>)
 
-## :inbox_tray: Import Leads
+## :inbox\_tray: Import Leads
 
-> Bước 1: Đưa chuột vào Module **Leads **chọn **Import Leads**.
+> Bước 1: Đưa chuột vào Module **Leads** chọn **Import Leads**.
 
 ![](../.gitbook/assets/ImportLead.png)
 
@@ -48,12 +48,12 @@ description: >-
 
 ![](<../.gitbook/assets/2 (1).png>)
 
-> Bước 3: >  Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
+> Bước 3:&#x20;> &#x20;Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
 
 ![](../.gitbook/assets/ImportLead2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Chú thích** :
+****:woman\_gesturing\_ok: **Chú thích** :
 
 1 : Dowload file Import mẫu (nếu chưa có)
 
@@ -65,7 +65,7 @@ description: >-
 
 5 : Chọn template import dữ liệu vào hệ thống (bắt buộc chọn theo template đã cho)
 
-****:man_raising_hand: **Lưu ý **: 
+****:man\_raising\_hand: **Lưu ý** :&#x20;
 
 * File Template dùng để Import dữ liệu Leads vào hệ thống.
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu ( các cột còn lại có thể có hoặc không ) Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng)
@@ -88,7 +88,7 @@ description: >-
 ![](<../.gitbook/assets/7 (1).png>)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Import Again: Import lại danh sách khách hàng (Nếu muốn)
 
@@ -103,7 +103,7 @@ description: >-
 
 ![](../.gitbook/assets/ChinhSuaLeadă.png)
 
-> Bước 2: Tại màn hình View Lead, click Edit và nhập thông tin cần sửa, click **Save **để hoàn tất việc Edit 1 Lead.
+> Bước 2: Tại màn hình View Lead, click Edit và nhập thông tin cần sửa, click **Save** để hoàn tất việc Edit 1 Lead.
 
 ![](../.gitbook/assets/chihsualead2.png)
 
@@ -125,26 +125,26 @@ description: >-
 
 ![](../.gitbook/assets/TaoCall1.png)
 
-> Bước 2: Tại màn hình tạo Log Call, nhập thông tin , sau đó click **Save **để lưu lại.
+> Bước 2: Tại màn hình tạo Log Call, nhập thông tin , sau đó click **Save** để lưu lại.
 
 ![](../.gitbook/assets/TaoCall2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Nội dung cuộc gọi (Subject)
 
 2: Đối tượng thực hiện cuộc gọi có thể là **Targets/Leads/Students**.
 
-3: Đặt lịch nhắc nhở gọi (**Request Callback)** va người dùng có thể đặt lịch cho hệ thống thông báo qua Email hoặc** Popup reminder **trước 5 hoặc 10 phút.
+3: Đặt lịch nhắc nhở gọi (**Request Callback)** va người dùng có thể đặt lịch cho hệ thống thông báo qua Email hoặc **Popup reminder** trước 5 hoặc 10 phút.
 
-4: Trạng thái của cuộc gọi 
+4: Trạng thái của cuộc gọi&#x20;
 
-\+ **Scheduled **: Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up (gọi lai hoặc nhắc gọi vào ngày set up) (3)
+\+ **Scheduled** : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up (gọi lai hoặc nhắc gọi vào ngày set up) (3)
 
-\+**Completed **: Cuộc gọi đã được thực hiện (Người dùng đã gọi xong và ghi chú lại nội dung cuộc gọi)
+\+**Completed** : Cuộc gọi đã được thực hiện (Người dùng đã gọi xong và ghi chú lại nội dung cuộc gọi)
 
-\+**Cancel **: Hủy bỏ cuộc gọi đa được set up remind.
+\+**Cancel** : Hủy bỏ cuộc gọi đa được set up remind.
 
 5: Trạng thái, kết quả của cuộc gọi.
 
@@ -166,7 +166,7 @@ description: >-
 
 ![](../.gitbook/assets/TaoCall1\_1.png)
 
-> Bước 2: Tại màn hình hồ sơ học viên, dưới subpanel click vào **Calls **, sau đó click vào dấu (+).
+> Bước 2: Tại màn hình hồ sơ học viên, dưới subpanel click vào **Calls** , sau đó click vào dấu (+).
 
 ![](../.gitbook/assets/TaoCall1\_2.png)
 
@@ -175,21 +175,21 @@ description: >-
 ![](../.gitbook/assets/TaoCall2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Nội dung cuộc gọi (Subject)
 
 2: Đối tượng thực hiện cuộc gọi có thể là **Targets/Leads/Students**.
 
-3: Đặt lịch nhắc nhở gọi (**Request Callback)** va người dùng có thể đặt lịch cho hệ thống thông báo qua Email hoặc** Popup reminder **trước 5 hoặc 10 phút.
+3: Đặt lịch nhắc nhở gọi (**Request Callback)** va người dùng có thể đặt lịch cho hệ thống thông báo qua Email hoặc **Popup reminder** trước 5 hoặc 10 phút.
 
-4: Trạng thái của cuộc gọi 
+4: Trạng thái của cuộc gọi&#x20;
 
-\+ **Scheduled **: Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up (gọi lai hoặc nhắc gọi vào ngày set up) (3)
+\+ **Scheduled** : Lên lịch đặt hẹn nhắc nhở cuộc gọi qua Email hoặc dạng Pop-up (gọi lai hoặc nhắc gọi vào ngày set up) (3)
 
-\+**Completed **: Cuộc gọi đã được thực hiện (Người dùng đã gọi xong và ghi chú lại nội dung cuộc gọi)
+\+**Completed** : Cuộc gọi đã được thực hiện (Người dùng đã gọi xong và ghi chú lại nội dung cuộc gọi)
 
-\+**Cancel **: Hủy bỏ cuộc gọi đa được set up remind.
+\+**Cancel** : Hủy bỏ cuộc gọi đa được set up remind.
 
 5: Trạng thái, kết quả của cuộc gọi.
 
@@ -226,7 +226,7 @@ Bước 4: Click Mass Updated để phân bổ cho người phụ trách.
 
 Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng click **Update**.
 
-![](../.gitbook/assets/Lead_Mass.jpg)
+![](../.gitbook/assets/Lead\_Mass.jpg)
 
 ## Merge Duplicate
 

@@ -18,7 +18,7 @@
 
 ### Tạo hợp đồng
 
-> Bước 1: > Tại màn hình chi tiết của Giáo viên, Click vào Subpanel Teacher Contract, sau đó click **Create.**
+> Bước 1:&#x20;> Tại màn hình chi tiết của Giáo viên, Click vào Subpanel Teacher Contract, sau đó click **Create.**
 
 ![](../.gitbook/assets/TaoHopDong1.png)
 
@@ -27,7 +27,7 @@
 ![](../.gitbook/assets/TaoHopDong2.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Giáo viên trong Hợp đồng
 
@@ -37,7 +37,7 @@
 
 4: Ngày bắt đầu và ngày kết thúc Hợp đồng
 
-5: Số giờ dạy bắt buộc trong tháng 
+5: Số giờ dạy bắt buộc trong tháng&#x20;
 
 6: Ngày nghỉ của Giáo viên
 {% endhint %}
@@ -52,20 +52,20 @@
 
 ![](../.gitbook/assets/XepLichDay1.png)
 
-> Bước 2: > Tại màn hình chi tiết của Lớp học, Click vào tab **Sessions,** sau đó click vào **Schedule Teacher/TA.**
+> Bước 2:&#x20;> Tại màn hình chi tiết của Lớp học, Click vào tab **Sessions,** sau đó click vào **Schedule Teacher/TA.**
 
 ![](../.gitbook/assets/Xeplichday2.png)
 
-> Bước 3: > Tại màn hình lựa chọn các tiêu chí để xếp lịch cho Giáo viên, sau đó Click vào button **Check**.
+> Bước 3:&#x20;> Tại màn hình lựa chọn các tiêu chí để xếp lịch cho Giáo viên, sau đó Click vào button **Check**.
 
 ![](../.gitbook/assets/Xeplichday3.png)
 
-> Bước 4: >  Hệ thống hiển thị danh sách Giáo viên phù hợp, click chọn Giáo viên muốn xếp, click **Save** để hoàn  tất.
+> Bước 4:&#x20;> &#x20;Hệ thống hiển thị danh sách Giáo viên phù hợp, click chọn Giáo viên muốn xếp, click **Save** để hoàn  tất.
 
 ![](../.gitbook/assets/Xeplichday4.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong xếp lịch giảng dạy nên có ưu tiên thấp hơn.
 {% endhint %}
@@ -76,12 +76,12 @@ Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong x�
 
 ## Quản lí giờ phụ đạo, event, admin
 
-> Bước 1: click chuột vào module **Admin Hours, **sau đó chọn ngày cần xếp cho giáo viên và nhập thông tin giáo viên cần xếp, thời gian, task,... tiếp theo click **Add.**
+> Bước 1: click chuột vào module **Admin Hours,** sau đó chọn ngày cần xếp cho giáo viên và nhập thông tin giáo viên cần xếp, thời gian, task,... tiếp theo click **Add.**
 
 ![](../.gitbook/assets/admin2.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1: Giáo viên cần xếp buổi phụ đạo
 
@@ -101,14 +101,14 @@ Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong x�
 ![](../.gitbook/assets/admin2.png)
 
 {% hint style="info" %}
-**Ghi chú**: 
+**Ghi chú**:&#x20;
 
 _**Tính năng Sync PT/Demo**_ sẽ đồng bộ các buổi PT/Demo lên Module Admin Hour khi giáo viên được book vào các buổi PT/Demo thông qua module Schedules
 
 Khi tạo các buổi PT/Demo mà có thêm giáo viên vào các buổi đó.
 {% endhint %}
 
-![](../.gitbook/assets/Scheduele_sync1.png)
+![](../.gitbook/assets/Scheduele\_sync1.png)
 
 > Tính năng Sync PT/Demo sẽ hoạt động khi click vào button Sync PT/Demo, hệ thống sẽ thêm giáo viên vào lịch lên module Admin Hour tương ứng với buổi mà bạn đã setup trong module Schedules.
 
