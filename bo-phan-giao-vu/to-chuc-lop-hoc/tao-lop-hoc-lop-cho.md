@@ -9,7 +9,7 @@
 ![](../../.gitbook/assets/taolop.jpg)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1: Tên của Lớp học, có thể để rỗng hệ thống sẽ tự động sinh ra tên Lớp.
 
@@ -28,8 +28,14 @@
 8\. Thời gian học tương ứng với ngày học của Lớp học
 {% endhint %}
 
+> Bước 3:Nhập thông tin cấu hình Class In.
+
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi tạo thành công.
 
 ![](../../.gitbook/assets/TaoLop3.png)
+
+{% hint style="info" %}
+Lưu ý : Để bật đồng bộ Lớp qua Class In, chọn trạng thái Online là Active.
+{% endhint %}
 
 ##
