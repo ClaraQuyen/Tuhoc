@@ -93,3 +93,9 @@
 * [Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
 * [Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
 * [Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)
+
+## Tính Năng Cập Nhật Mới
+
+* [Thêm Học Viên Vào Lớp](tinh-nang-cap-nhat-moi/them-hoc-vien-vao-lop.md)
+* [Bảo Lưu, Xóa học viên](tinh-nang-cap-nhat-moi/bao-luu-xoa-hoc-vien.md)
+* [Chỉnh sửa (Clear Outstanding)](tinh-nang-cap-nhat-moi/chinh-sua-clear-outstanding.md)
