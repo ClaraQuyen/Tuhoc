@@ -97,6 +97,7 @@
 
 ## Tính Năng Cập Nhật Mới
 
+* [New - Enrollment](tinh-nang-cap-nhat-moi/new-enrollment.md)
 * [Thêm Học Viên Vào Lớp](tinh-nang-cap-nhat-moi/them-hoc-vien-vao-lop.md)
 * [Bảo Lưu, Xóa học viên](tinh-nang-cap-nhat-moi/bao-luu-xoa-hoc-vien.md)
 * [Chỉnh sửa (Clear Outstanding)](tinh-nang-cap-nhat-moi/chinh-sua-clear-outstanding.md)

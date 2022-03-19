@@ -11,6 +11,12 @@ description: >-
 
 :tada:Nếu Payment học viên mua không đủ so với số giờ học của lớp, Khoảng thời gian còn lại, hệ thống sẽ hiện thị học viên Outstanding. Nếu bạn không muốn thông tin hiện thị Outstanding có thể Remove khoảng thời gian đó của học viên ra khỏi lớp bằng tính năng [<mark style="background-color:blue;"><mark style="color:red;">**Delay**<mark style="color:red;"></mark><mark style="background-color:blue;">.</mark>](https://app.gitbook.com/s/-LrHReb9JsrFo3TW8d7S/\~/changes/mKEnCKYJONS9os1Pgid2/tinh-nang-cap-nhat-moi/bao-luu-xoa-hoc-vien)<mark style="background-color:blue;"></mark>
 
+{% hint style="warning" %}
+****:postal\_horn:**Lưu ý:**&#x20;
+
+Để Edit lại ngày bắt đầu học của học viên, phải [<mark style="color:red;">**>>Delay<<**</mark>](bao-luu-xoa-hoc-vien.md) học viên ra khỏi lớp, rồi add lại -> Dùng tính năng thêm học viên vào Lớp như hướng dẫn bên dưới :point\_down:.
+{% endhint %}
+
 > Bước 1: Đưa chuột vào Module **Classes** , click chọn lớp cần thêm học viên vào lớp.
 
 ![](../.gitbook/assets/HocDemo1.png)
