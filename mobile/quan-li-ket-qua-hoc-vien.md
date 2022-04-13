@@ -10,13 +10,13 @@
 
 ![](../.gitbook/assets/1.6.jpg)
 
-> Bước 3: Lựa chọn vai trò là "Học sinh/Phụ huynh" sau đó Click vào ô Tiếp theo trên màn hình
+> **Bước 3:** Lựa chọn vai trò là "Học sinh/Phụ huynh" sau đó Click vào ô Tiếp theo trên màn hình
 
 ![](<../.gitbook/assets/2.1 (1).jpg>)
 
-> Bước 4: Nhập Số điện thoại/Mật khẩu đã được cung cấp sẵn. (Đối với người dùng dùng thử, có thể đăng nhập với Số điện thoại/Mật khẩu là: demo/demo). Và tiến hành đăng nhập.
+> **Bước 4**: Nhập Số điện thoại/Mật khẩu đã được cung cấp sẵn. (Đối với người dùng dùng thử, có thể đăng nhập với Số điện thoại/Mật khẩu là: demo/demo). Và tiến hành đăng nhập.
 
-![](../.gitbook/assets/3.1.jpg)
+![](../.gitbook/assets/3.2.jpg)
 
 > Bước 4: Đăng nhập thành công, ứng dụng sẽ hiển thị màn hình Trang chủ như hình bên dưới:
 
