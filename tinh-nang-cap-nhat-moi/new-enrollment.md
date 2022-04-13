@@ -21,7 +21,7 @@ description: >-
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-1.Lựa chọn học viên.&#x20;Click vào biểu tượng ![](../.gitbook/assets/Enroll4.png) , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+1.Lựa chọn học viên.&#x20;Click vào biểu tượng <img src="../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
 2: Lựa chọn **Payment** type là **Cashholder**.
 

@@ -34,7 +34,7 @@
 
 ### Gửi SMS hàng loạt
 
-> Bước 1 : Đưa chuột vào module Leads hoặc Student, sau đó chọn học viên mà bạn muốn gửi sms,tiếp theo click vào ![](../.gitbook/assets/sms1.png)&#x20;
+> Bước 1 : Đưa chuột vào module Leads hoặc Student, sau đó chọn học viên mà bạn muốn gửi sms,tiếp theo click vào <img src="../.gitbook/assets/sms1.png" alt="" data-size="original">&#x20;
 
 ![](../.gitbook/assets/sms2.png)
 
@@ -58,7 +58,7 @@
 
 ### Gửi SMS đơn lẻ
 
-> Bước 1: Đưa chuột vào module Leads hoặc Student, sau đó chọn học viên mà bạn muốn gửi sms, tiếp theo click vào ![](../.gitbook/assets/smsdonle.png)&#x20;
+> Bước 1: Đưa chuột vào module Leads hoặc Student, sau đó chọn học viên mà bạn muốn gửi sms, tiếp theo click vào <img src="../.gitbook/assets/smsdonle.png" alt="" data-size="original">&#x20;
 
 ![](../.gitbook/assets/smsdonle1.png)
 

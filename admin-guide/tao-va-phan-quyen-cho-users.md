@@ -17,7 +17,7 @@
 {% hint style="info" %}
 **Ghi chú: (\*)**
 
-1:Tên Role 
+1:Tên Role&#x20;
 
 2:Thông tin về role : có tính năng gì,truy cập module nào,…
 {% endhint %}
@@ -31,7 +31,7 @@
 ![](../.gitbook/assets/role5.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 **Quyền truy cập các Module :**
 
@@ -155,7 +155,7 @@
 ![](../.gitbook/assets/Users3.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Thông tin đăng nhập của Users (Usersname,Họ,Tên)
 
@@ -185,7 +185,7 @@
 ![](../.gitbook/assets/c13.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
 1:Thông tin Users
 
@@ -211,13 +211,13 @@
 ![](../.gitbook/assets/c15.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú**:
+****:woman\_gesturing\_ok: **Ghi chú**:
 
 1:Center mặc định
 
 2:Phân Quyền cho Users
 
-3: ![](../.gitbook/assets/c16.png) 
+3: <img src="../.gitbook/assets/c16.png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 ### Phân quyền cho Users (Cách 2)
@@ -235,9 +235,9 @@
 ![](../.gitbook/assets/c23.png)
 
 {% hint style="info" %}
-****:woman_gesturing_ok: **Ghi chú:**
+****:woman\_gesturing\_ok: **Ghi chú:**
 
-1:Chọn quyền cho Users 
+1:Chọn quyền cho Users&#x20;
 
 2:Chọn Center cho Users
 {% endhint %}

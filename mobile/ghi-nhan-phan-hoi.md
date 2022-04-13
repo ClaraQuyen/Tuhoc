@@ -24,11 +24,11 @@ Ghi chú:
 ![](<../.gitbook/assets/7a270e1927e0d3be8af1 (1).jpg>)
 
 {% hint style="info" %}
-Ghi chú: 
+Ghi chú:&#x20;
 
 ![](<../.gitbook/assets/195c49124bebbfb5e6fa (1).jpg>)
 
-* Loại yêu cầu: 
+* Loại yêu cầu:&#x20;
 
 \- Xin nghỉ phép (Học viên trao đổi với Trung tâm về việc vắng học).
 
@@ -56,9 +56,9 @@ Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ 
 
 * Click vào nút hình chuông:
 
- ![](<../.gitbook/assets/f00917cec630326e6b21 (2).jpg>) 
+&#x20;<img src="../.gitbook/assets/f00917cec630326e6b21 (2).jpg" alt="" data-size="original">&#x20;
 
-* Xem thông báo nhanh các phản hồi về các nội dung Trao đổi: ![](../.gitbook/assets/5b7f1367609e94c0cd8f.jpg) 
+* Xem thông báo nhanh các phản hồi về các nội dung Trao đổi: <img src="../.gitbook/assets/5b7f1367609e94c0cd8f.jpg" alt="" data-size="original">&#x20;
 
 
 {% endhint %}

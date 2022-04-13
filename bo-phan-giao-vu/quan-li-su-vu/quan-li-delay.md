@@ -41,9 +41,9 @@ description: >-
 
 Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
-![](../../.gitbook/assets/Enroll3.png)&#x20;
+<img src="../../.gitbook/assets/Enroll3.png" alt="" data-size="original">&#x20;
 
-Cách 2: Click vào biểu tượng ![](../../.gitbook/assets/Enroll4.png) , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
+Cách 2: Click vào biểu tượng <img src="../../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , 1 Popup xuất hiện, Tìm kiếm và lựa chọn Học sinh tương ứng.
 
 2: Lựa chọn loại Payment là: **Delay Fee**
 
