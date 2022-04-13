@@ -2,11 +2,10 @@
 
 * [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
 * [DotB-SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
-  * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien/README.md)
-    * [Thông tin Thời khóa biểu](mobile/quan-li-ket-qua-hoc-vien/thong-tin-thoi-khoa-bieu.md)
+  * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
+  * [Thông tin Thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
   * [Thông tin lớp học](mobile/thong-tin-lop-hoc.md)
   * [Thông tin bài giảng và bài tập về nhà](mobile/lich-su-khoa-hoc.md)
-  * [Tài liệu học tập](mobile/tai-lieu-hoc-tap.md)
   * [Lịch sử khoản thu](mobile/lich-su-khoan-thu.md)
   * [Ghi nhận phản hồi](mobile/ghi-nhan-phan-hoi.md)
   * [Xem kết quả học tập](mobile/theo-doi-ket-qua-hoc-tap.md)

@@ -10,8 +10,6 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > &#x20;<img src="../.gitbook/assets/daily_report_1.png" alt="" data-size="line"> **Thông tin bài giảng và bài tập về nhà**&#x20;
 
-> &#x20;<img src="../.gitbook/assets/document.png" alt="" data-size="line">  **Tài liệu học tập**&#x20;
-
 > &#x20;<img src="../.gitbook/assets/payment_1.png" alt="" data-size="line"> **Lịch sử khoản thu**
 
 > &#x20;**** <img src="../.gitbook/assets/feedback.PNG" alt="" data-size="line"> **Ghi nhận phản hồi**
