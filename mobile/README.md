@@ -16,6 +16,10 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > &#x20;**** <img src="../.gitbook/assets/ic_kqht.png" alt="" data-size="line"> **Xem kết quả học tập**
 
+> ![](<../.gitbook/assets/image (113).png>)**Theo dõi tin tức**
+
 > ****<img src="../.gitbook/assets/gallery.png" alt="" data-size="line"> **Xem thư viện ảnh của học viên**
 
-> &#x20;<img src="../.gitbook/assets/account.png" alt="" data-size="line"> **Quản lí tài khoản**
+> &#x20;<img src="../.gitbook/assets/account.png" alt="" data-size="line"> **Quản lý tài khoản**
+
+> ![](<../.gitbook/assets/image (106).png>)**Quản lý điểm tích lũy**
