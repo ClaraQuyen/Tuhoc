@@ -8,6 +8,7 @@
   * [Thông tin bài giảng và bài tập về nhà](mobile/lich-su-khoa-hoc.md)
   * [Lịch sử khoản thu](mobile/lich-su-khoan-thu.md)
   * [Ghi nhận phản hồi](mobile/ghi-nhan-phan-hoi.md)
+  * [Theo dõi tin tức](mobile/theo-doi-tin-tuc.md)
   * [Xem kết quả học tập](mobile/theo-doi-ket-qua-hoc-tap.md)
   * [Xem thư viện ảnh của học viên](mobile/xem-thu-vien-anh-cua-hoc-vien.md)
   * [Quản lý tài khoản](mobile/quan-li-tai-khoan.md)

@@ -21,7 +21,7 @@
 
 #### **CÁCH 2:**&#x20;
 
-**Bước 1:** Tại màn hình Cá nhân, Click chọn tab Lớp học để hiện thị danh sách lớp mà học viên đã tham dự.&#x20;
+**Bước 1:** Tại màn hình **Cá nhân**, Click chọn tab **Lớp học** để hiện thị danh sách lớp mà học viên đã tham dự.&#x20;
 
 ![](../.gitbook/assets/16.2.jpg)
 

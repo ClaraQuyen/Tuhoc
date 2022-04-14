@@ -1,10 +1,10 @@
 # Ghi nhận phản hồi
 
-> **Bước 1:** Tại màn hình Trang chủ, click vào chức năng Phản hồi để phản hồi về trung tâm.
+> **Bước 1:** Tại màn hình **Trang chủ**, click vào chức năng **Phản hồi** để phản hồi về trung tâm.
 
 ![](<../.gitbook/assets/1 (7) (1).jpg>)
 
-> **Bước 2:** Click vào biểu tượng dấu cộng góc phải dưới cùng để tạo mới Phản hồi.
+> **Bước 2:** Click vào biểu tượng **dấu cộng** góc phải dưới cùng để tạo mới Phản hồi.
 
 ![](<../.gitbook/assets/2 (7) (1).jpg>)
 
@@ -15,8 +15,8 @@
 {% hint style="info" %}
 Ghi chú:
 
-1. Liên hệ trực tiếp: Gọi điện trực tiếp đến hotline trung tâm.
-2. Tạo phản hồi: Phản hồi dưới dạng gửi văn bản đến trung tâm
+1. **Liên hệ trực tiếp**: Gọi điện trực tiếp đến hotline trung tâm.
+2. **Tạo phản hồi:** Phản hồi dưới dạng gửi văn bản đến trung tâm
 {% endhint %}
 
 > **Bước 4:** Chọn Loại phản hồi.
@@ -39,7 +39,7 @@ Ghi chú:
 ![](<../.gitbook/assets/image (109).png>) **Khác:** Những trao đổi khác với 3 nội dung trên.
 {% endhint %}
 
-> **Bước 5:** Nhập nội dung cần phản hồi, sau đó nhấn Gửi.
+> **Bước 5:** Nhập nội dung cần phản hồi, sau đó nhấn **Gửi**.
 
 ![](<../.gitbook/assets/6 (2).jpg>)
 

@@ -1,8 +1,8 @@
 # Xem thư viện ảnh của học viên
 
-> **Bước 1:** Tại màn hình Trang chủ, click vào **Thư viện ảnh** để xem thư viện ảnh của học viên trong lớp.
+> **Bước 1:** Tại màn hình **Trang chủ**, click vào **Thư viện ảnh** để xem thư viện ảnh của học viên trong lớp.
 
-![](<../.gitbook/assets/1 (11).jpg>)
+![](<../.gitbook/assets/1 (11) (1).jpg>)
 
 > **Bước 2:** Ứng dụng hiển thị thư viện ảnh của học viên theo lớp
 

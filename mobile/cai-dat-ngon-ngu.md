@@ -6,11 +6,11 @@ description: >-
 
 # Cài đặt ngôn ngữ
 
-#### &#x20;Có 2 cách để thay đổi ngôn ngữ ứng dụng:
+### &#x20;Có 2 cách để thay đổi ngôn ngữ ứng dụng:
 
 > **CÁCH 1:  TRƯỚC KHI ĐĂNG NHẬP**
 >
-> **Bước 1:** Tại màn hình chọn Vai trò, người dùng nhấp vào **ô hình chữ nhật** như hình bên dưới để thay đổi ngôn ngữ.
+> **Bước 1:** Tại màn hình chọn **Vai trò**, người dùng nhấp vào **ô hình chữ nhật** như hình bên dưới để thay đổi ngôn ngữ.
 
 ![](<../.gitbook/assets/1 (9).jpg>)
 
@@ -20,7 +20,7 @@ description: >-
 
 > **Bước 3:** Sau khi đổi ngôn ngữ xong, ứng dụng sẽ có giao diện như sau.
 
-![](<../.gitbook/assets/2 (9).jpg>)
+![](<../.gitbook/assets/2 (9) (1).jpg>)
 
 > **CÁCH 2: SAU KHI ĐĂNG NHẬP**
 >

@@ -1,14 +1,14 @@
 # Lịch sử khoản thu
 
-> **Bước 1:** Truy cập tính năng Học phí trên ứng dụng. Có thể thực hiện theo 2 cách sau::
+> **Bước 1:** Truy cập tính năng **Học phí** trên ứng dụng. Có thể thực hiện theo 2 cách sau::
 >
 > **-> Cách 1:**
 >
-> * Click vào avatar của học viên để hiển thị danh sách chức năng trên ứng dụng.
+> * Click vào **avatar** của học viên để hiển thị danh sách chức năng trên ứng dụng.
 
 ![](../.gitbook/assets/17.jpg)
 
-> * Tiếp theo, nhấp vào chức năng Học phí để theo dõi lịch sử các khoản thu của học viên.
+> * Tiếp theo, nhấp vào chức năng **Học phí** để theo dõi lịch sử các khoản thu của học viên.
 
 ![](../.gitbook/assets/18.jpg)
 
@@ -18,7 +18,7 @@
 
 > \-> **Cách 2:**&#x20;
 >
-> * Tại màn hình Cá nhân, click vào  "Học phí" để xem thông tin các khoản thu của học viên.
+> * Tại màn hình Cá nhân, click vào chức năng **Học phí** để xem thông tin các khoản thu của học viên.
 
 ![](../.gitbook/assets/21.jpg)
 

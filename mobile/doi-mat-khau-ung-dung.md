@@ -4,7 +4,7 @@ description: Lưu ý rằng mật khẩu khi thay đổi phải có ít nhất t
 
 # Đổi mật khẩu ứng dụng
 
-> **Bước 1:** Tại màn hình **Trang chủ**, click vào icon avatar để hiển thị danh sách chức năng của ứng dụng.
+> **Bước 1:** Tại màn hình **Trang chủ**, click vào icon **avatar** để hiển thị danh sách chức năng của ứng dụng.
 
 ![](../.gitbook/assets/17.jpg)
 

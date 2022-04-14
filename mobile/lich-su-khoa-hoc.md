@@ -4,7 +4,7 @@
 
 #### CÁCH 1:
 
-> **Bước 1**: Tại màn hình Trang chủ, click vào chức năng Sổ liên lạc để theo dõi Thông tin bài giảng và bài tập về nhà của học viên theo lớp. &#x20;
+> **Bước 1**: Tại màn hình **Trang chủ**, click vào chức năng **Sổ liên lạc** để theo dõi Thông tin bài giảng và bài tập về nhà của học viên theo lớp. &#x20;
 
 ![](../.gitbook/assets/12.1.jpg)
 
@@ -22,7 +22,7 @@
 
 #### CÁCH 2:
 
-> **Bước 1**: Tại màn hình Cá nhân, Click chọn tab Lớp học để hiện thị danh sách lớp mà học viên đã tham dự.&#x20;
+> **Bước 1**: Tại màn hình **Cá nhân**, click chọn chức năng **Lớp học** để hiện thị danh sách lớp mà học viên đã tham dự.&#x20;
 
 ![](../.gitbook/assets/16.2.jpg)
 
@@ -30,7 +30,7 @@
 
 ![](<../.gitbook/assets/2.1 (2).jpg>)
 
-> **Bước 3:** Màn hình thông tin lớp học sẽ được hiển thị như hình bên dưới. Sau đó, chọn chức năng "Sổ liên lạc" để xem thông tin chi tiết về các buổi học.&#x20;
+> **Bước 3:** Màn hình thông tin lớp học sẽ được hiển thị như hình bên dưới. Sau đó, chọn chức năng **"Sổ liên lạc"** để xem thông tin chi tiết về các buổi học.&#x20;
 
 ![](../.gitbook/assets/3.1.jpg)
 
