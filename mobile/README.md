@@ -8,6 +8,8 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > &#x20;<img src="../.gitbook/assets/schedule_1.png" alt="" data-size="line"> **Thông tin thời khóa biểu** &#x20;
 
+> ![](<../.gitbook/assets/image (113).png>) **Thông tin lớp học**
+
 > &#x20;<img src="../.gitbook/assets/daily_report_1.png" alt="" data-size="line"> **Thông tin bài giảng và bài tập về nhà**&#x20;
 
 > &#x20;<img src="../.gitbook/assets/payment_1.png" alt="" data-size="line"> **Lịch sử khoản thu**
@@ -16,7 +18,7 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > &#x20;**** <img src="../.gitbook/assets/ic_kqht.png" alt="" data-size="line"> **Xem kết quả học tập**
 
-> ![](<../.gitbook/assets/image (113).png>)**Theo dõi tin tức**
+> ![](<../.gitbook/assets/image (115).png>)**Theo dõi tin tức**
 
 > ****<img src="../.gitbook/assets/gallery.png" alt="" data-size="line"> **Xem thư viện ảnh của học viên**
 
