@@ -1,13 +1,32 @@
 # Lịch sử khoản thu
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Học phí để theo dõi lịch sử các khoản thu của học viên.
+> **Bước 1:** Truy cập tính năng Học phí trên ứng dụng. Có thể thực hiện theo 2 cách sau::
+>
+> **-> Cách 1:**
+>
+> * Click vào avatar của học viên để hiển thị danh sách chức năng trên ứng dụng.
 
-![](../.gitbook/assets/f00917cec630326e6b21.jpg)
+![](../.gitbook/assets/17.jpg)
 
-> Bước 2: Ứng dụng sẽ hiển thị danh sách các khoản thu đã thanh toán hoặc chưa thanh toán, khóa học và ngày thanh toán,... Click vào khoản thu để xem chi tiết.
+> * Tiếp theo, nhấp vào chức năng Học phí để theo dõi lịch sử các khoản thu của học viên.
 
-![](../.gitbook/assets/255fd03d0ec3fa9da3d2.jpg)
+![](../.gitbook/assets/18.jpg)
 
-> Bước 3: Ứng dụng hiển thị thông tin chi tiết về khoản thu.
+> * &#x20;**** Ứng dụng sẽ hiển thị danh sách các khoản thu **"Đã thanh toán"** hoặc **"Chưa thanh toán"** của học viên, khóa học và ngày thanh toán,... Click vào khoản thu bất kỳ để xem chi tiết.
 
-![](../.gitbook/assets/9eac1b9cc562313c6873.jpg)
+![](../.gitbook/assets/19.jpg)
+
+> \-> **Cách 2:**&#x20;
+>
+> * Tại màn hình Cá nhân, click vào  "Học phí" để xem thông tin các khoản thu của học viên.
+
+![](../.gitbook/assets/21.jpg)
+
+> * Ứng dụng sẽ hiển thị danh sách các khoản thu **"Đã thanh toán"** hoặc **"Chưa thanh toán"** của học viên, khóa học và ngày thanh toán,... Click vào khoản thu bất kỳ để xem chi tiết.
+
+![](<../.gitbook/assets/22 (2).jpg>)
+
+> **Bước 2:** Ứng dụng hiển thị thông tin chi tiết về khoản thu.
+
+![](../.gitbook/assets/20.jpg)
+

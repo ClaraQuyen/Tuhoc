@@ -1,6 +1,6 @@
 # Thông tin lớp học
 
-#### _Có thể thực hiện theo 2 cách sau:_&#x20;
+### Có thể thực hiện theo 2 cách sau:&#x20;
 
 #### CÁCH 1: ****&#x20;
 

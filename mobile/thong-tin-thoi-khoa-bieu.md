@@ -14,11 +14,11 @@
 
 > Sau đó chọn chức năng Thời khóa biểu.
 
-![](<../.gitbook/assets/7 (1).jpg>)
+![](<../.gitbook/assets/7 (1) (1).jpg>)
 
 > **Bước 2**: Click vào để lựa chọn buổi học tương ứng cần xem chi tiết.
 
-![](<../.gitbook/assets/8 (1).jpg>)
+![](<../.gitbook/assets/8 (1) (1).jpg>)
 
 {% hint style="info" %}
 **Ghi chú**:

@@ -1,16 +1,16 @@
 # Ghi nhận phản hồi
 
-> Bước 1: Tại màn hình Trang chủ, click vào chức năng Phản hồi để phản hồi về trung tâm.
+> **Bước 1:** Tại màn hình Trang chủ, click vào chức năng Phản hồi để phản hồi về trung tâm.
 
-![](<../.gitbook/assets/f00917cec630326e6b21 (1).jpg>)
+![](<../.gitbook/assets/1 (7).jpg>)
 
-> Bước 2: Click vào biểu tượng dấu cộng góc phải dưới cùng để tạo mới Phản hồi.
+> **Bước 2:** Click vào biểu tượng dấu cộng góc phải dưới cùng để tạo mới Phản hồi.
 
-![](../.gitbook/assets/f0219b1fb2e646b81ff7.jpg)
+![](<../.gitbook/assets/2 (7).jpg>)
 
-> Bước 3: Chọn 1 trong 2 loại Phản hồi cần thực hiện. Click chọn option Tạo phản hồi.
+> **Bước 3:** Chọn 1 trong 2 loại Phản hồi cần thực hiện. Click chọn option Tạo phản hồi.
 
-![](<../.gitbook/assets/2642547c7d8589dbd094 (1).jpg>)
+![](<../.gitbook/assets/3 (5).jpg>)
 
 {% hint style="info" %}
 Ghi chú:
@@ -19,37 +19,45 @@ Ghi chú:
 2. Tạo phản hồi: Phản hồi dưới dạng gửi văn bản đến trung tâm
 {% endhint %}
 
-> Bước 4: Chọn Loại phản hồi.
+> **Bước 4:** Chọn Loại phản hồi.
 
-![](<../.gitbook/assets/7a270e1927e0d3be8af1 (1).jpg>)
+![](<../.gitbook/assets/4 (2).jpg>)
 
 {% hint style="info" %}
-Ghi chú:&#x20;
+**Ghi chú:**&#x20;
 
-![](<../.gitbook/assets/195c49124bebbfb5e6fa (1).jpg>)
+* **Loại phản hồi:** &#x20;
 
-* Loại yêu cầu:&#x20;
+&#x20;![](<../.gitbook/assets/image (110).png>) **Xin nghỉ phép**: Học viên trao đổi với Trung tâm về việc vắng học.
 
-\- Xin nghỉ phép (Học viên trao đổi với Trung tâm về việc vắng học).
+&#x20;![](<../.gitbook/assets/image (107).png>) **Hỏi lịch học:** Học viên trao đổi với Trung tâm về vấn đề Lịch học.
 
-\- Hỏi lịch học (Học viên trao đổi với Trung tâm về vấn đề Lịch học).
+&#x20;![](<../.gitbook/assets/image (105).png>) **Trao đổi về học phí:** Học viên trao đổi với Trung tâm về vấn đề Học phí.
 
-\- Hỏi học phí (Học viên trao đổi với Trung tâm về vấn đề Học phí).
+![](<../.gitbook/assets/image (111).png>)**Tư vấn khóa học trực tuyến:** Học viên trao đổi với Trung tâm về các lớp học online
 
-\- Khác (Những trao đổi khác với 3 nội dung trên).
+![](<../.gitbook/assets/image (109).png>) **Khác:** Những trao đổi khác với 3 nội dung trên.
 {% endhint %}
 
-> Bước 5: Nhập nội dung cần phản hồi, sau đó nhấn Gửi.
+> **Bước 5:** Nhập nội dung cần phản hồi, sau đó nhấn Gửi.
 
-![](../.gitbook/assets/c761a5a6a95f5d01044e.jpg)
+![](<../.gitbook/assets/6 (2).jpg>)
 
-> Bước 6: Khi trung tâm Phản hồi lại, màn hình sẽ hiển thị thông báo. Click vào để đọc chi tiết tin nhắn được phản hồi.
+> **Bước 6:** Sau khi gửi phản hồi thành công. Màn hình thông báo gửi phản hồi thành công sẽ hiển thị lên, người dùng có thể bấm vào để xem chi tiết phản hồi.
 
-![](<../.gitbook/assets/4f8cbc8acf733b2d6262 (1).jpg>)
+![](<../.gitbook/assets/8 (1).jpg>)
 
-> Bước 7: Chi tiết trả lời phản hồi của trung tâm. Có thể tiếp tục cuộc trò chuyện (nếu cần).
+> **Bước 7:** Chi tiết nội dung tin nhắn phản hồi của người dùng. Có thể tiếp tục nội dung tin nhắn (Nếu cần).
 
-![](../.gitbook/assets/868d9133e4ca109449db.jpg)
+![](<../.gitbook/assets/7 (1).jpg>)
+
+> **Bước 8:** Khi trung tâm Phản hồi lại, màn hình sẽ hiển thị thông báo. Click vào để đọc chi tiết tin nhắn được phản hồi.
+
+![](../.gitbook/assets/10.jpg)
+
+> **Bước 9:** Chi tiết trả lời phản hồi của trung tâm. Có thể tiếp tục cuộc trò chuyện (nếu cần).
+
+![](<../.gitbook/assets/12 (2).jpg>)
 
 {% hint style="warning" %}
 Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ nhận được tại phần thông báo như sau:

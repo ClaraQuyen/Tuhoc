@@ -1,6 +1,6 @@
 # Thông tin bài giảng và bài tập về nhà
 
-#### Có thể thực hiện theo 2 cách sau:
+### Có thể thực hiện theo 2 cách sau:
 
 #### CÁCH 1:
 
@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/12.1.jpg)
 
-> Bư**ớc 2:** Tại màn hình Chọn lớp. Click chọn lớp muốn xem thông tin.
+> **Bước 2:** Tại màn hình Chọn lớp. Click chọn lớp muốn xem thông tin.
 
 ![](../.gitbook/assets/13.1.jpg)
 
@@ -39,3 +39,5 @@
 ![](<../.gitbook/assets/5.1 (1).jpg>)
 
 > **Bước 5:** Ứng dụng sẽ hiển thị thông tin chi tiết bài giảng và bài tập về nhà của buổi học ngày hôm đó.
+
+![](<../.gitbook/assets/4 (3).jpg>)
