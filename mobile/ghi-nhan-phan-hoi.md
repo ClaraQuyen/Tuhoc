@@ -64,9 +64,11 @@ Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ 
 
 * Click vào nút hình chuông:
 
-&#x20;<img src="../.gitbook/assets/f00917cec630326e6b21 (2).jpg" alt="" data-size="original">&#x20;
+![](<../.gitbook/assets/13 (2).jpg>)
 
-* Xem thông báo nhanh các phản hồi về các nội dung Trao đổi: <img src="../.gitbook/assets/5b7f1367609e94c0cd8f.jpg" alt="" data-size="original">&#x20;
+* Xem thông báo nhanh các phản hồi về các nội dung Trao đổi:&#x20;
+
+![](<../.gitbook/assets/14 (2).jpg>)&#x20;
 
 
 {% endhint %}
