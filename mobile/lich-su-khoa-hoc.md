@@ -40,4 +40,4 @@
 
 > **Bước 5:** Ứng dụng sẽ hiển thị thông tin chi tiết bài giảng và bài tập về nhà của buổi học ngày hôm đó.
 
-![](<../.gitbook/assets/4 (3).jpg>)
+![](<../.gitbook/assets/4 (3) (1).jpg>)

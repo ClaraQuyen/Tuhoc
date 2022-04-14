@@ -14,7 +14,7 @@
 
 > **Bước 3:** Ứng dụng sẽ hiển thị kết quả học tập của học viên trong lớp học đó.&#x20;
 
-![](<../.gitbook/assets/3 (7).jpg>)
+![](<../.gitbook/assets/3 (7) (1).jpg>)
 
 > **CÁCH 2:**
 >

@@ -2,11 +2,11 @@
 
 > **Bước 1:** Tại màn hình Trang chủ, click vào chức năng Phản hồi để phản hồi về trung tâm.
 
-![](<../.gitbook/assets/1 (7).jpg>)
+![](<../.gitbook/assets/1 (7) (1).jpg>)
 
 > **Bước 2:** Click vào biểu tượng dấu cộng góc phải dưới cùng để tạo mới Phản hồi.
 
-![](<../.gitbook/assets/2 (7).jpg>)
+![](<../.gitbook/assets/2 (7) (1).jpg>)
 
 > **Bước 3:** Chọn 1 trong 2 loại Phản hồi cần thực hiện. Click chọn option Tạo phản hồi.
 

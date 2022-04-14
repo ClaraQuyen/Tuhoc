@@ -10,7 +10,10 @@
   * [Ghi nhận phản hồi](mobile/ghi-nhan-phan-hoi.md)
   * [Xem kết quả học tập](mobile/theo-doi-ket-qua-hoc-tap.md)
   * [Xem thư viện ảnh của học viên](mobile/xem-thu-vien-anh-cua-hoc-vien.md)
-  * [Quản lí tài khoản](mobile/quan-li-tai-khoan.md)
+  * [Quản lý tài khoản](mobile/quan-li-tai-khoan.md)
+  * [Quản lý điểm tích lũy](mobile/quan-ly-diem-tich-luy.md)
+  * [Đổi mật khẩu ứng dụng](mobile/doi-mat-khau-ung-dung.md)
+  * [Cài đặt ngôn ngữ](mobile/cai-dat-ngon-ngu.md)
   * [Quên mật khẩu](mobile/quen-mat-khau.md)
 
 ## Nhóm tính năng tiếp thị

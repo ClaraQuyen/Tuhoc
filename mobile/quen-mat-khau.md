@@ -6,7 +6,7 @@ description: >-
 
 # Quên mật khẩu
 
-> Bước 1 : Nếu phụ huynh quên mật khẩu đăng nhập, Phụ huynh click vào ô **Quên Mật Khẩu .**
+> **Bước 1 :** Nếu phụ huynh quên mật khẩu đăng nhập, Phụ huynh click vào ô **Quên Mật Khẩu .**
 
 ![](../.gitbook/assets/88.jpg)
 
