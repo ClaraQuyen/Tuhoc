@@ -16,6 +16,7 @@
   * [Đổi mật khẩu ứng dụng](mobile/doi-mat-khau-ung-dung.md)
   * [Cài đặt ngôn ngữ](mobile/cai-dat-ngon-ngu.md)
   * [Quên mật khẩu](mobile/quen-mat-khau.md)
+  * [Cửa hàng](mobile/cua-hang.md)
 
 ## Nhóm tính năng tiếp thị
 
