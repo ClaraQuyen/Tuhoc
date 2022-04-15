@@ -4,13 +4,13 @@
 
 > **Bước 1:** Truy cập chức năng Thời khóa biểu&#x20;
 >
-> \-> Cách 1_:_&#x20;
+> **-> Cách 1**_**:**_** **&#x20;
 >
 > * Tại màn hình **Trang chủ**, Click vào chức năng **Thời khóa biểu** để theo dõi Thời khóa biểu của học viên.
 
 ![](<../.gitbook/assets/5 (2).jpg>)
 
-> \-> Cách 2_:_&#x20;
+> **-> Cách 2**_**:**_&#x20;
 >
 > * Tại màn hình **Trang chủ**, Click vào **ảnh dại diện** người dùng để hiển thị danh sách chức năng trên ứng dụng.
 
