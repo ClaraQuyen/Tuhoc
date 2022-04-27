@@ -24,4 +24,4 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > &#x20;<img src="../.gitbook/assets/account.png" alt="" data-size="line"> **Quản lý tài khoản**
 
-> ****![](<../.gitbook/assets/image (109).png>)**Quản lý điểm tích lũy**
+> ****![](<../.gitbook/assets/image (109) (1).png>)**Quản lý điểm tích lũy**
