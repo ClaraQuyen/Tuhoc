@@ -59,7 +59,7 @@ description: >-
 
 1: Tên lưu trữ: Lưu ý: nên đặt tên dễ nhớ
 
-2: API URL: [**https://api.dotb.cloud/**](https://api.dotb.cloud)&#x20;
+2: API URL: [**https://api.dotb.cloud/**](https://api.dotb.cloud/)&#x20;
 
 VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.cloud** thì ==> URL API là: [**https://api.dotb.cloud/abc.dotb.clou**d](https://api.dotb.cloud/abc.dotb.cloud)
 
@@ -83,7 +83,7 @@ VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.c
 
 3: Thêm tài khoản liên kết mới như google sheet, mail,...
 
-![](../.gitbook/assets/ladi6.1.jpg)&#x20;
+<img src="../.gitbook/assets/ladi6.1.jpg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 > Bước 7: Cấu hình API đã được set up và nếu có lời nhắn, cảm ơn đến khách hàng chúng ta có thể chọn ở mục số 2. Cuối cùng click **Cập Nhật.**
@@ -119,7 +119,7 @@ VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.c
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-1: API URL: [**https://api.dotb.cloud/**](https://api.dotb.cloud)&#x20;
+1: API URL: [**https://api.dotb.cloud/**](https://api.dotb.cloud/)&#x20;
 
 VD: ví dụ KH **ABC** English có tên miền sử dụng EMS là **abc.dotb.cloud** thì ==> URL API là: [**https://api.dotb.cloud/abc.dotb.clou**d](https://api.dotb.cloud/abc.dotb.cloud).
 

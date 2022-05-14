@@ -6,7 +6,7 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 ****:ocean: **DotB SEA** hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau :
 
-> &#x20;<img src="../.gitbook/assets/schedule_1.png" alt="" data-size="line"> **Thông tin thời khóa biểu** &#x20;
+> &#x20;![](../.gitbook/assets/TKB.jpg) **Thông tin thời khóa biểu** &#x20;
 
 > ![](<../.gitbook/assets/image (113).png>) **Thông tin lớp học**
 
