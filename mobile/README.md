@@ -18,10 +18,10 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > ****![](../.gitbook/assets/score.png) **Xem kết quả học tập**
 
-> ![](<../.gitbook/assets/image (115).png>)**Theo dõi tin tức**
+> ****![](../.gitbook/assets/news.png) **Theo dõi tin tức**
 
-> ****<img src="../.gitbook/assets/gallery.png" alt="" data-size="line"> **Xem thư viện ảnh của học viên**
+> ****![](<../.gitbook/assets/gallery (1).png>) **Xem thư viện ảnh của học viên**
 
-> &#x20;<img src="../.gitbook/assets/account.png" alt="" data-size="line"> **Quản lý tài khoản**
+> &#x20;![](<../.gitbook/assets/account (1).png>) **Quản lý tài khoản**
 
-> ****![](<../.gitbook/assets/image (109) (1).png>)**Quản lý điểm tích lũy**
+> ****![](../.gitbook/assets/loyalty.png) **Quản lý điểm tích lũy**
