@@ -6,17 +6,17 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 ****:ocean: **DotB SEA** hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau :
 
-> &#x20;![](../.gitbook/assets/TKB.jpg) **Thông tin thời khóa biểu** &#x20;
+> ****![](<../.gitbook/assets/schedule (2).png>) **Thông tin thời khóa biểu** &#x20;
 
-> ![](<../.gitbook/assets/image (113).png>) **Thông tin lớp học**
+> ****![](../.gitbook/assets/class.png) **Thông tin lớp học**
 
-> &#x20;<img src="../.gitbook/assets/daily_report_1.png" alt="" data-size="line"> **Thông tin bài giảng và bài tập về nhà**&#x20;
+> ****![](<../.gitbook/assets/homework (1).png>) **Thông tin bài giảng và bài tập về nhà**&#x20;
 
-> &#x20;<img src="../.gitbook/assets/payment_1.png" alt="" data-size="line"> **Lịch sử khoản thu**
+> ****![](../.gitbook/assets/cash.png) **Lịch sử khoản thu**
 
-> &#x20;**** <img src="../.gitbook/assets/feedback.PNG" alt="" data-size="line"> **Ghi nhận phản hồi**
+> ****![](../.gitbook/assets/feedback.png) **Ghi nhận phản hồi**
 
-> &#x20;**** <img src="../.gitbook/assets/ic_kqht.png" alt="" data-size="line"> **Xem kết quả học tập**
+> ****![](../.gitbook/assets/score.png) **Xem kết quả học tập**
 
 > ![](<../.gitbook/assets/image (115).png>)**Theo dõi tin tức**
 
