@@ -22,6 +22,6 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > ****![](<../.gitbook/assets/gallery (1).png>) **Xem thư viện ảnh của học viên**
 
-> &#x20;![](<../.gitbook/assets/account (1).png>) **Quản lý tài khoản**
+> ****![](<../.gitbook/assets/account (1).png>) **Quản lý tài khoản**
 
 > ****![](../.gitbook/assets/loyalty.png) **Quản lý điểm tích lũy**
