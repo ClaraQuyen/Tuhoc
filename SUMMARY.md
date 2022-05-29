@@ -84,6 +84,7 @@
 * [Convert -Drop Payment](admin-guide/drop-payment.md)
 * [Inventory](admin-guide/inventory.md)
 * [Đẩy dữ liệu về database trung gian NAV ERP](admin-guide/day-du-lieu-ve-database-trung-gian-nav-erp.md)
+* [Cấu hình HDDT](admin-guide/cau-hinh-hddt.md)
 * [Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users.md)
 * [Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
 * [Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
