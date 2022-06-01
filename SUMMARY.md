@@ -63,6 +63,7 @@
   * [Add học viên vào Lớp](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-vao-lop.md)
   * [Enroll OutStanding](bo-phan-giao-vu/quan-li-lop-hoc/enroll-outstanding.md)
   * [Nhập điểm](bo-phan-giao-vu/quan-li-lop-hoc/nhap-diem.md)
+* [Quản lí chương trình học](bo-phan-giao-vu/quan-li-chuong-trinh-hoc-1.md)
 
 ## Tính năng dành cho Parents App trên CRM
 
