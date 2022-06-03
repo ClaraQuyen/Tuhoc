@@ -18,7 +18,11 @@
 
 > **Bước 1:** Click chuột vào module **Gradebook Settings,** sau đó click **Create** để tạo mới 1 cấu trúc bảng điểm.
 
+![](../../.gitbook/assets/2.1.png)
+
 > **Bước 2:** Tại màn hình tạo cấu trúc bảng điểm, điền đầy đủ các thông tin cần thiết. Sau đó click **Save** để tạo.
+
+![](../../.gitbook/assets/2.2.png)
 
 {% hint style="info" %}
 🙆🏻**Ghi chú:**
