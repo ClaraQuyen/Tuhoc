@@ -8,7 +8,11 @@
 
 > **Bước 2:** Tại màn hình tạo nhóm cấu trúc bảng điểm, nhập tên nhóm cấu trúc bảng điểm (bắt buộc) và mô tả thêm (nếu có). Sau đó click **Save** để lưu lại.
 
+![](<../../.gitbook/assets/1.2 (1).png>)
+
 > **Bước 3:** Hệ thống hiển thị nhóm cấu trúc bảng điểm đã được tạo thành công. Sau đó, tiến hành tạo cấu trúc các bảng điểm cụ thể cho nhóm này (Phần 2).
+
+![](<../../.gitbook/assets/1.3 (1).png>)
 
 ## Phần 2: Tạo cấu trúc bảng điểm
 
