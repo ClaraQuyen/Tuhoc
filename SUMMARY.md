@@ -26,7 +26,9 @@
 
 ## Tuyển Sinh - Bán Hàng
 
-* [Targets](tuyen-sinh-ban-hang/target.md)
+* [Targets](tuyen-sinh-ban-hang/target/README.md)
+  * [📥 Import Target](tuyen-sinh-ban-hang/target/import-target.md)
+  * [🎯 Tạo Target](tuyen-sinh-ban-hang/target/tao-target.md)
 * [Leads](tuyen-sinh-ban-hang/lead.md)
 * [Chăm sóc Lead qua Call Center (Click to Call)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
