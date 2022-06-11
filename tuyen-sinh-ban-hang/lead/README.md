@@ -6,7 +6,7 @@ description: >-
 
 # Leads
 
-![Qui trình chăm sóc học viên tiềm năng (Leads)](<../.gitbook/assets/ChamSocLeadspng (1).png>)
+![Qui trình chăm sóc học viên tiềm năng (Leads)](<../../.gitbook/assets/ChamSocLeadspng (1).png>)
 
 > ****:point\_right: **Chi tiết các trạng thái Học Viên Tiềm Năng**
 >
@@ -28,29 +28,29 @@ description: >-
 
 > Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để **Create Lead**.
 
-![](../.gitbook/assets/TaoLead1.png)
+![](../../.gitbook/assets/TaoLead1.png)
 
 > Bước 2: Tại màn hình tạo mới Lead, nhập đầy đủ các thông tin cần thiết, sau đó click Save để hoàn tất việc tạo ra 1 Lead mới.
 
-![](../.gitbook/assets/TaoLead2.png)
+![](../../.gitbook/assets/TaoLead2.png)
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tương tác.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## :inbox\_tray: Import Leads
 
 > Bước 1: Đưa chuột vào Module **Leads** chọn **Import Leads**.
 
-![](../.gitbook/assets/ImportLead.png)
+![](../../.gitbook/assets/ImportLead.png)
 
 > Bước 2: Click **Next.**
 
-![](<../.gitbook/assets/2 (1).png>)
+![](<../../.gitbook/assets/2 (1).png>)
 
 > Bước 3:&#x20;> &#x20;Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
 
-![](../.gitbook/assets/ImportLead2.png)
+![](../../.gitbook/assets/ImportLead2.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Chú thích** :
@@ -73,19 +73,19 @@ description: >-
 
 > Bước 4: Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next.**
 
-![](<../.gitbook/assets/4 (1).png>)
+![](<../../.gitbook/assets/4 (1).png>)
 
 > Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
 
-![](<../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/5 (1).png>)
 
 > Bước 6: Xác nhận việc kiểm tra trùng, và việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "Filed to check" . Sau đó click "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 
-![](<../.gitbook/assets/6 (1).png>)
+![](<../../.gitbook/assets/6 (1).png>)
 
 > Bước 7: Kết quả sau khi Import.
 
-![](<../.gitbook/assets/7 (1).png>)
+![](<../../.gitbook/assets/7 (1).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -101,21 +101,21 @@ description: >-
 
 > Bước 1: Đưa chuột vào module Leads chọn học viên cần sửa thông tin.
 
-![](../.gitbook/assets/ChinhSuaLeadă.png)
+![](../../.gitbook/assets/ChinhSuaLeadă.png)
 
 > Bước 2: Tại màn hình View Lead, click Edit và nhập thông tin cần sửa, click **Save** để hoàn tất việc Edit 1 Lead.
 
-![](../.gitbook/assets/chihsualead2.png)
+![](../../.gitbook/assets/chihsualead2.png)
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Leads vừa được chỉnh sửa.
 
-![](../.gitbook/assets/chinhsualead3.png)
+![](../../.gitbook/assets/chinhsualead3.png)
 
 ## Cảnh báo trùng dữ liệu
 
 > Khi nhập dữ liệu vào bị trùng thông tin về số điện thoại và họ tên ,hệ thống sẽ cảnh báo người dùng bị trùng dữ liệu,bạn có thể bỏ qua click cancel hoặc nhập lại thông tin click **Go Back**.
 
-![](../.gitbook/assets/CanhBao.png)
+![](../../.gitbook/assets/CanhBao.png)
 
 ## Chăm sóc Lead (Tạo Log Call)
 
@@ -123,11 +123,11 @@ description: >-
 
 > Bước 1 : Đưa chuột vào module **Calls**, sau đó click chọn **Create Call**.
 
-![](../.gitbook/assets/TaoCall1.png)
+![](../../.gitbook/assets/TaoCall1.png)
 
 > Bước 2: Tại màn hình tạo Log Call, nhập thông tin , sau đó click **Save** để lưu lại.
 
-![](../.gitbook/assets/TaoCall2.png)
+![](../../.gitbook/assets/TaoCall2.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -158,21 +158,21 @@ description: >-
 > > * **Invalid Number**(sai số).
 > > * **Busy/No Answers** (Máy bận/ Không trả lời)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ### Cách 2 : Tạo Log Call từ Profile của học viên
 
 > Bước 1: Đưa chuột vào module **Students/Leads**, chọn học viên thực hiện cuộc gọi.
 
-![](../.gitbook/assets/TaoCall1\_1.png)
+![](../../.gitbook/assets/TaoCall1\_1.png)
 
 > Bước 2: Tại màn hình hồ sơ học viên, dưới subpanel click vào **Calls** , sau đó click vào dấu (+).
 
-![](../.gitbook/assets/TaoCall1\_2.png)
+![](../../.gitbook/assets/TaoCall1\_2.png)
 
 > Bước 3: Tại màn hình tạo Log Call, nhập thông tin , sau đó click **Save** để lưu lại.
 
-![](../.gitbook/assets/TaoCall2.png)
+![](../../.gitbook/assets/TaoCall2.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -204,49 +204,49 @@ description: >-
 > >
 > > **Invalid Number**(sai số).
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 ## **Phân bổ Leads(theo trạng thái) cho người phụ trách**
 
 > Bước 1: Click chuột vào module Leads, click Create để tạo bộ lọc Leads theo trạng thái.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 > Bước 2: Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 > Bước 3: Hệ thống hiển thị thông tin danh sách Leads có trạng thái cần để phân bổ người phụ trách, chọn tất cả.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 Bước 4: Click Mass Updated để phân bổ cho người phụ trách.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng click **Update**.
 
-![](../.gitbook/assets/Lead\_Mass.jpg)
+![](../../.gitbook/assets/Lead\_Mass.jpg)
 
 ## Merge Duplicate
 
 > Bước 1: Chon hồ sơ bị duplicate, ở module bị trùng (tối đa 2 hồ sơ).
 
-![](../.gitbook/assets/merger1.png)
+![](../../.gitbook/assets/merger1.png)
 
 > Bước 2: Click vào mũi tên, sau đó chọn **Merge**
 
-![](<../.gitbook/assets/2 (5).png>)
+![](<../../.gitbook/assets/2 (5).png>)
 
 > Bước 3: Hệ thống sẽ xuất hiện hồ sơ bị duplicate được chọn, sau đó chọn những dữ liệu Primary để qua tab hồ sơ Primary (giữ lại những thông tin chính). Sau đó click **Save**.
 
-![](<../.gitbook/assets/3 (5).png>)
+![](<../../.gitbook/assets/3 (5).png>)
 
 > Bước 4: Tiếp tục click **Confirm**
 
-![](<../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/4 (3).png>)
 
 > Bước 5: Hệ thống báo Merge dữ liệu thành công giữa các hồ sơ bị duplicate được chọn
 
-![](<../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (4).png>)
 

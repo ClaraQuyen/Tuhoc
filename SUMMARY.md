@@ -26,10 +26,15 @@
 
 ## Tuyển Sinh - Bán Hàng
 
-* [Targets](tuyen-sinh-ban-hang/target/README.md)
+* [Targets](tuyen-sinh-ban-hang/target.md)
   * [📥 Import Target](tuyen-sinh-ban-hang/target/import-target.md)
   * [🎯 Tạo Target](tuyen-sinh-ban-hang/target/tao-target.md)
-* [Leads](tuyen-sinh-ban-hang/lead.md)
+  * [📝 Mass Update](tuyen-sinh-ban-hang/target/mass-update/README.md)
+    * [💫 Convert Target](tuyen-sinh-ban-hang/target/mass-update/convert-target.md)
+    * [🤵♀ Phân bổ người phụ trách](tuyen-sinh-ban-hang/target/mass-update/phan-bo-nguoi-phu-trach.md)
+    * [💻 Update Lead hàng loạt từ Target](tuyen-sinh-ban-hang/target/mass-update/update-lead-hang-loat-tu-target.md)
+* [Leads](tuyen-sinh-ban-hang/lead/README.md)
+  * [📥 Import Leads](tuyen-sinh-ban-hang/lead/import-leads.md)
 * [Chăm sóc Lead qua Call Center (Click to Call)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
 * [Quản lí thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)

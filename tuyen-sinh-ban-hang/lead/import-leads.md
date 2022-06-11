@@ -1,4 +1,4 @@
-# 📥 Import Target
+# 📥 Import Leads
 
 > Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
 
