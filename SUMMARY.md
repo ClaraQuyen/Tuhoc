@@ -32,7 +32,7 @@
   * [📝 Mass Update](tuyen-sinh-ban-hang/target/mass-update/README.md)
     * [💫 Convert Target](tuyen-sinh-ban-hang/target/mass-update/convert-target.md)
     * [🤵♀ Phân bổ người phụ trách](tuyen-sinh-ban-hang/target/mass-update/phan-bo-nguoi-phu-trach.md)
-    * [💻 Update Lead hàng loạt từ Target](tuyen-sinh-ban-hang/target/mass-update/update-lead-hang-loat-tu-target.md)
+  * [💻 Export - Update Lead hàng loạt từ Target](tuyen-sinh-ban-hang/target/export-update-lead-hang-loat-tu-target.md)
 * [Leads](tuyen-sinh-ban-hang/lead/README.md)
   * [📥 Import Leads](tuyen-sinh-ban-hang/lead/import-leads.md)
 * [Chăm sóc Lead qua Call Center (Click to Call)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)

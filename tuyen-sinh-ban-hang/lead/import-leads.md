@@ -1,53 +1,60 @@
 # 📥 Import Leads
 
-> Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
+> Bước 1: Đưa chuột vào Module **Leads** chọn **Import Leads**.
 
-![](<../../.gitbook/assets/image (113).png>)
+![](../../.gitbook/assets/ImportLead.png)
 
-> Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
+> Bước 2: Sau khi chọn Data Source, ta click **Next.**
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/2 (1).png>)
 
-> Bước 3:&#x20;> &#x20;Tải mẫu Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
+> Bước 3:&#x20;> Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**. Sau đó click **Next**.
 
-![](<../../.gitbook/assets/image (105).png>)
+![](../../.gitbook/assets/ImportLead2.png)
 
 {% hint style="info" %}
-:woman\_gesturing\_ok: **Ghi Chú:**
+****:woman\_gesturing\_ok: **Chú thích** :
 
 1 : Download file Import mẫu (nếu chưa có)
 
-2 : Lựa chọn file để import dữ liệu
+2 : Lựa chọn file để Import dữ liệu
 
-3 : Click chọn tạo Target mới từ dữ liệu được Import
+3 : Click chọn tạo Leads mới từ dữ liệu được Import
 
-4 : Click chọn tạo Target.
+4 : Click chọn tạo và cập nhật leads.
 
-**Lưu ý** :
+5 : Chọn template Import dữ liệu vào hệ thống (bắt buộc chọn theo template đã cho)
 
-\-      _**** File Template dùng để Import dữ liệu Target vào hệ thống._&#x20;
+****:man\_raising\_hand: **Lưu ý** :&#x20;
 
-_**-**       Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu (các cột còn lại có thể có hoặc không). Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng._
+* File Template dùng để Import dữ liệu Leads vào hệ thống.
+* Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu (các cột còn lại có thể có hoặc không). Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng.
 {% endhint %}
 
-> Bước 4:&#x20;> &#x20;Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next**. Sau đó, xác nhận việc ánh xạ các thuộc tính và tiếp tục Click **Next**.
+> Bước 4: Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next.**
 
-![](<../../.gitbook/assets/image (106).png>)
+![](<../../.gitbook/assets/4 (1).png>)
 
-Bước 5:  Xác nhận việc **kiểm tra trùng**, việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó click "**Import Now**" để hệ thống tiến hành Import dữ liệu vào hệ thống.
+> Bước 5: Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
 
-![](<../../.gitbook/assets/image (112).png>)
+![](<../../.gitbook/assets/5 (1).png>)
 
-> Bước 6: Kết quả sau khi Import, hệ thống sẽ báo số lượng Target được tạo, số lượng Target bị trùng và số lượng Target import bị lỗi do format hoặc trường dữ liệu,...
+> Bước 6: Xác nhận việc kiểm tra trùng và việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "Filed to check" . Sau đó click "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../.gitbook/assets/6 (1).png>)
+
+> Bước 7: Kết quả sau khi Import.
+
+![](<../../.gitbook/assets/7 (1).png>)
 
 {% hint style="info" %}
-:woman\_gesturing\_ok: **Ghi chú** :
+****:woman\_gesturing\_ok: **Ghi chú**:
 
-1: Import Again : Import lại danh sách khách hàng (Nếu muốn)
+1: Import Again: Import lại danh sách khách hàng (Nếu muốn)
 
 2: Exit : Thoát ra màn hình Overview của module Targets
 
-3: Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaign hoặc gửi email,...
+3: Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaigns hoặc gửi email,...
 {% endhint %}
+
+​\
