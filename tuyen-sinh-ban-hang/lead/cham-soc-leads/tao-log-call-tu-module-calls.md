@@ -2,9 +2,9 @@
 
 > Bước 1 : Đưa chuột vào module **Calls**, sau đó click chọn **Create Call**.
 
-![](<../../../.gitbook/assets/image (122).png>)
+![](<../../../.gitbook/assets/image (122) (1).png>)
 
-> Bước 2: Tại màn hình tạo Log Call, nhập đầy đủ thông tin, sau đó click **Save** để lưu lại.
+> Bước 2: Tại màn hình tạo **Log Call**, nhập đầy đủ thông tin, sau đó click **Save** để lưu lại.
 
 ![](../../../.gitbook/assets/TaoCall2.png)
 

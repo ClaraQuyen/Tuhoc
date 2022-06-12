@@ -16,12 +16,4 @@ description: >-
 >
 > **+ Dead :** Không có tiềm năng
 
-## Import Target
-
-> _Video hướng dẫn Import Target_
-
-{% embed url="https://youtu.be/yZJOBJkVV-Y" %}
-
-
-
 ##

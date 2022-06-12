@@ -1,6 +1,6 @@
-# 💫 Convert Target
+# 🎞 Convert Target hàng loạt thành Lead
 
-> Bước 1: Lọc dữ liệu của Target ở trạng thái **In Process (**Tức dữ liệu này đã được xác thực**).** Tại action menu bên trái click chọn **Mass Update**.
+> Bước 1: Lọc dữ liệu của Target ở trạng thái <mark style="color:blue;">**In Process**</mark>** (**Tức dữ liệu này đã được xác thực**).** Tại action menu bên trái click chọn **Mass Update**.
 
 ![](<../../../.gitbook/assets/image (115) (1).png>)
 
@@ -10,6 +10,10 @@
 
 > Bước 3: Hệ thống sẽ thông báo Update thành công và chuyển dữ liệu về Leads.
 
-![](../../../.gitbook/assets/ConvertTarget2.png)
+![](<../../../.gitbook/assets/image (108).png>)
+
+> Bước 4: Quay lại màn hình chính của Targets để xem kết quả.
+
+![](<../../../.gitbook/assets/image (112).png>)
 
 ##

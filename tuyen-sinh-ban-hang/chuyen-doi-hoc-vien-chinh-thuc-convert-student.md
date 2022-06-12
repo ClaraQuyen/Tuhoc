@@ -1,6 +1,6 @@
 ---
 description: >-
-  Convert Leads thành học viên chính thức khi Leads depost hoặc đăng kí gói học
+  Convert Leads thành học viên chính thức khi Leads deposit hoặc đăng kí gói học
   ở trung tâm.
 ---
 

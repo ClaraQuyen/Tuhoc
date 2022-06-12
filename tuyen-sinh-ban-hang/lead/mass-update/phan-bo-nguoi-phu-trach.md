@@ -18,4 +18,4 @@ Bước 4: Click **Mass Updated** để phân bổ cho người phụ trách.
 
 Bước 5: Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng click **Update**.
 
-![](<../../../.gitbook/assets/image (106).png>)
+![](<../../../.gitbook/assets/image (106) (1).png>)
