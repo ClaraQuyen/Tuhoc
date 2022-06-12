@@ -1,4 +1,4 @@
-# 🎯 Tạo Leads
+# 🎯 Tạo Lead
 
 > Bước 1: Đưa chuột vào Menu Leads chọn Create Lead hoặc click vào module Leads để **Create Lead**.
 

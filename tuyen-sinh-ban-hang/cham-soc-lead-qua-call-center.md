@@ -24,11 +24,11 @@
 
 > Bước 1: Vào module **Leads/Students** chọn học viên muốn thực hiện cuộc gọi tư vấn, sau đó click vào :telephone\_receiver: .
 
-![](../../../.gitbook/assets/call2.jpg)
+![](../.gitbook/assets/call2.jpg)
 
 > Bước 2: Màn hình thông tin cuộc gọi hiển thị với trạng thái cuộc gọi. Users input nhanh các thông tin cuộc gọi và hẹn lịch  gọi lại (Call Back) (nếu có). Cuối cùng nhập vắn tắt nội dung cuộc gọi và click **Save**.
 
-![](../../../.gitbook/assets/call1.jpg)
+![](../.gitbook/assets/call1.jpg)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -41,5 +41,5 @@
 
 > Bước 3: Hệ thống hiện thị thông tin cuộc gọi và nội dung file nghe trao đổi với khách hàng.
 
-![](../../../.gitbook/assets/call3.jpg)
+![](../.gitbook/assets/call3.jpg)
 
