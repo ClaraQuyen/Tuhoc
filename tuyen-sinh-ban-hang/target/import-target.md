@@ -32,7 +32,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 > Bước 4:&#x20;> &#x20;Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next**. Sau đó, xác nhận việc ánh xạ các thuộc tính và tiếp tục Click **Next**.
 
-![](<../../.gitbook/assets/image (106).png>)
+![](<../../.gitbook/assets/image (106) (1).png>)
 
 Bước 5:  Xác nhận việc **kiểm tra trùng**, việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó click "**Import Now**" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 

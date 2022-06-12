@@ -1,4 +1,4 @@
-# 📄 Chỉnh sửa Leads
+# 📝 Chỉnh sửa Leads
 
 > Bước 1: Đưa chuột vào module **Leads** chọn học viên cần sửa thông tin.
 
