@@ -8,7 +8,7 @@ Với payment học viên mua, bạn chỉ cần chọn thời gian học viên 
 
 ![](../.gitbook/assets/HocDemo1.png)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. Sau đó click chọn "<mark style="color:green;">**Enroll**</mark>"
+> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. Sau đó click chọn "<mark style="color:green;">**Enroll Students**</mark>" hoặc "**Enroll**".
 
 ![](../.gitbook/assets/edit1.png)
 
@@ -28,14 +28,16 @@ Ghi chú:
 :point\_right:Học viên k đăng kí học trong 1 khoảng thời gian (Màu xám)
 {% endhint %}
 
-> Bước 3: click <mark style="color:orange;">**Load Outstanding ,**</mark> hệ thống sẽ load danh sách học viên đang học nợ trong Lớp, tiếp theo chọn payment mà học viên đã mua để enroll vòa lớp (mặc định hẹ thống sẽ tự lấy payment nếu cùng KOC), có thể  chọn 1 hoặc nhiều học viên để ghi danh học viên (Clear Outstanding). Cuối cùng click <mark style="color:green;">**Enroll**</mark> để ghi danh học viên.
+> Bước 3: click <mark style="color:orange;">**Load Outstanding**</mark>** (1), **<mark style="color:orange;">****</mark> hệ thống sẽ load danh sách học viên đang học nợ trong Lớp, tiếp theo chọn payment (2) mà học viên đã mua để enroll vòa lớp (mặc định hẹ thống sẽ tự lấy payment nếu cùng KOC), có thể  chọn 1 hoặc nhiều học viên để ghi danh học viên (Clear Outstanding). Cuối cùng click <mark style="color:green;">**Enroll**</mark> (3 )để ghi danh học viên.
 
 ![](../.gitbook/assets/edit2.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi Chú** :
 
-(\*):  Có thể lựa chọn khoảng thời gian clear outstandig học viên (Nếu muốn)
+(\*):  <mark style="color:blue;">**Start/Finish**</mark> : Có thể lựa chọn khoảng thời gian clear outstandig học viên (Nếu muốn)
+
+(\*) : <mark style="color:orange;">**Enrollment Date**</mark> : Có thể lựa chọn thời gian thực hiện thao tác Clear Outstanding học viên (Lưu ý : Khi chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên ).
 
 :stop\_button: Add thêm học viên hàng loạt, có thể chọn hàng loạt hoặc chọn từng học viên.
 
