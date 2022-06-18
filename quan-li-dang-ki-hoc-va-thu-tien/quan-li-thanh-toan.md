@@ -2,8 +2,6 @@
 
 ## Payment Deposit
 
-### Tạo Payment Deposit
-
 > Bước 1: Đưa chuột vào menu **Payment** chọn **Create Payment**.
 
 ![](../.gitbook/assets/payment1.jpg)
@@ -26,7 +24,7 @@
 5: Lựa chọn số lần thanh toán
 {% endhint %}
 
-### Payment Cashholder (Mua khóa học)
+## Payment Cashholder (Mua khóa học)
 
 > Bước 1: Đưa chuột vào module **Payment** chọn **Create Payment**.
 
@@ -66,9 +64,8 @@
 Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](quan-li-thanh-toan.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
 {% endhint %}
 
-****
-
-### &#xD;**Tạo Payment PT (Đóng tiền kiểm tra đầu vào)**&#x20;
+**Payment PT (Đóng tiền kiểm tra đầu vào)**&#x20;
+-------------------------------------------------
 
 > Bước 1: Đưa chuột vào Menu Payment & Enrollment chọn Create Payment.
 
@@ -96,7 +93,7 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 ![](../.gitbook/assets/Payment\_PT3.png)
 
-### Tạo Payment Book/Gift (thu tiền sách)
+## Payment Book/Gift (thu tiền sách)
 
 > Bước 1: Đưa chuột vào Menu Payment chọn Create Payment.
 
