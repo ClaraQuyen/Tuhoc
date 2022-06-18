@@ -8,41 +8,39 @@
 
 > Bước 2: Tại màn hình chi tiết của Payment, Click tab subpanel “Receipt”, sau đó click Export ” để tiến hành xuất phiếu thu cho học viên.
 
-![](../../.gitbook/assets/QLPhieuThu1.png)
+![](../../.gitbook/assets/phieuthu1.png)
 
 > Bước 3: Kết quả sau khi thực hiện việc xuất phiếu thu cho học viên.
 
-![](../../.gitbook/assets/PT.PNG)
+![](../../.gitbook/assets/phieuthu2.png)
 
 ## Quản lí chiết khấu(Discount)
 
-> Bước 1: Click chuột vào module Discount chọn Create Discount.
+> Bước 1: Click chuột vào module **Discount** chọn **Create Discount.**
 
-![](../../.gitbook/assets/QLDiscount.png)
+![](<../../.gitbook/assets/discount1 (1).png>)
 
-> Bước 2: Tại màn hình tạo mới chiết khấu, nhập đầy đủ các thông tin cần thiết, Sau đó click Save để hoàn tất.
+> Bước 2: Tại màn hình tạo mới chiết khấu, nhập đầy đủ các thông tin cần thiết, Sau đó click **Save** để hoàn tất.
 
-![](../../.gitbook/assets/discount2.png)
+![](<../../.gitbook/assets/discount2 (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
 
-1:Số tiền discount.
+1: Thông tin Discount
 
-2:Phần trăm discount
+2: Số tiền/ Phần Trăm Discount.
 
-3: Discount không áp dụng với một số trung tâm hoặc giới thiệu học viên,….
+3: Discount áp dụng với hình thức Payment Casholder/Book/Gift/All.
 
-4: Loại giảm giá
-
-5: Ngày bắt đầu,ngày kết thúc discount.
+4: Ngày bắt đầu,ngày kết thúc discount.
 
 ****:man\_raising\_hand: **Lưu ý**: Có thể chỉ nhập số tiền hoặc phần trăm Discount
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của chiết khấu sau khi tạo thành công.
 
-![](../../.gitbook/assets/discount.png)
+![](../../.gitbook/assets/discount3.png)
 
 ## Quản lí Voucher
 

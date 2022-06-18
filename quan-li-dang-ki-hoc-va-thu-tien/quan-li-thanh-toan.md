@@ -1,6 +1,6 @@
 # Quản lí thanh toán
 
-## Tạo Payment
+## Payment Deposit
 
 ### Tạo Payment Deposit
 
@@ -26,24 +26,22 @@
 5: Lựa chọn số lần thanh toán
 {% endhint %}
 
-### Tạo Payment Cashholder (Mua khóa học)
+### Payment Cashholder (Mua khóa học)
 
 > Bước 1: Đưa chuột vào module **Payment** chọn **Create Payment**.
 
 ![](../.gitbook/assets/payment1.jpg)
 
-> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó click **Save** để hoàn tất.
+> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó check vào ô Auto - Enroll để chọn Lớp, Ngày bắt đầu học của học viên, hệ thống sẽ tự động Enroll đưa học viên vào lớp, sau khi đã thu tiền. Cuối cùng click **Save** để hoàn tất.
 
-![](../.gitbook/assets/pm.png)
+![](../.gitbook/assets/New\_Auto1.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-Lựa chọn học viên.&#x20;Click vào biểu tượng <img src="../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+1.Lựa chọn học viên.&#x20;Click vào biểu tượng <img src="../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 
-1: Lựa chọn Khóa học
-
-2: Lựa chọn Payment type là Cashholder.
+2: Lựa chọn **Payment** type là **Cashholder**.
 
 3: Lựa chọn khoá học viên mua.
 
@@ -51,10 +49,24 @@ Lựa chọn học viên.&#x20;Click vào biểu tượng <img src="../.gitbook
 
 5: Lựa chọn các Discount/Sponsor (Nếu có).
 
-6: Lựa chọn số lần thanh toán
+6.Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
 
-(\*): Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
+7: Lựa chọn số lần thanh toán
+
+8\. **Check** chọn <mark style="color:green;">**Auto-Enroll**</mark> : Chọn lớp, ngày bắt đầu học của học viên. Hệ thống sẽ tự động add học viên vào lớp, sau khi đã thực hiện thu tiền.
 {% endhint %}
+
+> Bước 3: Sau khi Save thành công, hệ thống hiện thị thông tin Payment như bên dưới. Cuối cùng thực hiện Thu Tiền học viên.
+
+![](../.gitbook/assets/New\_Auto2.png)
+
+{% hint style="info" %}
+**Ghi chú:**
+
+Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](quan-li-thanh-toan.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
+{% endhint %}
+
+****
 
 ### &#xD;**Tạo Payment PT (Đóng tiền kiểm tra đầu vào)**&#x20;
 
@@ -92,59 +104,46 @@ Lựa chọn học viên.&#x20;Click vào biểu tượng <img src="../.gitbook
 
 > Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin sách, số lượng mà học viên mua click Save để hoàn tất.
 
-![](../.gitbook/assets/bookgift.png)
+![](<../.gitbook/assets/bookgift (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú**:
 
-1: Lựa chọn Học sinh.
+1: Lựa chọn Học Viên.
 
 2: Lựa chọn loại Payment là: **Book/Gift**
 
-3: Thêm voucher,discount cho học viên (Nếu có)
+3: Sách, số lượng mà học viên đăng kí mua.
 
-4: Sách,số lượng mà học viên  đăng kí mua&#x20;
+4: Thêm Discount/Sponsor/Loyalty cho học viên (Nếu có).&#x20;
 
-5: Thông tin về số lần thanh toán, lựa chọn số lần thanh toán tương ứng
+<mark style="color:orange;">**(\*)**</mark> : Nếu sách tặng học viên tích chọn option Free Book/Gift.
 {% endhint %}
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment Book/Gift được tạo.
 
-![](../.gitbook/assets/bookgift1.png)
+![](../.gitbook/assets/bookgift2.png)
 
-## :dart: Thanh toán trả góp
+## :dart: Thanh toán trả hàng tháng (Slit Payment)
 
-#### Cách 1 : Sử dụng Installment Plan (Thanh toán trả góp)
+> Bước 1: Tạo payment như bình thường và phần **Slit Payment** chọn option **Custom.**
 
-> Bước 1: Đưa chuột vào module Payment click Create Payment/Enrollment.
+![](../.gitbook/assets/slitpayment.png)
 
-![](../.gitbook/assets/1.jpg)
+> Bước 2: Sau đó nhập số tháng mà khách hàng muốn thanh toán hành tháng, ví dụ muốn thanh toán trong 3 tháng, mỗi tháng thanh toán 1 lần.
 
-> Bước 2:&#x20;> Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click chọn option **Installment Plan.**
+![](../.gitbook/assets/sliipay2.png)
 
-![](../.gitbook/assets/1\_tragop.jpg)
+{% hint style="info" %}
+**Ghi chú:**
 
-> Bước 4: Sau đó hệ thống sẽ tự động generate số tiền thanh hình thức trả góp, EC chỉ cần chọn thời gian khách hàng muốn thanh toán, cuối cùng click Save.
+1. Số tháng thanh toán trong 1 lần.
+2. Số lần thanh toán trên tổng Payments.
+{% endhint %}
 
-![](../.gitbook/assets/tragop2.jpg)
+> Bước 3: Hệ thống sẽ tự động Generate khoảng tiền sau mỗi tháng cần đóng cho khách hàng với  số lần **Custom** được nhập.
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment được tạo.
-
-![](../.gitbook/assets/tragop3.jpg)
-
-#### Cách 2: Thanh toán trả góp hàng tháng  (sử dụng Split Payment)
-
-> Bước 1: Tạo payment như bình thường và phần slit payment chọn option Month-Plan.
-
-![](../.gitbook/assets/pm1.jpg)
-
-> Bước 2: Sau đó nhập số tháng mà khách hàng muốn thanh toán hành tháng, ví dụ muốn thanh toán trong 3 tháng nhập 3, 6 tháng nhập 6,...
-
-![](../.gitbook/assets/pm2.jpg)
-
-> Bước 3: Hệ thống sẽ tự động Generate khoảng tiền sau mỗi tháng cần đóng cho khách hàng với  số lần monthly-plan được nhập.
-
-![](../.gitbook/assets/pm3.jpg)
+![](../.gitbook/assets/slipay.png)
 
 ## Thanh toán cho Payment
 

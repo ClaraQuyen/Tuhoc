@@ -58,8 +58,11 @@
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
+* [New - Enrollment](quan-li-dang-ki-hoc-va-thu-tien/new-enrollment.md)
+* [Thêm Học Viên Vào Lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
+* [Bảo Lưu, Xóa học viên](quan-li-dang-ki-hoc-va-thu-tien/bao-luu-xoa-hoc-vien.md)
+* [Chỉnh sửa (Clear Outstanding)](quan-li-dang-ki-hoc-va-thu-tien/chinh-sua-clear-outstanding.md)
 * [Quản lí đơn giá học phí (kèm Sách)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
-* [Quản lí tăng giảm học phí](quan-li-dang-ki-hoc-va-thu-tien/quan-li-tang-giam-hoc-phi.md)
 * [Quản lí thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan.md)
 
 ## Bộ phận giáo vụ
@@ -128,7 +131,5 @@
 
 ## Tính Năng Cập Nhật Mới
 
-* [New - Enrollment](tinh-nang-cap-nhat-moi/new-enrollment.md)
-* [Thêm Học Viên Vào Lớp](tinh-nang-cap-nhat-moi/them-hoc-vien-vao-lop.md)
-* [Bảo Lưu, Xóa học viên](tinh-nang-cap-nhat-moi/bao-luu-xoa-hoc-vien.md)
-* [Chỉnh sửa (Clear Outstanding)](tinh-nang-cap-nhat-moi/chinh-sua-clear-outstanding.md)
+* [Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
+* [Courses Fee](tinh-nang-cap-nhat-moi/courses-fee.md)

@@ -1,6 +1,4 @@
-# Quản lí đơn giá học phí (kèm Sách)
-
-## Tạo đơn giá học phí (Kèm sách)(Nếu có
+# Courses Fee
 
 > Bước 1: Đưa chuột vào thanh module **Course Fees** chọn **Create Course Fees**.
 
@@ -50,20 +48,4 @@ Gói giờ :&#x20;
 
 ![](../.gitbook/assets/dghp3.png)
 
-## Xuất sách kèm khóa học.
-
-> Bước 1: Khi học viên mua khóa học đã bao gồm sách, nếu muốn xuất sách cho học viên. Vào payment vừa tạo cho học viên, click vào tab **Book/Gift**, chọn **Create Book/Gift**.
-
-![](../.gitbook/assets/sach1.jpg)
-
-> Bước 2: Hệ thống sẽ tạo ra thông tin bộ sách miễn phí đã được tạo ở thông tin đơn giá học phí.
-
-![](../.gitbook/assets/sach2.jpg)
-
-> Bước 3: Thông tin sách sau khi được lưu thành công.
-
-![](../.gitbook/assets/sach3.jpg)
-
-> Bước 4: Xuất phiếu thu kèm theo (Nếu có).
-
-![](../.gitbook/assets/sach4.jpg)
+##
