@@ -110,6 +110,7 @@
 ## Admin Guide
 
 * [Convert -Drop Payment](admin-guide/drop-payment.md)
+* [Thông tin số dư khi đổi giờ](admin-guide/thong-tin-so-du-khi-doi-gio.md)
 * [Inventory](admin-guide/inventory.md)
 * [Đẩy dữ liệu về database trung gian NAV ERP](admin-guide/day-du-lieu-ve-database-trung-gian-nav-erp.md)
 * [Cấu hình HDDT](admin-guide/cau-hinh-hddt.md)
