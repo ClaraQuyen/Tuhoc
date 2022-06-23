@@ -1,7 +1,8 @@
 ---
 description: >-
-  Tính năng này sẽ linh động hơn tính năng hiện tại, cho phép ng dùng có thể add
-  học viên trực tiếp vào lớp qua cách thức tạo Payment - Cashholder.
+  Tính năng này cho phép người dùng sử dụng các khoản dư hiện có của học viên để
+  mua khóa học mới để Enroll và cho phép add học viên trực tiếp vào lớp qua cách
+  thức tạo Payment - Cashholder.
 ---
 
 # New - Enrollment
@@ -31,7 +32,7 @@ description: >-
 
 5: Lựa chọn các Discount/Sponsor (Nếu có).
 
-6.Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
+6.Lựa chọn khoảng tiền còn dư học viên (bao gồm đặt cọc, các khoản phí học viên chưa sử dụng) trước đó để khấu trừ vào Payment tiếp theo (Nếu có).
 
 7: Lựa chọn số lần thanh toán
 
