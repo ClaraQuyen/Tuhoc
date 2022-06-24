@@ -25,3 +25,11 @@
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của chiết khấu sau khi tạo thành công.
 
 ![](../.gitbook/assets/discount3.png)
+
+> Bước 4: Sau khi tạo Discount thành công, kéo xuống Supannel, chọn tab như hình bên dưới, để add Discount không được áp dụng đi kèm với Discount bạn tạo.
+
+![](../.gitbook/assets/discobt.png)
+
+> Bước 5: Cuói cùng bấm chọn Select để link đến Discount bạn cần không được áp dụng đi kèm với Discount bạn tạo.
+
+![](../.gitbook/assets/disoct.png)
