@@ -42,6 +42,14 @@
 
 ![](../../.gitbook/assets/discount3.png)
 
+> Bước 4: Sau khi tạo Discount thành công, kéo xuống Supannel, chọn tab như hình bên dưới, để add Discount không được áp dụng đi kèm với Discount bạn tạo.
+
+![](../../.gitbook/assets/discobt.png)
+
+> Bước 5: Cuối cùng bấm chọn Select để link đến Discount bạn cần không được áp dụng đi kèm&#x20;
+
+![](../../.gitbook/assets/disoct.png)
+
 ## Quản lí Voucher
 
 > Bước 1: Đưa chuột vào module Sponsors Code chọn **Create Voucher**.
