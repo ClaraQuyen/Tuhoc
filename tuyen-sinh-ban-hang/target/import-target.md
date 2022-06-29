@@ -1,17 +1,5 @@
 # 📥 Import Target
 
-{% hint style="success" %}
-Ở qui trinh Import Target có ....bước:
-
-Bước 1:&#x20;
-
-Bước 2:
-
-Bước 3:
-
-Bước 4:&#x20;
-{% endhint %}
-
 > Bước 1: Ở màn hình danh sách của module **Targets,** ta nhấn vào **** button **Import Targets** để **** cho phép người dùng Import data từ local.
 
 ![](<../../.gitbook/assets/image (113) (1) (1).png>)
