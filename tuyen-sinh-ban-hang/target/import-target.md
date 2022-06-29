@@ -1,28 +1,16 @@
 # 📥 Import Target
 
-{% hint style="success" %}
-Ở qui trinh Import Target có ....bước:
-
-Bước 1:&#x20;
-
-Bước 2:
-
-Bước 3:
-
-Bước 4:&#x20;
-{% endhint %}
-
 > Bước 1: Ở màn hình danh sách của module **Targets,** ta nhấn vào **** button **Import Targets** để **** cho phép người dùng Import data từ local.
 
-![](<../../.gitbook/assets/image (113) (1) (1).png>)
+![Màn hình danh sách của module Targets](<../../.gitbook/assets/image (113) (1) (1).png>)
 
 > Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 
-![](<../../.gitbook/assets/image (108) (1).png>)
+![Select Data Source](<../../.gitbook/assets/image (108) (1).png>)
 
-> Bước 3:&#x20;> &#x20;Tải mẫu Import (nếu chưa có), sau đó đưa file lên hệ thống và nhấn vào button **Choose File**. Sau đó, ta tiếp tục nhấn **Next**.
+> Bước 3:&#x20;> Tải mẫu import (nếu chưa có), sau đó nhập đầy đủ thông tin vào file để đưa lên hệ thống và sau đó nhấn vào button **Choose File**. Sau đó, ta tiếp tục nhấn **Next**.
 
-![](<../../.gitbook/assets/image (105) (1) (1).png>)
+![Upload Import File](<../../.gitbook/assets/image (105) (1) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi Chú:**
