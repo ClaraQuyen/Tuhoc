@@ -54,7 +54,11 @@
     * [🎞 Convert Target hàng loạt thành Lead](tuyen-sinh-ban-hang/lead/convert-lead/convert-target-hang-loat-thanh-lead.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
 * [Quản lí thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
-* [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
+* [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
+  * [📥 Import Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/import-students.md)
+  * [🔄 Convert Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/convert-student/README.md)
+    * [📼 Convert từ Lead thành Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/convert-student/convert-tu-lead-thanh-student.md)
+    * [🎞 Convert Lead hàng loạt thành Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/convert-student/convert-lead-hang-loat-thanh-student.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
