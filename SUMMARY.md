@@ -29,7 +29,7 @@
 * [Targets](tuyen-sinh-ban-hang/target.md)
   * [📥 Import Target](tuyen-sinh-ban-hang/target/import-target.md)
   * [🎯 Tạo Target](tuyen-sinh-ban-hang/target/tao-target.md)
-  * [📝 Chỉnh sửa Target](tuyen-sinh-ban-hang/target/chinh-sua-target.md)
+  * [📝 Chỉnh sửa Target](tuyen-sinh-ban-hang/target/chinh-sua-targets.md)
   * [💻 Export - Update Lead hàng loạt từ Target](tuyen-sinh-ban-hang/target/export-update-lead-hang-loat-tu-target.md)
   * [💾 Mass Update](tuyen-sinh-ban-hang/target/mass-update/README.md)
     * [💫 Convert Target](tuyen-sinh-ban-hang/target/mass-update/convert-target.md)
