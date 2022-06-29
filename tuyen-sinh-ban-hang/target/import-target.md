@@ -33,7 +33,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 Bước 5:  Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó ta nhấn chọn "**Import Now**" để tiến hành Import dữ liệu vào hệ thống.
 
-![](<../../.gitbook/assets/image (112) (1) (1).png>)
+![](<../../.gitbook/assets/image (112) (1) (1) (1).png>)
 
 > Bước 6: Kết quả sau khi Import, hệ thống sẽ báo:
 >
@@ -41,7 +41,7 @@ Bước 5:  Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng n
 > * Số lượng Target bị trùng&#x20;
 > * Số lượng Target import bị lỗi do format hoặc trường dữ liệu,...
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../.gitbook/assets/image (116) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :

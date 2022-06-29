@@ -2,7 +2,7 @@
 
 > Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
 
-![](<../../.gitbook/assets/image (110).png>)
+![](<../../.gitbook/assets/image (110) (1).png>)
 
 > Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 
@@ -36,11 +36,11 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 Bước 5:  Xác nhận việc **kiểm tra trùng**, việc check trùng này do người dùng qui định cho hệ thống lúc Import, có thể check trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó click "**Import Now**" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 
-![](<../../.gitbook/assets/image (112) (1) (1).png>)
+![](<../../.gitbook/assets/image (112) (1) (1) (1).png>)
 
 > Bước 6: Kết quả sau khi Import, hệ thống sẽ báo số lượng Student được tạo, số lượng Student bị trùng và số lượng Student import bị lỗi do format hoặc trường dữ liệu,...
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../../.gitbook/assets/image (116) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :
