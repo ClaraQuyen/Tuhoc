@@ -34,32 +34,26 @@
 
 > **Bước 3:** Sau khi tạo 1 cấu trúc bảng điểm, màn hình sẽ chuyển sang phần cấu hình chi tiết cho các cột điểm của bảng điểm. Tại đây, tiến hành định nghĩa bảng điểm theo chương trình học của trung tâm. Cuối cùng click **Save Setting.**
 
+![](../../.gitbook/assets/2.3.png)
+
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
 
-1: Cấp độ của chương trình học
+1: Hướng dẫn cách sử dụng công thức để cấu hình bảng điểm.
 
-2: Module áp dụng cho chương trình hoc
+2: Đặt tên nhóm cột điểm để gom nhóm các cột điểm có chức năng giống nhau hoặc chung một tên. (Có thể bỏ trống)
 
-3: Số giờ của chương trình học theo giáo án
+3: Tên cột điểm
 
-4: Giờ cố định (Không được thay đổi số giờ học cho lớp này(nếu tích vào))
+4: Loại cột điểm (Score: Điểm; Formula: Điểm dựa trên công thức; Band: Xếp loại; Total: Điểm tổng kết; Comment: Nhận xét)
 
-5: Có thể Upgrade lên lớp mới.
+5: Visible: Tick cho phép hiển thị cột hoặc ẩn cột
 
-6: Tỉ lệ giờ giáo viên (chấm công theo hệ số giáo viên)
+6: Nhập điểm tối đa, loại kết quả,... phụ thuộc theo loại của cột điểm
 
-7: Timeslot
+7: Công thức định nghĩa cấu trúc bảng điểm (chỉ xuất hiện khi loại cột điểm là formula, band, total)
 
-8: URL document
+8: Bỏ cột
 
-9: Add Syslabus: thêm giáo án cho chương trình hoc
-
-10: Double Click vào Create để lên giáo án cho lớp theo từng buổi học
-
-11: Thêm bài học cho giáo án
-
-12: Remove bài học cho giáo án
+9: Thêm cột
 {% endhint %}
-
-##
