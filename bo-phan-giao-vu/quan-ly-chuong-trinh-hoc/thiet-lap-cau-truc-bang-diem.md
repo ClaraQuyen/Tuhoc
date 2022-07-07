@@ -34,7 +34,7 @@
 
 > **Bước 3:** Sau khi tạo 1 cấu trúc bảng điểm, màn hình sẽ chuyển sang phần cấu hình chi tiết cho các cột điểm của bảng điểm. Tại đây, tiến hành định nghĩa bảng điểm theo chương trình học của trung tâm. Cuối cùng click **Save Setting.**
 
-![](../../.gitbook/assets/2.3.png)
+![](<../../.gitbook/assets/2.3 (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
