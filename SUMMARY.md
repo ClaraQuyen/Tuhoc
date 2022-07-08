@@ -96,6 +96,7 @@
   * [Nhập điểm](bo-phan-giao-vu/quan-li-lop-hoc/nhap-diem.md)
 * [Quản lý chương trình học](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/README.md)
   * [Thiết lập cấu trúc bảng điểm](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/thiet-lap-cau-truc-bang-diem.md)
+  * [Tạo chương trình học và giáo án theo từng buổi học.](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/tao-chuong-trinh-hoc-va-giao-an-theo-tung-buoi-hoc..md)
 
 ## Tính năng dành cho Parents App trên CRM
 
