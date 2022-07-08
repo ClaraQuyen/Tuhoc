@@ -1,6 +1,6 @@
 # Tạo chương trình học và giáo án theo từng buổi học.
 
-## Phần 1: Tạo chương trình học
+## ![](../../.gitbook/assets/giaoan3.png)Phần 1: Tạo chương trình học
 
 > **Bước 1:** Click chuột vào module **Kind of Courses**, sau đó chọn **Create**.
 
@@ -11,14 +11,14 @@
 ![](../../.gitbook/assets/2.5.png)
 
 {% hint style="info" %}
-💗**Ghi chú:**
+🌤️ **Ghi chú:**
 
 1: **** Tên chương trình học.
 
 2: Cấu hình chương trình học và tạo giáo án theo từng buổi học (Phần 2 - Tạo giáo án theo từng buổi hoc).
 {% endhint %}
 
-## Phần 2: Tạo giáo án theo từng buổi học
+## ![](../../.gitbook/assets/giaoan1.png)Phần 2: Tạo giáo án theo từng buổi học
 
 > **Bước** 1**:** Tại màn hình T**ạo mới/Chỉnh sửa** chương trình học, nhập đầy đủ các thông tin cần thiết, Sau đó Click **Add Syllabus** để tạo giáo án cho 1 chương trình học mới.
 
