@@ -1,6 +1,6 @@
 # Thiết lập cấu trúc bảng điểm
 
-## Phần 1: Tạo nhóm cấu trúc bảng điểm
+## <img src="../../.gitbook/assets/icons8-document-100.png" alt="" data-size="original"> Phần 1: Tạo nhóm cấu trúc bảng điểm
 
 > **Bước 1:**> Click chuột vào module **Gradebook Setting Groups**, sau đó click **Create** để tạo 1 nhóm cấu trúc bảng điểm mới.
 
@@ -14,7 +14,7 @@
 
 ![](<../../.gitbook/assets/1.3 (1).png>)
 
-## Phần 2: Tạo cấu trúc bảng điểm
+## ![](../../.gitbook/assets/icons8-document1-100.png)Phần 2: Tạo cấu trúc bảng điểm
 
 > **Bước 1:** Click chuột vào module **Gradebook Settings,** sau đó click **Create** để tạo mới 1 cấu trúc bảng điểm.
 

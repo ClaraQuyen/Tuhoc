@@ -25,7 +25,7 @@
 ![](../../.gitbook/assets/2.7.png)
 
 {% hint style="info" %}
-️🏆 **Ghi chú:**
+️🌤️ **Ghi chú:**
 
 1. **Level:** Cấp độ của chương trình học
 2. **Level Code:** Mã viết tắt của Cấp độ chương trình học (Có thể bỏ trống)
