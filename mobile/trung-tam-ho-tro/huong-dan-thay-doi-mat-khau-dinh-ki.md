@@ -16,6 +16,6 @@ Bước 5: Đăng nhập lại bằng mật khẩu vừa tạo mới.
 
 Chúc bạn có một khóa học hiệu quả cùng với DotB!!
 
-![](<../../.gitbook/assets/image (119).png>)
+![](<../../.gitbook/assets/image (109).png>)
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (110).png>)

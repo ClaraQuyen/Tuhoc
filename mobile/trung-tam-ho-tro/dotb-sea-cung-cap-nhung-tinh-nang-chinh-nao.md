@@ -52,7 +52,7 @@ Ghi nhận và giải đáp phản hồi ngay tức thì.
 
 Hỗ trợ gửi tin nhắn cho học sinh và phụ huynh, thanh toán học phí, điểm danh, nghỉ học đột xuất.
 
-#### ![](<../../.gitbook/assets/image (109).png>)Nhận thông báo học tập/ Tin tức
+#### ![](<../../.gitbook/assets/image (109) (1).png>)Nhận thông báo học tập/ Tin tức
 
 Quản lý các thông báo các sự kiện của trung tâm , học vụ hoặc tin nhắn từ trung tâm gửi về.
 
