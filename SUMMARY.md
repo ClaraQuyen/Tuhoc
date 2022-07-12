@@ -19,6 +19,7 @@
   * [Cửa hàng](mobile/cua-hang.md)
   * [Trung tâm hỗ trợ](mobile/trung-tam-ho-tro/README.md)
     * [DotB Sea cung cấp những tính năng chính nào?](mobile/trung-tam-ho-tro/dotb-sea-cung-cap-nhung-tinh-nang-chinh-nao.md)
+    * [Hướng dẫn thay đổi mật khẩu định kì](mobile/trung-tam-ho-tro/huong-dan-thay-doi-mat-khau-dinh-ki.md)
 
 ## Nhóm tính năng tiếp thị
 

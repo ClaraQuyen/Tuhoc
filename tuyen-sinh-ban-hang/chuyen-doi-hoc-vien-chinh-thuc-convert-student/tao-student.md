@@ -24,7 +24,7 @@ Bước 4: Xem chi tiết màn hình Student vừa tạo
 
 > Bước 3: Kết quả sau khi chúng ta tạo mới Student.
 
-![Kết quả](<../../.gitbook/assets/image (114).png>)
+![Kết quả](<../../.gitbook/assets/image (114) (1).png>)
 
 > Bước 4: Màn hình chi tiết Student vừa được tạo. Lúc này trạng thái của Student là "Waiting for Enroll".
 
