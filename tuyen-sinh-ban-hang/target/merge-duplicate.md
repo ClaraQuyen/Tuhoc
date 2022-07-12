@@ -2,7 +2,7 @@
 
 > Bước 1: Chon hồ sơ bị **duplicate**, ở module bị trùng (tối đa 2 hồ sơ).
 
-![](<../../.gitbook/assets/image (115).png>)
+![](<../../.gitbook/assets/image (115) (1).png>)
 
 > Bước 2: Click vào mũi tên, sau đó chọn **Merge**
 

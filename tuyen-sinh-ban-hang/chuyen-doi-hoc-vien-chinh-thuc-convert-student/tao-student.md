@@ -20,7 +20,7 @@ Bước 4: Xem chi tiết màn hình Student vừa tạo
 
 > Bước 2: Tại màn hình tạo mới **Student**, nhập đầy đủ các thông tin. Sau đó nhấn vào button **Save** để hoàn tất việc tạo ra một **Student mới**.
 
-![Màn hình tạo mới](<../../.gitbook/assets/image (116).png>)
+![Màn hình tạo mới](<../../.gitbook/assets/image (116) (1).png>)
 
 > Bước 3: Kết quả sau khi chúng ta tạo mới Student.
 

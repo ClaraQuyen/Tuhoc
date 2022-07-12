@@ -40,7 +40,7 @@ Bước 5:  Xác nhận việc **kiểm tra trùng**, việc check trùng này d
 
 > Bước 6: Kết quả sau khi Import, hệ thống sẽ báo số lượng Student được tạo, số lượng Student bị trùng và số lượng Student import bị lỗi do format hoặc trường dữ liệu,...
 
-![](<../../.gitbook/assets/image (116) (1).png>)
+![](<../../.gitbook/assets/image (116) (1) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :

@@ -41,7 +41,7 @@ Bước 5:  Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng n
 > * Số lượng Target bị trùng&#x20;
 > * Số lượng Target import bị lỗi do format hoặc trường dữ liệu,...
 
-![](<../../.gitbook/assets/image (116) (1).png>)
+![](<../../.gitbook/assets/image (116) (1) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :
