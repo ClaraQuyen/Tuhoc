@@ -32,7 +32,7 @@ Chia sẻ kết quả học tập dễ dàng hơn và có nhận xét của giá
 
 Có thể chuyển đổi và quản lý thông&#x20;
 
-#### <img src="../../.gitbook/assets/image (124).png" alt="" data-size="original">Quản lý thông tin học viên
+#### <img src="../../.gitbook/assets/image (124) (1).png" alt="" data-size="original">Quản lý thông tin học viên
 
 Dễ dàng theo dõi thông tin tài khoản và điểm thưởng học viên trong quá trình học tập; kịp thời thay đổi, chỉnh sửa.
 
