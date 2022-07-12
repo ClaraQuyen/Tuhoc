@@ -10,7 +10,7 @@
 
 > Bước 3: Hệ thống sẽ xuất hiện hồ sơ bị duplicate được chọn, sau đó chọn những dữ liệu Primary để qua tab hồ sơ Primary (giữ lại những thông tin chính). Sau đó click **Save**.
 
-![](<../../.gitbook/assets/image (121) (1).png>)
+![](<../../.gitbook/assets/image (121) (1) (1).png>)
 
 > Bước 4: Tiếp tục click **Confirm**
 
