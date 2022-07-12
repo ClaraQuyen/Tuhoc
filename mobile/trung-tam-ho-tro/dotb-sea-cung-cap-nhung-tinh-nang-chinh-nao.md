@@ -24,7 +24,7 @@ Hiển thị thông tin chi tiết về bài học/bài tập trong lớp theo t
 
 Dễ dàng chuyển đổi thông tin qua lại giữa các lớp đang theo học với nhau, tiện lợi quản lý học nhiều lớp cùng lúc.
 
-#### ![](<../../.gitbook/assets/image (122).png>)Kết quả học tập
+#### ![](<../../.gitbook/assets/image (122) (1).png>)Kết quả học tập
 
 Xem thông tin chi tiết kết quả các bài kiểm tra giữa kì/cuối kì và nhận xét của giáo viên (Nếu có).
 
