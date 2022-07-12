@@ -22,7 +22,7 @@
     * [Hướng dẫn thay đổi mật khẩu định kì](mobile/trung-tam-ho-tro/huong-dan-thay-doi-mat-khau-dinh-ki.md)
     * [Lịch sử khoản thu được xem như thế nào?](mobile/trung-tam-ho-tro/lich-su-khoan-thu-duoc-xem-nhu-the-nao.md)
     * [Điểm tích lũy được sử dụng như thế nào?](mobile/trung-tam-ho-tro/diem-tich-luy-duoc-su-dung-nhu-the-nao.md)
-    * [Page 2](mobile/trung-tam-ho-tro/page-2.md)
+    * [Cập nhật thông tin cá nhân như thế nào?](mobile/trung-tam-ho-tro/cap-nhat-thong-tin-ca-nhan-nhu-the-nao.md)
 
 ## Nhóm tính năng tiếp thị
 

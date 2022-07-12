@@ -10,7 +10,7 @@
 * Điểm tích lũy
 * Điểm đã được sử dụng
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../../.gitbook/assets/image (118).png>)
 
 Khi chúng ta nhấn vào button **“Tích lũy”,** điểm tích lũy chi tiết của học viên sẽ được hiện ra
 
