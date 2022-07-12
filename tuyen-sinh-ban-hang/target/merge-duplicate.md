@@ -18,4 +18,4 @@
 
 > Bước 5: Hệ thống báo Merge dữ liệu thành công giữa các hồ sơ bị duplicate được chọn
 
-![](<../../.gitbook/assets/image (119).png>)
+![](<../../.gitbook/assets/image (119) (1).png>)

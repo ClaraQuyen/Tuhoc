@@ -28,4 +28,4 @@ Bước 4: Xem chi tiết màn hình Student vừa tạo
 
 > Bước 4: Màn hình chi tiết Student vừa được tạo. Lúc này trạng thái của Student là "Waiting for Enroll".
 
-![Màn hình chi tiết](<../../.gitbook/assets/image (112).png>)
+![Màn hình chi tiết](<../../.gitbook/assets/image (112) (1).png>)

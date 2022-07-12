@@ -14,6 +14,6 @@
 
 > Bước 4: Quay lại màn hình chính của Targets để xem kết quả.
 
-![](<../../../.gitbook/assets/image (112) (1).png>)
+![](<../../../.gitbook/assets/image (112) (1) (1).png>)
 
 ##
