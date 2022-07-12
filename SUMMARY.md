@@ -17,6 +17,7 @@
   * [Cài đặt ngôn ngữ](mobile/cai-dat-ngon-ngu.md)
   * [Quên mật khẩu](mobile/quen-mat-khau.md)
   * [Cửa hàng](mobile/cua-hang.md)
+  * [Trung tâm hỗ trợ](mobile/trung-tam-ho-tro.md)
 
 ## Nhóm tính năng tiếp thị
 
