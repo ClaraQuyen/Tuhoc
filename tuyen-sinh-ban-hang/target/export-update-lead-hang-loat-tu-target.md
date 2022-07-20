@@ -2,7 +2,7 @@
 
 > Bước  1:  Export dữ liệu của Target ở trạng thái Transferred của từng Users đã Assign.
 
-![](<../../.gitbook/assets/image (117) (1) (1).png>)
+![](<../../.gitbook/assets/image (117) (1) (1) (1).png>)
 
 > Bước 2:&#x20;> Những Field nằm trong khung màu đỏ là bắt buộc:
 >
@@ -27,7 +27,7 @@
 
 > Bước 3.3: Chọn file đã được chỉnh sửa theo Template, sau đó tick vào chọn như hình và tiếp tục click Next.
 
-![](<../../.gitbook/assets/image (117) (1).png>)
+![](<../../.gitbook/assets/image (117) (1) (1).png>)
 
 > Bước 3.4: Xác nhận các trường thông tin và tiếp tục click Next
 
