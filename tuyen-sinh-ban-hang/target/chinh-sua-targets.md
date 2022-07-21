@@ -20,4 +20,4 @@ Bước 3: Kết quả sau khi chỉnh sửa Target
 
 > Bước 3: Hệ thống hiển thị thông báo thành công, Targets đã được chỉnh sửa.
 
-![Kết quả chỉnh sửa thành công](<../../.gitbook/assets/image (113) (1) (1).png>)
+![Kết quả chỉnh sửa thành công](<../../.gitbook/assets/image (113) (1) (1) (1).png>)

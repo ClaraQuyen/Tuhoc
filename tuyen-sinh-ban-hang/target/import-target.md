@@ -2,7 +2,7 @@
 
 > Bước 1: Ở màn hình danh sách của module **Targets,** ta nhấn vào **** button **Import Targets** để **** cho phép người dùng Import data từ local.
 
-![Màn hình danh sách của module Targets](<../../.gitbook/assets/image (113) (1) (1) (1).png>)
+![Màn hình danh sách của module Targets](<../../.gitbook/assets/image (113) (1) (1) (1) (1).png>)
 
 > Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 

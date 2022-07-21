@@ -14,7 +14,7 @@
 
 > Bước 4: Hệ thống hiển thị thông tin Leads mới được tạo. Trạng thái của Leads sẽ là <mark style="color:green;">**New**</mark>. Đồng thời, trạng thái của Targets sẽ được cập nhật là <mark style="color:red;">**Converted**</mark>.
 
-![](<../../../.gitbook/assets/image (113) (1).png>)
+![](<../../../.gitbook/assets/image (113) (1) (1).png>)
 
 
 
