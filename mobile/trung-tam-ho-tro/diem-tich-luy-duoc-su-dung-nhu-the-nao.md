@@ -2,7 +2,7 @@
 
 > Bước 1: Đầu tiên, ở màn hình chi tiết của học viên, chúng ta tiến hành nhấn vào biểu tượng  (như đã được minh họa ở màn hình dưới đây), để mở ra thông tin **“Điểm tích lũy”**. Ở màn hình thông tin điểm tích lũy sẽ hiển thị: Tổng điểm tích lũy mà học viên đang có và thành viên thuộc hàng nào?
 
-![](<../../.gitbook/assets/image (124).png>)
+![](<../../.gitbook/assets/image (124) (1).png>)
 
 > Bước 2: Màn hình thông tin Điểm tích lũy sẽ bao gồm chứa Lịch sử tích điểm
 
@@ -10,7 +10,7 @@
 * Điểm tích lũy
 * Điểm đã được sử dụng
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (123) (1).png>)
 
 Khi chúng ta nhấn vào button **“Tích lũy”,** điểm tích lũy chi tiết của học viên sẽ được hiện ra
 

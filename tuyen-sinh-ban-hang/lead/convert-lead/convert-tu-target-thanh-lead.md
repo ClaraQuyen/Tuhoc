@@ -10,7 +10,7 @@
 
 > Bước 3: Hệ thống chuyển sang màn hình tạo mới Lead, nhập thông tin yêu cầu, click “**Save**” để hoàn tất chuyển đổi.
 
-![](<../../../.gitbook/assets/image (122) (1) (1).png>)
+![](<../../../.gitbook/assets/image (122) (1) (1) (1).png>)
 
 > Bước 4: Hệ thống hiển thị thông tin Leads mới được tạo. Trạng thái của Leads sẽ là <mark style="color:green;">**New**</mark>. Đồng thời, trạng thái của Targets sẽ được cập nhật là <mark style="color:red;">**Converted**</mark>.
 

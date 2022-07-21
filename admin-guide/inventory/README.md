@@ -1,32 +1,6 @@
 # Inventory
 
-## Book/Gifts Categories.
 
-> Bước 1: Đưa chuột vào module Admin chọn Admin.
-
-![](../../.gitbook/assets/Book1.png)
-
-> Bước 2 : Tại màn hình Admin click vào chọn Book/Gifts Categories.
-
-![](../../.gitbook/assets/gift2.png)
-
-> Bước 3: Tại màn hình Book/Gifts Categories, click Create Book/Gift fo Catalog.
-
-![](../../.gitbook/assets/gift3.png)
-
-> Bước 4: Tại màn hình tạo mới, click chọn **Search và Select.**
-
-![](../../.gitbook/assets/gift4.png)
-
-> Bước 5: Tại màn hình Search and select Book/Gift Categories, click chọn Create.
-
-![](../../.gitbook/assets/gift7.png)
-
-> Bước 6: Tại màn hình tao mới Book/Gift Categories, nhập đầy đủ thông tin .Sau đó click Save.
-
-![](../../.gitbook/assets/gift5.PNG)
-
-> Bước 7: Hệ thống hiển thị thông tin Book/Gift Categories khi Save thành công.
 
 ![](../../.gitbook/assets/gift6.PNG)
 

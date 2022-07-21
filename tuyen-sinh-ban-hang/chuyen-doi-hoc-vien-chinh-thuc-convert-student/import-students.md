@@ -6,7 +6,7 @@
 
 > Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 
-![](<../../.gitbook/assets/image (121) (1).png>)
+![](<../../.gitbook/assets/image (121) (1) (1).png>)
 
 > Bước 3:&#x20;> &#x20;Tải mẫu Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
 

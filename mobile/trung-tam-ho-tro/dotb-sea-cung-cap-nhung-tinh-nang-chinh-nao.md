@@ -14,7 +14,7 @@ Hỗ trợ cài đặt thông báo nhắc nhở lịch học, quản lý lịch 
 
 Dễ dàng chuyển đổi giữa các hồ sơ khác nhau trong khi đang ở trong ứng dụng, tiện lợi quản lý nhiều học viên cùng lúc.
 
-#### <img src="../../.gitbook/assets/image (121).png" alt="" data-size="original">Quản lý thông tin bài giảng và bài tập về nhà
+#### <img src="../../.gitbook/assets/image (121) (1).png" alt="" data-size="original">Quản lý thông tin bài giảng và bài tập về nhà
 
 &#x20;Cập nhật liên tục các nhận xét, đánh giá của giáo viên sau mỗi buổi học.
 
@@ -24,7 +24,7 @@ Hiển thị thông tin chi tiết về bài học/bài tập trong lớp theo t
 
 Dễ dàng chuyển đổi thông tin qua lại giữa các lớp đang theo học với nhau, tiện lợi quản lý học nhiều lớp cùng lúc.
 
-#### ![](<../../.gitbook/assets/image (122) (1).png>)Kết quả học tập
+#### ![](<../../.gitbook/assets/image (122) (1) (1).png>)Kết quả học tập
 
 Xem thông tin chi tiết kết quả các bài kiểm tra giữa kì/cuối kì và nhận xét của giáo viên (Nếu có).
 
@@ -32,7 +32,7 @@ Chia sẻ kết quả học tập dễ dàng hơn và có nhận xét của giá
 
 Có thể chuyển đổi và quản lý thông&#x20;
 
-#### <img src="../../.gitbook/assets/image (124) (1).png" alt="" data-size="original">Quản lý thông tin học viên
+#### <img src="../../.gitbook/assets/image (124) (1) (1).png" alt="" data-size="original">Quản lý thông tin học viên
 
 Dễ dàng theo dõi thông tin tài khoản và điểm thưởng học viên trong quá trình học tập; kịp thời thay đổi, chỉnh sửa.
 

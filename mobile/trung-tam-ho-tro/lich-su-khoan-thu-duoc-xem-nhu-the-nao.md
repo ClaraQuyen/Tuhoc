@@ -10,7 +10,7 @@ Lịch sử khoản thu chính là số học phí mà học viên đã đóng c
 >
 > &#x20;           \*Ngoài ra, còn có thông tin “Chi tiết thanh toán”
 
-![](<../../.gitbook/assets/image (122).png>)
+![](<../../.gitbook/assets/image (122) (1).png>)
 
 > Bước 2: Thông tin chi tiết thanh toán được hiển thị (Tất cả, Đã thanh toán, Chờ thanh toán)
 
