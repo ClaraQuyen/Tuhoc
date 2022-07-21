@@ -10,7 +10,7 @@
 
 > Bước 3:&#x20;> &#x20;Tải mẫu Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**.Sau đó click **Next**.
 
-![](<../../.gitbook/assets/image (111) (1).png>)
+![](<../../.gitbook/assets/image (111) (1) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi Chú:**

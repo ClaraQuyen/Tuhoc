@@ -10,11 +10,11 @@
 
 > Bước 3: Tại màn hình Product Catalog, chọn Create Product Catalog để mở ra màn hình thêm mới Product Catalog.
 
-![](<../../.gitbook/assets/image (126).png>)
+![](<../../.gitbook/assets/image (128).png>)
 
 > Bước 3: Tại màn hình tạo mới Product Catalog, nhập đầy đủ thông tin. Sau đó nhấn Save để hoàn tất việc tạo mới một Product Catalog.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (131).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -27,6 +27,6 @@
 
 > Bước 4: Hệ thống hiển thị chi tiết thông tin Product Catalog sau khi tạo thành công.
 
-![](<../../.gitbook/assets/image (127).png>)
+![](<../../.gitbook/assets/image (129).png>)
 
 ##
