@@ -126,7 +126,7 @@
 * [Inventory](admin-guide/inventory/README.md)
   * [Product Catalog](admin-guide/inventory/product-catalog.md)
   * [Product Categories](admin-guide/inventory/product-categories.md)
-  * [Book/Gift Types](admin-guide/inventory/book-gift-types.md)
+  * [Product Types](admin-guide/inventory/product-types.md)
   * [Copy of Page 1](admin-guide/inventory/copy-of-page-1.md)
   * [Copy of Page 1](admin-guide/inventory/copy-of-page-1-1.md)
 * [Đẩy dữ liệu về database trung gian NAV ERP](admin-guide/day-du-lieu-ve-database-trung-gian-nav-erp.md)

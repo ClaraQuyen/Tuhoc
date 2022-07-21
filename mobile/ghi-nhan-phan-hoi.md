@@ -36,7 +36,7 @@ Ghi chú:
 
 ![](<../.gitbook/assets/image (111) (1) (1) (1) (1).png>)**Tư vấn khóa học trực tuyến:** Học viên trao đổi với Trung tâm về các lớp học online
 
-![](<../.gitbook/assets/image (109) (1) (1) (1) (1) (1) (1) (1).png>) **Khác:** Những trao đổi khác với 3 nội dung trên.
+![](<../.gitbook/assets/image (109) (1) (1) (1) (1) (1) (1) (1) (1).png>) **Khác:** Những trao đổi khác với 3 nội dung trên.
 {% endhint %}
 
 > **Bước 5:** Nhập nội dung cần phản hồi, sau đó nhấn **Gửi**.

@@ -38,7 +38,7 @@ Dễ dàng theo dõi thông tin tài khoản và điểm thưởng học viên t
 
 Thao tác cập nhật/thay đổi mật khẩu đơn giản, nhanh chóng và dễ dàng.
 
-#### ![](<../../.gitbook/assets/image (112).png>)Lịch sử chi tiết về học phí
+#### ![](<../../.gitbook/assets/image (112) (1).png>)Lịch sử chi tiết về học phí
 
 Theo dõi và cập nhật liên tục thông tin chi tiết các khoản phí đã đóng.
 
@@ -52,7 +52,7 @@ Ghi nhận và giải đáp phản hồi ngay tức thì.
 
 Hỗ trợ gửi tin nhắn cho học sinh và phụ huynh, thanh toán học phí, điểm danh, nghỉ học đột xuất.
 
-#### ![](<../../.gitbook/assets/image (109) (1).png>)Nhận thông báo học tập/ Tin tức
+#### ![](<../../.gitbook/assets/image (109) (1) (1).png>)Nhận thông báo học tập/ Tin tức
 
 Quản lý các thông báo các sự kiện của trung tâm , học vụ hoặc tin nhắn từ trung tâm gửi về.
 
