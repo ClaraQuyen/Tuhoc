@@ -18,4 +18,4 @@ Chúc bạn có một khóa học hiệu quả cùng với DotB!!
 
 ![](<../../.gitbook/assets/image (109) (1).png>)
 
-![](<../../.gitbook/assets/image (110).png>)
+![](<../../.gitbook/assets/image (110) (1).png>)

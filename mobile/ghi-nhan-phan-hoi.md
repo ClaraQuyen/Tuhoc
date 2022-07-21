@@ -28,7 +28,7 @@ Ghi chú:
 
 * **Loại phản hồi:** &#x20;
 
-&#x20;![](<../.gitbook/assets/image (110) (1) (1) (1) (1) (1).png>) **Xin nghỉ phép**: Học viên trao đổi với Trung tâm về việc vắng học.
+&#x20;![](<../.gitbook/assets/image (110) (1) (1) (1) (1) (1) (1).png>) **Xin nghỉ phép**: Học viên trao đổi với Trung tâm về việc vắng học.
 
 &#x20;![](<../.gitbook/assets/image (107) (1) (1) (1).png>) **Hỏi lịch học:** Học viên trao đổi với Trung tâm về vấn đề Lịch học.
 

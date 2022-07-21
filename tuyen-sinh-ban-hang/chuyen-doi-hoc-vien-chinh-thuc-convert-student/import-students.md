@@ -2,7 +2,7 @@
 
 > Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
 
-![](<../../.gitbook/assets/image (110) (1) (1).png>)
+![](<../../.gitbook/assets/image (110) (1) (1) (1).png>)
 
 > Bước 2: Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 

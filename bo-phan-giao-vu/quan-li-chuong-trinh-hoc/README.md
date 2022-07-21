@@ -72,7 +72,7 @@
 
 > Bước 3:Sau đó chọn đến Cấu trúc bảng điểm đã tạo trước đó (3), nhập thông tin giáo án cần chỉnh sửa, có thể import lại file mới (1) hoặc nhập  trực tiếp lên hẹ thống (2). Cuối cùng click **Save**.
 
-![](<../../.gitbook/assets/image (114) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (114) (1) (1) (1) (1) (1).png>)
 
 ## :pencil: Định nghĩa cấu trúc bảng điểm
 

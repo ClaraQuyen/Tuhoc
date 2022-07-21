@@ -14,7 +14,7 @@
 
 > Bước 4: Bước 4: Tại màn hình tạo mới , click chọn **Search và Select.**
 
-![](<../../.gitbook/assets/image (112).png>)
+![](<../../.gitbook/assets/image (113).png>)
 
 > Bước 5: Tại màn hình Search and select Product Categories, chọn Create.
 
@@ -22,7 +22,7 @@
 
 > Bước 6: Tại màn hình tao mới Product Categories, nhập đầy đủ thông tin. Sau đó nhấn Save để hoàn tất việc tạo mới.
 
-![](<../../.gitbook/assets/image (135).png>)
+![](<../../.gitbook/assets/image (136).png>)
 
 > Bước 7: Hệ thống hiển thị thông tin Product Categories khi Save thành công.
 

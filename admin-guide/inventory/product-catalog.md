@@ -14,7 +14,7 @@
 
 > Bước 3: Tại màn hình tạo mới Product Catalog, nhập đầy đủ thông tin. Sau đó nhấn Save để hoàn tất việc tạo mới một Product Catalog.
 
-![](<../../.gitbook/assets/image (134).png>)
+![](<../../.gitbook/assets/image (135).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

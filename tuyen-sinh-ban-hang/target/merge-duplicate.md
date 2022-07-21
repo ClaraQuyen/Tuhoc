@@ -6,7 +6,7 @@
 
 > Bước 2: Click vào mũi tên, sau đó chọn **Merge**
 
-![](<../../.gitbook/assets/image (114) (1) (1).png>)
+![](<../../.gitbook/assets/image (114) (1) (1) (1).png>)
 
 > Bước 3: Hệ thống sẽ xuất hiện hồ sơ bị duplicate được chọn, sau đó chọn những dữ liệu Primary để qua tab hồ sơ Primary (giữ lại những thông tin chính). Sau đó click **Save**.
 

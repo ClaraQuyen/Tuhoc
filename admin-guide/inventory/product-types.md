@@ -2,11 +2,11 @@
 
 > Bước 1: Ở module Admin, nhấn chuột vào Admin để mở ra màn hình Admin.
 
-![](<../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (110).png>)
 
 > Bước 2: Tại màn hình admin, chọn Product Types.
 
-![](<../../.gitbook/assets/image (113).png>)
+![](<../../.gitbook/assets/image (114).png>)
 
 > Bước 3: Tại màn hình Product Types, click chọn Create Product Types.
 
@@ -14,7 +14,7 @@
 
 > Bước 4: Tại màn hình tạo mới Product Types, nhập đầy đủ thông tin của Product Types. Sau đó nhấn Save để hoàn thành việc tạo mới.
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (112).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: Ghi chú:

@@ -16,7 +16,7 @@ Bước 4: Xem chi tiết màn hình Student vừa tạo
 
 > Bước 1:  Ở màn hình danh sách của module Student, ta nhấn vào button **Create Student** để mở ra màn hình thêm mới Student.
 
-![Màn hình danh sách Student](<../../.gitbook/assets/image (110) (1).png>)
+![Màn hình danh sách Student](<../../.gitbook/assets/image (110) (1) (1).png>)
 
 > Bước 2: Tại màn hình tạo mới **Student**, nhập đầy đủ các thông tin. Sau đó nhấn vào button **Save** để hoàn tất việc tạo ra một **Student mới**.
 
@@ -24,7 +24,7 @@ Bước 4: Xem chi tiết màn hình Student vừa tạo
 
 > Bước 3: Kết quả sau khi chúng ta tạo mới Student.
 
-![Kết quả](<../../.gitbook/assets/image (114) (1).png>)
+![Kết quả](<../../.gitbook/assets/image (114) (1) (1).png>)
 
 > Bước 4: Màn hình chi tiết Student vừa được tạo. Lúc này trạng thái của Student là "Waiting for Enroll".
 

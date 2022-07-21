@@ -6,7 +6,7 @@
 
 > Bước 2:&#x20;> Tại màn hình thông tin chi tiết của Target, click **Convert to Lead** để chuyển đổi HV tiềm năng.
 
-![](<../../../.gitbook/assets/image (110) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (110) (1) (1) (1) (1).png>)
 
 > Bước 3: Hệ thống chuyển sang màn hình tạo mới Lead, nhập thông tin yêu cầu, click “**Save**” để hoàn tất chuyển đổi.
 
