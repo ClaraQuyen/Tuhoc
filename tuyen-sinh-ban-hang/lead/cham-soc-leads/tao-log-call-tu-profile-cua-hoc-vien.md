@@ -40,4 +40,4 @@
 > * **Call Back Later** (không nhấc máy)
 > * **Invalid Number**(sai số).
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)

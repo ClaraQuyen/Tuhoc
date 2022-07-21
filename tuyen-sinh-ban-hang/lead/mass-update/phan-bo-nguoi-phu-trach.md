@@ -2,7 +2,7 @@
 
 > Bước 1: Click chuột vào module **Leads**, click Create để tạo bộ lọc Leads theo trạng thái.
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)
 
 > Bước 2: Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
 
