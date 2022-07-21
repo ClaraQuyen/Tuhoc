@@ -6,7 +6,7 @@ description: >-
 
 # DotB Sea cung cấp những tính năng chính nào?
 
-#### ![](<../../.gitbook/assets/image (120).png>)Quản lý thời khóa biểu học tập
+#### ![](<../../.gitbook/assets/image (120) (1).png>)Quản lý thời khóa biểu học tập
 
 Quản lý học tập luôn cập nhật liên tục thời gian biểu chi tiết hàng ngày của học viên.
 

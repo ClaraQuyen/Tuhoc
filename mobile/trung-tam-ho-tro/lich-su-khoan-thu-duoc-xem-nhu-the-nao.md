@@ -31,4 +31,4 @@ Sau khi ấn vào button **“Chờ thanh toán”,** tất cả các hóa đơn
 * Hạn thanh toán
 * Tại trung tâm nào
 
-![](<../../.gitbook/assets/image (126).png>)
+![](<../../.gitbook/assets/image (126) (1).png>)

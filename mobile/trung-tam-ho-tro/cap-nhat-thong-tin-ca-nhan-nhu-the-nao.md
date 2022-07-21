@@ -13,7 +13,7 @@ Bước 2: Tại màn hình chi tiết thông tin học viên, nhấn vào butto
 
 Bước 3: Sau khi đã chỉnh sửa xong thông tin, chúng ta nhấn vào **“Lưu”** để hoàn tất việc chỉnh sửa thông tin học viên.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](<../../.gitbook/assets/image (125) (1).png>)
 
 {% hint style="info" %}
 Chỉnh sửa thông tin phụ huynh và địa chỉ thì thực hiện tương tự với chỉnh sửa thông tin chung.
