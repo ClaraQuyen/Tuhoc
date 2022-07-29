@@ -43,4 +43,4 @@
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết giáo án theo chương trình học được tạo.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (7).png>)
