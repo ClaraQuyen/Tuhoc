@@ -23,7 +23,7 @@
 
 > Bước 3: Hệ thống hiển thị thông tin sau khi Save thành công.
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (111) (2).png>)
 
 ## Status: Out
 
