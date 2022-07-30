@@ -192,7 +192,7 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thực hiện việc xuất hóa đơn điện tử (E-invoice).
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (81) (1).png>)
 
 > Bước 2:&#x20;> Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 

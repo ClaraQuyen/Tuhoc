@@ -49,15 +49,15 @@ Chú ý:
 
 > Bước 3: Sau đó, chúng ta tiến hành đi đến phân hệ "Inventory" và chọn hóa đơn mà mình vừa tạo.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 > Bước 4: Chi tiết hóa đơn vừa tạo và tiến hành "Edit" trạng thái.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 > Bước 5: Sau đó, tiến hành chuyển trạng thái từ "Unconfirmed" thành "Confirmed" và Save lại.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 > Bước 6: Chi tiết Inventory vừa được Save&#x20;
 
