@@ -1,2 +1,2 @@
-# 🔄 Convert Lead
+# 🔄 Convert Student
 

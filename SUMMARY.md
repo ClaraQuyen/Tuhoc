@@ -42,6 +42,9 @@
     * [🤵♀ Phân bổ người phụ trách](tuyen-sinh-ban-hang/target/mass-update/phan-bo-nguoi-phu-trach.md)
   * [❌ Cảnh báo trùng dữ liệu](tuyen-sinh-ban-hang/target/canh-bao-trung-du-lieu.md)
   * [🤲 Merge Duplicate](tuyen-sinh-ban-hang/target/merge-duplicate.md)
+  * [🔄 Convert Target](tuyen-sinh-ban-hang/target/convert-target/README.md)
+    * [📼 Convert từ Target thành Lead](tuyen-sinh-ban-hang/target/convert-target/convert-tu-target-thanh-lead.md)
+    * [🎞 Convert Target hàng loạt thành Lead](tuyen-sinh-ban-hang/target/convert-target/convert-target-hang-loat-thanh-lead.md)
 * [Leads](tuyen-sinh-ban-hang/lead/README.md)
   * [📥 Import Leads](tuyen-sinh-ban-hang/lead/import-leads.md)
   * [🎯 Tạo Lead](tuyen-sinh-ban-hang/lead/tao-leads.md)
@@ -56,16 +59,13 @@
     * [Tạo Log Call từ Profile của học viên](tuyen-sinh-ban-hang/lead/cham-soc-leads/tao-log-call-tu-profile-cua-hoc-vien.md)
     * [Chăm sóc Lead qua Call Center (Click to Call)](tuyen-sinh-ban-hang/cham-soc-lead-qua-call-center.md)
   * [🔄 Convert Lead](tuyen-sinh-ban-hang/lead/convert-lead/README.md)
-    * [📼 Convert từ Target thành Lead](tuyen-sinh-ban-hang/lead/convert-lead/convert-tu-target-thanh-lead.md)
-    * [🎞 Convert Target hàng loạt thành Lead](tuyen-sinh-ban-hang/lead/convert-lead/convert-target-hang-loat-thanh-lead.md)
+    * [📼 Convert từ Lead thành Student](tuyen-sinh-ban-hang/lead/convert-lead/convert-tu-lead-thanh-student.md)
+    * [🎞 Convert Lead hàng loạt thành Student](tuyen-sinh-ban-hang/lead/convert-lead/convert-lead-hang-loat-thanh-student.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
 * [Quản lí thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
 * [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
   * [📥 Import Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/import-students.md)
   * [🎯 Tạo Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/tao-student.md)
-  * [🔄 Convert Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/convert-student/README.md)
-    * [📼 Convert từ Lead thành Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/convert-student/convert-tu-lead-thanh-student.md)
-    * [🎞 Convert Lead hàng loạt thành Student](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/convert-student/convert-lead-hang-loat-thanh-student.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
