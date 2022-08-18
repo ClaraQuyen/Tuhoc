@@ -141,6 +141,7 @@
 * [Xử lí dữ liệu](admin-guide/xu-li-du-lieu.md)
 * [Cấu hình Dropdown Editor](admin-guide/cau-hinh-dropdown-editor/README.md)
   * [Cấu hình Dropdown Kind of Courses](admin-guide/cau-hinh-dropdown-editor/cau-hinh-dropdown-kind-of-courses.md)
+  * [Cấu hình Dropdown Chanel](admin-guide/cau-hinh-dropdown-editor/cau-hinh-dropdown-chanel.md)
 
 ## Teacher Guide
 
