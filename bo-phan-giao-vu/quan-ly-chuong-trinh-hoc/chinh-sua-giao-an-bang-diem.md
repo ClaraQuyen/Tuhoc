@@ -2,7 +2,7 @@
 
 > Bước 1: Ở màn hình chi tiết của phân hệ **Kind of courses,** ta tiến hành nhấn chọn một chương trình học cần chỉnh sửa giáo án, sau đó nhấn chọn **Edit**.&#x20;
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (3).png>)
 
 > Bước 2: Tại màn hình chỉnh sửa chương trình học, nhập đầy đủ các thông tin cần thiết. Sau đó chọn **Create** để edit giáo án cho 1 chương trình học.
 
