@@ -14,7 +14,7 @@
 
 > Bước 4: Tiếp tục click **Confirm**
 
-![](<../../.gitbook/assets/image (107) (2).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 > Bước 5: Hệ thống báo Merge dữ liệu thành công giữa các hồ sơ bị duplicate được chọn
 
