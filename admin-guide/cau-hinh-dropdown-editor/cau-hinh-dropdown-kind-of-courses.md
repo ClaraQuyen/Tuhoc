@@ -33,10 +33,10 @@ description: >-
 2. **Role:** Phân quyền cho những bộ phận được áp dụng. Mặc định là **Default** (Tất cả các bộ phận đều được áp dụng)
 3. **Language:** Cấu hình Dropdown theo ngôn ngữ của hệ thống
 4. **List Items:** Danh sách Item đã được thêm vào Dropdown
-5. **Edit**: Chỉnh sửa tên hiển thị Item
+5. **Edit**: Chỉnh sửa tên hiển thị của Item
 6. **Remove**: Xoá Item
 7. **Item Name**: Tên định danh Item
-8. **Display Label:** Tên hiển thị của Item trong Dropdown ( Có thể thay đổi trường thông tin này theo ngôn ngữ của hệ thống đang sử dụng)
+8. **Display Label:** Tên hiển thị của Item trong Dropdown (Có thể thay đổi trường thông tin này theo ngôn ngữ của hệ thống đang sử dụng)
 9.  **Add**: Thêm giá trị **Item** mới vào **List Items**
 
 
