@@ -79,6 +79,7 @@
   * [Payment Deposit](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-deposit.md)
   * [Payment PT (Đóng tiền kiểm tra đầu vào)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-pt-dong-tien-kiem-tra-dau-vao.md)
   * [Payment Book/Gift (thu tiền sách)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-book-gift-thu-tien-sach.md)
+  * [Thanh toán trả hàng tháng (Slit Payment)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-tra-hang-thang-slit-payment.md)
 
 ## Bộ phận giáo vụ
 
