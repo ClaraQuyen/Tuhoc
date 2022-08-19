@@ -2,56 +2,18 @@
 
 ##
 
-## Payment Cashholder (Mua khóa học)
-
-> Bước 1: Đưa chuột vào module **Payment** chọn **Create Payment**.
-
-![](../../.gitbook/assets/payment1.jpg)
-
-> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó check vào ô Auto - Enroll để chọn Lớp, Ngày bắt đầu học của học viên, hệ thống sẽ tự động Enroll đưa học viên vào lớp, sau khi đã thu tiền. Cuối cùng click **Save** để hoàn tất.
-
-![](../../.gitbook/assets/New\_Auto1.png)
-
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi chú:**
-
-1.Lựa chọn học viên.&#x20;Click vào biểu tượng <img src="../../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
-
-2: Lựa chọn **Payment** type là **Cashholder**.
-
-3: Lựa chọn khoá học viên mua.
-
-4: Nhập số giờ học viên mua khóa học (có thể nhập tổng số giờ nếu 2 hoặc 3 khóa cùng KOC)**.**
-
-5: Lựa chọn các Discount/Sponsor (Nếu có).
-
-6.Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
-
-7: Lựa chọn số lần thanh toán
-
-8\. **Check** chọn <mark style="color:green;">**Auto-Enroll**</mark> : Chọn lớp, ngày bắt đầu học của học viên. Hệ thống sẽ tự động add học viên vào lớp, sau khi đã thực hiện thu tiền.
-{% endhint %}
-
-> Bước 3: Sau khi Save thành công, hệ thống hiện thị thông tin Payment như bên dưới. Cuối cùng thực hiện Thu Tiền học viên.
-
-![](../../.gitbook/assets/New\_Auto2.png)
-
-{% hint style="info" %}
-**Ghi chú:**
-
-Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](./#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
-{% endhint %}
+##
 
 **Payment PT (Đóng tiền kiểm tra đầu vào)**&#x20;
 -------------------------------------------------
 
 > Bước 1: Đưa chuột vào Menu Payment & Enrollment chọn Create Payment.
 
-![](../../.gitbook/assets/payment1.jpg)
+![](../.gitbook/assets/payment1.jpg)
 
 > Bước 2:&#x20;> Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
 
-![](../../.gitbook/assets/Payment\_PT1.png)
+![](../.gitbook/assets/Payment\_PT1.png)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú**:
@@ -69,17 +31,17 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment được tạo.
 
-![](../../.gitbook/assets/Payment\_PT3.png)
+![](../.gitbook/assets/Payment\_PT3.png)
 
 ## Payment Book/Gift (thu tiền sách)
 
 > Bước 1: Đưa chuột vào Menu Payment chọn Create Payment.
 
-![](<../../.gitbook/assets/Deposit1 (1).png>)
+![](<../.gitbook/assets/Deposit1 (1).png>)
 
 > Bước 2: Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin sách, số lượng mà học viên mua click Save để hoàn tất.
 
-![](<../../.gitbook/assets/bookgift (1).png>)
+![](<../.gitbook/assets/bookgift (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú**:
@@ -97,17 +59,17 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 3: Hệ thống hiển thị thông tin chi tiết của Payment Book/Gift được tạo.
 
-![](../../.gitbook/assets/bookgift2.png)
+![](../.gitbook/assets/bookgift2.png)
 
 ## :dart: Thanh toán trả hàng tháng (Slit Payment)
 
 > Bước 1: Tạo payment như bình thường và phần **Slit Payment** chọn option **Custom.**
 
-![](../../.gitbook/assets/slitpayment.png)
+![](../.gitbook/assets/slitpayment.png)
 
 > Bước 2: Sau đó nhập số tháng mà khách hàng muốn thanh toán hành tháng, ví dụ muốn thanh toán trong 3 tháng, mỗi tháng thanh toán 1 lần.
 
-![](../../.gitbook/assets/sliipay2.png)
+![](../.gitbook/assets/sliipay2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -118,21 +80,21 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 3: Hệ thống sẽ tự động Generate khoảng tiền sau mỗi tháng cần đóng cho khách hàng với  số lần **Custom** được nhập.
 
-![](../../.gitbook/assets/slipay.png)
+![](../.gitbook/assets/slipay.png)
 
 ## Thanh toán cho Payment
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán.
 
-![](../../.gitbook/assets/ThanhToanChoPayment1.png)
+![](../.gitbook/assets/ThanhToanChoPayment1.png)
 
 > Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”.Sau đó click “Pay” để tiến hành thanh toán cho Payment.
 
-![](../../.gitbook/assets/ThanhToanChoPayment2.png)
+![](../.gitbook/assets/ThanhToanChoPayment2.png)
 
 > Bước 3: Click “Pay” để tiến hành thanh toán cho Payment.
 
-![](../../.gitbook/assets/ThanhToanChoPayment3.png)
+![](../.gitbook/assets/ThanhToanChoPayment3.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -146,7 +108,7 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 4:&#x20;> Lựa chọn hình thức thanh toán,nhập nội dung thu tiền, sau đó click **Save** để hoàn tất.
 
-![](../../.gitbook/assets/ThanhToanChoPayment4.png)
+![](../.gitbook/assets/ThanhToanChoPayment4.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -170,21 +132,21 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thực hiện việc xuất hóa đơn điện tử (E-invoice).
 
-![](<../../.gitbook/assets/image (81) (1).png>)
+![](<../.gitbook/assets/image (81) (1).png>)
 
 > Bước 2:&#x20;> Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”. Click chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 
-![](../../.gitbook/assets/E-Invoice.jpg)
+![](../.gitbook/assets/E-Invoice.jpg)
 
 {% hint style="info" %}
 **Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử (như hình dưới) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (86).png>)
+![](<../.gitbook/assets/image (86).png>)
 
 > Bước 3: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click **OK**.
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../.gitbook/assets/image (92).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -198,7 +160,7 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 :man\_raising\_hand: Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../.gitbook/assets/image (93).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -214,11 +176,11 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 1: Click **Void E-invoice**.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](<../.gitbook/assets/image (97).png>)
 
 > Bước 2: Nhập nội dung lý do Void E-invoice. Click Submit.
 
-![](<../../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (98).png>)
 
 > Bước 3: Void thành công.
 
@@ -232,12 +194,12 @@ Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> 
 
 > Bước 1: Click vào dấu 3 chấm, sao đó chọn tính năng **Center Expense**
 
-![](<../../.gitbook/assets/1 (5).jpg>)
+![](<../.gitbook/assets/1 (5).jpg>)
 
 > Bước 2: Tại màn hình Chi, click nút tạo (**Create**).
 
-![](<../../.gitbook/assets/2 (5).jpg>)
+![](<../.gitbook/assets/2 (5).jpg>)
 
 > Bước 3: Nhập thông tin Chi cho trung tâm, cuối cùng click **Save**.
 
-![](<../../.gitbook/assets/3 (3).jpg>)
+![](<../.gitbook/assets/3 (3).jpg>)
