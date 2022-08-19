@@ -6,31 +6,21 @@ description: >-
 
 # Quản lí hồ sơ học viên
 
-## Quản lí hồ sơ học viên, lịch sử thanh toán
-
-> Bước 1: Click vào module **Students** , hệ thống sẽ hiển thị thông tin sơ lược hồ sơ học viên cho User
-
-![](../.gitbook/assets/hsHV1.png)
-
-> Bước 2: Bạn có thể Click vào từng học viên để theo dõi thông tin học viên,lịch sử thanh toán,học nợ, học demo,lịch sử cuộc gọi,..
-
-![](../.gitbook/assets/hsHV2.png)
-
 ## Tìm kiếm và trích lọc học viên theo tiêu chí
 
 ### Trích lọc học viên theo tiêu chí
 
 > Bước 1: Tại Menu Action Filter click chọn Create. Ví dụ module Leads.
 
-![](../.gitbook/assets/trichloc1.png)
+![](../../.gitbook/assets/trichloc1.png)
 
 > Bước 2: Tiếp theo chọn tiêu chí mà bạn muốn lọc,ví dụ chúng tôi lọc theo Status của học viên.
 
-![](../.gitbook/assets/trichloc2.png)
+![](../../.gitbook/assets/trichloc2.png)
 
 > Bước 3: Hệ thống hiển thị tiêu chí bạn chọc lọc theo Status.
 
-![](../.gitbook/assets/trichloc3.png)
+![](../../.gitbook/assets/trichloc3.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú** :
@@ -46,7 +36,7 @@ description: >-
 
 > Bước 4: Hệ thống sẽ load trạng thái của học viên theo danh sách cho người dùng chọn, ví dụ chúng tôi chọn lọc học viên theo Status đang chờ lớp học “Ready to PT”. Hệ thống hiển thị danh sách học viên theo tiêu chí mà người dùng đã lọc.
 
-![](../.gitbook/assets/trichloc4.png)
+![](../../.gitbook/assets/trichloc4.png)
 
 ### Tìm kiếm học viên&#x20;
 
@@ -54,7 +44,7 @@ description: >-
 
 
 
-![](../.gitbook/assets/timkiem1.png)
+![](../../.gitbook/assets/timkiem1.png)
 
 {% hint style="info" %}
 &#x20;:woman\_gesturing\_ok: **Ghi chú:**
@@ -68,7 +58,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 
 > Ví dụ chức năng tìm kiếm gobal search.
 
-![](../.gitbook/assets/timkiem2.png)
+![](../../.gitbook/assets/timkiem2.png)
 
 {% hint style="info" %}
 &#x20;:woman\_gesturing\_ok: **Ghi chú:**
@@ -80,7 +70,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 
 > Ví dụ tìm kiếm học viên trong Private search.
 
-![](../.gitbook/assets/timkiem3.png)
+![](../../.gitbook/assets/timkiem3.png)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: Ghi chú:
@@ -94,7 +84,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 
 > Bước 1: Đưa chuột vào module Students chọn Import Students.
 
-![](../.gitbook/assets/ImportStudent1.png)
+![](../../.gitbook/assets/ImportStudent1.png)
 
 > Bước 2: Click **Next.**
 
@@ -102,7 +92,7 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 
 > Bước 3: Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào Choose File.Sau đó click **Next**.
 
-![](../.gitbook/assets/importstudent.png)
+![](../../.gitbook/assets/importstudent.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Chú thích** :
@@ -153,11 +143,11 @@ Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía
 
 > Bước 1: Click vào module Parents , hệ thống sẽ hiển thị thông tin sơ lược hồ sơ phụ huynh học viên cho User.
 
-![](../.gitbook/assets/phuhuynh.png)
+![](../../.gitbook/assets/phuhuynh.png)
 
 > Bước 2: Bạn có thể Click vào từng phụ huynh để theo dõi thông tin phụ huynh.
 
-![](../.gitbook/assets/phuhuynh1.png)
+![](../../.gitbook/assets/phuhuynh1.png)
 
 {% hint style="info" %}
 &#x20;:woman\_gesturing\_ok: **Ghi chú:**

@@ -78,7 +78,8 @@
 
 ## Bộ phận giáo vụ
 
-* [Quản lí hồ sơ học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien.md)
+* [Quản lí hồ sơ học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/README.md)
+  * [Quản lí hồ sơ học viên, lịch sử thanh toán](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/quan-li-ho-so-hoc-vien-lich-su-thanh-toan.md)
 * [Quản lí sự vụ](bo-phan-giao-vu/quan-li-su-vu/README.md)
   * [Quản Lí Bảo Lưu (Delay)](bo-phan-giao-vu/quan-li-su-vu/quan-li-delay.md)
   * [Quản lí chuyển trung tâm, học phí, hoàn tiền](bo-phan-giao-vu/quan-li-su-vu/quan-li-chuyen-trung-tam-hoc-phi-hoan-tien.md)
