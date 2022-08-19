@@ -1,6 +1,6 @@
 # 📥 Import Students
 
-> Bước 1: Đưa chuột vào module **Targets** chọn **Import Targets**, tính năng này cho phép người dùng Import data từ local.
+> Bước 1: Đưa chuột vào module **Students** chọn **Import Students**, tính năng này cho phép người dùng Import data từ local.
 
 ![](<../../.gitbook/assets/image (110) (1) (1) (1).png>)
 
@@ -46,7 +46,7 @@ Bước 5:  Xác nhận việc **kiểm tra trùng**, việc check trùng này d
 :woman\_gesturing\_ok: **Ghi chú** :
 
 1. Import Again: Import lại danh sách khách hàng (Nếu muốn)
-2. Exit: Thoát ra màn hình Overview của module Targets
+2. Exit: Thoát ra màn hình Overview của module **Students**
 3. Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaign hoặc gửi email,...
 {% endhint %}
 
