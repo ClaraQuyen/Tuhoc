@@ -81,6 +81,7 @@
   * [Payment Book/Gift (thu tiền sách)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-book-gift-thu-tien-sach.md)
   * [Thanh toán trả hàng tháng (Slit Payment)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-tra-hang-thang-slit-payment.md)
   * [Thanh toán cho Payment](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-cho-payment.md)
+  * [Xuất hóa đơn điện tử (E-invoice)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/xuat-hoa-don-dien-tu-e-invoice.md)
 
 ## Bộ phận giáo vụ
 
