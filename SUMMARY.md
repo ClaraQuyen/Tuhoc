@@ -77,6 +77,7 @@
 * [Quản lí thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan.md)
   * [Payment Cashholder (Mua khóa học)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-cashholder-mua-khoa-hoc.md)
   * [Payment Deposit](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-deposit.md)
+  * [Payment PT (Đóng tiền kiểm tra đầu vào)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-pt-dong-tien-kiem-tra-dau-vao.md)
 
 ## Bộ phận giáo vụ
 
