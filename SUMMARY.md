@@ -74,7 +74,8 @@
 * [Bảo Lưu, Xóa học viên](quan-li-dang-ki-hoc-va-thu-tien/bao-luu-xoa-hoc-vien.md)
 * [Chỉnh sửa (Clear Outstanding)](quan-li-dang-ki-hoc-va-thu-tien/chinh-sua-clear-outstanding.md)
 * [Quản lí đơn giá học phí (kèm Sách)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
-* [Quản lí thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan.md)
+* [Quản lí thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/README.md)
+  * [Payment Deposit](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/payment-deposit.md)
 
 ## Bộ phận giáo vụ
 
