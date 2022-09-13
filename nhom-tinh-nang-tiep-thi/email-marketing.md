@@ -4,11 +4,11 @@
 
 ### Tạo Campaigns(Wizard)
 
-> Bước 1: Đưa chuột vào Menu Campaign chọn Create Campaign (Wizard) hoặc nhấn vào phân hệ Campaign để Create Campaign.
+> **Bước 1:** Đưa chuột vào Menu Campaign chọn Create Campaign (Wizard) hoặc nhấn vào phân hệ Campaign để Create Campaign.
 
 ![](../.gitbook/assets/campaigns.png)
 
-> Bước 2: Hệ thống hiển thị thông tin danh sách các chiến dịch, tiến hành các hoạt động chạy chiến dịch như Newsletter, Email,… Ví dụ tạo Campaign loại email: click Email, sau đó nhấn Start.
+> **Bước 2:** Hệ thống hiển thị thông tin danh sách các chiến dịch, tiến hành các hoạt động chạy chiến dịch như Newsletter, Email,… Ví dụ tạo Campaign loại email: click Email, sau đó nhấn Start.
 
 ![](../.gitbook/assets/campaigns1.png)
 
@@ -17,18 +17,18 @@
 
 1. Newsletter: Gửi email dạng bản tin hàng tháng, tuần,..
 2. Email: gửi email hàng loạt
-3. Non-email based Campaigns: chiến dịch không dựa trên email. Ví dụ như quảng cáo, phát tờ rơi,..
+3. Non-email based Campaigns: chiến dịch không dựa trên email. Ví dụ như quảng cáo, phát tờ rơi,...
 {% endhint %}
 
-> Bước 3: Nhập đầy đủ các thông tin, sau đó nhấn Next để tiếp tục. &#x20;
+> **Bước 3:** Nhập đầy đủ các thông tin, sau đó nhấn Next để tiếp tục. &#x20;
 
 ![](<../.gitbook/assets/3 (3).png>)
 
-> Bước 4: Nhập ngân sách để tính ROI. Sau đó nhấn Next
+> **Bước 4:** Nhập ngân sách để tính ROI. Sau đó nhấn Next
 
 ![](<../.gitbook/assets/4 (2).png>)
 
-> Bước 5: Xác định URL theo dõi ở đây để sử dụng với chiến dịch này. Bạn phải nhập cả tên và URL để tạo trình theo dõi, tiếp tục chọn Create Tracker, sau đó chọn Next.
+> **Bước 5:** Xác định URL theo dõi ở đây để sử dụng với chiến dịch này. Bạn phải nhập cả tên và URL để tạo trình theo dõi, tiếp tục chọn Create Tracker, sau đó chọn Next.
 
 ![](<../.gitbook/assets/5 (2).png>)
 
@@ -41,7 +41,7 @@
 4. Link để nhận biết khách hàng không quan tâm đến mail của mình (lần sau không gửi cho danh sách khách hàng có Tên trong Remove Me)
 {% endhint %}
 
-> Bước 6: Chọn hoặc tạo danh sách mục tiêu (Target List) sử dụng với chiến dịch. Email sẽ được gửi đến danh sách này, bấm Create. Sau đó chọn Save and Continue.
+> **Bước 6:** Chọn hoặc tạo danh sách mục tiêu (Target List) sử dụng với chiến dịch. Email sẽ được gửi đến danh sách này, bấm Create. Sau đó chọn Save and Continue.
 
 ![](<../.gitbook/assets/6 (2).png>)
 
@@ -52,7 +52,7 @@
 2. Create: Tạo danh sách mục tiêu mới để gửi Email
 {% endhint %}
 
-> Bước 7: Cấu hình thời gian gửi Email Marketing, nhập đầy đủ thông tin sau đó chọ Next.
+> **Bước 7:** Cấu hình thời gian gửi Email Marketing, nhập đầy đủ thông tin sau đó chọ Next.
 
 ![](<../.gitbook/assets/7 (2).png>)
 
@@ -71,7 +71,7 @@
 10. Mẫu Email Marketing (Có thể tạo mới hoặc chỉnh sửa mẫu Email này-Phần 3)
 {% endhint %}
 
-> Bước 8:  Đây là bước cuối cùng. Chọn xem bạn có muốn gửi email dạng kiểm tra hoặc lập lịch gửi email (Phần 4) hoặc bạn chọn Finish và có thể lên lịch gửi email sau và tiếp tục đến trang tổng quan.
+> **Bước 8:**  Đây là bước cuối cùng. Chọn xem bạn có muốn gửi email dạng kiểm tra hoặc lập lịch gửi email (Phần 4) hoặc bạn chọn Finish và có thể lên lịch gửi email sau và tiếp tục đến trang tổng quan.
 
 ![](<../.gitbook/assets/8 (1).png>)
 
@@ -85,11 +85,11 @@
 
 ### Tạo Campaigns (Classic)
 
-> Bước 1: Đưa chuột vào Menu Campaign chọn Create Campaign (Classic) hoặc chọn vào phân hệ Campaign để Create Campaign.
+> **Bước 1:** Đưa chuột vào Menu Campaign chọn Create Campaign (Classic) hoặc chọn vào phân hệ Campaign để Create Campaign.
 
 ![](../.gitbook/assets/1\_1.png)
 
-> Bước 2: Nhập đầy đủ các thông tin của chiến dịch, sau đó nhấn Save để hoàn tất.
+> **Bước 2:** Nhập đầy đủ các thông tin của chiến dịch, sau đó nhấn Save để hoàn tất.
 
 ![](../.gitbook/assets/1\_2.png)
 
@@ -100,7 +100,7 @@
 2. Nhập ngân sách để tính ROI.
 {% endhint %}
 
-> Bước 3: Sau khi Lưu thành công chiến dịch loại Classic, tiếp theo tạo Target List, Tracker, Email Makerting (Tương tự Campaign Wizard). Cuối cùng lập lịch gửi Email chọn vào Send Email/Test (nếu muốn).
+> **Bước 3:** Sau khi Lưu thành công chiến dịch loại Classic, tiếp theo tạo Target List, Tracker, Email Makerting (Tương tự Campaign Wizard). Cuối cùng lập lịch gửi Email chọn vào Send Email/Test (nếu muốn).
 
 ![](../.gitbook/assets/1\_3.png)
 
@@ -120,15 +120,15 @@
 
 Tạo danh sách người nhận email/sms của chiến dịch Marketing từ nhiều nguồn
 
-> Bước 1: Đưa chuột vào Menu Target List chọn Create Target List.
+> **Bước 1:** Đưa chuột vào Menu Target List chọn Create Target List.
 
 ![](../.gitbook/assets/TL1.png)
 
-> Bước 2: Tại màn hình Target List, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
+> **Bước 2:** Tại màn hình Target List, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
 
 ![](../.gitbook/assets/TL2.png)
 
-> Bước 3: Hệ thống hiển thị thông tin chi tiết của Target List được tạo. Sau đó chọn Link Existing Report hoặc Select from Reports để import khách hàng vào Target List.
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Target List được tạo. Sau đó chọn Link Existing Report hoặc Select from Reports để import khách hàng vào Target List.
 
 ![](../.gitbook/assets/TL3.png)
 
@@ -139,21 +139,21 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 2. Chọn từ báo cáo
 {% endhint %}
 
-> Bước 4: Ví dụ: Chọn Link existing report, hệ thống sẽ chuyển qua màn hình bên dưới, sau đó chọn khách hàng tiềm năng cho danh sách mới tạo (Target List), cuối cùng nhất Add.
+> **Bước 4:** Ví dụ: Chọn Link existing report, hệ thống sẽ chuyển qua màn hình bên dưới, sau đó chọn khách hàng tiềm năng cho danh sách mới tạo (Target List), cuối cùng nhất Add.
 
 ![](../.gitbook/assets/TL4.png)
 
-> Bước 5: Hệ thống hiển thị thông tin chi tiết của Target List đã import khách hàng vào hệ thống.
+> **Bước 5:** Hệ thống hiển thị thông tin chi tiết của Target List đã import khách hàng vào hệ thống.
 
 ![](../.gitbook/assets/TL5.png)
 
 ## :pencil: Email Template
 
-> Bước 1: Đưa chuột vào Menu Email chọn Create Email Template.
+> **Bước 1:** Đưa chuột vào Menu Email chọn Create Email Template.
 
 ![](../.gitbook/assets/email1.png)
 
-> Bước 2: Tại màn hình tới mới mẫu Email Template,nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
+> **Bước 2:** Tại màn hình tới mới mẫu Email Template,nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
 
 ![](../.gitbook/assets/email2.png)
 
@@ -168,33 +168,33 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 6. Đính kèm theo tệp (Nếu có)
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin mẫu Email Template vừa được tạo.
+> **Bước 3:** Hệ thống hiển thị thông tin mẫu Email Template vừa được tạo.
 
 ![](../.gitbook/assets/email3.png)
 
 ## :clock2: Lập lịch gửi Email
 
-> Bước 1: Đưa chuột vào Menu Campaigns chọn View Campaigns ,sau đó chọn chiến dịch muốn lập lịch gửi Email.
+> **Bước 1:** Đưa chuột vào Menu Campaigns chọn View Campaigns ,sau đó chọn chiến dịch muốn lập lịch gửi Email.
 
 ![](../.gitbook/assets/laplich1.png)
 
-> Bước 2: Nhấn vào Launch Wizard.
+> **Bước 2:** Nhấn vào Launch Wizard.
 
 ![](../.gitbook/assets/laplich2.png)
 
-> Bước 3: Chọn Schedule Email.
+> **Bước 3:** Chọn Schedule Email.
 
 ![](../.gitbook/assets/laplich3.png)
 
-> Bước 4: Hệ thống thông báo Lịch gửi email đã được bật.
+> **Bước 4:** Hệ thống thông báo Lịch gửi email đã được bật.
 
 ![](../.gitbook/assets/laplich4.png)
 
-> Bước 5: Tiếp theo vào Admin -> Email Queue.
+> **Bước 5:** Tiếp theo vào Admin -> Email Queue.
 
 ![](../.gitbook/assets/laplich5.png)
 
-> Bước 6: Hệ thống hiển thị danh sách người được lập lịch gửi Email (bạn cũng có thể gửi mà không cần lên lịch), bạn có thể chọn tất cả hoặc chọn một số người có trong danh sách, sau đó nhấn nút Send Queued Campaign Emails để gửi chiến dịch.
+> **Bước 6:** Hệ thống hiển thị danh sách người được lập lịch gửi Email (bạn cũng có thể gửi mà không cần lên lịch), bạn có thể chọn tất cả hoặc chọn một số người có trong danh sách, sau đó nhấn nút Send Queued Campaign Emails để gửi chiến dịch.
 
 ![](../.gitbook/assets/laplich6.png)
 
@@ -209,15 +209,15 @@ Tạo danh sách người nhận email/sms của chiến dịch Marketing từ n
 
 ## :chart\_with\_upwards\_trend: Xem báo cáo hiệu quả Campaigns
 
-> Bước 1: Đưa chuột vào module Campaigns chọn View Campaigns ,sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
+> **Bước 1:** Đưa chuột vào module Campaigns chọn View Campaigns ,sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
 
 ![](../.gitbook/assets/xembc1.png)
 
-> Bước 2: Nhấn chọn View Status.
+> **Bước 2:** Nhấn chọn View Status.
 
 ![](../.gitbook/assets/xembc2.png)
 
-> Bước 3: Hệ thống sẽ hiển thị chi tiết số người đã đọc email, mở liên kết, số người nhận, email bị trả về,…
+> **Bước 3:** Hệ thống sẽ hiển thị chi tiết số người đã đọc email, mở liên kết, số người nhận, email bị trả về,…
 
 ![](../.gitbook/assets/xembc3.png)
 
