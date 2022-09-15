@@ -28,7 +28,7 @@
 
 * [Email Marketing](nhom-tinh-nang-tiep-thi/email-marketing/README.md)
   * [Campaigns](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/README.md)
-    * [Tạo Campaigns(Wizard)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-wizard.md)
+    * [Tạo Campaigns (Wizard)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-wizard.md)
     * [Tạo Campaigns (Classic)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-classic.md)
   * [Target Lists](nhom-tinh-nang-tiep-thi/email-marketing/target-lists.md)
   * [Email Template](nhom-tinh-nang-tiep-thi/email-marketing/email-template.md)
