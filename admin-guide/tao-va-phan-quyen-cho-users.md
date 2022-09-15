@@ -282,7 +282,7 @@
 
 <figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 4:** Tiếp theo, nhấn vào tag **Mật khẩu** để đổi mật khẩu.
+> **Bước 4:** Tiếp theo, nhấn vào tab **Mật khẩu** để đổi mật khẩu.
 
 <figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
