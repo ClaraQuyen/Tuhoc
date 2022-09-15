@@ -32,6 +32,7 @@
     * [Tạo Campaigns (Classic)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-classic.md)
   * [Target Lists](nhom-tinh-nang-tiep-thi/email-marketing/target-lists.md)
   * [Email Template](nhom-tinh-nang-tiep-thi/email-marketing/email-template.md)
+  * [Lập lịch gửi Email](nhom-tinh-nang-tiep-thi/email-marketing/lap-lich-gui-email.md)
 * [SMS Marketing](nhom-tinh-nang-tiep-thi/sms-marketing.md)
 * [Tích hợp Landing Pages /Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website.md)
 
