@@ -143,7 +143,7 @@
 
 * [Convert -Drop Payment](admin-guide/drop-payment.md)
 * [Thông tin số dư khi đổi giờ](admin-guide/thong-tin-so-du-khi-doi-gio.md)
-* [Untitled](admin-guide/inventory/README.md)
+* [Inventory](admin-guide/inventory/README.md)
   * [Product Catalog](admin-guide/inventory/product-catalog.md)
   * [Product Categories](admin-guide/inventory/product-categories.md)
   * [Product Types](admin-guide/inventory/product-types.md)
