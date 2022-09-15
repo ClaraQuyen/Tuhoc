@@ -11,11 +11,11 @@
 {% hint style="info" %}
 &#x20;:woman\_gesturing\_ok: **Ghi chú:**
 
-1. Thông tin chiến dịch (Ngày bắt đầu,kết thúc,trạng thái,…)
+1. Thông tin chiến dịch (Ngày bắt đầu, kết thúc, trạng thái,…)
 2. Nhập ngân sách để tính ROI.
 {% endhint %}
 
-> **Bước 3:** Sau khi Lưu thành công chiến dịch loại Classic, tiếp theo tạo Target List, Tracker, Email Makerting(Tương tự Campaign Wizard). Cuối cùng lập lịch gửi Email chọn vào Send Email/Test (nếu muốn).
+> **Bước 3:** Sau khi Lưu thành công chiến dịch loại Classic, tiếp theo tạo Target List, Tracker, Email Makerting (Tương tự Campaign Wizard). Cuối cùng lập lịch gửi Email chọn vào Send Email/Test (nếu muốn).
 
 ![](../../../.gitbook/assets/1\_3.png)
 
