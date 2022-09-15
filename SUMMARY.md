@@ -26,7 +26,12 @@
 
 ## Nhóm tính năng tiếp thị
 
-* [Email Marketing](nhom-tinh-nang-tiep-thi/email-marketing.md)
+* [Email Marketing](nhom-tinh-nang-tiep-thi/email-marketing/README.md)
+  * [Campaigns](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/README.md)
+    * [Tạo Campaigns(Wizard)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-wizard.md)
+    * [Tạo Campaigns (Classic)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-classic.md)
+  * [Target Lists](nhom-tinh-nang-tiep-thi/email-marketing/target-lists.md)
+  * [Email Template](nhom-tinh-nang-tiep-thi/email-marketing/email-template.md)
 * [SMS Marketing](nhom-tinh-nang-tiep-thi/sms-marketing.md)
 * [Tích hợp Landing Pages /Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website.md)
 
