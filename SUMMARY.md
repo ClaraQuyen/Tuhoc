@@ -39,8 +39,7 @@
   * [Gửi và xem lại lịch sử gửi](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/README.md)
     * [Gửi SMS hàng loạt](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-hang-loat.md)
     * [Gửi SMS đơn lẻ](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-don-le.md)
-    * [Xem lại lịch sử gửi sms](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/xem-lai-lich-su-gui-sms.md)
-  * [Page 3](nhom-tinh-nang-tiep-thi/sms-marketing/page-3.md)
+  * [Xem lại lịch sử gửi sms](nhom-tinh-nang-tiep-thi/sms-marketing/xem-lai-lich-su-gui-sms.md)
 * [Tích hợp Landing Pages /Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website.md)
 
 ## Tuyển Sinh - Bán Hàng
