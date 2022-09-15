@@ -1,17 +1,17 @@
-# Tạo Campaigns(Wizard)
+# Tạo Campaigns (Wizard)
 
 > **Bước 1:** Đưa chuột vào Menu Campaign chọn Create Campaign (Wizard) hoặc nhấn vào phân hệ Campaign để Create Campaign.
 
 ![](../../../.gitbook/assets/campaigns.png)
 
-> **Bước 2:** Hệ thống hiển thị thông tin danh sách các chiến dịch, tiến hành các hoạt động chạy chiến dịch như Newsletter, Email,… Ví dụ tạo Campaign loại email: click Email, sau đó nhấn Start.
+> **Bước 2:** Hệ thống hiển thị thông tin danh sách các chiến dịch, tiến hành các hoạt động chạy chiến dịch như Newsletter, Email,… Ví dụ tạo Campaign loại email: Chọn Email, sau đó nhấn Start.
 
 ![](../../../.gitbook/assets/campaigns1.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
-1. Newsletter: Gửi email dạng bản tin hàng tháng, tuần,..
+1. Newsletter: Gửi email dạng bản tin hàng tháng, tuần, ...
 2. Email: gửi email hàng loạt
 3. Non-email based Campaigns: chiến dịch không dựa trên email. Ví dụ như quảng cáo, phát tờ rơi,...
 {% endhint %}
@@ -64,7 +64,7 @@
 7. Ngày và thời gian gửi Email (Lập lịch gửi Email)
 8. Địa chỉ gửi Email
 9. Tên địa chỉ trả lời Email&#x20;
-10. Mẫu Email Marketing (Có thể tạo mới hoặc chỉnh sửa mẫu Email này-Phần 3)
+10. Mẫu Email Marketing (Có thể tạo mới hoặc chỉnh sửa mẫu Email này - Phần 3)
 {% endhint %}
 
 > **Bước 8:**  Đây là bước cuối cùng. Chọn xem bạn có muốn gửi email dạng kiểm tra hoặc lập lịch gửi email (Phần 4) hoặc bạn chọn Finish và có thể lên lịch gửi email sau và tiếp tục đến trang tổng quan.
@@ -74,7 +74,7 @@
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
 
-1. Finish: hoàn  tất thông tin chạy chiến dich
+1. Finish: hoàn tất thông tin chạy chiến dịch
 2. Gửi chiến dịch dạng Test&#x20;
 3. Lập lịch gửi Email (Phần 4)
 {% endhint %}
