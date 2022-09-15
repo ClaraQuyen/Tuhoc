@@ -250,3 +250,24 @@
 
 ![](../.gitbook/assets/c25.png)
 
+## Đổi thông tin, mật khẩu đăng nhập
+
+
+
+> Bước 1: Click vào **Admin** chọn icon <img src="broken-reference" alt="" data-size="line"> sau đó chọn **Thông tin cá nhân**.
+
+![](broken-reference)
+
+> Bước 2: Màn hình thông tin người dùng sẽ hiện ra đầy đủ thông tin đã được gửi cài đặt trước đó, sau đó nấn vào nút **Sửa.**
+
+![](broken-reference)
+
+> Bước 3: Tại màn hình chỉnh sửa thông tin cá nhân, nhập lại thông tin mới cần chỉnh sửa.
+
+![](broken-reference)
+
+> Bước 4: Tiếp theo, nhập vào thẻ **Password** để đổi mật khẩu.
+
+![](broken-reference)
+
+> Bước 5: Cuối cùng click nút **Lưu**, để kết thúc thao tác.
