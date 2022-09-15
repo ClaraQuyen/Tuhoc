@@ -246,7 +246,7 @@
 
 ![](../.gitbook/assets/c24.png)
 
-> Bước 5: Hê thống hiển thị thông tin set quyền cho users thành công.
+> Bước 5: Hệ thống hiển thị thông tin set quyền cho users thành công.
 
 ![](../.gitbook/assets/c25.png)
 
@@ -254,20 +254,42 @@
 
 
 
-> Bước 1: Click vào **Admin** chọn icon <img src="broken-reference" alt="" data-size="line"> sau đó chọn **Thông tin cá nhân**.
+> **Bước 1:**  Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-> Bước 2: Màn hình thông tin người dùng sẽ hiện ra đầy đủ thông tin đã được gửi cài đặt trước đó, sau đó nấn vào nút **Sửa.**
+> **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn "**Quản lý người dùng"**.
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-> Bước 3: Tại màn hình chỉnh sửa thông tin cá nhân, nhập lại thông tin mới cần chỉnh sửa.
+> Hệ thống hiển thị thông tin một số người dùng có trong hệ thống
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-> Bước 4: Tiếp theo, nhập vào thẻ **Password** để đổi mật khẩu.
+> **Bước 3:**    &#x20;
+>
+> **Cách 1:** Nhấn vào biểu tượng **** ![](<../.gitbook/assets/image (141).png>) đẻ thực hiện chỉnh sửa thông tin.
 
-![](broken-reference)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-> Bước 5: Cuối cùng click nút **Lưu**, để kết thúc thao tác.
+> Cách 2: Bấm vào tên của người dùng, màn hình thông tin người dùng sẽ hiện ra đầy đủ thông tin  sau đó n**h**ấn vào nút **Sửa.**
+
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước** **4**: Tại màn hình chỉnh sửa thông tin cá nhân, nhập lại thông tin cần chỉnh sửa.
+
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 4:** Tiếp theo, nhấn vào tag **Mật khẩu** để đổi mật khẩu.
+
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 5:** Sau khi chỉnh sửa thông tin, đổi mật khẩu thì chúng ta tiến hành kết thúc thao tác bằng cách nhấn vào ![](<../.gitbook/assets/image (5).png>).
+
+> **Bước 6:** Màn hình thông tin chi tiết của người dùng vừa được chỉnh sửa.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

@@ -33,7 +33,7 @@
 
 > Bước 2: Màn hình tạo mới Payment hiện ra, chúng ta tiến hành tạo với Payment Type là "Book/Gift".
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (2).png>)
 
 {% hint style="info" %}
 Chú ý:
@@ -61,4 +61,4 @@ Chú ý:
 
 > Bước 6: Chi tiết Inventory vừa được Save&#x20;
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)

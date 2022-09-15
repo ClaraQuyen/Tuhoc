@@ -10,7 +10,7 @@
 
 > Bước 3: Tại màn hình Product Categories, nhấn Create Book/Gift for Catalog để mở ra màn hình tạo mới
 
-![](<../../.gitbook/assets/image (124).png>)
+![](<../../.gitbook/assets/image (124) (2).png>)
 
 > Bước 4: Bước 4: Tại màn hình tạo mới , click chọn **Search và Select.**
 
@@ -18,7 +18,7 @@
 
 > Bước 5: Tại màn hình Search and select Product Categories, chọn Create.
 
-![](<../../.gitbook/assets/image (122).png>)
+![](<../../.gitbook/assets/image (122) (2).png>)
 
 > Bước 6: Tại màn hình tao mới Product Categories, nhập đầy đủ thông tin. Sau đó nhấn Save để hoàn tất việc tạo mới.
 
@@ -26,4 +26,4 @@
 
 > Bước 7: Hệ thống hiển thị thông tin Product Categories khi Save thành công.
 
-![](<../../.gitbook/assets/image (119).png>)
+![](<../../.gitbook/assets/image (119) (2).png>)
