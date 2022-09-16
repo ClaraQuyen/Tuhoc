@@ -16,4 +16,6 @@
 
 ![](<../../../.gitbook/assets/image (112) (1) (1) (1).png>)
 
-##
+> _Video hướng dẫn import  hàng loạt Target_
+
+{% embed url="https://www.youtube.com/watch?t=5s&v=icRNjhEa9JI" %}
