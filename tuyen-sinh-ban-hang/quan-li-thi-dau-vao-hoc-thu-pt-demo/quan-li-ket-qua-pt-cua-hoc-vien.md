@@ -10,4 +10,4 @@
 
 > _Hướng dẫn chấm điểm PT/Demo_
 
-{% embed url="https://www.youtube.com/watch?t=16s&v=0dGlqqWij5w" %}
+{% embed url="https://www.youtube.com/watch?v=VkhRg4iPDpo" %}
