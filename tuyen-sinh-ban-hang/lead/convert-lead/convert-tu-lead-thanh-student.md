@@ -16,6 +16,6 @@
 
 ![](../../../.gitbook/assets/convert4.png)
 
-##
+> _Video hướng dẫn Convert từ Lead thành Student_
 
-##
+{% embed url="https://youtu.be/rd9OH_TjZIA" %}
