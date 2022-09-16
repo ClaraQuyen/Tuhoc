@@ -25,6 +25,10 @@
 
 ![](<../../.gitbook/assets/image (111).png>)
 
+> _Video hướng dẫn nhập sách vào kho_
+
+{% embed url="https://www.youtube.com/watch?index=36&list=PLg9QjyHAwG61XKxBGSq3pXeLqPSK8XYUq&v=zzDbw3g1hdM" %}
+
 ## Status: Out
 
 > Bước 1: Đầu tiên, chúng ta tiến hành tạo mới Payment cho học viên bằng cách "Create Payment".
