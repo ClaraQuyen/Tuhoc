@@ -144,7 +144,12 @@
 
 ***
 
-* [Báo cáo-Báo biểu BOD](bao-cao-bao-bieu-bod.md)
+* [Báo cáo - Báo biểu BOD](bao-cao-bao-bieu-bod/README.md)
+  * [Báo cáo Doanh thu theo Center trong tháng](bao-cao-bao-bieu-bod/bao-cao-doanh-thu-theo-center-trong-thang.md)
+  * [Báo cáo Commission theo Center trong tháng](bao-cao-bao-bieu-bod/bao-cao-commission-theo-center-trong-thang.md)
+  * [Báo Cáo Tổng Commission theo Users trong tháng](bao-cao-bao-bieu-bod/bao-cao-tong-commission-theo-users-trong-thang.md)
+  * [Báo cáo tỉ lệ Pass/Fail của học viên theo Lớp trong tháng](bao-cao-bao-bieu-bod/bao-cao-ti-le-pass-fail-cua-hoc-vien-theo-lop-trong-thang.md)
+  * [Báo cáo Attendence theo Center/Lớp trong tháng](bao-cao-bao-bieu-bod/bao-cao-attendence-theo-center-lop-trong-thang.md)
 
 ## Admin Guide
 

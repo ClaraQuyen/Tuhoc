@@ -1,6 +1,6 @@
 # Xem báo cáo hiệu quả Campaigns
 
-> **Bước 1:** Đưa chuột vào module Campaigns chọn View Campaigns ,sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
+> **Bước 1:** Đưa chuột vào module Campaigns chọn View Campaigns, sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
 
 ![](../../.gitbook/assets/xembc1.png)
 
