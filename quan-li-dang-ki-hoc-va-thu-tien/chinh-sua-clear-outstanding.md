@@ -55,3 +55,7 @@ Ghi chú:
 > Bước 3: Màn hình hiển thị thông tin học viên sau khi chỉnh sửa Enroll thành công.
 
 ![](../.gitbook/assets/dela3.png)
+
+> _Video hướng dẫn xóa khoản học nợ_
+
+{% embed url="https://youtu.be/M3lwm91pR4s" %}
