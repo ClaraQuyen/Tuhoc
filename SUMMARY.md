@@ -81,7 +81,7 @@
     * [Thêm học viên vào buổi PT](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-pt.md)
     * [Thêm học viên vào buổi Demo](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-demo.md)
   * [Thu phí học thử](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/thu-phi-hoc-thu.md)
-  * [Quản lí Kết Quả PT của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-li-ket-qua-pt-cua-hoc-vien.md)
+  * [Quản lí kết quả PT của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-li-ket-qua-pt-cua-hoc-vien.md)
 * [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
