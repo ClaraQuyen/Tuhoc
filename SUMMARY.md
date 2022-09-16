@@ -123,7 +123,7 @@
   * [Điểm danh](bo-phan-giao-vu/quan-li-lop-hoc/diem-danh.md)
   * [Ghi nhận nội dung buổi học](bo-phan-giao-vu/quan-li-lop-hoc/ghi-nhan-noi-dung-buoi-hoc.md)
   * [Add học viên Trail Class](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-trail-class.md)
-  * [Add học viên vào Lớp](bo-phan-giao-vu/quan-li-lop-hoc/add-hoc-vien-vao-lop.md)
+  * [Thêm học viên vào Lớp](bo-phan-giao-vu/quan-li-lop-hoc/them-hoc-vien-vao-lop.md)
   * [Enroll OutStanding](bo-phan-giao-vu/quan-li-lop-hoc/enroll-outstanding.md)
   * [Nhập điểm](bo-phan-giao-vu/quan-li-lop-hoc/nhap-diem.md)
 * [Quản lý chương trình học](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/README.md)
