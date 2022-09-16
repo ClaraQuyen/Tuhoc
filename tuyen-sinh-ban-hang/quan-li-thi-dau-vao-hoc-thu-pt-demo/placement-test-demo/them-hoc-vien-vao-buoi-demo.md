@@ -27,3 +27,7 @@ Ghi chú:
 > **Bước 3:** Hệ thống hiển thị thông tin học viên sau khi được thêm vào lớp Demo thành công. Đồng thời, trạng thái của Leads sẽ được cập nhật là Ready to Demo.
 
 ![](<../../../.gitbook/assets/demo (1).jpg>)
+
+> _Video hướng dẫn thêm học viên vào lớp học thử_
+
+{% embed url="https://www.youtube.com/watch?t=16s&v=0dGlqqWij5w" %}
