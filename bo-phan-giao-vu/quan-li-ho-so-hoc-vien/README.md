@@ -6,79 +6,7 @@ description: >-
 
 # Quản lí hồ sơ học viên
 
-## Tìm kiếm và trích lọc học viên theo tiêu chí
-
-### Trích lọc học viên theo tiêu chí
-
-> Bước 1: Tại Menu Action Filter click chọn Create. Ví dụ module Leads.
-
-![](../../.gitbook/assets/trichloc1.png)
-
-> Bước 2: Tiếp theo chọn tiêu chí mà bạn muốn lọc,ví dụ chúng tôi lọc theo Status của học viên.
-
-![](../../.gitbook/assets/trichloc2.png)
-
-> Bước 3: Hệ thống hiển thị tiêu chí bạn chọc lọc theo Status.
-
-![](../../.gitbook/assets/trichloc3.png)
-
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi chú** :
-
-\+Is any of:Bất kì
-
-\+Is not any of:không bất kì
-
-\+Is empty: Trống&#x20;
-
-\+Is not empty: Không trống
-{% endhint %}
-
-> Bước 4: Hệ thống sẽ load trạng thái của học viên theo danh sách cho người dùng chọn, ví dụ chúng tôi chọn lọc học viên theo Status đang chờ lớp học “Ready to PT”. Hệ thống hiển thị danh sách học viên theo tiêu chí mà người dùng đã lọc.
-
-![](../../.gitbook/assets/trichloc4.png)
-
-### Tìm kiếm học viên&#x20;
-
-{% embed url="https://youtu.be/I3A3G7Mu_Ko" %}
-
-
-
-![](../../.gitbook/assets/timkiem1.png)
-
-{% hint style="info" %}
-&#x20;:woman\_gesturing\_ok: **Ghi chú:**
-
-1:Gobal search : tìm kiếm toàn hệ thống&#x20;
-
-2:Private search : tìm kiếm trong module.
-
-Khi tìm kiếm trong Module , user phải lưu ý luôn có dấu _**%**_ phía trước kí tự search.
-{% endhint %}
-
-> Ví dụ chức năng tìm kiếm gobal search.
-
-![](../../.gitbook/assets/timkiem2.png)
-
-{% hint style="info" %}
-&#x20;:woman\_gesturing\_ok: **Ghi chú:**
-
-1 :Tìm kiếm học viên,giáo viên,User ,… bất kì&#x20;
-
-.2 : Thông tin kết quả bạn đã tìm kiếm ở global search
-{% endhint %}
-
-> Ví dụ tìm kiếm học viên trong Private search.
-
-![](../../.gitbook/assets/timkiem3.png)
-
-{% hint style="info" %}
-:woman\_gesturing\_ok: Ghi chú:
-
-1: Tìm kiếm học viên trong module Student.Ví dụ muốn tim học viên có tên hoặc họ đệm là Phương thì bạn search %Phuong hoặc có thể nhập cả tên của học viên.&#x20;
-
-2: Thông tin kết quả bạn đã tìm kiếm ở Module Student (Private search) .
-{% endhint %}
+##
 
 ## Import danh sách học viên chính thức
 
