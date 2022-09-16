@@ -74,8 +74,14 @@
     * [📼 Convert từ Lead thành Student](tuyen-sinh-ban-hang/lead/convert-lead/convert-tu-lead-thanh-student.md)
     * [🎞 Convert Lead hàng loạt thành Student](tuyen-sinh-ban-hang/lead/convert-lead/convert-lead-hang-loat-thanh-student.md)
 * [SMS](tuyen-sinh-ban-hang/sms.md)
-* [Quản lí thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/README.md)
-  * [Placement Test/Demo](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo.md)
+* [Quản lí thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
+  * [Placement Test/Demo](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/README.md)
+    * [Tạo buổi PT cho học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/tao-buoi-pt-cho-hoc-vien.md)
+    * [Tạo buổi Demo cho học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/tao-buoi-demo-cho-hoc-vien.md)
+    * [Thêm học viên vào buổi PT](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-pt.md)
+    * [Thêm học viên vào buổi Demo](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-demo.md)
+  * [Thu phí học thử](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/thu-phi-hoc-thu.md)
+  * [Quản lí Kết Quả PT của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-li-ket-qua-pt-cua-hoc-vien.md)
 * [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
