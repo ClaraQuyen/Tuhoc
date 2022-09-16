@@ -3,7 +3,7 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Lưu ý** :
 
-Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó [**Convert Payment**](../../../admin-guide/drop-payment.md#convert-payment) sang Amount.
+Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước, sau đó [**Convert Payment**](../../../admin-guide/drop-payment/#convert-payment) sang Amount.
 
 Nếu học viên không có Delay thì sẽ [Convert Payment](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
 

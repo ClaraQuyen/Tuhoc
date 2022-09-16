@@ -161,7 +161,9 @@
 
 ## Admin Guide
 
-* [Convert -Drop Payment](admin-guide/drop-payment.md)
+* [Convert - Drop Payment](admin-guide/drop-payment/README.md)
+  * [Convert Payment](admin-guide/drop-payment/convert-payment.md)
+  * [Drop Payment](admin-guide/drop-payment/drop-payment.md)
 * [Thông tin số dư khi đổi giờ](admin-guide/thong-tin-so-du-khi-doi-gio.md)
 * [Inventory](admin-guide/inventory/README.md)
   * [Product Catalog](admin-guide/inventory/product-catalog.md)
