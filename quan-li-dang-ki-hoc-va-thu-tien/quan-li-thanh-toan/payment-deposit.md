@@ -1,10 +1,10 @@
 # Payment Deposit
 
-> Bước 1: Đưa chuột vào menu **Payment** chọn **Create Payment**.
+> **Bước 1:** Đưa chuột vào menu **Payment** chọn **Create Payment**.
 
 ![](../../.gitbook/assets/payment1.jpg)
 
-> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc, sau đó nhấn **Save** để hoàn tất.
+> **Bước 2:**&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên đặt cọc, sau đó nhấn **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/payment2.jpg)
 
@@ -17,3 +17,7 @@
 4. Nhập số tiền đặt cọc**.**
 5. Lựa chọn số lần thanh toán
 {% endhint %}
+
+> _Video hướng dẫn thu tiền đặt cọc_
+
+{% embed url="https://youtu.be/brO0pcr0CFc" %}
