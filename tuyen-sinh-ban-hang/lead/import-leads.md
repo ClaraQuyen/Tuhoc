@@ -57,4 +57,4 @@
 3: Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaigns hoặc gửi email,...
 {% endhint %}
 
-​\
+{% embed url="https://www.youtube.com/watch?t=3s&v=_6MOFKRn1fE" %}
