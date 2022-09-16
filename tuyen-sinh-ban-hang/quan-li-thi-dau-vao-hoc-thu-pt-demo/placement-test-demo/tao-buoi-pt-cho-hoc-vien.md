@@ -11,3 +11,7 @@
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết buổi PT vừa được tạo.
 
 ![](../../../.gitbook/assets/TaoPT3.png)
+
+> _Video hướng dẫn tạo buổi PT cho học viên_
+
+{% embed url="https://youtu.be/siePqQ734-o" %}

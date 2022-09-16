@@ -8,4 +8,4 @@ description: >-
 
 
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (79).png>)

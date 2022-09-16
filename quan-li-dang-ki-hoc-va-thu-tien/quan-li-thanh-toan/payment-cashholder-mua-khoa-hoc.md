@@ -30,3 +30,7 @@
 
 Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](payment-cashholder-mua-khoa-hoc.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
 {% endhint %}
+
+> _Video hướng dẫn quản lý đăng ký học của học viên_
+
+{% embed url="https://youtu.be/EJIGzh9hAg8" %}

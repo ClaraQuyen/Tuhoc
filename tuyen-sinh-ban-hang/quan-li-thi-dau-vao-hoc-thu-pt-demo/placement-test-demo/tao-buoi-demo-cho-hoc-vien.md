@@ -11,3 +11,7 @@
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết buổi Demo được tạo.
 
 ![](../../../.gitbook/assets/Demo3.png)
+
+> _Video hướng dẫn tạo buổi Demo cho học viên_
+
+{% embed url="https://youtu.be/ZQLfivTuCc0" %}
