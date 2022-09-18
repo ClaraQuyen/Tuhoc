@@ -1,14 +1,14 @@
 # Bảo Lưu, Xóa học viên
 
-> Bước 1: Đưa chuột vào module **Classes** , click chọn lớp mà học viên muốn delay.
+> **Bước 1:** Đưa chuột vào module **Classes**, chọn lớp mà học viên muốn delay.
 
 ![](../.gitbook/assets/HVdelay1.png)
 
-> Bước 2: Tại màn hình chi tiết **Classes**, Click vào subpanel chọn tab “**Student Situations**” sau đó click button <mark style="color:red;">**Delay**</mark>.
+> **Bước 2:** Tại màn hình chi tiết **Classes**, chọn vào subpanel chọn tab “**Student Situations**” sau đó chọn button <mark style="color:red;">**Delay**</mark>.
 
 ![](../.gitbook/assets/delay1.png)
 
-> Bước 3: Tại màn hình Delay , chọn thời gian mà học viên này bắt đầu **Bảo Lưu (hoặc Xóa học viên)**,:clap: Lưu ý : Ngày dừng học/Ngay xóa học viên >= Ngày bắt đầu học của Lớp, sau đó nhập lí do delay. Cuối cùng click **Save** để hoàn tất.
+> **Bước 3:** Tại màn hình Delay, chọn thời gian mà học viên này bắt đầu **Bảo Lưu (hoặc Xóa học viên)**,:clap: Lưu ý: Ngày dừng học/Ngay xóa học viên >= Ngày bắt đầu học của Lớp, sau đó nhập lí do delay. Cuối cùng chọn **Save** để hoàn tất.
 
 ![](../.gitbook/assets/delay2.png)
 
