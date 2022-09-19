@@ -2,11 +2,11 @@
 
 ## Status: In
 
-> Bước 1: Nháy chuột vào module Inventory. Chọn Create.
+> **Bước 1:** Nháy chuột vào module Inventory. Chọn Create.
 
 ![](<../../.gitbook/assets/image (134).png>)
 
-> Bước 2: Tại màn hình tạo mới, nhập đầy đủ thông tin. Sau đó click Save.
+> **Bước 2:** Tại màn hình tạo mới, nhập đầy đủ thông tin. Sau đó click Save.
 
 ![](<../../.gitbook/assets/image (109).png>)
 
@@ -21,7 +21,7 @@
 &#x20;        \-  Issue Date: ngày xảy ra vấn đề
 {% endhint %}
 
-> Bước 3: Hệ thống hiển thị thông tin sau khi Save thành công.
+> **Bước 3:** Hệ thống hiển thị thông tin sau khi Save thành công.
 
 ![](<../../.gitbook/assets/image (111).png>)
 
@@ -31,11 +31,11 @@
 
 ## Status: Out
 
-> Bước 1: Đầu tiên, chúng ta tiến hành tạo mới Payment cho học viên bằng cách "Create Payment".
+> **Bước 1:** Đầu tiên, chúng ta tiến hành tạo mới Payment cho học viên bằng cách "Create Payment".
 
 ![](<../../.gitbook/assets/image (4) (2).png>)
 
-> Bước 2: Màn hình tạo mới Payment hiện ra, chúng ta tiến hành tạo với Payment Type là "Book/Gift".
+> **Bước 2:** Màn hình tạo mới Payment hiện ra, chúng ta tiến hành tạo với Payment Type là "Book/Gift".
 
 ![](<../../.gitbook/assets/image (3) (1) (2).png>)
 
@@ -51,18 +51,18 @@ Chú ý:
 7. Free Book/Gift: Tick vào đó khi sách này được tặng kèm
 {% endhint %}
 
-> Bước 3: Sau đó, chúng ta tiến hành đi đến phân hệ "Inventory" và chọn hóa đơn mà mình vừa tạo.
+> **Bước 3:** Sau đó, chúng ta tiến hành đi đến phân hệ "Inventory" và chọn hóa đơn mà mình vừa tạo.
 
 ![](<../../.gitbook/assets/image (2) (2).png>)
 
-> Bước 4: Chi tiết hóa đơn vừa tạo và tiến hành "Edit" trạng thái.
+> **Bước 4:** Chi tiết hóa đơn vừa tạo và tiến hành "Edit" trạng thái.
 
 ![](<../../.gitbook/assets/image (6) (2).png>)
 
-> Bước 5: Sau đó, tiến hành chuyển trạng thái từ "Unconfirmed" thành "Confirmed" và Save lại.
+> **Bước 5:** Sau đó, tiến hành chuyển trạng thái từ "Unconfirmed" thành "Confirmed" và Save lại.
 
 ![](<../../.gitbook/assets/image (5) (2).png>)
 
-> Bước 6: Chi tiết Inventory vừa được Save&#x20;
+> **Bước 6:** Chi tiết Inventory vừa được Save&#x20;
 
 ![](<../../.gitbook/assets/image (1) (1) (2).png>)

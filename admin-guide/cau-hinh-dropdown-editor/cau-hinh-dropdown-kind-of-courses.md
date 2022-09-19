@@ -4,19 +4,19 @@ description: Cấu hình Course Category, Prefel Level cho thông tin chương t
 
 # Cấu hình Dropdown Kind of Courses
 
-**Bước 1:**  Tại Avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin**
+> **Bước 1:**  Tại Avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin**
 
 ![](<../../.gitbook/assets/image (2) (1).png>)
 
-**Bước 2:** Tại màn hình module Admin, nhấp chuột chọn **Dropdown Editor**
+> **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn **Dropdown Editor**
 
 ![](<../../.gitbook/assets/image (3) (2).png>)
 
-**Bước 3**: Tại màn hình Dropdown, lựa chọn mục **kind\_of\_course\_list**
+> **Bước 3**: Tại màn hình Dropdown, lựa chọn mục **kind\_of\_course\_list**
 
 ![](<../../.gitbook/assets/image (1) (2) (1).png>)
 
-**Bước 4:** Nhập thông tin cần thêm cho chương trình cần cài đặt ở mục Item Name và Display Name (**Lưu ý** : 2 thông tin này nhập giống nhau). Sau đó bấm **Add**. Cuối cùng bấm **Save** để hoàn tất.
+> **Bước 4:** Nhập thông tin cần thêm cho chương trình cần cài đặt ở mục Item Name và Display Name (**Lưu ý** : 2 thông tin này nhập giống nhau). Sau đó bấm **Add**. Cuối cùng bấm **Save** để hoàn tất.
 
 ![](<../../.gitbook/assets/image (1) (1).png>)
 

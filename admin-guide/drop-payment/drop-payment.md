@@ -6,7 +6,7 @@ Tính năng này được sử dụng khi học viên _**đã mua và đã sử 
 Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ số giờ nào cho lớp học , và họ muốn sử dụng gói học A này để học gói học B thì lúc này chỉ cần thao tác các _**bước 4,5**_ bên dưới.
 {% endhint %}
 
-> **Bước 1:** Chọn payment mà học viên đã mua trước đó. Trong thông tin payment chọn "**Admin Action**" ,lưu ý lúc nào use type à Hour, sau đó chọn **Drop Payment**.
+> **Bước 1:** Chọn payment mà học viên đã mua trước đó. Trong thông tin payment chọn "**Admin Action**", lưu ý lúc nào use type à Hour, sau đó chọn **Drop Payment**.
 
 ![](../../.gitbook/assets/drop4.jpg)
 
@@ -14,7 +14,7 @@ Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ s�
 
 ![](<../../.gitbook/assets/drop2 (1).jpg>)
 
-> **Bước 3:** Sau khi drop payment thành công, trong profile của học viên sẽ sinh ra một payment delay như hình bên dưới, lúc này người dùng sẽ click vào ID của payment delay này.
+> **Bước 3:** Sau khi drop payment thành công, trong profile của học viên sẽ sinh ra một payment delay như hình bên dưới, lúc này người dùng sẽ nhấn vào ID của payment delay này.
 
 ![](<../../.gitbook/assets/delay2 (1).jpg>)
 
@@ -22,10 +22,10 @@ Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ s�
 
 ![](<../../.gitbook/assets/delay3 (1).jpg>)
 
-> **Bước 5:** Sau đó chọn use type là "**To Amount**" , và cuối cùng click **Submit**.
+> **Bước 5:** Sau đó chọn use type là "**To Amount**", và cuối cùng click **Submit**.
 
 ![](<../../.gitbook/assets/delay4 (1).jpg>)
 
-> **Bước 6:** Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount** . Lưu ý use type khi chuyển thành công sẽ là **Amount**.
+> **Bước 6:** Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Amount**. Lưu ý use type khi chuyển thành công sẽ là **Amount**.
 
 ![](<../../.gitbook/assets/delay5 (1).jpg>)

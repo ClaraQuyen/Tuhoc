@@ -7,15 +7,15 @@ description: >-
 
 # Thông tin số dư khi đổi giờ
 
-> Bước 1: Đưa chuột vào module **Classes** , click chọn lớp mà học viên muốn delay.
+> **Bước 1:** Đưa chuột vào module **Classes** , click chọn lớp mà học viên muốn delay.
 
 ![](../.gitbook/assets/HVdelay1.png)
 
-> Bước 2: Tại màn hình chi tiết **Classes**, Click vào subpanel chọn tab “**Student Situations**” sau đó click button <mark style="color:red;">**Delay**</mark>.
+> **Bước 2:** Tại màn hình chi tiết **Classes**, chọn vào subpanel chọn tab “**Student Situations**” sau đó nhấn vào button <mark style="color:red;">**Delay**</mark>.
 
 ![](../.gitbook/assets/delay1.png)
 
-> Bước 3: Tại màn hình Delay , chọn thời gian Delay sau thời gian Kết thúc L.ớp
+> Bước 3: Tại màn hình Delay , chọn thời gian Delay sau thời gian Kết thúc Lớp
 >
 > &#x20;:warning: Lưu ý : **Ngày dừng học > Ngày Kết Thúc** học của **Lớp**, sau đó nhập lí do. Cuối cùng click **Save** để hoàn tất.
 
