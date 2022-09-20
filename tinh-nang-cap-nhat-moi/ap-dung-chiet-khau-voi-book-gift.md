@@ -1,6 +1,6 @@
 # Áp dụng chiết khấu với Book/Gift
 
-> **Bước 1:** Click chuột vào module **Discount** chọn **Create Discount.**
+> **Bước 1:** Nhấn chuột vào module **Discount** chọn **Create Discount.**
 
 ![](<../.gitbook/assets/discount1 (1).png>)
 

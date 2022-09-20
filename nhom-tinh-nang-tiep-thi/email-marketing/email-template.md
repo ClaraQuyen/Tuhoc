@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/email1.png)
 
-> **Bước 2:** Tại màn hình tới mới mẫu Email Template,nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
+> **Bước 2:** Tại màn hình tới mới mẫu Email Template, nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
 
 ![](../../.gitbook/assets/email2.png)
 

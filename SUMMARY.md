@@ -1,7 +1,7 @@
 # Table of contents
 
 * [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
-* [DotB-SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
+* [DOTB-SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin Thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
   * [Thông tin lớp học](mobile/thong-tin-lop-hoc.md)

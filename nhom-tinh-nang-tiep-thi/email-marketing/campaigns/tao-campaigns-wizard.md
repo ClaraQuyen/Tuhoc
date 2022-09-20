@@ -1,5 +1,25 @@
 # Tạo Campaigns (Wizard)
 
+{% hint style="success" %}
+**Ở qui trình tạo Campaigns có 4 bước:**
+
+**Bước 1:** Mở ra màn hình thêm mới Campaigns
+
+**Bước 2:** Chọn loại chiến dịch cần chạy&#x20;
+
+**Bước 3:** Nhập đầy đủ thông tin
+
+**Bước 4:** Nhập ngân sách để tính ROI
+
+**Bước 5:** Xác định URL theo dõi ở đây để sử dụng với chiến dịch này
+
+**Bước 6:** Chọn hoặc tạo danh sách mục tiêu (Target List) sử dụng với chiến dịch
+
+**Bước 7:** Cấu hình thời gian gửi Email Marketing
+
+**Bước 8:**  Chọn xem bạn có muốn gửi email ở dạng nào
+{% endhint %}
+
 > **Bước 1:** Đưa chuột vào Menu Campaign chọn Create Campaign (Wizard) hoặc nhấn vào phân hệ Campaign để Create Campaign.
 
 ![](../../../.gitbook/assets/campaigns.png)
@@ -20,7 +40,7 @@
 
 ![](<../../../.gitbook/assets/3 (3).png>)
 
-> **Bước 4:** Nhập ngân sách để tính ROI. Sau đó nhấn Next
+> **Bước 4:** Nhập ngân sách để tính ROI. Sau đó nhấn Next.
 
 ![](<../../../.gitbook/assets/4 (2).png>)
 
@@ -48,7 +68,7 @@
 2. Create: Tạo danh sách mục tiêu mới để gửi Email
 {% endhint %}
 
-> **Bước 7:** Cấu hình thời gian gửi Email Marketing, nhập đầy đủ thông tin sau đó chọ Next.
+> **Bước 7:** Cấu hình thời gian gửi Email Marketing, nhập đầy đủ thông tin sau đó chọn Next.
 
 ![](<../../../.gitbook/assets/7 (2).png>)
 
@@ -67,7 +87,7 @@
 10. Mẫu Email Marketing (Có thể tạo mới hoặc chỉnh sửa mẫu Email này - Phần 3)
 {% endhint %}
 
-> **Bước 8:**  Đây là bước cuối cùng. Chọn xem bạn có muốn gửi email dạng kiểm tra hoặc lập lịch gửi email (Phần 4) hoặc bạn chọn Finish và có thể lên lịch gửi email sau và tiếp tục đến trang tổng quan.
+> **Bước 8:**  Chọn xem bạn có muốn gửi email dạng kiểm tra hoặc lập lịch gửi email (Phần 4) hoặc bạn chọn Finish và có thể lên lịch gửi email sau và tiếp tục đến trang tổng quan.
 
 ![](<../../../.gitbook/assets/8 (1).png>)
 
@@ -75,6 +95,6 @@
 :woman\_gesturing\_ok: **Ghi chú:**
 
 1. Finish: hoàn tất thông tin chạy chiến dịch
-2. Gửi chiến dịch dạng Test&#x20;
-3. Lập lịch gửi Email (Phần 4)
+2. Send Marketing Email As Test: Gửi chiến dịch dạng Test&#x20;
+3. Schedule Email: Lập lịch gửi Email (Phần 4)
 {% endhint %}

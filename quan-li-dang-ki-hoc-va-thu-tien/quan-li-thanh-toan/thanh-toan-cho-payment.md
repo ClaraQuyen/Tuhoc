@@ -1,37 +1,33 @@
 # Thanh toán cho Payment
 
-> Bước 1: Đưa chuột vào module Payment, click chọn Payment muốn thức hiện việc thanh toán.
+> Bước 1: Đưa chuột vào module Payment, nhấn chọn Payment muốn thức hiện việc thanh toán.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment1.png)
 
-> Bước 2: Tại màn hình chi tiết của Payment, click Tab Subpanel “Receipt”.Sau đó click “Pay” để tiến hành thanh toán cho Payment.
+> Bước 2: Tại màn hình chi tiết của Payment, chọn Tab Subpanel “Receipt”. Sau đó, nhấn “Pay” để tiến hành thanh toán cho Payment.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment2.png)
 
-> Bước 3: Click “Pay” để tiến hành thanh toán cho Payment.
+> **Bước 3:**&#x20;> Lựa chọn hình thức thanh toán, nhập nội dung thu tiền, sau đó chọn **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment3.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
-1: Lựa chọn hình thức thanh toán
-
-2: Chọn ngày thanh toán (hệ thống set mặc định là ngày hiện tại của hệ thống, người dùng có thể chọn ngày khác).&#x20;
-
-3: Desciption : Nội dung thu tiền của khóa học theo tháng (User có thể bổ sung thêm nội dung).
+1. Lựa chọn hình thức thanh toán
+2. Chọn ngày thanh toán (hệ thống set mặc định là ngày hiện tại của hệ thống, người dùng có thể chọn ngày khác).&#x20;
+3. Description : Nội dung thu tiền của khóa học theo tháng (User có thể bổ sung thêm nội dung).
 {% endhint %}
 
-> Bước 4:&#x20;> Lựa chọn hình thức thanh toán,nhập nội dung thu tiền, sau đó click **Save** để hoàn tất.
+> **Bước 4:**&#x20;> Màn hình thanh toán của Payment vừa tạo được hiển thị.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment4.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-1: Xuất Phiếu thu
-
-2: Chỉnh sữa Phiếu thu
-
-3: Xóa Phiếu thu, khi thực hiện thiện việc xóa Phiếu thu thì trạng thái của Phiếu thu sẽ chuyển về: Cancel
+1. Xuất phiếu thu
+2. Chỉnh sửa phiếu thu
+3. Xóa phiếu thu, khi thực hiện thiện việc xóa phiếu thu thì trạng thái của phiếu thu sẽ chuyển về: Cancel
 {% endhint %}
