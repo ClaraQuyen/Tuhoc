@@ -38,10 +38,10 @@
 
 <figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 6:** Sau khi chỉnh sửa thông tin, đổi mật khẩu thì chúng ta tiến hành kết thúc thao tác bằng cách nhấn vào ![](<../../../.gitbook/assets/image (5).png>).
 
 > **Bước 7:** Màn hình thông tin chi tiết của người dùng vừa được chỉnh sửa.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

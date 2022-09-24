@@ -10,7 +10,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tương tác.
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 > _Video hướng dẫn tạo học viên tiềm năng_
 

@@ -73,7 +73,7 @@
   * [🔄 Convert Lead](tuyen-sinh-ban-hang/lead/convert-lead/README.md)
     * [📼 Convert từ Lead thành Student](tuyen-sinh-ban-hang/lead/convert-lead/convert-tu-lead-thanh-student.md)
     * [🎞 Convert Lead hàng loạt thành Student](tuyen-sinh-ban-hang/lead/convert-lead/convert-lead-hang-loat-thanh-student.md)
-* [SMS](tuyen-sinh-ban-hang/sms/README.md)
+* [SMS](tuyen-sinh-ban-hang/sms.md)
   * [Gửi SMS theo Lớp](tuyen-sinh-ban-hang/sms/gui-sms-theo-lop.md)
   * [Gửi SMS theo Report](tuyen-sinh-ban-hang/sms/gui-sms-theo-report.md)
 * [Quản lý thi đầu vào, học thử (PT/Demo)](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo.md)
@@ -84,12 +84,12 @@
     * [Thêm học viên vào buổi Demo](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-demo.md)
   * [Thu phí học thử](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/thu-phi-hoc-thu.md)
   * [Quản lý kết quả PT của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-ly-ket-qua-pt-cua-hoc-vien.md)
-* [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student.md)
+* [Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
+  * [🎯 Tạo Task](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/tao-task.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
 * [New - Enrollment](quan-li-dang-ki-hoc-va-thu-tien/new-enrollment.md)
-* [Thêm Học Viên Vào Lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
 * [Bảo Lưu, Xóa học viên](quan-li-dang-ki-hoc-va-thu-tien/bao-luu-xoa-hoc-vien.md)
 * [Chỉnh sửa (Clear Outstanding)](quan-li-dang-ki-hoc-va-thu-tien/chinh-sua-clear-outstanding.md)
 * [Quản lý đơn giá học phí (kèm Sách)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-don-gia-hoc-phi.md)
@@ -102,6 +102,7 @@
   * [Thanh toán cho Payment](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-cho-payment.md)
   * [Xuất hóa đơn điện tử (E-invoice)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/xuat-hoa-don-dien-tu-e-invoice.md)
   * [Void E-invoice](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice.md)
+* [Thêm Học Viên Vào Lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
 
 ## Bộ phận giáo vụ
 
