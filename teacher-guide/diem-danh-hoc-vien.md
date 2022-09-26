@@ -19,6 +19,6 @@
 2. Ngày thực hiện Điểm danh
 3. Danh sách Học viên
 4. Điểm danh cho Học viên
-5. Kiểm tra bài tập về nhà của Học viên(nếu có)
-6. Đánh giá điểm chuyên cần cho Học viên
+5. Kiểm tra bài tập về nhà của học viên(nếu có)
+6. Đánh giá điểm chuyên cần cho học viên
 {% endhint %}

@@ -4,20 +4,19 @@ Với payment học viên mua, bạn chỉ cần chọn thời gian học viên 
 
 :tada:Nếu Payment học viên mua không đủ so với số giờ học của lớp, Khoảng thời gian còn lại, hệ thống sẽ hiện thị học viên Outstanding. Nếu bạn không muốn thông tin hiện thị Outstanding có thể Remove khoảng thời gian đó của học viên ra khỏi lớp bằng tính năng [<mark style="background-color:blue;"><mark style="color:red;">**Delay**<mark style="color:red;"></mark><mark style="background-color:blue;">.</mark>](https://app.gitbook.com/s/-LrHReb9JsrFo3TW8d7S/\~/changes/mKEnCKYJONS9os1Pgid2/tinh-nang-cap-nhat-moi/bao-luu-xoa-hoc-vien)<mark style="background-color:blue;"></mark>
 
-> Bước 1: Đưa chuột vào Module **Classes** , click chọn lớp cần thêm học viên vào lớp.
+> **Bước 1:** Đưa chuột vào Module **Classes** , chọn lớp cần thêm học viên vào lớp.
 
 ![](../.gitbook/assets/HocDemo1.png)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. Sau đó click chọn "<mark style="color:green;">**Enroll Students**</mark>" hoặc "**Enroll**".
+> **Bước 2:** Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. Sau đó click chọn "<mark style="color:green;">**Enroll Students**</mark>" hoặc "**Enroll**".
 
 ![](../.gitbook/assets/edit1.png)
 
 {% hint style="info" %}
 Ghi chú:
 
-1: Thông tin học viên Đang học, Học Demo, Bảo Lưu, Học Nợ trong lớp.
-
-2: Thông tin học viên trong lớp:&#x20;
+1. Thông tin học viên Đang học, Học Demo, Bảo Lưu, Học Nợ trong lớp.
+2. Thông tin học viên trong lớp:&#x20;
 
 :point\_right:<mark style="color:green;">**Enrolled**</mark>** (Màu xanh)**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
 
@@ -28,14 +27,14 @@ Ghi chú:
 :point\_right:Học viên k đăng kí học trong 1 khoảng thời gian (Màu xám)
 {% endhint %}
 
-> Bước 3: click <mark style="color:orange;">**Load Outstanding**</mark>** (1), **<mark style="color:orange;">****</mark> hệ thống sẽ load danh sách học viên đang học nợ trong Lớp, tiếp theo chọn payment (2) mà học viên đã mua để enroll vòa lớp (mặc định hẹ thống sẽ tự lấy payment nếu cùng KOC), có thể  chọn 1 hoặc nhiều học viên để ghi danh học viên (Clear Outstanding). Cuối cùng click <mark style="color:green;">**Enroll**</mark> (3 )để ghi danh học viên.
+> **Bước 3:** Chọn <mark style="color:orange;">**Load Outstanding**</mark>** (1), **<mark style="color:orange;">****</mark> hệ thống sẽ load danh sách học viên đang học nợ trong Lớp, tiếp theo chọn payment (2) mà học viên đã mua để enroll vào lớp (mặc định hệ thống sẽ tự lấy payment nếu cùng KOC), có thể  chọn 1 hoặc nhiều học viên để ghi danh học viên (Clear Outstanding). Cuối cùng nhấn vào <mark style="color:green;">**Enroll**</mark> (3) để ghi danh học viên.
 
 ![](../.gitbook/assets/edit2.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi Chú** :
 
-(\*):  <mark style="color:blue;">**Start/Finish**</mark> : Có thể lựa chọn khoảng thời gian clear outstandig học viên (Nếu muốn)
+(\*):  <mark style="color:blue;">**Start/Finish**</mark> : Có thể lựa chọn khoảng thời gian clear outstanding học viên (Nếu muốn)
 
 (\*) : <mark style="color:orange;">**Enrollment Date**</mark> : Có thể lựa chọn thời gian thực hiện thao tác Clear Outstanding học viên (Lưu ý : Khi chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên ).
 
@@ -47,12 +46,12 @@ Ghi chú:
 ![](../.gitbook/assets/addhv.png)
 
 {% hint style="info" %}
-:point\_right: Nếu như Payment có KOC khác với KOC của lớp học , hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, click "**Đồng Ý**".
+:point\_right: Nếu như Payment có KOC khác với KOC của lớp học, hệ thống sẽ hiện thị thông báo như bên dưới. Nếu chúng ta vẫn sử dụng gói học này để tiếp tục enroll cho học viên, chọn "**Đồng Ý**".
 {% endhint %}
 
 ![](<../.gitbook/assets/3 (1).jpg>)
 
-> Bước 3: Màn hình hiển thị thông tin học viên sau khi chỉnh sửa Enroll thành công.
+> **Bước 3:** Màn hình hiển thị thông tin học viên sau khi chỉnh sửa Enroll thành công.
 
 ![](../.gitbook/assets/dela3.png)
 

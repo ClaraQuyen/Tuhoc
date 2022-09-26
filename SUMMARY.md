@@ -102,7 +102,7 @@
   * [Thanh toán cho Payment](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-cho-payment.md)
   * [Xuất hóa đơn điện tử (E-invoice)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/xuat-hoa-don-dien-tu-e-invoice.md)
   * [Void E-invoice](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice.md)
-* [Thêm Học Viên Vào Lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
+* [Thêm học viên vào lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
 
 ## Bộ phận giáo vụ
 
@@ -210,8 +210,8 @@
 
 ## Teacher Guide
 
-* [Đăng Nhập](teacher-guide/dang-nhap.md)
-* [Thông tin Lớp giảng dạy](teacher-guide/thong-tin-lop-giang-day.md)
+* [Đăng nhập](teacher-guide/dang-nhap.md)
+* [Thông tin lớp giảng dạy](teacher-guide/thong-tin-lop-giang-day.md)
 * [Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
 * [Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
 * [Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)

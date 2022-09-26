@@ -1,6 +1,6 @@
-# Đăng Nhập
+# Đăng nhập
 
-> **Bước 1:**  Mở trình duyệt browser , sau đó nhập click vào đường link [https://ems.vmg.edu.vn/](https://ems.vmg.edu.vn/). Sau đó nhập thong tin tài khoản, cuối cùng click **Login.**
+> **Bước 1:**  Mở trình duyệt browser, sau đó nhập chọn vào đường link [https://ems.vmg.edu.vn/](https://ems.vmg.edu.vn/). Sau đó nhập thông tin tài khoản, cuối cùng nhấn **Login.**
 
 {% hint style="success" %}
 Lưu ý :

@@ -1,13 +1,13 @@
-# Thông tin Lớp giảng dạy
+# Thông tin lớp giảng dạy
 
-> Click chuột vào module Classes, trên màn hình Classes sẽ hiển thị thông tin các lớp được phân công giảng dạy.
+> **Bước 1:** Nhấn chuột vào phân hệ Classes, trên màn hình Classes sẽ hiển thị thông tin các lớp được phân công giảng dạy.
 
 ![](<../.gitbook/assets/thong tin 2.jpg>)
 
 {% hint style="info" %}
-**Lưu ý** : Muốn xem thông tin lớp nào thì chỉ cần click chọn tên lớp đó.
+**Lưu ý** : Muốn xem thông tin lớp nào thì chỉ cần chọn vào tên lớp đó.
 {% endhint %}
 
-> Màn hình hiển thị thông tin của 1 lớp khi click vào xem chi tiết.
+> **Bước 2:** Màn hình hiển thị thông tin của 1 lớp khi nhấn vào xem chi tiết.
 
 ![](../.gitbook/assets/thôngtn3.jpg)

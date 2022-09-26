@@ -1,11 +1,11 @@
 ---
 description: >-
-  Tính năng Thêm Học Viên vào Lớp thay đổi về giao diện củng như tính năng ghi
+  Tính năng Thêm Học Viên vào Lớp thay đổi về giao diện cũng như tính năng ghi
   danh học viên. Khi thêm học viên vào lớp, bạn không cần phải chọn thời gian
-  Kết thúc ngày học củahọc viên trong lớp
+  Kết thúc ngày học của học viên trong lớp
 ---
 
-# Thêm Học Viên Vào Lớp
+# Thêm học viên vào lớp
 
 :tada:Với payment học viên mua, bạn chỉ cần chọn thời gian học viên bắt đầu học (Nếu học viên vào học trể), sau đó chọn Payment học viên sử dụng để ghi danh trong lớp, hệ thống sẽ tự động tính ngày End học viên trong lớp.&#x20;
 
@@ -17,26 +17,26 @@ description: >-
 Để Edit lại ngày bắt đầu học của học viên, phải [<mark style="color:red;">**>>Delay<<**</mark>](bao-luu-xoa-hoc-vien.md) học viên ra khỏi lớp, rồi add lại -> Dùng tính năng thêm học viên vào Lớp như hướng dẫn bên dưới :point\_down:.
 {% endhint %}
 
-> Bước 1: Đưa chuột vào Module **Classes** , click chọn lớp cần thêm học viên vào lớp.
+> **Bước 1:** Đưa chuột vào Module **Classes** , chọn lớp cần thêm học viên vào lớp.
 
 ![](../.gitbook/assets/HocDemo1.png)
 
-> Bước 2: Tại màn hình chi tiết **Classes**, Click tab Subpanel “**Student Situations**”. Sau đó click chọn "**Enroll Students**"
+> **Bước 2:** Tại màn hình chi tiết **Classes**, chọn tab Subpanel “**Student Situations**”. Sau đó chọn "**Enroll Students**"
 
 ![](<../.gitbook/assets/1 (9).png>)
 
-> Bước 3: click **Select Student** hoặc chọn học viên từ lớp khác để chọn học viên add vào lớp (có thể chọn 1 hoặc nhiều học viên),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp (Nếu học viên vào học trể), tiếp theo chọn payment mà học viên đã mua để enroll vaò lớp (mặc định hệ thống sẽ tự lấy payment nếu cùng KOC).
+> Bước 3: Nhấn vào **Select Student** hoặc chọn học viên từ lớp khác để chọn học viên add vào lớp (có thể chọn 1 hoặc nhiều học viên),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp (Nếu học viên vào học trể), tiếp theo chọn payment mà học viên đã mua để enroll vào lớp (mặc định hệ thống sẽ tự lấy payment nếu cùng KOC).
 
 ![](<../.gitbook/assets/2 (8).png>)
 
 {% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi Chú** :
+****:woman\_gesturing\_ok: **Ghi Chú:**
 
-1:  Lựa chọn khoảng thời gian thêm học viên vào lớp (Nếu học viên vào học trể).
+1. Lựa chọn khoảng thời gian thêm học viên vào lớp (Nếu học viên vào học trễ).
 
 :stop\_button: Add thêm học viên hàng loạt, có thể chọn hàng loạt hoặc chọn từng học viên.
 
-2: Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học ).
+2\. Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học ).
 {% endhint %}
 
 ![](../.gitbook/assets/addhv.png)
@@ -48,7 +48,7 @@ description: >-
 ![](<../.gitbook/assets/3 (1).jpg>)
 
 {% hint style="info" %}
-3:  **Join with type** :Thông tin học phí của học viên khi thêm vào lớp.
+**3. Join with type** :Thông tin học phí của học viên khi thêm vào lớp.
 
 :point\_right: ** **<mark style="color:green;">**Enrolled**</mark>** (Màu xanh)**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
 
@@ -58,19 +58,19 @@ description: >-
 
 :point\_right:Học viên k đăng kí học trong 1 khoảng thời gian (Màu xám)
 
-4: **Addmission Status :**&#x20;
+**4. Admission Status :**&#x20;
 
 &#x20;:heavy\_multiplication\_x: : Học viên đã có trong lớp, không thể add vào
 
 :heavy\_check\_mark: : Học viên chưa có trong lớp, có thể add vào
 
-5: Thông tin hiện thị tổng học viên được thêm vào lớp
+5\. Thông tin hiện thị tổng học viên được thêm vào lớp
 {% endhint %}
 
-> Bước 4: Sau khi chọn xong học viên củng như Payment enroll học viên vào lớp, click "<mark style="color:green;">Enrol</mark>l" để hoàn tất đưa học viên vào lớp.
+> **Bước 4:** Sau khi chọn xong học viên củng như Payment enroll học viên vào lớp, click "<mark style="color:green;">Enrol</mark>l" để hoàn tất đưa học viên vào lớp.
 
 ![](<../.gitbook/assets/2 (8).png>)
 
-> Bước 5: Màn hình hiển thị thông tin học viên sau khi add vào lớp thành công.
+> **Bước 5:** Màn hình hiển thị thông tin học viên sau khi thêm học viên vào lớp thành công.
 
 ![](<../.gitbook/assets/3 (8).png>)
