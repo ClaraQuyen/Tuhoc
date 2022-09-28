@@ -35,12 +35,15 @@
   * [Lập lịch gửi Email](nhom-tinh-nang-tiep-thi/email-marketing/lap-lich-gui-email.md)
   * [Xem báo cáo hiệu quả Campaigns](nhom-tinh-nang-tiep-thi/email-marketing/xem-bao-cao-hieu-qua-campaigns.md)
 * [SMS Marketing](nhom-tinh-nang-tiep-thi/sms-marketing.md)
-  * [Tạo Template SMS chèn tham số](nhom-tinh-nang-tiep-thi/sms-marketing/tao-template-sms-chen-tham-so.md)
-  * [Gửi và xem lại lịch sử gửi](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/README.md)
-    * [Gửi SMS hàng loạt](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-hang-loat.md)
-    * [Gửi SMS đơn lẻ](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-don-le.md)
+  * [Tạo template SMS chèn tham số](nhom-tinh-nang-tiep-thi/sms-marketing/tao-template-sms-chen-tham-so.md)
   * [Xem lại lịch sử gửi sms](nhom-tinh-nang-tiep-thi/sms-marketing/xem-lai-lich-su-gui-sms.md)
-* [Tích hợp Landing Pages /Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website.md)
+  * [Gửi và xem lại lịch sử gửi](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/README.md)
+    * [Gửi SMS đơn lẻ](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-don-le.md)
+    * [Gửi SMS hàng loạt](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-hang-loat.md)
+* [Tích hợp Landing Pages /Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/README.md)
+  * [Giới thiệu Landing page](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/gioi-thieu-landing-page.md)
+  * [Tích hợp với Ladipage.vn](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/tich-hop-voi-ladipage.vn.md)
+  * [Tích hợp với Wordpress - Contact Form 7](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/tich-hop-voi-wordpress-contact-form-7.md)
 
 ## Tuyển Sinh - Bán Hàng
 

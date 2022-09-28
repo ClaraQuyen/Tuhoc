@@ -7,7 +7,7 @@
 
 **Bước 2:** Nhập đầy đủ thông tin của chiến dịch
 
-**Bước 3:**&#x20;
+**Bước 3:** Lập lịch gửi Email
 {% endhint %}
 
 > **Bước 1:** Đưa chuột vào menu **Campaigns** chọn **Create Campaign (Classic)** hoặc chọn vào phân hệ **Campaign** để **Create Campaign**.
@@ -36,7 +36,7 @@
 2. Gửi chiến dịch để test
 3. Gửi Email
 4. Đánh dấu là đã gửi Email
-5. Tạo danh sách target
+5. Tạo danh sách Target
 6. Tạo Tracker URL&#x20;
 7. Tạo mẫu Email Marketing
 {% endhint %}
