@@ -1,66 +1,6 @@
-# Quản lí chương trình học
+# Quản lý chương trình học
 
-## :wave: Danh mục khóa học, chương trình học
-
-> Bước 1: Click chuột vào module Kind of Courses chọn Create.
-
-![](../../.gitbook/assets/QLCTH1.png)
-
-> Bước 2: Tại màn hình tạo mới Khóa học, nhập đầy đủ các thông tin cần thiết, sau đó click Save để hoàn tất việc tạo ra 1 Khóa học mới.
-
-![](../../.gitbook/assets/QLCHT2.png)
-
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi chú:**
-
-1:Tên chương trình học.&#x20;
-
-2:Cấu hình chương trình học và tạo giáo án theo từng buổi học (Phần 2 của giáo án theo từng buổi hoc).
-{% endhint %}
-
-## :writing\_hand: Tạo giáo án theo từng buổi học
-
-> Bước 1: Đưa chuột vào module **Kind of courses** chọn **Create**.
-
-![](../../.gitbook/assets/GiaoAn1.png)
-
-> Bước 2: Tại màn hình tạo mới/Chỉnh sữa chương trình học, nhập đầy đủ các thông tin cần thiết, Sau đó Click **Add Syllabus** để tạo giáo án cho 1 chương trình học mới.
-
-![](../../.gitbook/assets/GiaoAn2.png)
-
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi chú:**
-
-1: Cấp độ của chương trình học
-
-2: Module áp dụng cho chương trình hoc
-
-3: Số giờ của chương trình học theo giáo án
-
-4: Giờ cố định (Không được thay đổi số giờ học cho lớp này(nếu tích vào))
-
-5: Có thể Upgrade lên lớp mới.
-
-6: Tỉ lệ giờ giáo viên (chấm công theo hệ số giáo viên)
-
-7: Timeslot
-
-8: URL document
-
-9: Add Syslabus: thêm giáo án cho chương trình hoc
-
-10: Double Click vào Create để lên giáo án cho lớp theo từng buổi học
-
-11: Thêm bài học cho giáo án
-
-12: Remove bài học cho giáo án
-{% endhint %}
-
-> Bước 3: Hệ thống hiển thị thông tin chi tiết giáo án theo chương trình học được tạo
-
-![](../../.gitbook/assets/GiaoAn3.png)
-
-## Chỉnh sửa giáo án**/bảng điểm**
+## :writing\_hand: Chỉnh sửa giáo án**/bảng điểm**
 
 > Bước 1: Đưa chuột vào module **Kind of courses, click** chọn một chương trình học cần update giáo án, sau đó chọn **Edit**.
 
