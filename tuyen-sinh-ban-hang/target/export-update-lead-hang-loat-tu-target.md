@@ -1,6 +1,6 @@
 # 💻 Export - Update Lead hàng loạt từ Target
 
-> **Bước  1:** Export dữ liệu của Target ở trạng thái Transferred của từng Users đã Assign.
+> **Bước  1:** Export dữ liệu của **Targets** ở trạng thái **Transferred** của từng Users đã Assign.
 
 ![](<../../.gitbook/assets/image (117) (1) (1) (1).png>)
 
@@ -17,11 +17,11 @@
 
 > **Bước 3:** Sau khi đã được File như mẫu tiến hành Import Lead theo các bước sau :
 
-> **Bước 3.1:** Vào module Lead, chọn Import Lead.
+> **Bước 3.1:** Vào module **Leads**, chọn **Import Leads**.
 
 ![](../../.gitbook/assets/ImportLead.png)
 
-> **Bước 3.2:** Sau đó, ta chọn data source và click Next.
+> **Bước 3.2:** Sau đó, ta chọn data source và nhấn chọn Next.
 
 ![](<../../.gitbook/assets/2 (1).png>)
 
@@ -29,7 +29,7 @@
 
 ![](<../../.gitbook/assets/image (117) (1) (1).png>)
 
-> **Bước 3.4:** Xác nhận các trường thông tin và tiếp tục click Next
+> **Bước 3.4:** Xác nhận các trường thông tin và tiếp tục nhấn Next.
 
 ![](<../../.gitbook/assets/4 (1).png>)
 

@@ -4,11 +4,11 @@
 
 ![](../../.gitbook/assets/ladi1.jpg)
 
-> **Bước 2:** Chọn **Thêm Mới**
+> **Bước 2:** Chọn **Thêm Mới.**
 
 ![](../../.gitbook/assets/ladi2.jpg)
 
-> **Bước 3:** Đặt tên cấu hình. Sau đó nhấn chọn Thêm tài khoản liên kết mới.
+> **Bước 3:** Đặt tên cấu hình, sau đó nhấn chọn Thêm tài khoản liên kết mới.
 
 ![](../../.gitbook/assets/ladi3.jpg)
 
