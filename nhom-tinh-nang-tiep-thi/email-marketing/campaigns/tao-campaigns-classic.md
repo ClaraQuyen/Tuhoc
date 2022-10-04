@@ -1,7 +1,7 @@
 # Tạo Campaigns (Classic)
 
 {% hint style="success" %}
-**Ở qui trình tạo Campaigns  có 3 bước:**
+**Ở qui trình tạo Campaigns (Classic) có 3 bước:**
 
 **Bước 1:** Mở ra màn hình thêm mới Campaigns (Classic)
 
@@ -25,7 +25,7 @@
 2. Nhập ngân sách để tính ROI.
 {% endhint %}
 
-> **Bước 3:** Sau khi Lưu thành công chiến dịch loại Classic, tiếp theo tạo Target List, Tracker, Email Makerting (Tương tự Campaign Wizard). Cuối cùng lập lịch gửi Email chọn vào Send Email/Test (nếu muốn).
+> **Bước 3:** Sau khi Lưu thành công chiến dịch loại Classic, tiếp theo tạo Target List, Tracker, Email Marketing (Tương tự Campaign Wizard). Cuối cùng lập lịch gửi Email chọn vào Send Email/Test (nếu muốn).
 
 ![](../../../.gitbook/assets/1\_3.png)
 
