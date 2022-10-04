@@ -1,8 +1,8 @@
 ---
-description: Ứng dụng quản lý khách hàng dành cho trung tâm đào tạo- DotB SEA
+description: Ứng dụng quản lý khách hàng dành cho trung tâm đào tạo - DotB SEA
 ---
 
-# DotB-SEA (SMART EDUCATION ACADEMY)
+# DOTB - SEA (SMART EDUCATION ACADEMY)
 
 ****:ocean: **DotB SEA** hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau :
 

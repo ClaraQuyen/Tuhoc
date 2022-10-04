@@ -1,10 +1,10 @@
 # Thêm học viên vào buổi PT
 
-> **Bước 1:** Click chuột vào module Schedule , click chọn buổi PT cần thêm học viên.&#x20;
+> **Bước 1:** Trỏ chuột vào module Schedules, chọn buổi PT cần thêm học viên.&#x20;
 
 ![](<../../../.gitbook/assets/Schedule4 (1).jpg>)
 
-> **Bước 2:** Tại màn hình chi tiết của buổi PT, Click tab Subpanel “Placement Test”.Sau đó chọn học viên cần Add vào buổi PT.
+> **Bước 2:** Tại màn hình chi tiết của buổi PT, nhấn chọn tab Subpanel “Placement Test”. Sau đó chọn học viên cần Add vào buổi PT.
 
 ![](../../../.gitbook/assets/ThemPT2.png)
 
@@ -15,7 +15,7 @@ Ghi chú:
 
 <img src="../../../.gitbook/assets/ThemDemo3.png" alt="" data-size="original">&#x20;
 
-2\. Click Select để chọn Học viên.
+2\. Chọn Select để chọn Học viên.
 
 3\. Gửi SMS cho học viên nhắc nhở thì PT.
 

@@ -1,32 +1,32 @@
 ---
-description: Tạo danh sách người nhận email/sms của chiến dịch Marketing từ nhiều nguồn
+description: Tạo danh sách người nhận Email/SMS của chiến dịch Marketing từ nhiều nguồn
 ---
 
 # Target Lists
 
-> **Bước 1:** Đưa chuột vào Menu Target List chọn Create Target List.
+> **Bước 1:** Đưa chuột vào menu **Target Lists** chọn **Create Target List**.
 
-![](../../.gitbook/assets/TL1.png)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình Target List, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
+> **Bước 2:** Tại màn hình tạo mới **Target Lists**, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
 
-![](../../.gitbook/assets/TL2.png)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Target List được tạo. Sau đó chọn Link Existing Report hoặc Select from Reports để import khách hàng vào Target List.
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Target Lists được tạo. Sau đó chọn **Link Existing Report** hoặc **Select from Reports** để import khách hàng vào Target List.
 
-![](../../.gitbook/assets/TL3.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
-1. Link tới khách hàng (Targets/Leads/Students)&#x20;
-2. Chọn từ báo cáo
+1. Link Existing Record: Link tới khách hàng (Targets/Leads/Students)&#x20;
+2. Select from Reports: Chọn từ báo cáo
 {% endhint %}
 
-> **Bước 4:** Ví dụ: Chọn Link existing report, hệ thống sẽ chuyển qua màn hình bên dưới, sau đó chọn khách hàng tiềm năng cho danh sách mới tạo (Target List), cuối cùng nhất Add.
+> **Bước 4:** Chúng ta chọn **Link Existing Record**, hệ thống sẽ chuyển qua màn hình bên dưới, sau đó chọn khách hàng tiềm năng cho danh sách mới tạo (Target Lists), cuối cùng nhất Add.
 
-![](../../.gitbook/assets/TL4.png)
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 5:** Hệ thống hiển thị thông tin chi tiết của Target List đã import khách hàng vào hệ thống.
+> **Bước 5:** Hệ thống hiển thị thông tin chi tiết của Target Lists được import vào hệ thống.
 
-![](../../.gitbook/assets/TL5.png)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

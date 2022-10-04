@@ -1,6 +1,6 @@
 ---
 description: >-
-  Target là kho dữ liệu chứa đựng tất cả các thông tin của khách hàng, từ chưa
+  Targets là kho dữ liệu chứa đựng tất cả các thông tin của khách hàng, từ chưa
   xác thực đến đã xác thực.
 ---
 

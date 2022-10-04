@@ -4,7 +4,7 @@
 
 ![](<../../../.gitbook/assets/1 (3).png>)
 
-> Bước 2:  Tiếp theo chọn học viên theo cần assign, tại đây có thể chọn 1 hoặc nhiều học viên hoặc hàng loạt học viên theo điều kiện lọc,…. Để Assign to cho User click chọn Assign. Sau đó click **Update**.
+> **Bước 2:** Tiếp theo chọn học viên theo cần assign, tại đây có thể chọn 1 hoặc nhiều học viên hoặc hàng loạt học viên theo điều kiện lọc,…. Để Assign to cho User click chọn Assign. Sau đó click **Update**.
 
 ![](<../../../.gitbook/assets/2 (2).png>)
 
@@ -22,7 +22,6 @@ Nếu muốn chọn nhiều Target thì có thể làm theo hướng dẫn các 
 
 ![](../../../.gitbook/assets/Targets.jpg)
 
-> Bước 3: Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.
+> **Bước 3:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.
 
 ![](<../../../.gitbook/assets/3 (2).png>)
-

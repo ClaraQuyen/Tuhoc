@@ -33,7 +33,7 @@
 
 > **Bước 1:** Đầu tiên, chúng ta tiến hành tạo mới Payment cho học viên bằng cách "Create Payment".
 
-![](<../../.gitbook/assets/image (4) (2).png>)
+![](<../../.gitbook/assets/image (4) (2) (1).png>)
 
 > **Bước 2:** Màn hình tạo mới Payment hiện ra, chúng ta tiến hành tạo với Payment Type là "Book/Gift".
 
