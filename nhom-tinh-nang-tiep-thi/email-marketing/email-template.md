@@ -1,10 +1,10 @@
 # Email Template
 
-> **Bước 1:** Đưa chuột vào Menu Email chọn Create Email Template.
+> **Bước 1:** Đưa chuột vào menu **Emails** chọn **Create Email Template**.
 
 ![](../../.gitbook/assets/email1.png)
 
-> **Bước 2:** Tại màn hình tới mới mẫu Email Template, nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
+> **Bước 2:** Tại màn hình tạo mới mẫu Email Template, nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
 
 ![](../../.gitbook/assets/email2.png)
 
