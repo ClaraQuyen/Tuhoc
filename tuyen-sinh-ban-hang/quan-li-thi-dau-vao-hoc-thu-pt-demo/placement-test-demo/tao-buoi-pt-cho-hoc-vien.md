@@ -1,6 +1,6 @@
 # Tạo buổi PT cho học viên
 
-> **Bước 1:** Nhấn vào phân hệ Schedules, tại màn hình Overview của Schedule người dùng có thể nhìn thấy được tổng quan có bao nhiêu học viên đăng kí PT/Demo, bao nhiêu học viên đã tham gia buổi PT/Demo đó. Để tạo buổi Placement Test (PT), nhấn chọn Create PT.
+> **Bước 1:** Nhấn vào phân hệ **Schedules**, tại màn hình Overview của Schedule người dùng có thể nhìn thấy được tổng quan có bao nhiêu học viên đăng kí PT/Demo, bao nhiêu học viên đã tham gia buổi PT/Demo đó. Để tạo buổi Placement Test (PT), nhấn chọn Create PT.
 
 ![](../../../.gitbook/assets/Schedule.jpg)
 

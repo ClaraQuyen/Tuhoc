@@ -4,7 +4,7 @@
 
 ![](../../../.gitbook/assets/Schedule4.jpg)
 
-> **Bước 2:** Tại màn hình tạo mới buổi Demo, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể input vào thông tin thêm(3), sau đó chọn **Save** để hoàn tất.
+> **Bước 2:** Tại màn hình tạo mới buổi Demo, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể input vào thông tin thêm(3), sau đó click **Save** để hoàn tất.
 
 ![](../../../.gitbook/assets/Schedule1.jpg)
 

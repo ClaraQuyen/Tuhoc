@@ -1,6 +1,6 @@
 ---
 description: >-
-  Chăm sóc học viên tiềm năng: Như tạo cuộc gọi (Log Call), Add học viên tham
+  Chăm sóc học viên tiềm năng: Như tạo cuộc gọi (Log Call) , Add học viên tham
   gia học thử, thi thử vào các buổi PT/Demo .
 ---
 

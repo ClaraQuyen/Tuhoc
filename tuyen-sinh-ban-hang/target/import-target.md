@@ -43,7 +43,7 @@
 _**-**       Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu (các cột còn lại có thể có hoặc không). Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng._
 {% endhint %}
 
-> **Bước 4:** Xác nhận các thuộc tính, Pre-set Import Setting. Ta tiếp tục nhấn chọn **Next**. Sau đó, xác nhận việc ánh xạ các thuộc tính và tiếp tục chọn **Next**.
+> **Bước 4:**&#x20;> &#x20;Xác nhận các thuộc tính, Pre-set Import Setting. Ta tiếp tục nhấn chọn **Next**. Sau đó, xác nhận việc ánh xạ các thuộc tính và tiếp tục chọn **Next**.
 
 ![](<../../.gitbook/assets/image (106) (1) (1).png>)
 
@@ -66,3 +66,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 2. Exit: Thoát ra màn hình Overview của module Targets
 3. Add to Target List: Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaign hoặc gửi email,...
 {% endhint %}
+
+> _Video hướng dẫn Import Target_
+
+{% embed url="https://youtu.be/yZJOBJkVV-Y" %}

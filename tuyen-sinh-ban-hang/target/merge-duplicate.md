@@ -4,7 +4,7 @@
 
 ![](<../../.gitbook/assets/image (115) (1).png>)
 
-> **Bước 2:** Nhấn chuột vào mũi tên, sau đó chọn **Merge.**
+> **Bước 2:** Click vào mũi tên, sau đó chọn **Merge.**
 
 ![](<../../.gitbook/assets/image (114) (1) (1) (1).png>)
 

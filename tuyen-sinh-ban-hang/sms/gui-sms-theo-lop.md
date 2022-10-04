@@ -1,6 +1,6 @@
 # Gửi SMS theo Lớp
 
-> **Bước 1:** Nhấn chuột vào phân hệ Classes sau đó chọn lớp cần gửi SMS, thông báo nghỉ học, khai giảng, học phí… đến cho học viên.
+> **Bước 1:** Nhấn chuột vào phân hệ **Classes** sau đó chọn lớp cần gửi SMS, thông báo nghỉ học, khai giảng, học phí… đến cho học viên.
 
 ![](../../.gitbook/assets/SMS\_Lop1.png)
 

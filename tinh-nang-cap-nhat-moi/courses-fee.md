@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/dghp0.png)
 
-> **Bước 2:** Tại màn hình tạo đơn giá học phí, nhập đầy đủ các thông tin cần thiết, click **Save** để hoàn tất.
+> **Bước 2:** Tại màn hình tạo đơn giá học phí, nhập đầy đủ các thông tin cần thiết, chọn **Save** để hoàn tất.
 
 ![](../.gitbook/assets/dghp1.png)
 
@@ -42,7 +42,7 @@ Gói giờ :&#x20;
 
 ![](../.gitbook/assets/dghpfn.png)
 
-> **Bước 4:** Click vào subpanel và chọn tab **Discount**/ **Apply with Kind of Courses** và chọn **Select** để Đính kèm chương trình Discount hoặc Chương trình học của gói học phí vừa tạo **(Nếu có).**
+> **Bước 4:** Nhấn vào subpanel và chọn tab **Discount**/ **Apply with Kind of Courses** và chọn **Select** để Đính kèm chương trình Discount hoặc Chương trình học của gói học phí vừa tạo **(Nếu có).**
 
 ![](../.gitbook/assets/dongiahp2.png)
 

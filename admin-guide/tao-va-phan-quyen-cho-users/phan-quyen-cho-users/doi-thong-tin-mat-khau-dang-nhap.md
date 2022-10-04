@@ -1,11 +1,5 @@
 # Đổi thông tin, mật khẩu đăng nhập
 
-
-
-## Đổi thông tin, mật khẩu đăng nhập
-
-
-
 > **Bước 1:**  Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 <figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

@@ -1,10 +1,10 @@
 # Thu phí học thử
 
-> **Bước 1:** Đưa chuột vào Menu **Payments** chọn **Create Payment**.
+> **Bước 1:** Đưa chuột vào Menu Payment & Enrollment chọn Create Payment.
 
 ![](../../.gitbook/assets/ThuPhi1.png)
 
-> **Bước 2:**&#x20;> Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Chọn **Save** để hoàn tất.
+> **Bước 2:**&#x20;> &#x20;Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin học viên đóng PT. Click **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/ThuPhi2.png)
 

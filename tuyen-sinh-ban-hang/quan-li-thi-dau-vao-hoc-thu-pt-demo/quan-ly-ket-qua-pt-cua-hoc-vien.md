@@ -1,6 +1,6 @@
-# Quản lý kết quả PT của học viên
+# Quản lí kết quả PT của học viên
 
-> **Bước 1:** Đưa chuột vào menu **Schedules**, chọn buổi PT cần chấm điểm cho học viên.
+> **Bước 1:** Đưa chuột vào menu Schedules, chọn buổi PT cần chấm điểm cho học viên.
 
 ![](<../../.gitbook/assets/Schedule4 (1).jpg>)
 

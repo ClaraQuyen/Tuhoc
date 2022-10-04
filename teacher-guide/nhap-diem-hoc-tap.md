@@ -16,12 +16,16 @@
 
 ![](../.gitbook/assets/diem.jpg)
 
-**​**🙆♀ **Ghi chú:**
+{% hint style="info" %}
+🙆♀ **Ghi chú:**
 
 Nhập điểm học viên (Màu trắng bạn nhập, màu đậm hơn bạn không được nhập)
 
-Lưu ý nếu có Comment: Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống.
-
-​
+Lưu ý nếu có Comment: Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống.​
+{% endhint %}
 
 ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-MEb5c67Uy6tLOeBKi-k%2F-MEb6r-ZyV\_Pny8vBVCI%2F2020-08-13\_16-19-53.jpg?alt=media\&token=e68d2f5e-5ecb-4140-b72a-a5e494d04776)
+
+> _Video hướng dẫn Nhập điểm học tập trên hệ thống_
+
+{% embed url="https://www.youtube.com/watch?v=mrjSIUlczq8" %}

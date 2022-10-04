@@ -8,7 +8,7 @@
 
 ![](<../../.gitbook/assets/2 (1).png>)
 
-> **Bước 3:**> Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào **Choose File**. Sau đó click **Next**.
+> **Bước 3:**> Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống nhấn vào **Choose File**. Sau đó nhấn **Next**.
 
 ![](../../.gitbook/assets/ImportLead2.png)
 
