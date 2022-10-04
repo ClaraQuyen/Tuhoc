@@ -20,7 +20,7 @@
 **Bước 8:** Chọn xem bạn có muốn gửi email ở dạng nào
 {% endhint %}
 
-> **Bước 1:** Đưa chuột vào menu **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào phân hệ **Campaign** để **Create Campaign**.
+> **Bước 1:** Ở menu **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào phân hệ **Campaign** để **Create Campaign**.
 
 ![](../../../.gitbook/assets/campaigns.png)
 

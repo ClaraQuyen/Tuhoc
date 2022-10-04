@@ -44,7 +44,7 @@ Theo dõi và cập nhật liên tục thông tin chi tiết các khoản phí �
 
 Nhận thông báo trực tiếp, cụ thể khi đã thanh toán hoặc có yêu cầu thanh toán học phí.
 
-#### ![](<../../.gitbook/assets/image (105).png>)Trao đổi/liên lạc với nhà trường
+#### ![](<../../.gitbook/assets/image (105) (1).png>)Trao đổi/liên lạc với nhà trường
 
 Ứng dụng quản lý giúp kết nối/tương tác trực tiếp với nhà trường mọi lúc, mọi nơi.
 

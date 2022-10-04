@@ -10,11 +10,11 @@ description: Tạo danh sách người nhận Email/SMS của chiến dịch Mar
 
 > **Bước 2:** Tại màn hình tạo mới **Target Lists**, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Target Lists được tạo. Sau đó chọn **Link Existing Report** hoặc **Select from Reports** để import khách hàng vào Target List.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -25,7 +25,7 @@ description: Tạo danh sách người nhận Email/SMS của chiến dịch Mar
 
 > **Bước 4:** Chúng ta chọn **Link Existing Record**, hệ thống sẽ chuyển qua màn hình bên dưới, sau đó chọn khách hàng tiềm năng cho danh sách mới tạo (Target Lists), cuối cùng nhất Add.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 5:** Hệ thống hiển thị thông tin chi tiết của Target Lists được import vào hệ thống.
 
