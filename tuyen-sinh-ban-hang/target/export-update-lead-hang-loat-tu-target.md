@@ -12,7 +12,7 @@ Bước 3: Tiến hành Import Lead theo hướng dẫn
 
 > **Bước  1:** Export dữ liệu của **Targets** ở trạng thái <mark style="color:red;">**Converted**</mark> của từng Users đã Assign.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** File Excel hiển thị thông tin.
 

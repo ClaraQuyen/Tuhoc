@@ -6,7 +6,7 @@ description: Tạo danh sách người nhận Email/SMS của chiến dịch Mar
 
 > **Bước 1:** Đưa chuột vào menu **Target Lists** chọn **Create Target List**.
 
-<figure><img src="../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới **Target Lists**, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
 

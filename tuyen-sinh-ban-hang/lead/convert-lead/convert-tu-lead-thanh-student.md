@@ -1,20 +1,32 @@
 # 📼 Convert từ Lead thành Student
 
-> **Bước 1:** Click chuột vào module Leads, chọn Lead muốn chuyển đổi thành HV chính thức.
+{% hint style="success" %}
+**Ở qui trình Convert Lead có 4 bước:**
 
-![](../../../.gitbook/assets/Convet1.png)
+Bước 1: Chọn Lead muốn chuyển đổi thành Student
 
-> **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của Lead, click **Convert to Student** để chuyển đổi HV chính thức.
+Bước 2: Chọn Convert to Student để chuyển đổi HV chính thức
 
-![](../../../.gitbook/assets/Convert2.png)
+Bước 3: Nhập thông tin yêu cầu và nhấn “Save”
 
-> **Bước 3:** Hệ thống chuyển sang màn hình tạo mới Students, nhập thông tin yêu cầu, click “Create Student” hoàn tất chuyển đổi.
+Bước 4: Hệ thống hiển thị thông tin Students mới được tạo
+{% endhint %}
 
-![](../../../.gitbook/assets/Convert3.png)
+> **Bước 1:** Ở màn hình danh sách của module Leads, chọn Lead muốn chuyển đổi thành HV chính thức.
 
-> **Bước 4:** Hệ thống hiển thị thông tin Student mới được tạo. Trạng thái của Student sẽ là <mark style="color:red;">**Waiting to class**</mark>. Đồng thời, trạng thái của Leads sẽ được cập nhật là Converted.
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-![](../../../.gitbook/assets/convert4.png)
+> **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của Lead, chọn **Convert to Student** để chuyển đổi HV chính thức.
+
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 3:** Hệ thống chuyển sang màn hình tạo mới Students, nhập thông tin được yêu cầu thêm và chọn “Create Student” hoàn tất chuyển đổi.
+
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 4:** Hệ thống hiển thị thông tin Student mới được tạo. Trạng thái của Student sẽ là <mark style="color:red;">**Waiting to class**</mark>. Đồng thời, trạng thái của Leads sẽ được cập nhật là **Converted**.
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Convert từ Lead thành Student_
 

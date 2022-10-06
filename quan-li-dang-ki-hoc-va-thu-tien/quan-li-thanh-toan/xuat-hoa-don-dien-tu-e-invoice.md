@@ -16,7 +16,7 @@ description: >-
 
 > **Bước 1:** Đưa chuột vào phân hệ Payment, chọn Payment muốn thực hiện việc xuất hóa đơn điện tử (E-invoice).
 
-![](<../../.gitbook/assets/image (81) (1).png>)
+![](<../../.gitbook/assets/image (81) (1) (1).png>)
 
 > Bước 2:&#x20;> Tại màn hình chi tiết của Payment, chọn Tab Subpanel “Receipt”. Nhấn chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 
@@ -26,11 +26,11 @@ description: >-
 **Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử (như hình dưới) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (86).png>)
+![](<../../.gitbook/assets/image (86) (1).png>)
 
 > Bước 3: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click **OK**.
 
-![](<../../.gitbook/assets/image (92).png>)
+![](<../../.gitbook/assets/image (92) (1).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -43,7 +43,7 @@ description: >-
 :man\_raising\_hand: Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (93) (1).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:

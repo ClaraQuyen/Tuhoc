@@ -12,7 +12,7 @@ Bước 3: Nhập thông tin yêu cầu và nhấn “Save”
 Bước 4: Hệ thống hiển thị thông tin Leads mới được tạo
 {% endhint %}
 
-> **Bước 1:** Nhấn chuột vào module Targets, chọn Target muốn chuyển đổi thành Lead.
+> **Bước 1:** Ở màn hình danh sách của module Targets, chọn Target muốn chuyển đổi thành Lead.
 
 <figure><img src="../../../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 

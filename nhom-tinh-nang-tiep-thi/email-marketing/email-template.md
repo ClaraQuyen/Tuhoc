@@ -21,4 +21,4 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin mẫu **Email Template** vừa được tạo.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>

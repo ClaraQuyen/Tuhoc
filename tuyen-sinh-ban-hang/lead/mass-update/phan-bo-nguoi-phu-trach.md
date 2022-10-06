@@ -1,21 +1,41 @@
 # 🤵♀ Phân bổ người phụ trách
 
-> **Bước 1:** Click chuột vào module **Leads**, click Create để tạo bộ lọc Leads theo trạng thái.
+{% hint style="success" %}
+**Ở qui trình này có 6 bước:**
 
-![](<../../../.gitbook/assets/image (6) (1) (1).png>)
+Bước 1: Tạo bộ lọc dữ liệu **** theo trạng thái
+
+Bước 2: Chọn trạng thái Leads cần phân bổ người phụ trách
+
+Bước 3: Hệ thống hiển thị danh sách Lead ở trạng thái New
+
+Bước 4: Chọn Mass Update
+
+Bước 5: Chọn tất cả bản ghi
+
+Bước 6: Hệ thống hiển thị thông báo thành công
+{% endhint %}
+
+> **Bước 1:** Ở màn hình danh sách của module **Leads**, chọn Create để tạo bộ lọc Leads theo trạng thái.
+
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
 
-![](<../../../.gitbook/assets/image (7) (1) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống hiển thị thông tin danh sách Leads có trạng thái cần để phân bổ người phụ trách, chọn tất cả.
 
-![](<../../../.gitbook/assets/image (11) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 4:** Click **Mass Updated** để phân bổ cho người phụ trách.
+> **Bước 4:** Chọn **Mass Update** để phân bổ cho người phụ trách.
 
-![](<../../../.gitbook/assets/image (12) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 5:** Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng click **Update**.
+> **Bước 5:** Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng nhấn chọn **Update**.
 
-![](<../../../.gitbook/assets/image (106) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 6:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.   ****  &#x20;
+
+<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>

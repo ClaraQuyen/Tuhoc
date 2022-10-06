@@ -32,7 +32,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 6:** Sau khi chỉnh sửa thông tin, đổi mật khẩu thì chúng ta tiến hành kết thúc thao tác bằng cách nhấn vào ![](<../../../.gitbook/assets/image (5) (3).png>).
 
