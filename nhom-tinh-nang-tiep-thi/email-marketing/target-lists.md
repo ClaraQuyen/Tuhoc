@@ -29,4 +29,4 @@ description: Tạo danh sách người nhận Email/SMS của chiến dịch Mar
 
 > **Bước 5:** Hệ thống hiển thị thông tin chi tiết của Target Lists được import vào hệ thống.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (3).png" alt=""><figcaption></figcaption></figure>

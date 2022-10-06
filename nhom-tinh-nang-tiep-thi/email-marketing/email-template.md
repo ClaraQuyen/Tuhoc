@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Emails**, ta nhấn vào button **Create Email Template** để mở ra màn hình thêm mới **Email Templates**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới mẫu Email Template, nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
 

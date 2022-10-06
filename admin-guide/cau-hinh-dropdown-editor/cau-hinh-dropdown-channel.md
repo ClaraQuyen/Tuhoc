@@ -6,7 +6,7 @@ description: Cấu hình Chanel trong module Target/Lead/Student
 
 > **Bước 1:**  Tại Avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
-![](<../../.gitbook/assets/image (2) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 > **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn **Dropdown Editor**
 

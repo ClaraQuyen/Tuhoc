@@ -24,4 +24,4 @@ Bước 3: Xem chi tiết màn hình Task vừa tạo
 
 > **Bước 4:** Màn hình sau khi tạo mới Task.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (3).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# Thu phí học thử
+# 💰 Thu phí học thử
 
 > **Bước 1:** Đưa chuột vào Menu **Payments** chọn **Create Payment**.
 

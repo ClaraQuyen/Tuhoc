@@ -37,4 +37,4 @@
 
 > **Bước 3:** Hệ thống hiện thị thông tin cuộc gọi và nội dung file nghe trao đổi với khách hàng.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
