@@ -1,12 +1,12 @@
 # 🤵♀ Phân bổ người phụ trách
 
-> Bước 1: Lọc dữ liệu của Target ở trạng thái **Wait for deliver.**  Action menu bên trái click chọn **Mass Update.**
+> Bước 1: Lọc dữ liệu của Target ở trạng thái <mark style="color:red;">**Converted**</mark>**,** ở Action Menu phía bên trái, chúng ta chọn **Mass Update.**
 
-![](<../../../.gitbook/assets/1 (3).png>)
+<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tiếp theo chọn học viên theo cần assign, tại đây có thể chọn 1 hoặc nhiều học viên hoặc hàng loạt học viên theo điều kiện lọc,…. Để Assign to cho User click chọn Assign. Sau đó click **Update**.
+> **Bước 2:** Tiếp theo chọn học viên theo cần Assign, tại đây có thể chọn 1 hoặc nhiều học viên hoặc hàng loạt học viên theo điều kiện lọc,….Sau đó chúng ta nhấn chọn **Update**.
 
-![](<../../../.gitbook/assets/2 (2).png>)
+<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: Ghi chú:
@@ -20,8 +20,8 @@
 Nếu muốn chọn nhiều Target thì có thể làm theo hướng dẫn các step 1,2 như hình.
 ```
 
-![](../../../.gitbook/assets/Targets.jpg)
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.
+> **Bước 3:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.   ****  &#x20;
 
-![](<../../../.gitbook/assets/3 (2).png>)
+<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>

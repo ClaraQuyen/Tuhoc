@@ -6,7 +6,7 @@
 
 > **Bước 2:** File Excel hiển thị thông tin.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Sau khi đã được File như mẫu tiến hành **Import Leads** theo các bước sau: &#x20;
 
