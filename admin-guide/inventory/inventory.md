@@ -8,7 +8,7 @@
 
 > **Bước 2:** Tại màn hình tạo mới, nhập đầy đủ thông tin. Sau đó click Save.
 
-![](<../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (109) (2).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: Ghi chú:
@@ -23,7 +23,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin sau khi Save thành công.
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (111) (2).png>)
 
 > _Video hướng dẫn nhập sách vào kho_
 
@@ -65,4 +65,4 @@ Chú ý:
 
 > **Bước 6:** Chi tiết Inventory vừa được Save&#x20;
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (2) (1).png>)

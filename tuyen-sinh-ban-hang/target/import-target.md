@@ -3,17 +3,17 @@
 {% hint style="success" %}
 **Ở qui trình Import Target có 6 bước:**
 
-**Bước 1:** Mở ra màn hình Import Target
+Bước 1: Mở ra màn hình Import Target
 
-**Bước 2:** Import danh sách khách hàng thô
+Bước 2: Import danh sách khách hàng thô
 
-**Bước 3:** Tải mẫu import file excel&#x20;
+Bước 3: Tải mẫu import file excel&#x20;
 
-**Bước 4:** Kiểm tra việc ánh xạ dữ liệu
+Bước 4: Kiểm tra việc ánh xạ dữ liệu
 
-**Bước 5:** Kiểm tra trùng dữ liệu
+Bước 5: Kiểm tra trùng dữ liệu
 
-**Bước 6:** Kết quả sau khi import Target
+Bước 6: Kết quả sau khi import Target
 {% endhint %}
 
 > **Bước 1:** Ở màn hình danh sách của module **Targets,** ta nhấn vào **** button **Import Targets** để **** cho phép người dùng Import data từ local.

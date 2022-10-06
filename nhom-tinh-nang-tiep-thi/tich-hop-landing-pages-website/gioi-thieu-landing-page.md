@@ -1,6 +1,6 @@
-# Giới thiệu Landing page
+# Giới thiệu Landing Page
 
-### **Tích hợp landing page website này làm gì?**
+> ### **Tích hợp landing page website này làm gì?**
 
 :point\_right: Landing page còn gọi là trang đích, là một trang web độc lập, được tạo riêng cho chiến dịch tiếp thị hoặc quảng cáo, nhằm mục đích thu thập thông tin khách hàng hoặc bán hàng.
 
@@ -12,8 +12,8 @@
 
 :star2: Giới thiệu doanh nghiệp
 
-### API là gì ?
+> ### API là gì ?
 
-**API** là các phương thức, giao thức kết nối với các thư viện và ứng dụng khác. Nó là viết tắt của **Application Programming Interface** – giao diện lập trình ứng dụng.
+**API** - **Application Programming Interface** (giao diện lập trình ứng dụng) là các phương thức, giao thức kết nối với các thư viện và ứng dụng khác.
 
 **Web API** là một phương thức dùng để cho phép các ứng dụng khác nhau có thể giao tiếp, trao đổi dữ liệu qua lại. Dữ liệu được Web API trả lại thường ở dạng [JSON](https://topdev.vn/blog/json-la-gi/) hoặc XML thông qua giao thức HTTP hoặc HTTPS.

@@ -1,23 +1,18 @@
 # 💻 Export - Update Lead hàng loạt từ Target
 
-> **Bước  1:** Export dữ liệu của **Targets** ở trạng thái **Transferred** của từng Users đã Assign.
+> **Bước  1:** Export dữ liệu của **Targets** ở trạng thái <mark style="color:red;">**Converted**</mark> của từng Users đã Assign.
 
-![](<../../.gitbook/assets/image (117) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:**&#x20;> Những Field nằm trong khung màu đỏ là bắt buộc:
->
-> * Bỏ những field trống.
-> * Bỏ filed ID, Tracker Key, Assigned User ID, Team Set ID, Date Created, Date Modified, Modified By Name, Modified By ID, Created By, Created By ID, Full Name.
-> * Sửa filed  Lead Id thành ID.
-> * Cột Assigned User Name lấy User Name không lấy Full Name:
->
-> Ví dụ: Full Name là Dương Huyền Trang, Username là [trangdh.emaa@gmail.com](mailto:trangdh.emaa@gmail.com) thì lấy Username đó điền vào cột Người phụ trách (**Assigned User Name**).
+> **Bước 2:** File Excel hiển thị thông tin.
 
-![](../../.gitbook/assets/UpdateLead2.png)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Sau khi đã được File như mẫu tiến hành Import Lead theo các bước sau :
+> **Bước 3:** Sau khi đã được File như mẫu tiến hành **Import Leads** theo các bước sau: &#x20;
 
-> **Bước 3.1:** Vào module **Leads**, chọn **Import Leads**.
+{% content-ref url="../lead/import-leads.md" %}
+[import-leads.md](../lead/import-leads.md)
+{% endcontent-ref %}
 
 ![](../../.gitbook/assets/ImportLead.png)
 
