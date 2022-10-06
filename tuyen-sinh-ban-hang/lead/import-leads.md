@@ -1,10 +1,10 @@
 # 📥 Import Leads
 
-> **Bước 1:** Đưa chuột vào Module **Leads** chọn **Import Leads**.
+> **Bước 1:** Ở màn hình danh sách của module **Leads,** ta nhấn vào **** button **Import Leads** để **** cho phép người dùng Import data từ local.
 
 ![](../../.gitbook/assets/ImportLead.png)
 
-> **Bước 2:** Sau khi chọn Data Source, ta click **Next.**
+> **Bước 2:** Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 
 ![](<../../.gitbook/assets/2 (1).png>)
 
@@ -35,7 +35,7 @@
 
 ![](<../../.gitbook/assets/5 (1).png>)
 
-> **Bước 6:** Xác nhận việc kiểm tra trùng và việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "Filed to check" . Sau đó click "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
+> **Bước 6:** Xác nhận việc kiểm tra trùng và việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "Filed to check". Sau đó nhấn "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
 
 ![](<../../.gitbook/assets/6 (1).png>)
 
