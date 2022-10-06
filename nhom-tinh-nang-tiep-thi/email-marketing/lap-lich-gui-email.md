@@ -1,6 +1,6 @@
 # Lập lịch gửi Email
 
-> **Bước 1:** Đưa chuột vào Menu Campaigns chọn View Campaigns, sau đó chọn chiến dịch muốn lập lịch gửi Email.
+> **Bước 1:** Đưa chuột vào menu **Campaigns** chọn **View Campaigns**, sau đó chọn chiến dịch muốn lập lịch gửi Email.
 
 ![](../../.gitbook/assets/laplich1.png)
 
