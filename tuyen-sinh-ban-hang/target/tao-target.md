@@ -20,4 +20,4 @@ Bước 3: Xem chi tiết màn hình Target vừa tạo
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Targets** được tạo ở trạng thái <mark style="color:green;">**New**</mark>, tức có nghĩa Targets này vẫn chưa được xác thực thông tin, chưa có cuộc gọi để xác thực Target này có thật hay không và vẫn chưa được bàn giao cho EC chăm sóc.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>

@@ -14,11 +14,11 @@ Bước 4: Hệ thống hiển thị thông tin Leads mới được tạo
 
 > **Bước 1:** Nhấn chuột vào module Targets, chọn Target muốn chuyển đổi thành Lead.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của Target, nhấn chọn **Convert to Lead** để chuyển đổi HV tiềm năng.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống chuyển sang màn hình tạo mới Lead, nhập thông tin yêu cầu, nhấn “**Save**” để hoàn tất chuyển đổi.
 

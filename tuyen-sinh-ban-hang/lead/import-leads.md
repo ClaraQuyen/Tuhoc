@@ -1,5 +1,23 @@
 # 📥 Import Leads
 
+{% hint style="success" %}
+**Ở qui trình Import Leads có 6 bước:**
+
+Bước 1: Mở ra màn hình Import Leads
+
+Bước 2: Import danh sách khách hàng thô
+
+Bước 3: Tải mẫu import file excel&#x20;
+
+Bước 4: Xác nhận các thuộc tính
+
+Bước 5: Kiểm tra việc ánh xạ dữ liệu
+
+Bước 6: Kiểm tra trùng dữ liệu
+
+Bước 7: Kết quả sau khi import Leads
+{% endhint %}
+
 > **Bước 1:** Ở màn hình danh sách của module **Leads,** ta nhấn vào **** button **Import Leads** để **** cho phép người dùng Import data từ local.
 
 ![](../../.gitbook/assets/ImportLead.png)
@@ -27,11 +45,11 @@
 * Các cột có tô màu là những cột bắt buộc phải nhập dữ liệu (các cột còn lại có thể có hoặc không). Dữ liệu phải chính xác thì hệ thống mới Import học viên vào đúng.
 {% endhint %}
 
-> **Bước 4:** Xác nhận các thuộc tính, Pre-set Import Setting. Click **Next.**
+> **Bước 4:** Xác nhận các thuộc tính, Pre-set Import Setting. Tiếp tục **Next.**
 
 ![](<../../.gitbook/assets/4 (1).png>)
 
-> **Bước 5:** Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
+> **Bước 5:** Xác nhận việc ánh xạ các thuộc tính. Tiếp tục nhấn **Next**.
 
 ![](<../../.gitbook/assets/5 (1).png>)
 
@@ -47,8 +65,8 @@
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
 1. Import Again: Import lại danh sách khách hàng (Nếu muốn)
-2. Exit : Thoát ra màn hình Overview của module Targets
-3. Add to Targets List : Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaigns hoặc gửi email,...
+2. Exit: Thoát ra màn hình Overview của module Targets
+3. Add to Targets List: Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaigns hoặc gửi email,...
 {% endhint %}
 
 > _Video hướng dẫn Import Leads_
