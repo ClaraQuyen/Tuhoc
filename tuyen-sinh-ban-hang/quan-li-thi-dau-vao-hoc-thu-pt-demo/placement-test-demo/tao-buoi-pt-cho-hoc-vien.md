@@ -1,16 +1,24 @@
 # Tạo buổi PT cho học viên
 
-> **Bước 1:** Nhấn vào phân hệ **Schedules**, tại màn hình Overview của Schedule người dùng có thể nhìn thấy được tổng quan có bao nhiêu học viên đăng kí PT/Demo, bao nhiêu học viên đã tham gia buổi PT/Demo đó. Để tạo buổi Placement Test (PT), nhấn chọn Create PT.
+> **Bước 1:** Ở màn hình danh sách của module **Schedules**, ta nhấn vào button **Create Placement Test** để mở ra màn hình thêm mới **Placement Test**.
 
-![](../../../.gitbook/assets/Schedule.jpg)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình tạo mới buổi PT, nhập  các thông tin cần thiết như Subject (1), về thời gian của buổi PT(2), nếu buổi PT này có xếp giáo viên hoặc phòng thì có thể nhập vào thông tin thêm(3), sau đó chọn **Save** để hoàn tất.
+> **Bước 2:** Tại màn hình tạo mới **Placement Test**, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một **Placement Test** mớ
 
-![](../../../.gitbook/assets/Schedule1.jpg)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Hệ thống hiển thị thông tin chi tiết buổi PT vừa được tạo.
+{% hint style="info" %}
+Ghi chú:
 
-![](../../../.gitbook/assets/TaoPT3.png)
+1. Subject
+2. Thời gian của buổi Placement Test
+3. Giáo viên - Assistant: Trợ giảng - Phòng
+{% endhint %}
+
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết buổi Placement Test vừa được tạo.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn tạo buổi PT cho học viên_
 

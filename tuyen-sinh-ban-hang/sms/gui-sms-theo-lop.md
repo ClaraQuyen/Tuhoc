@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình chi tiết của Lớp học, nhấn vào button **Attendance & Homework.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình **Attendance and Homework**, nhấn chọn Send SMS.
 

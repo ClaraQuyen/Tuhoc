@@ -2,11 +2,11 @@
 
 > **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Payment List Report".
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình báo cáo chi tiết những khoản thu với trạng thái thanh toán là **"Unpaid"**, chọn **Export Excel** khi đi Apply (xem báo cáo trước khi xuất báo cáo ra file).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :

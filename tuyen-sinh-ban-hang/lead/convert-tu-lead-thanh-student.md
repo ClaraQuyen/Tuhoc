@@ -18,7 +18,7 @@ Bước 4: Hệ thống hiển thị thông tin Students mới được tạo
 
 > **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của Lead, chọn **Convert to Student** để chuyển đổi HV chính thức.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (6).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống chuyển sang màn hình tạo mới Students, nhập thông tin được yêu cầu thêm và chọn “Create Student” hoàn tất chuyển đổi.
 

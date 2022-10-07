@@ -18,7 +18,7 @@ Bước 4: Hệ thống hiển thị thông tin Leads mới được tạo
 
 > **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của Target, nhấn chọn **Convert to Lead** để chuyển đổi HV tiềm năng.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống chuyển sang màn hình tạo mới Lead, nhập thông tin yêu cầu, nhấn “**Save**” để hoàn tất chuyển đổi.
 
