@@ -1,12 +1,12 @@
 # 📳 Gửi SMS theo Report
 
-> **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Unpaid Payment List". Ví dụ gửi SMS nhắc học viên chưa thanh toán tiền học phí.
+> **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Payment List Report".
 
-![](../../.gitbook/assets/SMS\_report1.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình Report theo danh sách học viên chưa đóng tiền học phí, sau đó nhấn chọn Export Excel khi đi Apply (xem báo cáo trước khi xuất báo cáo ra file).
+> **Bước 2:** Tại màn hình báo cáo chi tiết những khoản thu với trạng thái thanh toán là **"Unpaid"**, chọn **Export Excel** khi đi Apply (xem báo cáo trước khi xuất báo cáo ra file).
 
-![](../../.gitbook/assets/SMS\_report2.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :
