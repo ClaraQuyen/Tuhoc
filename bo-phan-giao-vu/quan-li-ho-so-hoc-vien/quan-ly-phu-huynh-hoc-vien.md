@@ -6,7 +6,7 @@
 
 > **Bước 2:** Bạn có thể chọn vào từng phụ huynh để theo dõi thông tin phụ huynh.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20;:woman\_gesturing\_ok: **Ghi chú:**

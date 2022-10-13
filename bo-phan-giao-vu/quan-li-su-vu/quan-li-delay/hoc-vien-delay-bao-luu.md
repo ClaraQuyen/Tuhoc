@@ -1,16 +1,28 @@
 # Học viên Delay (Bảo lưu)
 
-> **Bước 1:** Ở màn hình danh sách của module Classes, chọn lớp mà học viên muốn delay.
+{% hint style="success" %}
+**Ở qui trình tạo Lead có 3 bước:**
 
-![](../../../.gitbook/assets/HVdelay1.png)
+Bước 1: Chọn học viên muốn delay
 
-> **Bước 2:** Tại màn hình chi tiết Classes, nhấn vào subpanel chọn tab “Student Situations” sau đó chọn button Delay.
+Bước 2: Chọn tab **“Student Situations”** sau đó chọn button Delay
 
-![](../../../.gitbook/assets/delay.jpg)
+Bước 3: Nhập thông tin Delay
 
-> **Bước 3:** Tại màn hình Delay, nhập chọn thời gian mà học viên này bắt đầu delay, nhập lí do delay. Sau đó click Save để hoàn tất.
+Bước 4: Kết quả sau khi Delay học viên
+{% endhint %}
 
-![](<../../../.gitbook/assets/5 (3).png>)
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn lớp mà học viên muốn delay.
+
+<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 2:** Tại màn hình chi tiết Classes, nhấn vào subpanel chọn tab **“Student Situations”** sau đó chọn button Delay.
+
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 3:** Tại màn hình **Delay**, nhập chọn thời gian mà học viên này bắt đầu delay và nhập lí do **delay**. Sau đó nhấn Save để hoàn tất.
+
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -21,6 +33,6 @@
 4. Lý do delay.
 {% endhint %}
 
-> Bước 4: Kết quả.
+> Bước 4: Kết quả sau khi Delay học viên.
 
-![](../../../.gitbook/assets/delay2.jpg)
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>

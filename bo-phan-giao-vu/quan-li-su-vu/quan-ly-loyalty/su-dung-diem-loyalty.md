@@ -6,16 +6,16 @@
 
 > **Bước 1:** Tại màn hình thanh toán ví dụ với thanh toán Book/Gift, chọn **Loyalty** sau đó nhấn vào button **Use Loyalty**, nhập số điểm mà học viên muốn sử dụng.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Màn hình nhập số điểm Loyalty học viên hiện lên, user chỉ cần nhập số điểm mà học viên muốn sử dụng.
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống sẽ tự động trừ số tiền học viên sau thanh toán.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết của Payment sau khi Save thành công.
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52) (2).png" alt=""><figcaption></figcaption></figure>

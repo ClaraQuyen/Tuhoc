@@ -16,11 +16,11 @@ Bước 5: Bấm chọn **Select** để link đến Discount bạn cần không
 
 > **Bước 1:** Ở màn hình danh sách của module **Discount,** chọn **Create Discount** để mở ra màn hình tạo mới Discount**.**
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới chiết khấu, nhập đầy đủ các trường thông tin cần thiết, sau đó chọn **Save** để hoàn tất.
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
@@ -43,7 +43,7 @@ Bước 5: Bấm chọn **Select** để link đến Discount bạn cần không
 
 > **Bước 5:** Bấm chọn **Select** để link đến Discount bạn cần không được áp dụng đi kèm.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67) (2).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Quản lí chiết khấu_
 
