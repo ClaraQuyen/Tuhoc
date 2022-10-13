@@ -1,2 +1,2 @@
-# 📔 Placement Test/Demo
+# Placement Test/Demo
 

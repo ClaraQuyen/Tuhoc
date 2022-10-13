@@ -1,6 +1,6 @@
 # Import danh sách học viên chính thức
 
-> **Bước 1:** Đưa chuột vào module Students chọn Import Students.
+> **Bước 1:** Ở màn hình danh sách của module **Students,** ta nhấn vào **** button **Import Student** để **** cho phép người dùng Import data từ local.
 
 ![](../../.gitbook/assets/ImportStudent1.png)
 
@@ -31,7 +31,7 @@
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjHitqdHtQvQ5m7kL%2F4.png?alt=media\&token=43ea25dd-016f-4f04-9ffc-7dd181d66b8b)
 
-> **Bước 5:** Xác nhận việc ánh xạ các thuộc tính. Click **Next**.
+> **Bước 5:** Xác nhận việc ánh xạ các thuộc tính. Sau đó chọn **Next**.
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-LufjNESlyJ8i--KyXei%2F5.png?alt=media\&token=1b750cb8-2ce7-4916-aae4-e0e809438633)
 

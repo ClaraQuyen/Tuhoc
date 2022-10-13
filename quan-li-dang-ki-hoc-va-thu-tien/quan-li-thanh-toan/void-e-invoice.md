@@ -1,6 +1,6 @@
 # Void E-invoice
 
-> Bước 1: Click **Void E-invoice**.
+> **Bước 1:** Click **Void E-invoice**.
 
 ![](<../../.gitbook/assets/image (97).png>)
 

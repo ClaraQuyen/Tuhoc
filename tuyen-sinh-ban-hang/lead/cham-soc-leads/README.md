@@ -1,4 +1,4 @@
-# 🌼 Chăm sóc Leads
+# Chăm sóc Leads
 
 1. Tạo Log Call từ module Calls
 2. Tạo Log Call từ Profile của học viên

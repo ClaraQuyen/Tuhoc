@@ -1,10 +1,18 @@
-# 💯 Quản lý kết quả PT của học viên
+# Quản lý kết quả PT của học viên
+
+{% hint style="success" %}
+**Ở qui trình Quản lý kết quả PT của học viên có 2 bước:**
+
+Bước 1: Mở ra màn hình thêm mới thu phí thi thử
+
+Bước 2: Nhập kết quả thi thử của học viên
+{% endhint %}
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi PT cần chấm điểm cho học viên.
 
 ![](<../../.gitbook/assets/Schedule4 (1).jpg>)
 
-> **Bước 2:**&#x20;> Tại màn hình thông tin buổi PT, chọn vào tab **Placement Test**, sau đó nhập điểm cho học viên (nếu học viên có tham gia buổi PT). Đồng thời, trạng thái của Leads sẽ được cập nhật là PT/Demo.
+> **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của buổi Placement Test, chọn vào tab **Placement Test**, sau đó nhập điểm cho học viên (nếu học viên có tham gia buổi PT). Đồng thời, trạng thái của Leads sẽ được cập nhật là PT/Demo.
 
 ![](../../.gitbook/assets/KQ2.png)
 

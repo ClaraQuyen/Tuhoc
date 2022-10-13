@@ -10,7 +10,7 @@ Nếu học viên không có Delay thì sẽ [**Convert Payment**](https://help.
 Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho học viên.
 {% endhint %}
 
-> **Bước 1:** Đưa chuột vào module **Student** ,click vào học viên có nhu cầu hoàn tiền hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
+> **Bước 1:** Ở màn hình danh sách của module **Student**, chọn vào học viên có nhu cầu hoàn tiền hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
 
 ![](../../../.gitbook/assets/hoantien1.png)
 

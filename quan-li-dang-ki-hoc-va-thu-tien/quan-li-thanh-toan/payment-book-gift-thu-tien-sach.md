@@ -1,6 +1,6 @@
 # Payment Book/Gift (thu tiền sách)
 
-> **Bước 1:** Đưa chuột vào Menu Payment chọn Create Payment.
+> **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
 ![](<../../.gitbook/assets/Deposit1 (1).png>)
 

@@ -4,7 +4,7 @@ description: >-
   xác thực đến đã xác thực.
 ---
 
-# Targets
+# 🍥 Targets
 
 > ****:point\_right: **Chi tiết các trạng thái Học viên thô (Target):**
 >

@@ -1,4 +1,4 @@
-# 🎞 Convert Target hàng loạt thành Lead
+# Convert Target hàng loạt thành Lead
 
 {% hint style="success" %}
 **Ở qui trình Convert Target có 4 bước:**

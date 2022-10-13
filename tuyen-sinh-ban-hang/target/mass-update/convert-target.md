@@ -1,4 +1,4 @@
-# 💫 Convert Target
+# Convert Target
 
 {% hint style="success" %}
 **Ở qui trình Convert Target có 3 bước:**

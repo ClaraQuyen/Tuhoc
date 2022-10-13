@@ -16,7 +16,7 @@ Bước 3: Xem chi tiết màn hình Lead vừa tạo
 
 > **Bước 2:** Tại màn hình hồ sơ học viên, dưới subpanel nhấn vào **Calls**, sau đó nhấn vào dấu (+).
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình tạo Log Call, nhập thông tin, sau đó chọn **Save** để lưu lại.
 
@@ -47,4 +47,4 @@ Bước 3: Xem chi tiết màn hình Lead vừa tạo
 > * **Call Back Later** (không nhấc máy)
 > * **Invalid Number**(sai số).
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>

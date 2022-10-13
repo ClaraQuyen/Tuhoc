@@ -1,6 +1,6 @@
 # Payment Cashholder (Mua khóa học)
 
-> Bước 1: Đưa chuột vào module **Payment** chọn **Create Payment**.
+> **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
 ![](../../.gitbook/assets/payment1.jpg)
 
@@ -11,8 +11,8 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-1. Lựa chọn học viên.&#x20;   Click vào biểu tượng <img src="../../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
-2. &#x20;Lựa chọn **Payment** type là **Cashholder**.
+1. Lựa chọn học viên.&#x20;   Nhấn vào biểu tượng <img src="../../.gitbook/assets/Enroll4.png" alt="" data-size="line">, một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+2. &#x20;Lựa chọn **Payment type** là **Cashholder**.
 3. Lựa chọn khoá học viên mua.
 4. Nhập số giờ học viên mua khóa học (có thể nhập tổng số giờ nếu 2 hoặc 3 khóa cùng KOC)**.**
 5. Lựa chọn các Discount/Sponsor (Nếu có).
@@ -21,14 +21,14 @@
 8. Nhấn **** chọn <mark style="color:green;">**Auto-Enroll**</mark> : Chọn lớp, ngày bắt đầu học của học viên. Hệ thống sẽ tự động add học viên vào lớp, sau khi đã thực hiện thu tiền.
 {% endhint %}
 
-> Bước 3: Sau khi Save thành công, hệ thống hiện thị thông tin Payment như bên dưới. Cuối cùng thực hiện Thu Tiền học viên.
+> **Bước 3:** Sau khi Save thành công, hệ thống hiển thị thông tin Payment vừa được tạo ở bên dưới. Cuối cùng tiến hàng thực hiện thu tiền học viên.
 
 ![](../../.gitbook/assets/New\_Auto2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
 
-Hướng dẫn cách thức thu tiền : [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](payment-cashholder-mua-khoa-hoc.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
+Hướng dẫn cách thức thu tiền: [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](payment-cashholder-mua-khoa-hoc.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
 {% endhint %}
 
 > _Video hướng dẫn quản lý đăng ký học của học viên_

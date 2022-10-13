@@ -1,10 +1,10 @@
 # Thanh toán cho Payment
 
-> Bước 1: Đưa chuột vào module Payment, nhấn chọn Payment muốn thức hiện việc thanh toán.
+> **Bước 1:** Ở màn hình danh sách của module Payment, nhấn chọn Payment muốn thực hiện việc thanh toán.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment1.png)
 
-> Bước 2: Tại màn hình chi tiết của Payment, chọn Tab Subpanel “Receipt”. Sau đó, nhấn “Pay” để tiến hành thanh toán cho Payment.
+> **Bước 2:** Tại màn hình chi tiết của Payment, chọn tab Subpanel “Receipt”. Sau đó, nhấn “Pay” để tiến hành thanh toán cho Payment.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment2.png)
 
@@ -20,7 +20,7 @@
 3. Description : Nội dung thu tiền của khóa học theo tháng (User có thể bổ sung thêm nội dung).
 {% endhint %}
 
-> **Bước 4:**&#x20;> Màn hình thanh toán của Payment vừa tạo được hiển thị.
+> **Bước 4:**&#x20;> Màn hình thanh toán của Payment được hiển thị.
 
 ![](../../.gitbook/assets/ThanhToanChoPayment4.png)
 

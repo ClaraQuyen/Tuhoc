@@ -1,4 +1,4 @@
-# 📥 Import Target
+# Import Target
 
 {% hint style="success" %}
 **Ở qui trình Import Target có 6 bước:**

@@ -1,4 +1,4 @@
-# 📝 Chỉnh sửa Leads
+# Chỉnh sửa Leads
 
 {% hint style="success" %}
 **Ở qui trình chỉnh sửa Leads này có 3 bước:**

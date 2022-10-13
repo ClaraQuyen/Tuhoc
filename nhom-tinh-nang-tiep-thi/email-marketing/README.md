@@ -5,5 +5,5 @@ description: >-
   được coi là tiếp thị qua email.
 ---
 
-# Email Marketing
+# 📧 Email Marketing
 

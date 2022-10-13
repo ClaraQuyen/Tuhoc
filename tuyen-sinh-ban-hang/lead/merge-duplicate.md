@@ -1,4 +1,4 @@
-# 🤲 Merge Duplicate
+# Merge Duplicate
 
 {% hint style="success" %}
 **Ở qui trình này có 5 bước:**

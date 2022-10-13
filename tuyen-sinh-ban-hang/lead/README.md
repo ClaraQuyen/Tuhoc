@@ -4,7 +4,7 @@ description: >-
   gia học thử, thi thử vào các buổi PT/Demo .
 ---
 
-# Leads
+# 🎯 Leads
 
 ![Qui trình chăm sóc học viên tiềm năng (Leads)](<../../.gitbook/assets/ChamSocLeadspng (1).png>)
 

@@ -6,7 +6,7 @@
 Khi thực hiện chuyển học phí từ học viên A đến học viên B, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên A trước (Nếu học viên đang học trong lớp ), sau đó [**Convert Payment**](../../../admin-guide/drop-payment.md#convert-payment) sang Amount, cuối cùng sử dụng tính năng **Transfer Fee**  này để chuyển học phí đến cho học viên B.
 {% endhint %}
 
-> **Bước 1:** Đưa chuột vào phân hệ Student, nhấn vào học viên có nhu cầu chuyển nhượng học phí hoặc có thể tìm kiếm tên học viên, số điện thoại,… trên thanh công cụ search.
+> **Bước 1:** Ở màn hình danh sách của module **Student**, nhấn vào học viên có nhu cầu chuyển nhượng học phí hoặc có thể tìm kiếm tên học viên, số điện thoại,… trên thanh công cụ search.
 
 ![](../../../.gitbook/assets/nhuonghocphi1.png)
 

@@ -1,12 +1,26 @@
 # Quản lý chiết khấu (Discount)
 
-> **Bước 1:** Chọn chuột vào module **Discount** chọn **Create Discount.**
+{% hint style="success" %}
+**Ở qui trình tạo Discount có 3 bước:**
 
-![](<../../.gitbook/assets/discount1 (1).png>)
+Bước 1: Mở màn hình thêm mới Discount
 
-> **Bước 2:** Tại màn hình tạo mới chiết khấu, nhập đầy đủ các thông tin cần thiết, sau đó chọn **Save** để hoàn tất.
+Bước 2: Nhập các thông tin cần thiết
 
-![](<../../.gitbook/assets/discount2 (1).png>)
+Bước 3: Kết quả sau khi tạo mới Discount
+
+Bước 4: Chọn tab "Do not Apply with Discounts"
+
+Bước 5: Bấm chọn **Select** để link đến Discount bạn cần không được áp dụng đi kèm
+{% endhint %}
+
+> **Bước 1:** Ở màn hình danh sách của module **Discount,** chọn **Create Discount** để mở ra màn hình tạo mới Discount**.**
+
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 2:** Tại màn hình tạo mới chiết khấu, nhập đầy đủ các trường thông tin cần thiết, sau đó chọn **Save** để hoàn tất.
+
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
@@ -19,19 +33,18 @@
 ****:man\_raising\_hand: **Lưu ý**: Có thể chỉ nhập số tiền hoặc phần trăm Discount
 {% endhint %}
 
-> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của chiết khấu sau khi tạo thành công.
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của chiết khấu sau khi đã tạo thành công.
 
-![](../../.gitbook/assets/discount3.png)
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 4:** Sau khi tạo Discount thành công, kéo xuống supanel, chọn tab như hình bên dưới, để add Discount không được áp dụng đi kèm với Discount bạn tạo.
+> **Bước 4:** Sau khi tạo Discount thành công, kéo xuống supanel, chọn tab **"Do not Apply with Discounts"**, để add Discount không được áp dụng đi kèm với Discount bạn tạo.
 
-![](../../.gitbook/assets/discobt.png)
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 5:** Cuối cùng bấm chọn Select để link đến Discount bạn cần không được áp dụng đi kèm&#x20;
+> **Bước 5:** Bấm chọn **Select** để link đến Discount bạn cần không được áp dụng đi kèm.
 
-![](../../.gitbook/assets/disoct.png)
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Quản lí chiết khấu_
 
 {% embed url="https://youtu.be/Jty7SnANkZc" %}
-

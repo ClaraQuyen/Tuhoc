@@ -4,5 +4,5 @@ description: >-
   tin giống nhau.
 ---
 
-# 💾 Mass Update
+# Mass Update
 

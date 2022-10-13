@@ -1,4 +1,4 @@
-# 📥 Import Leads
+# Import Leads
 
 {% hint style="success" %}
 **Ở qui trình Import Leads có 6 bước:**

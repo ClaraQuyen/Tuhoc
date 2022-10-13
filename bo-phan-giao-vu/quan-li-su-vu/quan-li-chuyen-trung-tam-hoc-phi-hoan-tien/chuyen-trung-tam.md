@@ -10,7 +10,7 @@ Nếu học viên không có Delay thì sẽ [Convert Payment](https://help.dotb
 Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung tâm A đến cho trung tâm B.
 {% endhint %}
 
-> **Bước 1**: Đưa chuột vào phân hệ Student, chọn vào học viên có nhu cầu chuyển trung tâm hoặc có thể tìm kiếm tên học viên, số điện thoại,… trên thanh công cụ search.
+> **Bước 1**: Ở màn hình danh sách của module **Student**, chọn vào học viên có nhu cầu chuyển trung tâm hoặc có thể tìm kiếm tên học viên, số điện thoại,… trên thanh công cụ search.
 
 ![](../../../.gitbook/assets/chuyentrungtam1.png)
 

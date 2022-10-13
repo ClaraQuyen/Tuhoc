@@ -1,6 +1,6 @@
 # Payment Deposit
 
-> **Bước 1:** Đưa chuột vào menu **Payment** chọn **Create Payment**.
+> **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
 ![](../../.gitbook/assets/payment1.jpg)
 
@@ -11,7 +11,7 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-1. Lựa chọn học viên.&#x20;   Click vào biểu tượng <img src="../../.gitbook/assets/Enroll4.png" alt="" data-size="line"> , một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
+1. Lựa chọn học viên.&#x20;   Nhấn vào biểu tượng <img src="../../.gitbook/assets/Enroll4.png" alt="" data-size="line">, một popup xuất hiện, tìm kiếm và lựa chọn Học viên.
 2. Lựa chọn Khóa học
 3. Lựa chọn Payment Type là: **Deposit**
 4. Nhập số tiền đặt cọc**.**

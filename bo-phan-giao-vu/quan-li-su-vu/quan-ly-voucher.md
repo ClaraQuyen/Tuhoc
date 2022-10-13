@@ -1,6 +1,16 @@
 # Quản lý Voucher
 
-> **Bước 1:** Đưa chuột vào phân hệ Sponsors Code chọn **Create Voucher**.
+{% hint style="success" %}
+**Ở qui trình tạo Voucher có 3 bước:**
+
+Bước 1: Mở màn hình thêm mới Sponsor Code
+
+Bước 2: Nhập các thông tin cần thiết
+
+Bước 3: Kết quả sau khi tạo mới Sponsor Code
+{% endhint %}
+
+> **Bước 1:** Ở màn hình danh sách của module Sponsors Code chọn **Create Voucher** để mở ra màn hình tạo mới Voucher.
 
 ![](../../.gitbook/assets/Voucehră.png)
 

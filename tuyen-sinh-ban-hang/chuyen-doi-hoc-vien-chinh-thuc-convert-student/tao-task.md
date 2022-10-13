@@ -1,7 +1,7 @@
-# 🎯 Tạo Task
+# Tạo Task
 
 {% hint style="success" %}
-Ở qui trình tạo **Task** có 3 bước:
+**Ở qui trình tạo Task có 3 bước:**
 
 Bước 1: Mở ra màn hình thêm mới Task
 

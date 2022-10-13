@@ -1,4 +1,4 @@
-# 🎯 Tạo Lead
+# Tạo Lead
 
 {% hint style="success" %}
 **Ở qui trình tạo Lead có 3 bước:**
@@ -20,7 +20,7 @@ Bước 3: Xem chi tiết màn hình Lead vừa tạo
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tương tác.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Chi tiết của Lead vừa tạo.
 

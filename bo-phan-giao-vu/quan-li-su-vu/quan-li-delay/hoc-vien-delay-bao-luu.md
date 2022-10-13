@@ -1,6 +1,6 @@
 # Học viên Delay (Bảo lưu)
 
-> **Bước 1:** Đưa chuột vào module Classes, chọn lớp mà học viên muốn delay.
+> **Bước 1:** Ở màn hình danh sách của module Classes, chọn lớp mà học viên muốn delay.
 
 ![](../../../.gitbook/assets/HVdelay1.png)
 

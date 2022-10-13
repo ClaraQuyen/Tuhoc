@@ -1,4 +1,4 @@
-# 💻 Export - Update Lead hàng loạt từ Target
+# Export - Update Lead hàng loạt từ Target
 
 {% hint style="success" %}
 **Ở qui trình Export - Export Lead từ Target hàng loạt này có 3 bước:**

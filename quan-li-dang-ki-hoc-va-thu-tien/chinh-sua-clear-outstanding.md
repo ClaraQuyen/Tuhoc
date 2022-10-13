@@ -1,14 +1,16 @@
-# Chỉnh sửa (Clear Outstanding)
+# ☘ Chỉnh sửa (Clear Outstanding)
 
-Với payment học viên mua, bạn chỉ cần chọn thời gian học viên bắt đầu học (Nếu học viên vào học trể), sau đó chọn Payment học viên sử dụng để ghi danh trong lớp, hệ thống sẽ tự động tính ngày End học viên trong lớp.&#x20;
+{% hint style="info" %}
+Với payment học viên mua, bạn chỉ cần chọn thời gian học viên bắt đầu học (Nếu học viên vào học trễ), sau đó chọn Payment học viên sử dụng để ghi danh trong lớp, hệ thống sẽ tự động tính ngày End học viên trong lớp.&#x20;
 
-:tada:Nếu Payment học viên mua không đủ so với số giờ học của lớp, Khoảng thời gian còn lại, hệ thống sẽ hiện thị học viên Outstanding. Nếu bạn không muốn thông tin hiện thị Outstanding có thể Remove khoảng thời gian đó của học viên ra khỏi lớp bằng tính năng [<mark style="background-color:blue;"><mark style="color:red;">**Delay**<mark style="color:red;"></mark><mark style="background-color:blue;">.</mark>](https://app.gitbook.com/s/-LrHReb9JsrFo3TW8d7S/\~/changes/mKEnCKYJONS9os1Pgid2/tinh-nang-cap-nhat-moi/bao-luu-xoa-hoc-vien)<mark style="background-color:blue;"></mark>
+Nếu Payment học viên mua không đủ so với số giờ học của lớp, Khoảng thời gian còn lại, hệ thống sẽ hiện thị học viên Outstanding. Nếu bạn không muốn thông tin hiển thị Outstanding có thể Remove khoảng thời gian đó của học viên ra khỏi lớp bằng tính năng <mark style="background-color:blue;"><mark style="color:red;">**Delay**<mark style="color:red;"></mark><mark style="background-color:blue;">.</mark>
+{% endhint %}
 
-> **Bước 1:** Đưa chuột vào Module **Classes** , chọn lớp cần thêm học viên vào lớp.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn lớp cần <mark style="color:orange;">**Clear OutStanding**</mark> học viên vào lớp.
 
-![](../.gitbook/assets/HocDemo1.png)
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình chi tiết Classes, Click tab Subpanel “**Student Situations**”. Sau đó click chọn "<mark style="color:green;">**Enroll Students**</mark>" hoặc "**Enroll**".
+> **Bước 2:** Tại màn hình chi tiết **Classes**, nhấn vào tab Subpanel “**Student Situations**”. Sau đó nhấn chọn "<mark style="color:green;">**Enroll Students**</mark>" hoặc "**Enroll**".
 
 ![](../.gitbook/assets/edit1.png)
 
@@ -18,13 +20,13 @@ Ghi chú:
 1. Thông tin học viên Đang học, Học Demo, Bảo Lưu, Học Nợ trong lớp.
 2. Thông tin học viên trong lớp:&#x20;
 
-:point\_right:<mark style="color:green;">**Enrolled**</mark>** (Màu xanh)**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
+<mark style="color:green;">**Enrolled**</mark>** (Màu xanh)**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
 
-:point\_right: <mark style="color:orange;">**Outstanding**</mark>** (**Màu Cam**)** : Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
+<mark style="color:orange;">**Outstanding**</mark>** (**Màu Cam**)**: Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
 
-:point\_right: <mark style="color:blue;">**Demo**</mark> (Màu xanh dương) : Học viên học thử trong lớp
+<mark style="color:blue;">**Demo**</mark> (Màu xanh dương): Học viên học thử trong lớp
 
-:point\_right:Học viên k đăng kí học trong 1 khoảng thời gian (Màu xám)
+Học viên không đăng kí học trong 1 khoảng thời gian (Màu xám)
 {% endhint %}
 
 > **Bước 3:** Chọn <mark style="color:orange;">**Load Outstanding**</mark>** (1), **<mark style="color:orange;">****</mark> hệ thống sẽ load danh sách học viên đang học nợ trong Lớp, tiếp theo chọn payment (2) mà học viên đã mua để enroll vào lớp (mặc định hệ thống sẽ tự lấy payment nếu cùng KOC), có thể  chọn 1 hoặc nhiều học viên để ghi danh học viên (Clear Outstanding). Cuối cùng nhấn vào <mark style="color:green;">**Enroll**</mark> (3) để ghi danh học viên.
@@ -40,7 +42,7 @@ Ghi chú:
 
 :stop\_button: Add thêm học viên hàng loạt, có thể chọn hàng loạt hoặc chọn từng học viên.
 
-2: Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học )
+3\. Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học )
 {% endhint %}
 
 ![](../.gitbook/assets/addhv.png)
@@ -51,7 +53,7 @@ Ghi chú:
 
 ![](<../.gitbook/assets/3 (1).jpg>)
 
-> **Bước 3:** Màn hình hiển thị thông tin học viên sau khi chỉnh sửa Enroll thành công.
+> **Bước 4:** Màn hình hiển thị thông tin học viên sau khi chỉnh sửa Enroll thành công.
 
 ![](../.gitbook/assets/dela3.png)
 

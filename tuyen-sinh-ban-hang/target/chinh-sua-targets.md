@@ -1,4 +1,4 @@
-# 📝 Chỉnh sửa Target
+# Chỉnh sửa Target
 
 {% hint style="success" %}
 **Ở qui trình chỉnh sửa Targets này có 3 bước:**
@@ -12,7 +12,7 @@ Bước 3: Kết quả sau khi chỉnh sửa Target
 
 > **Bước 1:** Ở màn hình danh sách của module **Targets**, ta chọn học viên cần thay đổi thông tin để mở ra màn hình chỉnh sửa **Targets**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình thông tin chi tiết của **Targets**, ta nhấp chuột vào button **Edit**, nhập những thông tin cần chỉnh sửa. Sau đó, nhấn vào button **Save** để hoàn tất việc chỉnh sửa **Target**.
 

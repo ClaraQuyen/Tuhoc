@@ -1,10 +1,10 @@
 ---
 description: >-
-  Convert Leads thành học viên chính thức khi Leads deposit hoặc đăng kí gói học
+  Convert Leads thành học viên chính thức khi Leads Deposit hoặc đăng kí gói học
   ở trung tâm.
 ---
 
-# Students
+# 👨🎓 Students
 
 ![](../../.gitbook/assets/Edu\_ChamSocStudetns.png)
 

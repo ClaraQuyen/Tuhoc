@@ -1,4 +1,14 @@
-# ☎ Gửi SMS theo Lớp
+# Gửi SMS theo Lớp
+
+{% hint style="success" %}
+**Ở qui trình gửi SMS theo Lớp có 3 bước:**
+
+Bước 1: Chọn lớp học cần gửi SMS
+
+Bước 2: Nhấn vào button **Attendance & Homework**
+
+Bước 3: Nhấn chọn gửi SMS
+{% endhint %}
 
 > **Bước 1:** Ở màn hình danh sách của module **Classes,** chọn lớp học cần gửi SMS để thông báo nghỉ học, khai giảng, học phí… đến cho học viên.
 
@@ -10,7 +20,7 @@
 
 > **Bước 3:** Tại màn hình **Attendance and Homework**, nhấn chọn Send SMS.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:

@@ -1,6 +1,6 @@
 # Tạo phí Delay (Charge Delay Fee)
 
-> **Bước 1:** Đưa chuột vào Menu Payment chọn Create Payment.
+> **Bước 1:** Ở màn hình danh sách của module Payment chọn Create Payment.
 
 ![](../../../.gitbook/assets/tạodelay1.png)
 

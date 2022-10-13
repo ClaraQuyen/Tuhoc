@@ -1,12 +1,28 @@
-# 📳 Gửi SMS theo Report
+# Gửi SMS theo Report
+
+{% hint style="success" %}
+**Ở qui trình gửi SMS theo Report có 3 bước:**
+
+Bước 1: Chọn báo cáo&#x20;
+
+Bước 2: Export file Excel
+
+Bước 3: Tải file Excel về máy
+
+Bước 4: Chọn Send SMS
+
+Bước 5: Chọn tải **Template SMS List** theo mẫu hệ thống và đưa danh sách học viên vào Template SMS List
+
+Bước 6: Nhấn Send để gửi tin nhắn
+{% endhint %}
 
 > **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Payment List Report".
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình báo cáo chi tiết những khoản thu với trạng thái thanh toán là **"Unpaid"**, chọn **Export Excel** khi đi Apply (xem báo cáo trước khi xuất báo cáo ra file).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú** :
@@ -36,9 +52,9 @@
 
 ![](../../.gitbook/assets/SMS\_report8.png)
 
-> **Bước 6:**> &#x20;Sau khi có được file dữ liệu như mẫu, tiến hành import vào hệ thống. Cuối cùng click **Send** để gửi tin nhắn.
+> **Bước 6:**> &#x20;Sau khi có được file dữ liệu như mẫu, tiến hành import vào hệ thống. Cuối cùng nhấn **Send** để gửi tin nhắn.
 
-> Sau khi Upload file lên hệ thống, click **Submit** hệ thống sẽ hiện thị danh sách học viên nhận được tin nhắn của trung tâm.
+> Sau khi Upload file lên hệ thống, nhấn **Submit** hệ thống sẽ hiển thị danh sách học viên nhận được tin nhắn của trung tâm.
 
 ![](../../.gitbook/assets/SMS\_repport9.png)
 

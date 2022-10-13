@@ -5,7 +5,7 @@ description: >-
   Kết thúc ngày học của học viên trong lớp
 ---
 
-# Thêm học viên vào lớp
+# 🏛 Thêm học viên vào lớp
 
 :tada:Với payment học viên mua, bạn chỉ cần chọn thời gian học viên bắt đầu học (Nếu học viên vào học trể), sau đó chọn Payment học viên sử dụng để ghi danh trong lớp, hệ thống sẽ tự động tính ngày End học viên trong lớp.&#x20;
 
@@ -17,7 +17,7 @@ description: >-
 Để Edit lại ngày bắt đầu học của học viên, phải [<mark style="color:red;">**>>Delay<<**</mark>](bao-luu-xoa-hoc-vien.md) học viên ra khỏi lớp, rồi add lại -> Dùng tính năng thêm học viên vào Lớp như hướng dẫn bên dưới :point\_down:.
 {% endhint %}
 
-> **Bước 1:** Đưa chuột vào Module **Classes** , chọn lớp cần thêm học viên vào lớp.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn lớp cần thêm học viên vào lớp.
 
 ![](../.gitbook/assets/HocDemo1.png)
 
@@ -25,7 +25,7 @@ description: >-
 
 ![](<../.gitbook/assets/1 (9).png>)
 
-> Bước 3: Nhấn vào **Select Student** hoặc chọn học viên từ lớp khác để chọn học viên add vào lớp (có thể chọn 1 hoặc nhiều học viên),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp (Nếu học viên vào học trể), tiếp theo chọn payment mà học viên đã mua để enroll vào lớp (mặc định hệ thống sẽ tự lấy payment nếu cùng KOC).
+> **Bước 3:** Nhấn vào **Select Student** hoặc chọn học viên từ lớp khác để chọn học viên add vào lớp (có thể chọn 1 hoặc nhiều học viên),chọn ngày bắt đầu, ngày kết thúc để đưa học viên vào lớp (Nếu học viên vào học trể), tiếp theo chọn payment mà học viên đã mua để enroll vào lớp (mặc định hệ thống sẽ tự lấy payment nếu cùng KOC).
 
 ![](<../.gitbook/assets/2 (8).png>)
 

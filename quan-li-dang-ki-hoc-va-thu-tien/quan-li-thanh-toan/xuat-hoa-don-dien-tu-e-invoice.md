@@ -10,15 +10,16 @@ description: >-
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: Ghi chú:
 
-* **Lưu ý:** Chức năng của hóa đơn điện tử chỉ hoạt động khi Đơn vị có sử dụng HT E-invoice và đã được cài đặt lên hệ thống EMS.
-* **Chi tiết:** Mọi thông tin về cài đặt vui lòng liên hệ bộ phận IT Administrator để được giải đáp.
+**Lưu ý:** Chức năng của hóa đơn điện tử chỉ hoạt động khi Đơn vị có sử dụng HT E-invoice và đã được cài đặt lên hệ thống EMS.
+
+**Chi tiết:** Mọi thông tin về cài đặt vui lòng liên hệ bộ phận IT Administrator để được giải đáp.
 {% endhint %}
 
-> **Bước 1:** Đưa chuột vào phân hệ Payment, chọn Payment muốn thực hiện việc xuất hóa đơn điện tử (E-invoice).
+> **Bước 1:** Ở màn hình danh sách của module **Payment**, chọn **Payment** muốn thực hiện việc xuất hóa đơn điện tử (E-invoice).
 
 ![](<../../.gitbook/assets/image (81) (1).png>)
 
-> Bước 2:&#x20;> Tại màn hình chi tiết của Payment, chọn Tab Subpanel “Receipt”. Nhấn chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
+> **Bước 2:**&#x20;> Tại màn hình chi tiết của Payment, chọn tab Subpanel “Receipt”. Nhấn chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 
 ![](../../.gitbook/assets/E-Invoice.jpg)
 
@@ -28,7 +29,7 @@ description: >-
 
 ![](<../../.gitbook/assets/image (86).png>)
 
-> Bước 3: Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử. Click **OK**.
+> **Bước 3:** Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử, và nhấn **OK**.
 
 ![](<../../.gitbook/assets/image (92).png>)
 
@@ -40,7 +41,7 @@ description: >-
 {% endhint %}
 
 {% hint style="success" %}
-:man\_raising\_hand: Lưu ý: Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
+:man\_raising\_hand: **Lưu ý:** Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
 ![](<../../.gitbook/assets/image (93).png>)
@@ -54,5 +55,3 @@ description: >-
 {% endhint %}
 
 > _Video hướng dẫn Tích hóa đơn điện tử_
-
-{% embed url="https://youtu.be/AZZ6wWOATsw" %}

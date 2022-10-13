@@ -4,7 +4,7 @@ description: >-
   tin giống nhau.
 ---
 
-# 💾 Mass Update
+# Mass Update
 
 > _Video hướng dẫn cập nhật dữ liệu hàng loạt_
 
