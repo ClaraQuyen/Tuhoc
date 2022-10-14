@@ -2,7 +2,7 @@
 
 > Khi tìm kiếm theo từ khóa, người dùng lưu ý phải luôn có dấu _**%**_ phía trước kí tự cần search.
 
-<figure><img src="../../../.gitbook/assets/image (53) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (53) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú:**
