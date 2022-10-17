@@ -174,7 +174,7 @@
 * [📇 Gửi kết quả học tập](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-hoc-tap.md)
 * [📟 Upload hình ảnh học tập](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
 * [📰 Marketing - News](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
-* [Nhận và gửi phản hồi về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/nhan-va-gui-phan-hoi-ve-phu-huynh.md)
+* [🌱 Nhận và gửi phản hồi về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/nhan-va-gui-phan-hoi-ve-phu-huynh.md)
 * [Thông tin học phí](tinh-nang-danh-cho-parents-app-tren-crm/thong-tin-hoc-phi.md)
 
 ***
@@ -188,18 +188,18 @@
 
 ## Admin Guide
 
-* [Convert - Drop Payment](admin-guide/drop-payment.md)
+* [🏬 Convert - Drop Payment](admin-guide/drop-payment.md)
   * [Convert Payment](admin-guide/drop-payment/convert-payment.md)
   * [Drop Payment](admin-guide/drop-payment/drop-payment.md)
-* [Thông tin số dư khi đổi giờ](admin-guide/thong-tin-so-du-khi-doi-gio.md)
-* [Inventory](admin-guide/inventory/README.md)
+* [ℹ Thông tin số dư khi đổi giờ](admin-guide/thong-tin-so-du-khi-doi-gio.md)
+* [🗂 Inventory](admin-guide/inventory/README.md)
   * [Product Catalog](admin-guide/inventory/product-catalog.md)
   * [Product Categories](admin-guide/inventory/product-categories.md)
   * [Product Types](admin-guide/inventory/product-types.md)
   * [Inventory](admin-guide/inventory/inventory.md)
-* [Đẩy dữ liệu về database trung gian NAV ERP](admin-guide/day-du-lieu-ve-database-trung-gian-nav-erp.md)
+* [📥 Đẩy dữ liệu về database trung gian NAV ERP](admin-guide/day-du-lieu-ve-database-trung-gian-nav-erp.md)
 * [Cấu hình HDDT](admin-guide/cau-hinh-hddt.md)
-* [Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users/README.md)
+* [🤹♀ Tạo và phân quyền cho users](admin-guide/tao-va-phan-quyen-cho-users/README.md)
   * [Tạo Role](admin-guide/tao-va-phan-quyen-cho-users/tao-role.md)
   * [Tạo Center](admin-guide/tao-va-phan-quyen-cho-users/tao-center.md)
   * [Tạo Users](admin-guide/tao-va-phan-quyen-cho-users/tao-users.md)
@@ -207,26 +207,26 @@
     * [Set Center mặc định, (cách 1)](admin-guide/tao-va-phan-quyen-cho-users/phan-quyen-cho-users/set-center-mac-dinh-cach-1.md)
     * [Phân quyền cho Users (Cách 2)](admin-guide/tao-va-phan-quyen-cho-users/phan-quyen-cho-users/phan-quyen-cho-users-cach-2.md)
     * [Đổi thông tin, mật khẩu đăng nhập](admin-guide/tao-va-phan-quyen-cho-users/phan-quyen-cho-users/doi-thong-tin-mat-khau-dang-nhap.md)
-* [Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
-* [Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
-* [Cấu hình SMS](admin-guide/cau-hinh-sms.md)
-* [Cấu hình Search](admin-guide/search.md)
-* [Cấu hình thư viện ảnh, tài liệu trong KOC](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc/README.md)
+* [📅 Quản lí lịch nghỉ lễ trong năm](admin-guide/quan-li-lich-nghi-le-trong-nam.md)
+* [📞 Cấu hình Call Center](admin-guide/cau-hinh-call-center.md)
+* [☎ Cấu hình SMS](admin-guide/cau-hinh-sms.md)
+* [🔎 Cấu hình Search](admin-guide/search.md)
+* [📟 Cấu hình thư viện ảnh, tài liệu trong KOC](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc/README.md)
   * [Cấu hình Thư viện ảnh - Google Drive](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc/cau-hinh-thu-vien-anh-google-drive.md)
   * [Cấu hình URL Document trong Kind of Courses](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc/cau-hinh-url-document-trong-kind-of-courses.md)
   * [Cấu hình HotLine](admin-guide/cau-hinh-thu-vien-anh-tai-lieu-trong-koc/cau-hinh-hotline.md)
-* [Cấu hình logo trên EMS](admin-guide/cau-hinh-logo-tren-ems.md)
-* [Xử lí dữ liệu](admin-guide/xu-li-du-lieu.md)
-* [Cấu hình Dropdown Editor](admin-guide/cau-hinh-dropdown-editor/README.md)
+* [💬 Cấu hình logo trên EMS](admin-guide/cau-hinh-logo-tren-ems.md)
+* [🇲🇬 Xử lí dữ liệu](admin-guide/xu-li-du-lieu.md)
+* [⚙ Cấu hình Dropdown Editor](admin-guide/cau-hinh-dropdown-editor/README.md)
   * [Cấu hình Dropdown Kind of Courses](admin-guide/cau-hinh-dropdown-editor/cau-hinh-dropdown-kind-of-courses.md)
   * [Cấu hình Dropdown Channel](admin-guide/cau-hinh-dropdown-editor/cau-hinh-dropdown-channel.md)
 
 ## Teacher Guide
 
-* [Thông tin lớp giảng dạy](teacher-guide/thong-tin-lop-giang-day.md)
-* [Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
-* [Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
-* [Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)
+* [🏚 Thông tin lớp giảng dạy](teacher-guide/thong-tin-lop-giang-day.md)
+* [📆 Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
+* [🙍 Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
+* [🗓 Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)
 
 ## Tính Năng Cập Nhật Mới
 
