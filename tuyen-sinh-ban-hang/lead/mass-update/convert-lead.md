@@ -20,4 +20,4 @@ Bước 3: Hệ thống hiển thị thông báo thành công
 
 > **Bước 3:** Hệ thống sẽ thông báo Update thành công.
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23) (1) (2).png" alt=""><figcaption></figcaption></figure>

@@ -14,7 +14,7 @@ Bước 4: Hệ thống hiển thị thông tin Students mới được tạo
 
 > **Bước 1:** Ở màn hình danh sách của module Leads, chọn Lead muốn chuyển đổi thành HV chính thức.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:**&#x20;> Tại màn hình thông tin chi tiết của Lead, chọn **Convert to Student** để chuyển đổi HV chính thức.
 

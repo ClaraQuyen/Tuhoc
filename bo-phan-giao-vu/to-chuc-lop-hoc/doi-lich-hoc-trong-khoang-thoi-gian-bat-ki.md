@@ -1,6 +1,6 @@
 # Đổi lịch học trong khoảng thời gian bất kì
 
-> **Bước 1:** Nhấn chuột vào phân hệ Classes, sau đó chọn lớp muốn đổi lịch học.
+> **Bước 1:** Ở màn hình danh sách của module Classes, sau đó chọn lớp muốn đổi lịch học.
 
 ![](../../.gitbook/assets/doingaykhaigiang.png)
 

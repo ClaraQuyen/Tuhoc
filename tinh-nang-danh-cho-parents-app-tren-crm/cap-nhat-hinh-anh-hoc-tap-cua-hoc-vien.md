@@ -4,7 +4,7 @@ description: >-
   trong các buổi dã ngoại hoặc event mà trung tâm gửi về cho Phụ Huynh.
 ---
 
-# Upload hình ảnh học tập
+# 📟 Upload hình ảnh học tập
 
 > **Bước 1:** Ở màn hình danh sách của module **Gallery**, chọn **Create Gallery**.&#x20;
 

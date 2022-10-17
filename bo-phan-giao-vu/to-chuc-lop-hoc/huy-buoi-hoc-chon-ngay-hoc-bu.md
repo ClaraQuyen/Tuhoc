@@ -1,14 +1,14 @@
 # Hủy buổi học/chọn ngày học bù
 
-> **Bước 1:** Chọn chuột vào module Classes, chọn lớp mà Giáo viên đang dạy muốn hủy buổi học.
+> **Bước 1:** Ở màn hình danh sách của module Classes, chọn Lớp mà Giáo viên đang dạy muốn hủy buổi học.
 
-![](../../.gitbook/assets/hocbu.png)
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:**&#x20;> Tại màn hình Classes chọn vào Tab Session, hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, chọn vào cancel để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
+> **Bước 2:**&#x20;> Tại màn hình chi tiết của Classes, ta chọn vào Tab Session, hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, chọn vào cancel để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
 
-![](../../.gitbook/assets/hocbu2.png)
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Tại màn hình hủy buổi học,nhập thông tin lý do hủy lớp, chọn ngày dạy bù cho giáo viên
+> **Bước 3:** Tại màn hình hủy buổi học, nhập thông tin lý do hủy lớp, chọn ngày dạy bù cho giáo viên
 
 ![](../../.gitbook/assets/hocbu3.png)
 

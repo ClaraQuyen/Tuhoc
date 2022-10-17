@@ -2,7 +2,7 @@
 description: Gửi thông báo điểm danh, Ghi nhận học viên làm bài tập sau mỗi buổi học.
 ---
 
-# Gửi kết quả điểm danh, nội dung bài học
+# 📕 Gửi kết quả điểm danh, nội dung bài học
 
 > &#x20;**Bước 1:** Ở màn hình danh sách của module Classes, sau đó nhấn chọn lớp cần gửi SMS, nội dung bài học, điểm danh đến cho học viên.
 

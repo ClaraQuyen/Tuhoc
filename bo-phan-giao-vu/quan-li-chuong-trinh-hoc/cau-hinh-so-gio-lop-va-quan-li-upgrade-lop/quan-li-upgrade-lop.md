@@ -22,7 +22,7 @@
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi Upgrade thành công.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 5:** Khi upgrade lớp mới, ở subpanel nhấn vào tab **Students Situation**, sau đó nhấn vào button "**Enroll Students**".
 
@@ -62,4 +62,4 @@
 
 > **Bước 8:** Màn hình hiển thị danh sách học viên khi thêm học viên vào lớp đã upgrade thành công.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

@@ -7,9 +7,9 @@ description: >-
 
 # Xếp Room
 
-> **Bước 1:** Nhấn chuột vào module Class, sau đó chọn lớp mà muốn xếp Room giảng dạy cho Giáo viên.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, sau đó chọn lớp mà bạn muốn xếp phòng giảng dạy cho Giáo viên.
 
-![](../../.gitbook/assets/XepLichDay1.png)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:**&#x20;> Tại màn hình chi tiết của Lớp học, nhấn vào tab **Sessions,** sau đó nhấn vào **Schedule Teacher/TA/Room.**
 

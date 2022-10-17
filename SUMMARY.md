@@ -149,11 +149,10 @@
   * [Hủy buổi học/chọn ngày học bù](bo-phan-giao-vu/to-chuc-lop-hoc/huy-buoi-hoc-chon-ngay-hoc-bu.md)
   * [Đổi ngày khai giảng](bo-phan-giao-vu/to-chuc-lop-hoc/doi-ngay-khai-giang.md)
   * [Đổi lịch học trong khoảng thời gian bất kì](bo-phan-giao-vu/to-chuc-lop-hoc/doi-lich-hoc-trong-khoang-thoi-gian-bat-ki.md)
-  * [Quản lí lịch nghỉ lễ trong năm](bo-phan-giao-vu/to-chuc-lop-hoc/quan-li-lich-nghi-le-trong-nam.md)
+  * [Quản lý lịch nghỉ lễ trong năm](bo-phan-giao-vu/to-chuc-lop-hoc/quan-li-lich-nghi-le-trong-nam.md)
 * [🧑🏫 Quản lý giáo viên và TA](bo-phan-giao-vu/quan-li-giao-vien-va-ta/README.md)
-  * [Quản lí thông tin giáo viên, hợp đồng](bo-phan-giao-vu/quan-li-giao-vien-va-ta/quan-li-thong-tin-giao-vien-hop-dong/README.md)
-    * [Tạo giáo viên](bo-phan-giao-vu/quan-li-giao-vien-va-ta/quan-li-thong-tin-giao-vien-hop-dong/tao-giao-vien.md)
-    * [Tạo hợp đồng](bo-phan-giao-vu/quan-li-giao-vien-va-ta/quan-li-thong-tin-giao-vien-hop-dong/tao-hop-dong.md)
+  * [Tạo giáo viên](bo-phan-giao-vu/quan-li-giao-vien-va-ta/tao-giao-vien.md)
+  * [Tạo hợp đồng](bo-phan-giao-vu/quan-li-giao-vien-va-ta/tao-hop-dong.md)
   * [Xếp lịch giảng dạy](bo-phan-giao-vu/quan-li-giao-vien-va-ta/xep-lich-giang-day.md)
   * [Quản lí giờ phụ đạo, event, admin](bo-phan-giao-vu/quan-li-giao-vien-va-ta/quan-li-gio-phu-dao-event-admin.md)
 * [🏰 Quản lí lớp học](bo-phan-giao-vu/quan-li-lop-hoc/README.md)
@@ -169,18 +168,18 @@
 
 ## Tính năng dành cho Parents App trên CRM
 
-* [Cập nhật hồ sơ học viên, mật khẩu](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-ho-so-hoc-vien.md)
-* [Gửi thông báo nghỉ học, học bù](tinh-nang-danh-cho-parents-app-tren-crm/gui-thong-bao-nghi-hoc-hoc-bu-send-app-message.md)
-* [Gửi kết quả điểm danh, nội dung bài học](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh-noi-dung-bai-hoc.md)
-* [Gửi kết quả học tập](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-hoc-tap.md)
-* [Upload hình ảnh học tập](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
-* [Marketing - News](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
+* [👩🎓 Cập nhật hồ sơ học viên, mật khẩu](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-ho-so-hoc-vien.md)
+* [🔔 Gửi thông báo nghỉ học, học bù](tinh-nang-danh-cho-parents-app-tren-crm/gui-thong-bao-nghi-hoc-hoc-bu-send-app-message.md)
+* [📕 Gửi kết quả điểm danh, nội dung bài học](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-diem-danh-ve-phu-huynh-noi-dung-bai-hoc.md)
+* [📇 Gửi kết quả học tập](tinh-nang-danh-cho-parents-app-tren-crm/gui-ket-qua-hoc-tap.md)
+* [📟 Upload hình ảnh học tập](tinh-nang-danh-cho-parents-app-tren-crm/cap-nhat-hinh-anh-hoc-tap-cua-hoc-vien.md)
+* [📰 Marketing - News](tinh-nang-danh-cho-parents-app-tren-crm/marketing-gui-thong-bao-cac-su-kien-hoat-dong-cua-trung-tam..md)
 * [Nhận và gửi phản hồi về Phụ Huynh](tinh-nang-danh-cho-parents-app-tren-crm/nhan-va-gui-phan-hoi-ve-phu-huynh.md)
 * [Thông tin học phí](tinh-nang-danh-cho-parents-app-tren-crm/thong-tin-hoc-phi.md)
 
 ***
 
-* [Báo cáo - Báo biểu BOD](bao-cao-bao-bieu-bod/README.md)
+* [🏬 Báo cáo - Báo biểu BOD](bao-cao-bao-bieu-bod/README.md)
   * [Báo cáo Doanh thu theo Center trong tháng](bao-cao-bao-bieu-bod/bao-cao-doanh-thu-theo-center-trong-thang.md)
   * [Báo cáo Commission theo Center trong tháng](bao-cao-bao-bieu-bod/bao-cao-commission-theo-center-trong-thang.md)
   * [Báo Cáo Tổng Commission theo Users trong tháng](bao-cao-bao-bieu-bod/bao-cao-tong-commission-theo-users-trong-thang.md)
@@ -224,7 +223,6 @@
 
 ## Teacher Guide
 
-* [Đăng nhập](teacher-guide/dang-nhap.md)
 * [Thông tin lớp giảng dạy](teacher-guide/thong-tin-lop-giang-day.md)
 * [Lịch dạy trong tuần](teacher-guide/lich-day-trong-tuan.md)
 * [Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)

@@ -1,6 +1,6 @@
 # Đổi ngày khai giảng
 
-> **Bước 1:** Nhấn chuột vào module Classes, nhấn chọn Lớp mà bạn muốn đổi ngày khai giảng.
+> **Bước 1:** Ở màn hình danh sách của module Classes, nhấn chọn Lớp mà bạn muốn đổi ngày khai giảng.
 
 ![](../../.gitbook/assets/doingaykhaigiang.png)
 

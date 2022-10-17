@@ -16,7 +16,7 @@ Bước 3: Xem chi tiết màn hình Lead vừa tạo
 
 > **Bước 2:** Tại màn hình tạo mới **Leads**, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một **Leads** mới.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tương tác.
 

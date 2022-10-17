@@ -1,6 +1,6 @@
 # Điểm danh học viên
 
-> **Bước 1:** Click chuột vào module Classes sau đó click chọn lớp cần gửi điểm danh.
+> **Bước 1:** Ở màn hình danh sách của module Classes sau đó click chọn lớp cần gửi điểm danh.
 
 ![](../.gitbook/assets/Điemanh1.png)
 

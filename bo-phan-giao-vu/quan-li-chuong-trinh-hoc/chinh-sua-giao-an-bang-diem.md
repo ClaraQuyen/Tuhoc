@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình chỉnh sửa thông tin chương trình học, nhập đầy đủ các trường thông tin cần thiết. Sau đó nhấn chọn **Create** để Edit giáo án cho một chương trình học.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Sau đó nhập đầy đủ thông tin và chọn **Save**.
 

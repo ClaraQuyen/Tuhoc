@@ -2,7 +2,7 @@
 description: Gửi thông báo các sự kiện, hoạt động của trung tâm.
 ---
 
-# Marketing - News
+# 📰 Marketing - News
 
 > **Bước 1:** Ở màn hình danh sách của module **News**, chọn **Create News**.&#x20;
 

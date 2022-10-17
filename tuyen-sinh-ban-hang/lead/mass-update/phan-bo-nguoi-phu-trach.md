@@ -30,7 +30,7 @@ Bước 6: Hệ thống hiển thị thông báo thành công
 
 > **Bước 4:** Chọn **Mass Update** để phân bổ cho người phụ trách.
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 5:** Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng nhấn chọn **Update**.
 

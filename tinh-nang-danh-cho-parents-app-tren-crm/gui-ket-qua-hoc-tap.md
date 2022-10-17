@@ -1,4 +1,4 @@
-# Gửi kết quả học tập
+# 📇 Gửi kết quả học tập
 
 > **Bước 1:** Ở màn hình danh sách của module Class chọn View Classes, sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
 

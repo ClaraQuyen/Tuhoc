@@ -14,7 +14,7 @@ Bước 4: Kết quả thêm học viên thành công
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi **Demo** cần thêm học viên.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của buổi Demo, chọn tab Subpanel “Demo”. Sau đó chọn học viên cần Add vào buổi Demo.
 

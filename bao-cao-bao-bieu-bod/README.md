@@ -1,4 +1,4 @@
-# Báo cáo - Báo biểu BOD
+# 🏬 Báo cáo - Báo biểu BOD
 
 > _Video hướng dẫn xem báo cáo_
 

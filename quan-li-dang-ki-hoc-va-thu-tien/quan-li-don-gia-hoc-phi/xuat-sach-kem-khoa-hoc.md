@@ -4,7 +4,7 @@
 >
 > Chúng ta chọn hồ sơ học viên, chọn tab **Payments: Book/Gift,** và chọn **Create Payment.**
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một tạo mới thanh toán.
 
@@ -20,4 +20,4 @@
 
 > **Bước 4:** Xuất phiếu thu kèm theo bằng bước sau (Nếu có).
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
