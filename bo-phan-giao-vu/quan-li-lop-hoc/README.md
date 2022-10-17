@@ -1,4 +1,4 @@
-# Quản lí lớp học
+# 🏰 Quản lí lớp học
 
 ## Danh sách học viên, thông tin đăng kí
 
@@ -125,7 +125,7 @@ Nhập điểm học viên (Màu trắng bạn nhập, màu đậm hơn bạn kh
 
 Click vào comment, giáo viên nhập comment cho học viên sau đó click Post để lưu lên hệ thống &#x20;
 
-![](../../.gitbook/assets/2020-08-13\_16-19-53.jpg)&#x20;
+<img src="../../.gitbook/assets/2020-08-13_16-19-53.jpg" alt="" data-size="original">&#x20;
 {% endhint %}
 
 > Bước 5: Sau khi input bảng điểm , click **Export to Exce**l để xuất kết quả cuối kì/giữa kì.

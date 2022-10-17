@@ -1,6 +1,6 @@
 # Thêm học viên vào Lớp
 
-> **Bước 1:** Đưa chuột vào Menu Classes, chọn lớp cần thêm học viên vào lớp học nợ.
+> **Bước 1:** Ở màn hình danh sách của module Classes, chọn lớp cần thêm học viên vào lớp học nợ.
 
 ![](../../.gitbook/assets/HocDemo1.png)
 

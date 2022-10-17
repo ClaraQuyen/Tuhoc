@@ -4,7 +4,7 @@ description: Gửi thông báo điểm danh, Ghi nhận học viên làm bài t�
 
 # Gửi kết quả điểm danh, nội dung bài học
 
-> &#x20;**Bước 1:** Nhấn chuột vào module Classes, sau đó nhấn chọn lớp cần gửi SMS, nội dung bài học, điểm danh đến cho học viên.
+> &#x20;**Bước 1:** Ở màn hình danh sách của module Classes, sau đó nhấn chọn lớp cần gửi SMS, nội dung bài học, điểm danh đến cho học viên.
 
 ![](../.gitbook/assets/LamBT1.png)
 

@@ -14,7 +14,7 @@ Bước 4: Kết quả thêm học viên thành công
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi **Placement Test** cần thêm học viên.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của buổi PT, nhấn chọn tab subpanel “Placement Test”. Sau đó chọn học viên cần Add vào buổi Placement Test.
 
@@ -48,4 +48,4 @@ Bước 4: Kết quả thêm học viên thành công
 
 <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

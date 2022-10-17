@@ -2,7 +2,7 @@
 
 ## Status: In
 
-> **Bước 1:** Nháy chuột vào module Inventory. Chọn Create.
+> **Bước 1:** Ở màn hình danh sách của module Inventory. Chọn Create.
 
 ![](<../../.gitbook/assets/image (134).png>)
 
@@ -33,7 +33,7 @@
 
 > **Bước 1:** Đầu tiên, chúng ta tiến hành tạo mới Payment cho học viên bằng cách "Create Payment".
 
-![](<../../.gitbook/assets/image (4) (2) (1).png>)
+![](<../../.gitbook/assets/image (4) (2) (1) (1).png>)
 
 > **Bước 2:** Màn hình tạo mới Payment hiện ra, chúng ta tiến hành tạo với Payment Type là "Book/Gift".
 
@@ -57,7 +57,7 @@ Chú ý:
 
 > **Bước 4:** Chi tiết hóa đơn vừa tạo và tiến hành "Edit" trạng thái.
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2) (1).png>)
 
 > **Bước 5:** Sau đó, tiến hành chuyển trạng thái từ "Unconfirmed" thành "Confirmed" và Save lại.
 

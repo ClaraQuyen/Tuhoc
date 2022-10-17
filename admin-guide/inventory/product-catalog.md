@@ -1,6 +1,6 @@
 # Product Catalog
 
-> **Bước 1:** Ở module Admin, nhấn chuột vào Admin để mở ra màn hình Admin.
+> **Bước 1:** Ở màn hình danh sách của module Admin, nhấn chuột vào Admin để mở ra màn hình Admin.
 
 ![](<../../.gitbook/assets/image (118).png>)
 

@@ -2,7 +2,7 @@
 
 ## ![](../../.gitbook/assets/giaoan3.png)Phần 1: Tạo chương trình học
 
-> **Bước 1:** Click chuột vào module **Kind of Courses**, sau đó chọn **Create**.
+> **Bước 1:** Ở màn hình danh sách của module **Kind of Courses**, sau đó chọn **Create**.
 
 ![](../../.gitbook/assets/2.4.png)
 

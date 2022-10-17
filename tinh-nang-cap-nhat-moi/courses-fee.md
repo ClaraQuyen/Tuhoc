@@ -1,6 +1,6 @@
 # Courses Fee
 
-> **Bước 1:** Đưa chuột vào thanh module **Course Fees** chọn **Create Course Fees**.
+> **Bước 1:** Ở màn hình danh sách của module **Course Fees** chọn **Create Course Fees**.
 
 ![](../.gitbook/assets/dghp0.png)
 

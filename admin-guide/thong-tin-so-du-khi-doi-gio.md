@@ -7,7 +7,7 @@ description: >-
 
 # Thông tin số dư khi đổi giờ
 
-> **Bước 1:** Đưa chuột vào module **Classes** , click chọn lớp mà học viên muốn delay.
+> **Bước 1:** Ở màn hình danh sách của module **Classes** , click chọn lớp mà học viên muốn delay.
 
 ![](../.gitbook/assets/HVdelay1.png)
 

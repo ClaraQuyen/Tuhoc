@@ -14,13 +14,13 @@ Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung
 
 <figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình Student, nhấn chọn vào **action** cạnh button **Edit** và chọn **Moving Center.**
+> **Bước 2:** Tại màn hình chi tiết của **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Moving Center.**
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình chuyển trung tâm, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save.**
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -33,7 +33,7 @@ Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung
 
 > **Bước 4:** Hệ thống hiển thị thông tin chuyển trung tâm của học viên sau khi Save thành công.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn học phí từ trung tâm sang trung tâm_
 

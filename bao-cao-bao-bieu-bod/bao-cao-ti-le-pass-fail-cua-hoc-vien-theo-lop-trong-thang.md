@@ -1,6 +1,6 @@
 # Báo cáo tỉ lệ Pass/Fail của học viên theo Lớp trong tháng
 
-> **Bước 1:** Đưa chuột vào Menu Report chọn View Report. Tại màn hình View Report trên thanh công cụ search nhập báo cáo cần tìm. Sau đó click vào báo cáo cần xem. Ví dụ xem báo cáo tổng doanh thu search ‘%Pass’’.
+> **Bước 1:** Ở màn hình danh sách của module Report chọn View Report. Tại màn hình View Report trên thanh công cụ search nhập báo cáo cần tìm. Sau đó click vào báo cáo cần xem. Ví dụ xem báo cáo tổng doanh thu search ‘%Pass’’.
 
 ![](../.gitbook/assets/pass1.png)
 

@@ -12,7 +12,7 @@ Bước 3: Xem chi tiết màn hình Log Call vừa tạo
 
 > **Bước 1:** Ở màn hình danh sách của module **Calls**, sau đó nhấn chọn **Log Call**.
 
-<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo **Log Call**, nhập đầy đủ thông tin, sau đó chọn **Save** để lưu lại.
 

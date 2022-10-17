@@ -4,7 +4,7 @@
 
 :point\_right: Đối với người dùng Android:  [<img src="../.gitbook/assets/image (16) (1) (1).png" alt="" data-size="line"> ](https://play.google.com/store/apps/details?id=vn.dotb.sea)
 
-:point\_right: Đối với người dùng IOS:  [<img src="../.gitbook/assets/image (15) (1).png" alt="" data-size="line">](https://apps.apple.com/vn/app/dotb-crm/id1475488445)&#x20;
+:point\_right: Đối với người dùng IOS:  [<img src="../.gitbook/assets/image (15) (1) (1).png" alt="" data-size="line">](https://apps.apple.com/vn/app/dotb-crm/id1475488445)&#x20;
 
 > **Bước 2:** Mở ứng dụng **DotB SEA** trên Mobile và Click vào ô Bắt đầu trên màn hình.
 

@@ -4,7 +4,7 @@ description: Gửi thông báo các sự kiện, hoạt động của trung tâm
 
 # Marketing - News
 
-> **Bước 1:** Vào module **News**, chọn **Create News**.&#x20;
+> **Bước 1:** Ở màn hình danh sách của module **News**, chọn **Create News**.&#x20;
 
 ![](../.gitbook/assets/mkt1.jpg)
 

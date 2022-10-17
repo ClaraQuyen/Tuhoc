@@ -10,7 +10,7 @@ description: Cấu hình Course Category, Prefel Level cho thông tin chương t
 
 > **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn **Dropdown Editor**
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3) (2) (1).png>)
 
 > **Bước 3**: Tại màn hình Dropdown, lựa chọn mục **kind\_of\_course\_list**
 
@@ -18,7 +18,7 @@ description: Cấu hình Course Category, Prefel Level cho thông tin chương t
 
 > **Bước 4:** Nhập thông tin cần thêm cho chương trình cần cài đặt ở mục Item Name và Display Name (**Lưu ý** : 2 thông tin này nhập giống nhau). Sau đó bấm **Add**. Cuối cùng bấm **Save** để hoàn tất.
 
-![](<../../.gitbook/assets/image (1) (1) (2) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (2) (2) (1).png>)
 
 {% hint style="info" %}
 **Ghi chú:**&#x20;

@@ -6,7 +6,7 @@ description: >-
 
 # Upload hình ảnh học tập
 
-> **Bước 1:** Vào module **Gallery**, chọn **Create Gallery**.&#x20;
+> **Bước 1:** Ở màn hình danh sách của module **Gallery**, chọn **Create Gallery**.&#x20;
 
 ![](<../.gitbook/assets/1 (2).jpg>)
 

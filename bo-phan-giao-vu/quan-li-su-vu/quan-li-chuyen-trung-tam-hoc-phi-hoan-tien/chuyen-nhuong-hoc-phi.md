@@ -12,11 +12,11 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 
 > **Bước 2:** Tại màn hình chi tiết của module **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Transfer Fee**.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình chuyển nhượng học phí, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save.**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -27,8 +27,8 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 4. Thông tin thêm được chuyển học phí .
 {% endhint %}
 
-> Bước 4: Hệ thống hiển thị thông tin chuyển chuyển nhượng học phí của học viên, sau khi Save thành công.
+> **Bước 4:** Hệ thống hiển thị thông tin chuyển chuyển nhượng học phí của học viên, sau khi Save thành công.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn chuyển nhượng học phí_

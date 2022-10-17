@@ -1,6 +1,6 @@
 # Gửi kết quả học tập
 
-> **Bước 1:** Đưa chuột vào Menu Class chọn View Classes, sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
+> **Bước 1:** Ở màn hình danh sách của module Class chọn View Classes, sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
 
 ![](../.gitbook/assets/BangDiem1.png)
 

@@ -1,6 +1,6 @@
 # Add học viên Trail Class
 
-> **Bước 1:** Đưa chuột vào Menu Classes chọn View Classes, click chọn lớp cần thêm học viên vào lớp học Demo.
+> **Bước 1:** Ở màn hình danh sách của module Classes chọn View Classes, click chọn lớp cần thêm học viên vào lớp học Demo.
 
 ![](../../.gitbook/assets/HocDemo1.png)
 

@@ -4,7 +4,7 @@
 _Tính năng này được sử dụng khi  remain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp (Outstanding -> Enrolled) và remain hour của học viên._&#x20;
 {% endhint %}
 
-> **Bước 1:** Đưa chuột vào Menu Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
+> **Bước 1:** Ở màn hình danh sách của module Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
 
 ![](<../../.gitbook/assets/image (99).png>)
 

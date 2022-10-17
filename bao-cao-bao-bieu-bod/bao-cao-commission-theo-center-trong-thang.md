@@ -1,6 +1,6 @@
 # Báo cáo Commission theo Center trong tháng
 
-> **Bước 1:** Đưa chuột vào Menu Report chọn View Report. Tại màn hình View Report trên thanh công cụ search nhập báo cáo cần tìm. Sau đó chọn vào báo cáo cần xem. Ví dụ xem báo cáo tổng doanh thu search ‘%commission’.
+> **Bước 1:** Ở màn hình danh sách của module Report chọn View Report. Tại màn hình View Report trên thanh công cụ search nhập báo cáo cần tìm. Sau đó chọn vào báo cáo cần xem. Ví dụ xem báo cáo tổng doanh thu search ‘%commission’.
 
 ![](../.gitbook/assets/commis1.png)
 

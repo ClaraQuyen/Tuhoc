@@ -18,7 +18,7 @@ Bước 6: Nhấn Send để gửi tin nhắn
 
 > **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Payment List Report".
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình báo cáo chi tiết những khoản thu với trạng thái thanh toán là **"Unpaid"**, chọn **Export Excel** khi đi Apply (xem báo cáo trước khi xuất báo cáo ra file).
 

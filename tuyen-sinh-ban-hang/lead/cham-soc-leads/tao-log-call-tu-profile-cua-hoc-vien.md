@@ -12,7 +12,7 @@ Bước 3: Xem chi tiết màn hình Lead vừa tạo
 
 > **Bước 1:** Ở màn hình danh sách của module **Students/Leads**, chọn học viên thực hiện cuộc gọi.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình hồ sơ học viên, dưới subpanel nhấn vào **Calls**, sau đó nhấn vào dấu (+).
 

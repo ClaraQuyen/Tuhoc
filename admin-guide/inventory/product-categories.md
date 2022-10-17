@@ -1,6 +1,6 @@
 # Product Categories
 
-> **Bước 1:** Đưa chuột vào module Admin chọn Admin.
+> **Bước 1:** Ở màn hình danh sách của module Admin chọn Admin.
 
 ![](<../../.gitbook/assets/image (129).png>)
 
