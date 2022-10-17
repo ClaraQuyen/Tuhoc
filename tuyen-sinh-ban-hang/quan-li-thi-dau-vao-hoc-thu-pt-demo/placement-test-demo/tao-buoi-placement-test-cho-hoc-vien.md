@@ -12,7 +12,7 @@ Bước 3: Xem chi tiết màn hình Placement Test vừa tạo
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, ta nhấn vào button **Schedules Placement Test** để mở ra màn hình thêm mới **Placement Test**.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới **Placement Test**, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một **Placement Test** mới.
 

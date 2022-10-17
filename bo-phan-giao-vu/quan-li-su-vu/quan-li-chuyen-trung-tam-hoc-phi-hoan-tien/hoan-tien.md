@@ -10,13 +10,13 @@ Nếu học viên không có Delay thì sẽ [**Convert Payment**](https://help.
 Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho học viên.
 {% endhint %}
 
-> **Bước 1:** Ở màn hình danh sách của module **Student**, chọn vào học viên có nhu cầu hoàn tiền hoặc có thể search tên học viên,số điện thoại,… trên thanh công cụ search.
+> **Bước 1:** Ở màn hình danh sách của module **Students**, chọn vào học viên có nhu cầu hoàn tiền.
 
-![](../../../.gitbook/assets/hoantien1.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình Student, click vào action kết button edit chọn **Refund**.
+> **Bước 2:** Tại màn hình chi tiết của module **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Refund**.
 
-![](../../../.gitbook/assets/hoantien2.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình hoàn học phí, chọn loại học phí (delay,cashholder,deposit) (1) mà học viên muốn hoàn trả sau đó nhập số tiền charge phí giữ chổ học viên ở trung tâm (nếu có) (2), sau đó nhập thêm thông tin, lí do refund(4). Sau đó click **Save** để hoàn tất.
 

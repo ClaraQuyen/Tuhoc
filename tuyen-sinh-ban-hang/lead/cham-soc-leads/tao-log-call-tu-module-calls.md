@@ -12,7 +12,7 @@ Bước 3: Xem chi tiết màn hình Log Call vừa tạo
 
 > **Bước 1:** Ở màn hình danh sách của module **Calls**, sau đó nhấn chọn **Log Call**.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo **Log Call**, nhập đầy đủ thông tin, sau đó chọn **Save** để lưu lại.
 
@@ -44,4 +44,4 @@ Bước 3: Xem chi tiết màn hình Log Call vừa tạo
 > * **Invalid Number** (sai số).
 > * **Busy/No Answers** (Máy bận/ Không trả lời)
 
-![](<../../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)
