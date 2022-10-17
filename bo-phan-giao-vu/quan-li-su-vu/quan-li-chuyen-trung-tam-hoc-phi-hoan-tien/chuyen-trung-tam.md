@@ -16,7 +16,7 @@ Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung
 
 > **Bước 2:** Tại màn hình chi tiết của **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Moving Center.**
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (53) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình chuyển trung tâm, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save.**
 

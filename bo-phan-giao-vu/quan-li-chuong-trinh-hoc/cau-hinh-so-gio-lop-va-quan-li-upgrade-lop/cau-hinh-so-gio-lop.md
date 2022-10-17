@@ -1,16 +1,16 @@
 # Cấu hình số giờ/lớp
 
-> **Bước 1:** Đưa chuột vào module Kind of Courses, chọn khóa học cần cấu hình số giờ/lớp.
+> **Bước 1:** Ở màn hình danh sách của module **Kind of Courses**, chọn khóa học cần cấu hình số giờ/lớp.
 
-![](../../../.gitbook/assets/Cauhinhsogiolop1.png)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình tạo chương trình học View Kind of Courses, Click chọn khóa học cần cấu hình số giờ/lớp.
+> **Bước 2:** Tại màn hình chi tiết của **Kind of Courses**, chọn Edit để chỉnh sửa chương trình học cần cấu hình số giờ/lớp.
 
-![](../../../.gitbook/assets/Cauhinsogiolop2.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Tại màn hình xem chương trình học,click Edit,nhập cấu hình số giờ/lớp.Sau đó click Save để hoàn tất.
+> **Bước 3:** Tại màn hình xem chương trình học, nhập cấu hình số giờ/lớp. Sau đó nhấn chọn Save để hoàn tất.
 
-![](<../../../.gitbook/assets/Cauhinsogiolop2 (1).png>)
+<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -25,4 +25,4 @@
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết số giờ/lớp và chương trình học.
 
-![](../../../.gitbook/assets/cauhinhsogiolop3.png)
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@
 
 > **Bước 3:** Sau đó nhập đầy đủ thông tin và chọn **Save**.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Lưu ý**:
@@ -22,4 +22,4 @@
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết của giáo áo vừa được tạo cũng như chỉnh sửa.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>

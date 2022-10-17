@@ -33,7 +33,7 @@ Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho họ
 
 > **Bước 4:** Hệ thống hiển thị thông tin hoàn tiền của học viên sau khi **Save** thành công.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (6).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn hoàn tiền học phí_
 
