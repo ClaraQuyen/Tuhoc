@@ -20,4 +20,4 @@ Bước 3: Kết quả sau khi chỉnh sửa Leads
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Leads** vừa được chỉnh sửa.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (4).png" alt=""><figcaption></figcaption></figure>
