@@ -1,7 +1,7 @@
 ---
 description: >-
-  Convert Leads thành học viên chính thức khi Leads Deposit hoặc đăng kí gói học
-  ở trung tâm.
+  Học viên tiềm năng sẽ được chuyển đổi từ học viên chính thức khi học viên tiềm
+  năng mua một khóa học hoặc để trả một khoản phí đặt cọc.
 ---
 
 # 👨🎓 Students
