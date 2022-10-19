@@ -1,4 +1,4 @@
-# Cấu hình Call Center
+# 📞 Cấu hình Call Center
 
 > **Bước 1:** Vào module Admin.
 

@@ -1,4 +1,4 @@
-# Cấu hình logo trên EMS
+# 💬 Cấu hình logo trên EMS
 
 > **Bước 1:** Đưa chuột vào profile, sau đó chọn **Admin.**
 

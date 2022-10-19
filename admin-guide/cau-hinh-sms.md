@@ -1,4 +1,4 @@
-# Cấu hình SMS
+# ☎ Cấu hình SMS
 
 > **Bước 1:** Vào module Admin.
 

@@ -1,4 +1,4 @@
-# Nhận và gửi phản hồi về Phụ Huynh
+# 🌱 Nhận và gửi phản hồi về Phụ Huynh
 
 > **Bước 1:** Ở màn hình danh sách của module **Feedbacks** , chọn Feedback phụ huynh gửi phản hồi về trung tâm.
 

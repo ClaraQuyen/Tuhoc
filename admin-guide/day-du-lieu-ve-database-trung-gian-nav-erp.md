@@ -4,7 +4,7 @@ description: >-
   gian của NAV
 ---
 
-# Đẩy dữ liệu về database trung gian NAV ERP
+# 📥 Đẩy dữ liệu về database trung gian NAV ERP
 
 > **Bước 1:** Trỏ chuột vào phân hệ Admin chọn .
 

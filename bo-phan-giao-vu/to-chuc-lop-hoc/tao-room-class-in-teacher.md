@@ -31,4 +31,4 @@ Class In: Auditer -> Chọn từ Room (Loại: Regular User)
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Rooms** được tạo.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (7).png" alt=""><figcaption></figcaption></figure>

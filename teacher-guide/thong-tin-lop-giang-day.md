@@ -1,4 +1,4 @@
-# Thông tin lớp giảng dạy
+# 🏚 Thông tin lớp giảng dạy
 
 > **Bước 1:** Ở màn hình danh sách của module Classes, trên màn hình Classes sẽ hiển thị thông tin các lớp được phân công giảng dạy.
 

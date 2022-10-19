@@ -1,10 +1,10 @@
 # Hủy buổi học/chọn ngày học bù
 
-> **Bước 1:** Ở màn hình danh sách của module Classes, chọn Lớp mà Giáo viên đang dạy muốn hủy buổi học.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn Lớp mà Giáo viên đang dạy muốn hủy buổi học.
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:**&#x20;> Tại màn hình chi tiết của Classes, ta chọn vào Tab Session, hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, chọn vào cancel để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
+> **Bước 2:**&#x20;> Tại màn hình chi tiết của Classes, ta chọn vào Tab Session, hệ thống sẽ hiển thị lịch chi tiết giáo viên giảng dạy, chọn vào **Cancel** để hủy buổi dạy của giáo viên (Nếu giáo viên nghỉ ốm hoặc lý do nào đó,…)
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,10 +22,10 @@
 
 \+ Nếu chọn Make up in this schedule thì hệ thống sẽ tư lên lịch dạy bù cho giáo viên vào buổi cuối cùng của tháng kết thúc khóa học
 
-\+ Nếu chọn Make up in other Schedule bộ phận giáo vụ có thể xếp lịch dạy bù vào ngày mà giáo viên rảnh hoặc ngày mà giáo viên yêu cầu (3)
+\+ Nếu chọn Make up in other Schedule bộ phận giáo vụ có thể xếp lịch dạy bù vào ngày mà giáo viên rảnh hoặc ngày mà giáo viên yêu cầu
 {% endhint %}
 
-![](../../.gitbook/assets/hocbu4.png)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Hệ thống hiển thị thông tin lớp bị hủy và ngày được chọn dạy bù cho học viên trong Session.
 

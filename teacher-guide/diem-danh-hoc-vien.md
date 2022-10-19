@@ -1,4 +1,4 @@
-# Điểm danh học viên
+# 🙍 Điểm danh học viên
 
 > **Bước 1:** Ở màn hình danh sách của module Classes sau đó click chọn lớp cần gửi điểm danh.
 

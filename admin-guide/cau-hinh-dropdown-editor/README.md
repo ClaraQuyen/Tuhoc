@@ -4,6 +4,6 @@ description: >-
   có trên hệ thống để phù hợp với trung tâm của mình.
 ---
 
-# Cấu hình Dropdown Editor
+# ⚙ Cấu hình Dropdown Editor
 
 {% embed url="https://www.youtube.com/watch?v=Web1NqXRIfs" %}
