@@ -1,16 +1,6 @@
 # Tạo Campaigns (Classic)
 
-{% hint style="success" %}
-**Ở qui trình tạo Campaigns (Classic) có 3 bước:**
-
-**Bước 1:** Mở ra màn hình thêm mới Campaigns (Classic)
-
-**Bước 2:** Nhập đầy đủ thông tin của chiến dịch
-
-**Bước 3:** Lập lịch gửi Email
-{% endhint %}
-
-> **Bước 1:** Đưa chuột vào menu **Campaigns** chọn **Create Campaign (Classic)** hoặc chọn vào phân hệ **Campaign** để **Create Campaign**.
+> **Bước 1:**  Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Classic)** hoặc chọn vào phân hệ **Campaign** để **Create Campaign**.
 
 ![](../../../.gitbook/assets/1\_1.png)
 

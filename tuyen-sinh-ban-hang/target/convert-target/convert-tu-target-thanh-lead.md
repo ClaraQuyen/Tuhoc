@@ -1,17 +1,5 @@
 # Convert từ Target thành Lead
 
-{% hint style="success" %}
-**Ở qui trình Convert Target có 4 bước:**
-
-Bước 1: Chọn Target muốn chuyển đổi thành Lead
-
-Bước 2: Chọn Convert to Lead để chuyển đổi HV tiềm năng
-
-Bước 3: Nhập thông tin yêu cầu và nhấn “Save”
-
-Bước 4: Hệ thống hiển thị thông tin Leads mới được tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module Targets, chọn Target muốn chuyển đổi thành Lead.
 
 <figure><img src="../../../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>

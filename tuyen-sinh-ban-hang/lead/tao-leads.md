@@ -1,15 +1,5 @@
 # Tạo Lead
 
-{% hint style="success" %}
-**Ở qui trình tạo Lead có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Lead
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Lead vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Leads**, ta nhấn vào button **Create Lead** để mở ra màn hình thêm mới Lead.
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

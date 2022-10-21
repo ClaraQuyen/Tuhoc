@@ -1,17 +1,5 @@
 # Học viên Delay (Bảo lưu)
 
-{% hint style="success" %}
-**Ở qui trình tạo Lead có 3 bước:**
-
-Bước 1: Chọn học viên muốn delay
-
-Bước 2: Chọn tab **“Student Situations”** sau đó chọn button Delay
-
-Bước 3: Nhập thông tin Delay
-
-Bước 4: Kết quả sau khi Delay học viên
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn lớp mà học viên muốn delay.
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>

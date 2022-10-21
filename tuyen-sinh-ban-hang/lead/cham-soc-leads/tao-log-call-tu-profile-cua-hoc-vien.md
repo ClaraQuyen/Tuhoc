@@ -1,15 +1,5 @@
 # Tạo Log Call từ Profile của học viên
 
-{% hint style="success" %}
-**Ở qui trình tạo Log Call từ Profile của học viên có 3 bước:**
-
-Bước 1: Mở ra màn hình chi tiết của Leads/Students
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Lead vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Students/Leads**, chọn học viên thực hiện cuộc gọi.
 
 <figure><img src="../../../.gitbook/assets/image (17) (1) (2).png" alt=""><figcaption></figcaption></figure>

@@ -1,15 +1,5 @@
 # Tạo Log Call từ module Calls
 
-{% hint style="success" %}
-**Ở qui trình tạo Log Call có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Calls
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Log Call vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Calls**, sau đó nhấn chọn **Log Call**.
 
 <figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>

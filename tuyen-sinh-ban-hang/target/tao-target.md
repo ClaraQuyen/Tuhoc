@@ -1,15 +1,5 @@
 # Tạo Target
 
-{% hint style="success" %}
-**Ở qui trình tạo Target có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Target
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Target vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Targets**, ta nhấn vào button **Create Target** để mở ra màn hình thêm mới Target.
 
 <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>

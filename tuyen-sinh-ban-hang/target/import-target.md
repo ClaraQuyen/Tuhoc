@@ -1,5 +1,7 @@
 ---
-description: Upload dữ liệu hàng loạt trên hệ thống sau khi tham gia sự kiện
+description: >-
+  Upload dữ liệu hàng loạt trên hệ thống sau khi tham gia sự kiện, hoặc có nguồn
+  lớn thông tin từ KH
 ---
 
 # Import Target

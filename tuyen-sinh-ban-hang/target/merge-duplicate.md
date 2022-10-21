@@ -1,19 +1,5 @@
 # Merge Duplicate
 
-{% hint style="success" %}
-**Ở qui trình này có 5 bước:**
-
-Bước 1: Chọn hồ sơ bị duplicate
-
-Bước 2: Nhấn chuột vào mũi tên, sau đó chọn Merge
-
-Bước 3: Chọn những dữ liệu Primary để qua tab hồ sơ Primary, sau đó nhấn Save
-
-Bước 4: Tiếp tục nhấn Confirm
-
-Bước 5: Hệ thống thông báo Merge dữ liệu thành công
-{% endhint %}
-
 > **Bước 1:** Chọn hồ sơ bị **duplicate**, ở module bị trùng (tối đa 2 hồ sơ).
 
 ![](<../../.gitbook/assets/image (115) (1).png>)

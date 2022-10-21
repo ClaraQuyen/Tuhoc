@@ -1,15 +1,5 @@
 # ❌ Bảo lưu, Xóa học viên
 
-{% hint style="success" %}
-**Bao gồm có 3 bước:**
-
-Bước 1: Chọn **Lớp học** cần xóa học viên
-
-Bước 2: Chọn Delay ở tab “Student Situations”
-
-Bước 3: Chọn thời gian mà học viên này bắt đầu Bảo Lưu (hoặc Xóa học viên)
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn **Lớp học** cần xóa học viên.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

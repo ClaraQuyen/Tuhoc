@@ -1,13 +1,5 @@
 # Quản lý kết quả PT của học viên
 
-{% hint style="success" %}
-**Ở qui trình Quản lý kết quả PT của học viên có 2 bước:**
-
-Bước 1: Mở ra màn hình thêm mới thu phí thi thử
-
-Bước 2: Nhập kết quả thi thử của học viên
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi PT cần chấm điểm cho học viên.
 
 ![](<../../.gitbook/assets/Schedule4 (1).jpg>)

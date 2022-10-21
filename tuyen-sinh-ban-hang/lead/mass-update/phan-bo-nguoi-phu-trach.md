@@ -1,21 +1,5 @@
 # Phân bổ người phụ trách
 
-{% hint style="success" %}
-**Ở qui trình này có 6 bước:**
-
-Bước 1: Tạo bộ lọc dữ liệu **** theo trạng thái
-
-Bước 2: Chọn trạng thái Leads cần phân bổ người phụ trách
-
-Bước 3: Hệ thống hiển thị danh sách Lead ở trạng thái New
-
-Bước 4: Chọn Mass Update
-
-Bước 5: Chọn tất cả bản ghi
-
-Bước 6: Hệ thống hiển thị thông báo thành công
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Leads**, chọn Create để tạo bộ lọc Leads theo trạng thái.
 
 <figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>

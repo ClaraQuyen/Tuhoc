@@ -1,15 +1,5 @@
 # Tạo buổi Demo cho học viên
 
-{% hint style="success" %}
-**Ở qui trình tạo buổi Demo có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Demo&#x20;
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Demo vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Schedules,** ta nhấn vào button **Schedule Demo** để mở ra màn hình thêm mới **Schedule Demo**.
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>

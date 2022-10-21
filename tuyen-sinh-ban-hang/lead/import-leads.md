@@ -1,23 +1,5 @@
 # Import Leads
 
-{% hint style="success" %}
-**Ở qui trình Import Leads có 6 bước:**
-
-Bước 1: Mở ra màn hình Import Leads
-
-Bước 2: Import danh sách khách hàng thô
-
-Bước 3: Tải mẫu import file excel&#x20;
-
-Bước 4: Xác nhận các thuộc tính
-
-Bước 5: Kiểm tra việc ánh xạ dữ liệu
-
-Bước 6: Kiểm tra trùng dữ liệu
-
-Bước 7: Kết quả sau khi import Leads
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Leads,** ta nhấn vào **** button **Import Leads** để **** cho phép người dùng Import data từ local.
 
 ![](../../.gitbook/assets/ImportLead.png)

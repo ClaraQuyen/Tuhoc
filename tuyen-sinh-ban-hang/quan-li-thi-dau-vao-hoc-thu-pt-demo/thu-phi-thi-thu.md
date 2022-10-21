@@ -1,15 +1,5 @@
 # Thu phí thi thử
 
-{% hint style="success" %}
-**Ở qui trình Thu phí thi thử có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới thu phí thi thử
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình thu phí thi thử vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Payments**, ta nhấn vào button **Create Payment** để mở ra màn hình thêm mới Payment.
 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>

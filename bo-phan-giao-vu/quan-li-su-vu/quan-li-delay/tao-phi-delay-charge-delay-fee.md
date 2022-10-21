@@ -1,15 +1,5 @@
 # Tạo phí Delay (Charge Delay Fee)
 
-{% hint style="success" %}
-**Bao gồm 3 bước:**
-
-**Bước 1:** Mở ra màn hình thêm mới Payment
-
-**Bước 2:** Nhập đầy đủ thông tin cần thiết
-
-**Bước 3:** Xem chi tiết màn hình Payment vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Payment** chọn Create Payment để mở ra màn hình tạo mới Payment.
 
 <figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>

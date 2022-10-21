@@ -1,15 +1,5 @@
 # Tạo đơn giá học phí (Kèm sách)(Nếu có)
 
-{% hint style="success" %}
-**Ở qui trình tạo đơn giá học phí có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Đơn giá học phí
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Đơn giá học phí vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Course Fees** ta nhấn vào button **Create Course Fees** để mở ra màn hình thêm mới **Course Fees**.
 
 <figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>

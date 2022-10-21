@@ -1,17 +1,5 @@
 # Convert từ Lead thành Student
 
-{% hint style="success" %}
-**Ở qui trình Convert Lead có 4 bước:**
-
-Bước 1: Chọn Lead muốn chuyển đổi thành Student
-
-Bước 2: Chọn Convert to Student để chuyển đổi HV chính thức
-
-Bước 3: Nhập thông tin yêu cầu và nhấn “Save”
-
-Bước 4: Hệ thống hiển thị thông tin Students mới được tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module Leads, chọn Lead muốn chuyển đổi thành HV chính thức.
 
 <figure><img src="../../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>

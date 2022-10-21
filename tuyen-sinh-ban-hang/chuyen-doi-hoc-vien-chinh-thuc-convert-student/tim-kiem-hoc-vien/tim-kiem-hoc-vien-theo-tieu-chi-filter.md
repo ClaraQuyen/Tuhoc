@@ -1,15 +1,5 @@
 # Tìm kiếm học viên theo tiêu chí Filter
 
-{% hint style="success" %}
-**Bao gồm 3 bước:**
-
-**Bước 1:** Tạo cửa số lọc thông tin
-
-**Bước 2:** Nhập đầy đủ thông tin cần thiết, điều kiện cần lọc
-
-**Bước 3:** Kết quả sau khi tìm kiếm theo tiêu chí
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module Student, tại **Menu Action Filter** ta nhấn vào button **Create,** để bắt đầu tạo cửa sổ lọc.
 
 <figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>

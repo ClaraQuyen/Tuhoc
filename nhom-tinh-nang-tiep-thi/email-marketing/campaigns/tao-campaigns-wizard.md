@@ -1,26 +1,6 @@
 # Tạo Campaigns (Wizard)
 
-{% hint style="success" %}
-**Ở qui trình tạo Campaigns (Wizard) có 8 bước:**
-
-**Bước 1:** Mở ra màn hình thêm mới Campaigns (Wizard)
-
-**Bước 2:** Chọn loại chiến dịch cần chạy&#x20;
-
-**Bước 3:** Nhập đầy đủ thông tin
-
-**Bước 4:** Nhập ngân sách để tính ROI
-
-**Bước 5:** Xác định URL theo dõi ở đây để sử dụng với chiến dịch này
-
-**Bước 6:** Chọn hoặc tạo danh sách mục tiêu (Target List) sử dụng với chiến dịch
-
-**Bước 7:** Cấu hình thời gian gửi Email Marketing
-
-**Bước 8:** Chọn xem bạn có muốn gửi email ở dạng nào
-{% endhint %}
-
-> **Bước 1:** Ở menu **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào phân hệ **Campaign** để **Create Campaign**.
+> **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào phân hệ **Campaign** để **Create Campaign**.
 
 ![](../../../.gitbook/assets/campaigns.png)
 

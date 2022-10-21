@@ -1,28 +1,28 @@
 # 📨 Lập lịch gửi Email
 
-> **Bước 1:** Đưa chuột vào menu **Campaigns** chọn **View Campaigns**, sau đó chọn chiến dịch muốn lập lịch gửi Email.
+> **Bước 1:**  Ở màn hình danh sách của module **Campaigns** chọn **View Campaigns**, sau đó chọn chiến dịch muốn lập lịch gửi Email.
 
-![](../.gitbook/assets/laplich1.png)
+![](../../.gitbook/assets/laplich1.png)
 
 > **Bước 2:** Nhấn vào Launch Wizard.
 
-![](../.gitbook/assets/laplich2.png)
+![](../../.gitbook/assets/laplich2.png)
 
 > **Bước 3:** Chọn Schedule Email.
 
-![](../.gitbook/assets/laplich3.png)
+![](../../.gitbook/assets/laplich3.png)
 
 > **Bước 4:** Hệ thống thông báo Lịch gửi email đã được bật.
 
-![](../.gitbook/assets/laplich4.png)
+![](../../.gitbook/assets/laplich4.png)
 
 > **Bước 5:** Tiếp theo vào Admin -> Email Queue.
 
-![](../.gitbook/assets/laplich5.png)
+![](../../.gitbook/assets/laplich5.png)
 
 > **Bước 6:** Hệ thống hiển thị danh sách người được lập lịch gửi Email (bạn cũng có thể gửi mà không cần lên lịch), bạn có thể chọn tất cả hoặc chọn một số người có trong danh sách, sau đó nhấn nút Send Queued Campaign Emails để gửi chiến dịch.
 
-![](../.gitbook/assets/laplich6.png)
+![](../../.gitbook/assets/laplich6.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

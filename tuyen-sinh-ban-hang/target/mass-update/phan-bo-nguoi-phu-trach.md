@@ -1,16 +1,6 @@
-# 🤵♀ Phân bổ người phụ trách
+# Phân bổ người phụ trách
 
-{% hint style="success" %}
-**Ở qui trình này có 3 bước:**
-
-Bước 1: Lọc dữ liệu của Target ở trạng thái Converted, và chọn Mass Update
-
-Bước 2: Chọn điều kiện Mass Update
-
-Bước 3: Hệ thống hiển thị thông báo thành công và người phụ trách danh sách học viên đã tiếp nhận.   ****  &#x20;
-{% endhint %}
-
-> Bước 1: Lọc dữ liệu của Target ở trạng thái <mark style="color:red;">**Converted**</mark>**,** ở Action Menu phía bên trái, chúng ta chọn **Mass Update.**
+> **Bước 1:** Lọc dữ liệu của Target ở trạng thái <mark style="color:red;">**Converted**</mark>**,** ở Action Menu phía bên trái, chúng ta chọn **Mass Update.**
 
 <figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 

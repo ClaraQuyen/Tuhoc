@@ -1,19 +1,5 @@
 # Quản lý chiết khấu (Discount)
 
-{% hint style="success" %}
-**Ở qui trình tạo Discount có 3 bước:**
-
-Bước 1: Mở màn hình thêm mới Discount
-
-Bước 2: Nhập các thông tin cần thiết
-
-Bước 3: Kết quả sau khi tạo mới Discount
-
-Bước 4: Chọn tab "Do not Apply with Discounts"
-
-Bước 5: Bấm chọn **Select** để link đến Discount bạn cần không được áp dụng đi kèm
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Discount,** chọn **Create Discount** để mở ra màn hình tạo mới Discount**.**
 
 <figure><img src="../../.gitbook/assets/image (58) (2).png" alt=""><figcaption></figcaption></figure>

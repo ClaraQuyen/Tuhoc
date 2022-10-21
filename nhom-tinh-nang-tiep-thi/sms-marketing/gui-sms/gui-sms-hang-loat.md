@@ -2,7 +2,7 @@
 
 > **Bước 1:** Đưa chuột vào module **Leads hoặc Students**, sau đó chọn học viên mà bạn muốn gửi SMS, tiếp theo nhấn vào <img src="../../../.gitbook/assets/sms1.png" alt="" data-size="original"> .
 
-![](<../../../.gitbook/assets/image (125).png>)
+<figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:**&#x20;> &#x20;Ở hộp thoại phía bên trái màn hình, chúng ta nhấn vào **Send SMS.**
 

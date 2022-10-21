@@ -1,15 +1,5 @@
 # Tạo buổi Placement Test cho học viên
 
-{% hint style="success" %}
-**Ở qui trình tạo buổi Placement Test có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Placement Test
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Placement Test vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, ta nhấn vào button **Schedules Placement Test** để mở ra màn hình thêm mới **Placement Test**.
 
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

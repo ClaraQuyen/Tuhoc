@@ -1,17 +1,5 @@
 # Thêm học viên vào buổi Placement Test
 
-{% hint style="success" %}
-**Ở qui trình Thêm học viên vào PT có 4 bước:**
-
-Bước 1: Mở ra màn hình thêm mới học viên của buổi PT
-
-Bước 2: Chọn Placement Test
-
-Bước 3: Chọn Select để thêm học viên
-
-Bước 4: Kết quả thêm học viên thành công
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi **Placement Test** cần thêm học viên.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>

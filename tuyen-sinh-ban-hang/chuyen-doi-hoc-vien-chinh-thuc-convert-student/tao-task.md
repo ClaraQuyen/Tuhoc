@@ -1,15 +1,5 @@
 # Tạo Task
 
-{% hint style="success" %}
-**Ở qui trình tạo Task có 3 bước:**
-
-Bước 1: Mở ra màn hình thêm mới Task
-
-Bước 2: Nhập đầy đủ thông tin cần thiết
-
-Bước 3: Xem chi tiết màn hình Task vừa tạo
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module Student, nhấn vào tên của học viên để mở ra màn hình thông tin chi tiết của học viên.
 
 <figure><img src="../../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
