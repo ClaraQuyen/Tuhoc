@@ -1,4 +1,5 @@
 # 📳 SMS
 
-1. Gửi SMS theo Lớp
-2. Gửi SMS theo Report
+#### ![](../.gitbook/assets/icons8-mobile-messaging-50.png) Gửi SMS theo Lớp
+
+#### ![](../.gitbook/assets/icons8-sms-50.png) Gửi SMS theo Report

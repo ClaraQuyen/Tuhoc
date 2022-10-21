@@ -4,7 +4,7 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 # DOTB - SEA (SMART EDUCATION ACADEMY)
 
-****:ocean: **DotB SEA** hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau :
+****:ocean: **DotB SEA** hướng tới mục đích tối ưu hiệu quả quản lý cho các trung tâm với các chức năng sau:
 
 > ****<img src="../.gitbook/assets/schedule (2).png" alt="" data-size="original"> **Thông tin thời khóa biểu** &#x20;
 

@@ -1,21 +1,5 @@
 # Gửi SMS theo Report
 
-{% hint style="success" %}
-**Ở qui trình gửi SMS theo Report có 3 bước:**
-
-Bước 1: Chọn báo cáo&#x20;
-
-Bước 2: Export file Excel
-
-Bước 3: Tải file Excel về máy
-
-Bước 4: Chọn Send SMS
-
-Bước 5: Chọn tải **Template SMS List** theo mẫu hệ thống và đưa danh sách học viên vào Template SMS List
-
-Bước 6: Nhấn Send để gửi tin nhắn
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Payment List Report".
 
 <figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
