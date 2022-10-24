@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/tongcom1.png)
 
-> **Bước 2:** Tại màn hình báo cáo Filters theo Field , sau đó click Apply để xuất báo cáo cần xem.
+> **Bước 2:** Tại màn hình báo cáo Filters theo Field, sau đó click Apply để xuất báo cáo cần xem.
 
 ![](../.gitbook/assets/tongcom2.png)
 

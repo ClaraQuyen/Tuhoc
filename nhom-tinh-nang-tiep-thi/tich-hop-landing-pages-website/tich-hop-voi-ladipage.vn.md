@@ -15,7 +15,7 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
-&#x20;**Tên cấu hình** : Lưu ý: tên cấu hình nên đặt tên dễ nhớ.
+&#x20;**Tên cấu hình**: tên cấu hình nên đặt tên dễ nhớ.
 {% endhint %}
 
 > **Bước 4:** Chọn option là API và sau đó nhấn vào **Thêm Mới.**

@@ -1,6 +1,6 @@
 # Giới thiệu Landing Page
 
-> ### **Tích hợp landing page website này làm gì?**
+> ### **Tích hợp landing page website này làm gì ?**
 
 :point\_right: Landing page còn gọi là trang đích, là một trang web độc lập, được tạo riêng cho chiến dịch tiếp thị hoặc quảng cáo, nhằm mục đích thu thập thông tin khách hàng hoặc bán hàng.
 

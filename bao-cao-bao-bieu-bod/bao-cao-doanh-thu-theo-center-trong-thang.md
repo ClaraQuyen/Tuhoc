@@ -1,10 +1,10 @@
 # Báo cáo Doanh thu theo Center trong tháng
 
-> **Bước 1:** Ở màn hình danh sách của module Report chọn View Report. Tại màn hình View Report trên thanh công cụ search nhập báo cáo cần tìm.Sau đó click vào báo cáo cần xem. Ví dụ xem báo cáo tổng doanh thu search "%total".
+> **Bước 1:** Ở màn hình danh sách của module Report, chọn View Report. Tại màn hình View Report trên thanh công cụ search nhập báo cáo cần tìm. Sau đó nhấn vào báo cáo cần xem. Ví dụ xem báo cáo tổng doanh thu search "%total".
 
 ![](../.gitbook/assets/BCDoanhthu1.png)
 
-> **Bước 2:** Tại màn hình báo cáo Filters theo Field , sau đó click Apply để xuất báo cáo cần xem.
+> **Bước 2:** Tại màn hình báo cáo Filters theo Field, sau đó nhấn chọn Apply để xuất báo cáo cần xem.
 
 ![](../.gitbook/assets/BCDoanhthu2.png)
 
@@ -17,6 +17,6 @@
 4. Thông tin Filter để xuất báo cáo
 {% endhint %}
 
-> **Bước 3:** Sau khi click Apply, hệ thống sẽ show ra báo cáo theo Filters, nếu muốn xuất file excel hoặc PDF,..bạn có thể nhấn vào button tương ứng.
+> **Bước 3:** Sau khi click Apply, hệ thống sẽ show ra báo cáo theo Filters, nếu muốn xuất file excel hoặc PDF, bạn có thể nhấn vào button tương ứng.
 
 ![](../.gitbook/assets/BCDoanhthu3.png)

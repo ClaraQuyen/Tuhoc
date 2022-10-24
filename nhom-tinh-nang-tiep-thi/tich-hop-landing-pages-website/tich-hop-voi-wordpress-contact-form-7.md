@@ -1,6 +1,6 @@
 # Tích hợp với Wordpress - Contact Form 7
 
-> **Bước 1**: Vào module **Plugins** chọn **Add New.**
+> **Bước 1**: Ở màn hình danh sách của module **Plugins** chọn **Add New.**
 
 ![](../../.gitbook/assets/contact1.jpg)
 

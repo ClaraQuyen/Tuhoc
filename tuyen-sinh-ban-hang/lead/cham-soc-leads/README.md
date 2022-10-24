@@ -1,8 +1,8 @@
 # Chăm sóc Leads
 
-1. Tạo Log Call từ module Calls
-2. Tạo Log Call từ Profile của học viên
-3. Chăm sóc Lead qua Call Center (Click to Call)
+1. [Tạo Log Call từ module Calls](tao-log-call-tu-module-calls.md)
+2. [Tạo Log Call từ Profile của học viên](tao-log-call-tu-profile-cua-hoc-vien.md)
+3. [Chăm sóc Lead qua Call Center (Click to Call)](../../cham-soc-lead-qua-call-center.md)
 
 > Video hướng dẫn Tạo log call cơ bản
 

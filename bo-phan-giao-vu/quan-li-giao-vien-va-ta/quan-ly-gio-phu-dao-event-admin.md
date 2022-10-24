@@ -1,6 +1,6 @@
-# Quản lí giờ phụ đạo, event, admin
+# Quản lý giờ phụ đạo, event, admin
 
-> **Bước 1:** Nhấn chuột vào module **Admin Hours,** sau đó chọn ngày cần xếp cho giáo viên và nhập thông tin giáo viên cần xếp, thời gian, task,... tiếp theo click **Add.**
+> **Bước 1:** Nhấn chuột vào module **Admin Hours,** sau đó chọn ngày cần xếp cho giáo viên và nhập thông tin giáo viên cần xếp, thời gian, task,... tiếp theo nhấn chọn **Add.**
 
 ![](../../.gitbook/assets/admin2.jpg)
 
@@ -13,7 +13,7 @@
 4. Mô tả thêm thông tin (nếu có).
 {% endhint %}
 
-> **Bước 2:** Sau khi click Add thành công, màn hình **Added entries** hiện thị thông tin giáo viên đã được xếp thời gian phụ đạo bên dưới. Cuối cùng click **Save**.
+> **Bước 2:** Sau khi chọn Add thành công, màn hình **Added entries** hiện thị thông tin giáo viên đã được xếp thời gian phụ đạo bên dưới. Cuối cùng nhấn **Save**.
 
 ![](../../.gitbook/assets/admin3.jpg)
 
@@ -32,7 +32,7 @@ Khi tạo các buổi PT/Demo mà có thêm giáo viên vào các buổi đó.
 ![](../../.gitbook/assets/Scheduele\_sync1.png)
 
 {% hint style="info" %}
-Tính năng Sync PT/Demo sẽ hoạt động khi click vào button Sync PT/Demo, hệ thống sẽ thêm giáo viên vào lịch lên module Admin Hour tương ứng với buổi mà bạn đã setup trong module Schedules.
+Tính năng Sync PT/Demo sẽ hoạt động khi nhấn vào button Sync PT/Demo, hệ thống sẽ thêm giáo viên vào lịch lên module Admin Hour tương ứng với buổi mà bạn đã setup trong module Schedules.
 {% endhint %}
 
 ![](../../.gitbook/assets/admin.png)
