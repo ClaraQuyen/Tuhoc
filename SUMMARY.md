@@ -81,7 +81,7 @@
     * [Tạo buổi Demo cho học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/tao-buoi-demo-cho-hoc-vien.md)
     * [Thêm học viên vào buổi Demo](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-demo.md)
   * [Thu phí thi thử](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/thu-phi-thi-thu.md)
-  * [Quản lý kết quả PT của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-ly-ket-qua-pt-cua-hoc-vien.md)
+  * [Quản lý kết quả PT/Demo của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-ly-ket-qua-pt-demo-cua-hoc-vien.md)
 * [👨🎓 Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
   * [Quản lý phụ huynh học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/quan-ly-phu-huynh-hoc-vien.md)
   * [Import danh sách học viên chính thức](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/import-danh-sach-hoc-vien-chinh-thuc.md)

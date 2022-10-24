@@ -1,5 +1,7 @@
 # Placement Test/Demo
 
+### Một số tính năng của module:
+
 #### ![](../../../.gitbook/assets/icons8-test-passed-50.png)****[**Tạo buổi Placement Test cho học viên**](./#placement-test-demo)****
 
 #### ![](../../../.gitbook/assets/icons8-add-user-male-50.png)[Thêm học viên vào buổi Placement Test](them-hoc-vien-vao-buoi-placement-test.md)
