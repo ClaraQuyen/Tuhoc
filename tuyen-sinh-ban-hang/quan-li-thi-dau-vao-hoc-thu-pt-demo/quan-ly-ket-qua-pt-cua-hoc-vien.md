@@ -1,4 +1,4 @@
-# Quản lý kết quả PT của học viên
+# Quản lý kết quả PT/Demo của học viên
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi PT cần chấm điểm cho học viên.
 

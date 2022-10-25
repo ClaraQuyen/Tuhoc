@@ -1,14 +1,14 @@
 # Điểm danh
 
-> Bước 1: Ở màn hình danh sách của module Classes, sau đó click chọn lớp cần gửi điểm danh.
+> **Bước 1:** Ở màn hình danh sách của module Classes, sau đó click chọn lớp cần gửi điểm danh.
 
 ![](../../.gitbook/assets/Điemanh1.png)
 
-> Bước 2: Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework.**
+> **Bước 2:** Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework.**
 
 ![](../../.gitbook/assets/Điemanh2.png)
 
-> Bước 3: Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học.
+> **Bước 3:** Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học.
 
 ![](<../../.gitbook/assets/màn hình điểm danh học viên và gửi sms.png>)
 

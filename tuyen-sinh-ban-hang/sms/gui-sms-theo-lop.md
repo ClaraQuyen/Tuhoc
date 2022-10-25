@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Classes,** chọn lớp học cần gửi SMS để thông báo nghỉ học, khai giảng, học phí… đến cho học viên.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của Lớp học, nhấn vào button **Attendance & Homework.**&#x20;
 

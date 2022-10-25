@@ -20,7 +20,7 @@ Ghi chú:
 1. Thông tin học viên Đang học, Học Demo, Bảo Lưu, Học Nợ trong lớp.
 2. Thông tin học viên trong lớp:&#x20;
 
-<mark style="color:green;">**Enrolled**</mark>** (Màu xanh)**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
+<mark style="color:green;">**Enrolled**</mark>** (**Màu xanh**)**: Học viên đủ điều kiện add vào lớp (đã đóng đủ hoặc dư học phí).
 
 <mark style="color:orange;">**Outstanding**</mark>** (**Màu Cam**)**: Học viên chưa đủ học phí cho khóa học hoặc add vào lớp cho học nợ.
 
@@ -34,11 +34,11 @@ Học viên không đăng kí học trong 1 khoảng thời gian (Màu xám)
 ![](../.gitbook/assets/edit2.png)
 
 {% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi Chú** :
+****:woman\_gesturing\_ok: **Ghi Chú**:
 
 (\*):  <mark style="color:blue;">**Start/Finish**</mark> : Có thể lựa chọn khoảng thời gian clear outstanding học viên (Nếu muốn)
 
-(\*) : <mark style="color:orange;">**Enrollment Date**</mark> : Có thể lựa chọn thời gian thực hiện thao tác Clear Outstanding học viên (Lưu ý : Khi chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên ).
+(\*): <mark style="color:orange;">**Enrollment Date**</mark> : Có thể lựa chọn thời gian thực hiện thao tác Clear Outstanding học viên (Lưu  : Khi chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên ).
 
 :stop\_button: Add thêm học viên hàng loạt, có thể chọn hàng loạt hoặc chọn từng học viên.
 
