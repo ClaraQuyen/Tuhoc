@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình hồ sơ học viên, dưới subpanel nhấn vào **Calls**, sau đó nhấn vào dấu (+).
 
-<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình tạo Log Call, nhập thông tin, sau đó chọn **Save** để lưu lại.
 

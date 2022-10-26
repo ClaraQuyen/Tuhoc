@@ -1,16 +1,16 @@
-# Điểm danh
+# Điểm danh, gửi thông báo dành cho App Parents
 
-> **Bước 1:** Ở màn hình danh sách của module Classes, sau đó click chọn lớp cần gửi điểm danh.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, sau đó click chọn lớp cần gửi thông báo đến App như lịch học bù, khai giảng đến cho học viên.
 
-![](../../.gitbook/assets/Điemanh1.png)
+![](../../../.gitbook/assets/Điemanh1.png)
 
-> **Bước 2:** Tại màn hình chi tiết của Lớp học, click vào button **Attendance & Homework.**
+> **Bước 2:** Tại màn hình chi tiết của Lớp học, nhấn vào button **Attendance & Homework.**
 
-![](../../.gitbook/assets/Điemanh2.png)
+![](../../../.gitbook/assets/Điemanh2.png)
 
-> **Bước 3:** Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học.
+> **Bước 3:** Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học cũng như thông báo đến app.
 
-![](<../../.gitbook/assets/màn hình điểm danh học viên và gửi sms.png>)
+![](<../../../.gitbook/assets/màn hình điểm danh học viên và gửi sms.png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -29,3 +29,7 @@
 
 ****:man\_raising\_hand: **Lưu ý**: Học viên có màu trong danh sách: Đây là Học viên không nằm trong buổi của ngày đó. Mục đích đưa nó lên để gửi SMS.
 {% endhint %}
+
+> Sau khi gửi thành công, mobile app sẽ nhận được thông báo như hình mẫu bên dưới.
+
+![](../../../.gitbook/assets/z2050025829813\_4b3abf07dc37c2731bb7b4325755af76.jpg)

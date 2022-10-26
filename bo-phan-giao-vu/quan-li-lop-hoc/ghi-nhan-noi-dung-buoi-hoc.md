@@ -1,6 +1,6 @@
 # Ghi nhận nội dung buổi học
 
-> **Bước 1:** Ở màn hình danh sách của module Classes sau đó click chọn lớp cần ghi nhận nội dung buổi học.
+> **Bước 1:** Ở màn hình danh sách của module **Classes,** sau đó nhấn chọn lớp cần ghi nhận nội dung buổi học.
 
 ![](../../.gitbook/assets/NDbuoihoc.png)
 

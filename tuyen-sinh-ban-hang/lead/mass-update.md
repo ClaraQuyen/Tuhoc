@@ -8,7 +8,7 @@
 
 > **Bước 2:** Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống hiển thị thông tin danh sách Leads có trạng thái cần để phân bổ người phụ trách, chọn tất cả.
 

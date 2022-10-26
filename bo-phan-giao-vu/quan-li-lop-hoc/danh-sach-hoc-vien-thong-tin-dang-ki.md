@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module Students, nhấn chọn học viên mà bạn muốn xem thông tin.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Hệ thống hiển thị thông tin thông tin của học viên như lịch sử thanh toán, lớp học,…
 

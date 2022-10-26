@@ -8,7 +8,7 @@
 
 > **Bước 2:** Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một tạo mới thanh toán.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Để miễn phí sách cho học viên, chúng ta check vào _**FREE**_** Book/Gift**

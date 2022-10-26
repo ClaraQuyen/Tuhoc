@@ -1,18 +1,18 @@
 # Enroll OutStanding
 
 {% hint style="success" %}
-_Tính năng này được sử dụng khi  remain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp (Outstanding -> Enrolled) và remain hour của học viên._&#x20;
+_Tính năng này được sử dụng khi remain hour của học viên đáp ứng đủ hoặc dư so với thời gian của lớp học và cho phép update lại trạng thái của học viên trong lớp (Outstanding -> Enrolled) và remain hour của học viên._&#x20;
 {% endhint %}
 
-> **Bước 1:** Ở màn hình danh sách của module Class chọn View Class, sau đó chọn lớp muốn Enroll OutStanding.
+> **Bước 1:** Ở màn hình danh sách của module Class chọn View Class, sau đó chọn lớp muốn Enroll Outstanding.
 
 ![](<../../.gitbook/assets/image (99).png>)
 
-> Bước 2: Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”. Sau đó, click Enroll Outstanding.
+> **Bước 2:** Tại màn hình chi tiết Classes, Click tab Subpanel “Student Situations”. Sau đó, click Enroll Outstanding.
 
 ![](../../.gitbook/assets/7.jpg)
 
-> Bước 3:Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học), ngược lại nếu khác KOC người dùng vẫn muốn sử dụng để enroll học viên thì click chọn payment tương ứng.
+> **Bước 3:** Chọn Payment để Enroll học viên (Mặc định hệ thống sẽ tự chọn Payment nếu như KOC của lớp học và KOC của payment cùng chung 1 Chương trình học), ngược lại nếu khác KOC người dùng vẫn muốn sử dụng để enroll học viên thì click chọn payment tương ứng.
 
 ![](../../.gitbook/assets/6.jpg)
 

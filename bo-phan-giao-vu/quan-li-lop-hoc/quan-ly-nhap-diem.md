@@ -1,10 +1,10 @@
-# Nhập điểm
+# Quản lý nhập điểm
 
 > **Bước 1:** Ở màn hình danh sách của module Class chọn View Class, sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
 
 ![](../../.gitbook/assets/BangDiem1.png)
 
-> **Bước 2:** Tại màn hình Lớp học,click vào Tab “Gradebook” sau đó chọn bảng điểm mà bạn cần xem/chấm điểm hoặc thay đổi cấu trúc bảng điểm.
+> **Bước 2:** Tại màn hình Lớp học, click vào Tab “Gradebook” sau đó chọn bảng điểm mà bạn cần xem/chấm điểm hoặc thay đổi cấu trúc bảng điểm.
 
 ![](../../.gitbook/assets/BangDiem2.png)
 

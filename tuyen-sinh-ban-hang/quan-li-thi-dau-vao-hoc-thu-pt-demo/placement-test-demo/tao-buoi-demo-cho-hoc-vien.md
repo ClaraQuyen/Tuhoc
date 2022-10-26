@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules,** ta nhấn vào button **Schedule Demo** để mở ra màn hình thêm mới **Schedule Demo**.
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới **Schedule Demo**, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một **Schedule Demo** mới.
 
