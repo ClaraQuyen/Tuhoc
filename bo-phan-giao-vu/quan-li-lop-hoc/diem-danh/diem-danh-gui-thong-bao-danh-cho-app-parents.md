@@ -1,6 +1,6 @@
 # Điểm danh, gửi thông báo dành cho App Parents
 
-> **Bước 1:** Ở màn hình danh sách của module **Classes**, sau đó click chọn lớp cần gửi thông báo đến App như lịch học bù, khai giảng đến cho học viên.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, sau đó nhấn chọn lớp cần gửi thông báo đến App như lịch học bù, khai giảng đến cho học viên.
 
 ![](../../../.gitbook/assets/Điemanh1.png)
 

@@ -1,10 +1,10 @@
 # Xuất báo cáo điểm danh
 
-> **Bước 1:** Ở màn hình danh sách của module **Classes** chọn lớp cần xuất báo cáo điểm danh.
+> **Bước 1:** Ở màn hình danh sách của module **Classes,** chọn lớp cần xuất báo cáo điểm danh.
 
 ![](../../../.gitbook/assets/BangDiem1.png)
 
-> **Bước 2:** Tại màn hình Lớp, click chọn tab Attendance sau đó chọn Export Attendance List.
+> **Bước 2:** Tại màn hình Lớp, nhấn chọn tab **Attendance** sau đó chọn Export Attendance List.
 
 ![](../../../.gitbook/assets/BCDiemDanh1.png)
 
