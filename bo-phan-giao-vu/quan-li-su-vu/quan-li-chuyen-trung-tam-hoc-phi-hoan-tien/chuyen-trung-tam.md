@@ -33,7 +33,7 @@ Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung
 
 > **Bước 4:** Hệ thống hiển thị thông tin chuyển trung tâm của học viên sau khi Save thành công.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn học phí từ trung tâm sang trung tâm_
 

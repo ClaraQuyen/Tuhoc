@@ -1,4 +1,6 @@
-# Payment Cashholder (Mua khóa học)
+# Phí mua khóa học -Cashholder
+
+
 
 > **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
@@ -28,7 +30,7 @@
 {% hint style="info" %}
 **Ghi chú:**
 
-Hướng dẫn cách thức thu tiền: [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](payment-cashholder-mua-khoa-hoc.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
+Hướng dẫn cách thức thu tiền: [<mark style="color:yellow;">>></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**Tại Đây**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;"><<</mark>](phi-mua-khoa-hoc-cashholder.md#thanh-toan-cho-payment)<mark style="color:yellow;"></mark>
 {% endhint %}
 
 > _Video hướng dẫn quản lý đăng ký học của học viên_

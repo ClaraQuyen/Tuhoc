@@ -1,10 +1,10 @@
-# Thanh toán trả hàng tháng (Slit Payment)
+# Thanh toán trả hàng tháng - Slit Payment
 
 > **Bước 1:** Tạo payment như bình thường và phần **Slit Payment** chọn option **Custom.**
 
 ![](../../.gitbook/assets/slitpayment.png)
 
-> **Bước 2:** Sau đó nhập số tháng mà khách hàng muốn thanh toán hành tháng, ví dụ muốn thanh toán trong 3 tháng, mỗi tháng thanh toán 1 lần.
+> **Bước 2:** Sau đó nhập số tháng mà khách hàng muốn thanh toán hàng tháng, ví dụ muốn thanh toán trong 3 tháng, mỗi tháng thanh toán 1 lần.
 
 ![](../../.gitbook/assets/sliipay2.png)
 

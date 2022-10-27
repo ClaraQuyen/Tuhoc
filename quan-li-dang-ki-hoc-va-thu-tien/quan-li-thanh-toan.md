@@ -1,12 +1,12 @@
 # 💶 Quản lý thanh toán
 
-#### [Payment Cashholder (Mua khóa học)](quan-li-thanh-toan/payment-cashholder-mua-khoa-hoc.md)
+#### [Payment Cashholder (Mua khóa học)](quan-li-thanh-toan/phi-mua-khoa-hoc-cashholder.md)
 
-#### [Payment Deposit](quan-li-thanh-toan/payment-deposit.md)
+#### [Payment Deposit](quan-li-thanh-toan/phi-dat-coc-deposit.md)
 
-#### [Payment PT (Đóng tiền kiểm tra đầu vào)](quan-li-thanh-toan/payment-pt-dong-tien-kiem-tra-dau-vao.md)
+#### [Payment PT (Đóng tiền kiểm tra đầu vào)](quan-li-thanh-toan/phi-kiem-tra-dau-vao-placement-test.md)
 
-#### [Payment Book/Gift (thu tiền sách)](quan-li-thanh-toan/payment-book-gift-thu-tien-sach.md)
+#### [Payment Book/Gift (thu tiền sách)](quan-li-thanh-toan/phi-thu-tien-sach-book-gift.md)
 
 #### [Thanh toán trả hàng tháng (Slit Payment)](quan-li-thanh-toan/thanh-toan-tra-hang-thang-slit-payment.md)
 

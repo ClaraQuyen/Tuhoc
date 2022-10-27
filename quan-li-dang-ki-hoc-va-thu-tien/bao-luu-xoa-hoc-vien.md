@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn **Lớp học** cần xóa học viên.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết **Classes**, ở subpanel bên dưới, chọn tab “**Student Situations**” sau đó chọn button <mark style="color:red;">**Delay**</mark>.
 
