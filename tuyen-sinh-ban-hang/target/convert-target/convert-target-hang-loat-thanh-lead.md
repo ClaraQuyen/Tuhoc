@@ -10,7 +10,7 @@
 
 > **Bước 3:** Hệ thống sẽ thông báo update thành công và chuyển dữ liệu về Leads.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn import hàng loạt Target_
 

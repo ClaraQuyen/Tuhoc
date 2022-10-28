@@ -1,4 +1,5 @@
 # Convert Lead
 
-1. [Convert từ Lead thành Students](convert-tu-lead-thanh-student.md)
-2. [Convert Lead hàng loạt thành Students](convert-lead-hang-loat-thanh-student.md)
+> _Video hướng dẫn Chuyển đổi Lead thành Student - Case by case_
+
+{% embed url="https://www.youtube.com/watch?index=20&list=PLg9QjyHAwG61XKxBGSq3pXeLqPSK8XYUq&v=rd9OH_TjZIA" %}

@@ -8,7 +8,7 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 
 > **Bước 1:** Ở màn hình danh sách của module **Students**, nhấn vào học viên có nhu cầu chuyển nhượng học phí.
 
-<figure><img src="../../../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của module **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Transfer Fee**.
 

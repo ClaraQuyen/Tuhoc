@@ -1,4 +1,4 @@
-# Quản lí Chi
+# Quản lý Chi
 
 > **Bước 1:** Ở màn hình danh sách của module **Center Expenses**, ta nhấn vào button **Create** để mở ra màn hình thêm mới **Center Expenses**.
 
@@ -11,3 +11,7 @@
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của phiếu chi vừa được tạo.
 
 <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+
+> _Video hướng dẫn Quản lí Phiếu Chi_
+
+{% embed url="https://www.youtube.com/watch?v=I8Bwdtkz3Ys" %}

@@ -33,3 +33,7 @@
 > Sau khi gửi thành công, mobile app sẽ nhận được thông báo như hình mẫu bên dưới.
 
 ![](../../../.gitbook/assets/z2050025829813\_4b3abf07dc37c2731bb7b4325755af76.jpg)
+
+> _Video hướng dẫn điểm danh học viên sau mỗi buổi học_
+
+{% embed url="https://www.youtube.com/watch?v=flv-4_RmDrw" %}

@@ -37,3 +37,7 @@
 1. Trạng thái **Cancelled**: Buổi học đã được hủy trên hệ thống.
 2. Trạng thái **Make-up**: Buổi học được chọn cho giáo viên dạy bù (buổi dạy bù linh động cho người dùng tự set).
 {% endhint %}
+
+> _Video hướng dẫn Hủy buổi học_
+
+{% embed url="https://www.youtube.com/watch?index=44&list=PLg9QjyHAwG61XKxBGSq3pXeLqPSK8XYUq&v=FhvE4SR0isU" %}

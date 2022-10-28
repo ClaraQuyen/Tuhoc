@@ -32,3 +32,7 @@
 {% hint style="info" %}
 Lưu ý : Để bật đồng bộ Lớp qua Class In, chọn trạng thái Online là Active.
 {% endhint %}
+
+> _Video hướng dẫn Tạo mới lớp học_
+
+{% embed url="https://www.youtube.com/watch?v=zXQBqVMA-H8" %}

@@ -11,3 +11,7 @@
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Giáo viên sau khi tạo thành công.
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+> _Video hướng dẫn Tạo Giáo viên, thông tin hồ sơ đăng nhập App/Web_
+
+{% embed url="https://www.youtube.com/watch?v=RK_dzbazyuQ" %}

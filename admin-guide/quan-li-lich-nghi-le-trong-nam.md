@@ -1,4 +1,4 @@
-# 📅 Quản lí lịch nghỉ lễ trong năm
+# 📅 Quản lý lịch nghỉ lễ trong năm
 
 > **Bước 1:** Đưa chuột vào proflie, sau đó click chọn **Admin.**
 
@@ -15,3 +15,7 @@
 > **Bước 4:** Sau đó chọn ngày cần set up Holiday, click **Save** để hoàn tất.
 
 ![](../.gitbook/assets/holiday4.jpg)
+
+> _Video hướng dẫn Quản lý lịch nghỉ lễ trong năm_
+
+{% embed url="https://www.youtube.com/watch?v=PE2xkl125AA" %}

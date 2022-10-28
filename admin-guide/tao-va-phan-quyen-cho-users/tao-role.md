@@ -1,8 +1,8 @@
 # Tạo Role
 
-> **Bước 1:** Nhấn chuột vào module Admin chọn Admin. Tại màn hình Admin click vào chọn Role Management
+> **Bước 1:** Truy cập vào menu Admin và chọn **Role Management.**
 
-![](../../.gitbook/assets/role1.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình Roles, chọn vào Menu chọn Create Role.
 
@@ -118,3 +118,7 @@
 > **Bước 7:** Hệ thống hiển thị thông tin chi tiết của Role vừa được tạo và quyền truy cập cho các module thành công.
 
 ![](../../.gitbook/assets/role7.png)
+
+> _Video hướng dẫn tạo role và phân quyền cho User_
+
+__

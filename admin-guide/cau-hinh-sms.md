@@ -15,7 +15,7 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Lưu ý** :
 
-(1) và (4) : Thông số kĩ thuật từ nhà cung cấp Call Center và thông số này sẽ do nhà cung cấp cấp phát.
+(1) và (4): Thông số kĩ thuật từ nhà cung cấp Call Center và thông số này sẽ do nhà cung cấp phát.
 {% endhint %}
 
 > **Bước 4:** Cuối cùng click **Save**.

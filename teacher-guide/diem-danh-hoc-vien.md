@@ -22,3 +22,7 @@
 5. Kiểm tra bài tập về nhà của học viên(nếu có)
 6. Đánh giá điểm chuyên cần cho học viên
 {% endhint %}
+
+> _Video hướng dẫn điểm danh học viên sau mỗi buổi học_
+
+{% embed url="https://www.youtube.com/watch?v=flv-4_RmDrw" %}

@@ -11,25 +11,21 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
 
-1: Tiêu đề Feedback
-
-2: Feedback của học viên nào (Ai là người Feedback)
-
-3: Liên quan đến lớp nào (Lớp học viên đang học)
-
-4: Nội dung Học viên/Phụ huynh Feedback
-
-5: Nguồn Feedback
+1. Tiêu đề Feedback
+2. Feedback của học viên nào (Ai là người Feedback)
+3. Liên quan đến lớp nào (Lớp học viên đang học)
+4. Nội dung Học viên/Phụ huynh Feedback
+5. Nguồn Feedback
 
 ****:point\_right: **Status Feedback** :
 
-**New** : Mới nhận/tạo Feedback từ phụ huynh/học viên
+**New**: Mới nhận/tạo Feedback từ phụ huynh/học viên
 
-**Assign** : Đã tiếp nhận
+**Assign**: Đã tiếp nhận
 
 **Pending Input**: Đang xử lí
 
-**Closed** : Đã giải quyết.
+**Closed**: Đã giải quyết.
 {% endhint %}
 
 ```
@@ -44,3 +40,6 @@ Sau đó chọn Case.
 
 ![](../../.gitbook/assets/feedback2.png)
 
+> _Video hướng dẫn Ghi nhận feedback/ complaint về lớp học_
+
+{% embed url="https://youtu.be/UPu4ae9YCls" %}

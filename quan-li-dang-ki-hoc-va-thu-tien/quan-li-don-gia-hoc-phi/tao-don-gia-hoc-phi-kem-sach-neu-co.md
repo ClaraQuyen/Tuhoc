@@ -47,3 +47,7 @@ Gói giờ :&#x20;
 ![](../../.gitbook/assets/dongiahp2.png)
 
 ![](../../.gitbook/assets/dghp3.png)
+
+> _Video hướng dẫn Quản lý đơn giá học phí kèm sách_
+
+{% embed url="https://www.youtube.com/watch?index=13&list=PLg9QjyHAwG61XKxBGSq3pXeLqPSK8XYUq&v=qMxfcGL0Vq0" %}

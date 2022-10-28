@@ -26,3 +26,7 @@
 
 ****:tada: Trường hợp lớp học đổi giờ, học phí còn dư sẽ được hiện thị trong phần thông tin Delay, người dùng có thể drop về doanh thu Trung tâm khi check chọn option khác, hoặc trả về thanh toán gốc.
 {% endhint %}
+
+> _Video hướng dẫn Xoá học viên ra khỏi lớp_
+
+{% embed url="https://www.youtube.com/watch?v=PT40c1aUOjc" %}

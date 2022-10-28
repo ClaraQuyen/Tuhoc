@@ -4,7 +4,7 @@ description: Gửi thông báo điểm danh, Ghi nhận học viên làm bài t�
 
 # 📕 Gửi kết quả điểm danh, nội dung bài học
 
-> &#x20;**Bước 1:** Ở màn hình danh sách của module Classes, sau đó nhấn chọn lớp cần gửi SMS, nội dung bài học, điểm danh đến cho học viên.
+> **Bước 1:** Ở màn hình danh sách của module Classes, sau đó nhấn chọn lớp cần gửi SMS, nội dung bài học, điểm danh đến cho học viên.
 
 ![](../.gitbook/assets/LamBT1.png)
 
@@ -33,3 +33,7 @@ description: Gửi thông báo điểm danh, Ghi nhận học viên làm bài t�
 {% hint style="warning" %}
 ****:man\_raising\_hand: **Lưu ý:** Học viên có màu hồng trong danh sách: Đây là Học viên ko nằm trong buổi của ngày đó Mục đích đưa nó lên để gửi SMS.
 {% endhint %}
+
+> _Video hướng dẫn Điểm danh học viên sau mỗi buổi học_
+
+{% embed url="https://www.youtube.com/watch?v=flv-4_RmDrw" %}

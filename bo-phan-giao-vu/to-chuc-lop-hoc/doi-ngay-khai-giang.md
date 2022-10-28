@@ -27,3 +27,7 @@
 {% hint style="danger" %}
 ****:man\_raising\_hand: **Lưu ý:** Khi thay đổi ngày khai giảng (Change Start Date), tất cả các dữ liệu điểm danh của các buổi học đều sẽ bị mất
 {% endhint %}
+
+> _Video hướng dẫn Đổi ngày khai giảng - Đổi lịch lớp_
+
+{% embed url="https://www.youtube.com/watch?index=45&list=PLg9QjyHAwG61XKxBGSq3pXeLqPSK8XYUq&v=pknqFbJj62Y" %}

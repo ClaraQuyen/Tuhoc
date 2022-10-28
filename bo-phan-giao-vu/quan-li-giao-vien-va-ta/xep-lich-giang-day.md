@@ -25,3 +25,7 @@ Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong x�
 > **Bước 5:** Nhấn OK để xác nhận việc xếp lịch cho Giáo viên.
 
 ![](../../.gitbook/assets/Xeplichday5.png)
+
+> _Video hướng dẫn_ _Phân công giáo viên phụ trách giảng dạy_
+
+{% embed url="https://www.youtube.com/watch?index=38&list=PLg9QjyHAwG61XKxBGSq3pXeLqPSK8XYUq&v=WVoDCpt2d04" %}

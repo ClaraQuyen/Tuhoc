@@ -22,3 +22,7 @@
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết sau khi tạo thành công Hợp đồng cho Giáo viên.
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+> _Video hướng dẫn Tạo hợp đồng cho Giáo viên_
+
+{% embed url="https://www.youtube.com/watch?v=6LAcn-XbizY" %}

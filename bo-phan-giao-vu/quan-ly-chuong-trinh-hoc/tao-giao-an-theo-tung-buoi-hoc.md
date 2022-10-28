@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình tạo mới/Chỉnh sửa chương trình học, nhập đầy đủ các thông tin cần thiết. Sau đó nhấn **Add Syllabus** để tạo giáo án cho một chương trình học mới.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

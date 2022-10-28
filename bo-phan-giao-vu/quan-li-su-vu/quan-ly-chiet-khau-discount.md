@@ -31,6 +31,6 @@
 
 <figure><img src="../../.gitbook/assets/image (67) (2).png" alt=""><figcaption></figcaption></figure>
 
-> _Video hướng dẫn Quản lí chiết khấu_
+> _Video hướng dẫn Quản lý chiết khấu_
 
 {% embed url="https://youtu.be/Jty7SnANkZc" %}

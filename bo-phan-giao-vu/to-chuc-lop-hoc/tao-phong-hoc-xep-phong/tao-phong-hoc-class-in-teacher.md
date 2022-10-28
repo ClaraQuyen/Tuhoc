@@ -2,15 +2,15 @@
 description: Room được tạo trên EMS được xem như 1 account Teacher bên ClassIn
 ---
 
-# Tạo Room (Class In: Teacher)
+# Tạo phòng học (Class In: Teacher)
 
 > **Bước 1:** Ở màn hình danh sách của module Room, ta nhấn vào button **Create Room** để mở ra màn hình thêm mới Room.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (6).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Nhập thông tin Room (Online/offline) và nhập đầy đủ thông tin cấu hình. Cuối cùng, chúng ta nhấn Save để lưu lại.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ghi chú :tada:
@@ -31,4 +31,4 @@ Class In: Auditer -> Chọn từ Room (Loại: Regular User)
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Rooms** được tạo.
 
-<figure><img src="../../.gitbook/assets/image (4) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (7).png" alt=""><figcaption></figcaption></figure>

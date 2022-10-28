@@ -6,8 +6,8 @@
 
 > **Bước 2:** Tại màn hình Admin, chọn **System Setting.**
 
-![](../.gitbook/assets/admin1.jpg)
+![](../../.gitbook/assets/admin1.jpg)
 
 > **Bước 3:** Tại màn hình cấu hình Logo, chọn ảnh cần upload, cuối cùng click **Save.**
 
-![](<../.gitbook/assets/admin2 (1).jpg>)
+![](<../../.gitbook/assets/admin2 (1).jpg>)

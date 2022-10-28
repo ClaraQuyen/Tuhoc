@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Kind of Courses,** chọn **Create** để mở ra màn hình tạo mới.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới khóa học học, nhập đầy đủ các thông tin cần thiết, sau đó nhấn chọn Save để hoàn tất việc tạo ra một khóa học mới.
 
@@ -17,4 +17,4 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của chương trình học vừa tạo.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (7).png" alt=""><figcaption></figcaption></figure>

@@ -2,9 +2,9 @@
 
 #### [Tạo lớp học, lớp chờ](tao-lop-hoc-lop-cho.md)
 
-#### [Tạo Room (Class In: Teacher)](tao-room-class-in-teacher.md)
+#### [Tạo Room (Class In: Teacher)](tao-phong-hoc-xep-phong/tao-phong-hoc-class-in-teacher.md)
 
-#### [Xếp Room](xep-room.md)
+#### [Xếp Room](tao-phong-hoc-xep-phong/xep-phong.md)
 
 #### [Hủy buổi học / chọn ngày học bù](huy-buoi-hoc-chon-ngay-hoc-bu.md)
 
@@ -13,3 +13,4 @@
 #### [Đổi lịch học trong khoảng thời gian bất kì](doi-lich-hoc-trong-khoang-thoi-gian-bat-ki.md)
 
 #### [Quản lý lịch nghỉ lễ trong năm](quan-li-lich-nghi-le-trong-nam.md)
+

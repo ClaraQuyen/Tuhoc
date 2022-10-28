@@ -34,3 +34,7 @@ Click vào comment, giáo viên nhập comment cho học viên sau đó click Po
 > **Bước 5:** Sau khi input bảng điểm, chọn **Export to Exce**l để xuất kết quả cuối kì/giữa kì.
 
 ![](../../.gitbook/assets/bangdiem2.jpg)
+
+> Video hướng dẫn Nhập điểm
+
+{% embed url="https://www.youtube.com/watch?v=mrjSIUlczq8" %}

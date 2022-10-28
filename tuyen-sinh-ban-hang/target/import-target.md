@@ -56,3 +56,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 2. Exit: Thoát ra màn hình Overview của module Targets
 3. Add to Target List: Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaign hoặc gửi email,...
 {% endhint %}
+
+> _Video hướng dẫn Import Data từ file Excel_&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=_6MOFKRn1fE" %}

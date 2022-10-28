@@ -16,7 +16,7 @@ Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho họ
 
 > **Bước 2:** Tại màn hình chi tiết của module **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Refund**.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình hoàn tiền học phí, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save.**
 
