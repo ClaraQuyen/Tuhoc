@@ -28,3 +28,7 @@
 > **Bước 5:** Hệ thống hiển thị chi tiết thông tin Product Catalog sau khi tạo thành công.
 
 ![](<../../.gitbook/assets/image (131).png>)
+
+> _Video hướng dẫn Nhập sản phẩm sách/ quà tặng_
+
+{% embed url="https://www.youtube.com/watch?t=32s&v=kjf7oGbVdOg" %}
