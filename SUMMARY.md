@@ -85,11 +85,12 @@
 * [👨🎓 Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
   * [Quản lý phụ huynh học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/quan-ly-phu-huynh-hoc-vien.md)
   * [Import danh sách học viên chính thức](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/import-danh-sach-hoc-vien-chinh-thuc.md)
-  * [Quản lý hồ sơ học viên, lịch sử thanh toán](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/quan-ly-ho-so-hoc-vien-lich-su-thanh-toan.md)
-  * [Tạo Task](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/tao-task.md)
   * [Tìm kiếm học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/README.md)
     * [Tìm kiếm học viên theo tiêu chí Filter](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/tim-kiem-hoc-vien-theo-tieu-chi-filter.md)
     * [Tìm kiếm học viên theo từ khóa](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/tim-kiem-hoc-vien-theo-tu-khoa.md)
+  * [Quản lý hồ sơ học viên, lịch sử thanh toán](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/quan-ly-ho-so-hoc-vien-lich-su-thanh-toan.md)
+  * [Tạo Task](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/tao-task.md)
+  * [Hoàn tiền một phần - Refund](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/hoan-tien-mot-phan-refund.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 

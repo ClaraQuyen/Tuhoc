@@ -2,7 +2,7 @@
 
 > **Bước 1:** Đưa chuột vào Menu Admin. Tại Action Menu nhấn vào chọn Users.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình Users, nhấn vào Menu chọn Create New User.
 

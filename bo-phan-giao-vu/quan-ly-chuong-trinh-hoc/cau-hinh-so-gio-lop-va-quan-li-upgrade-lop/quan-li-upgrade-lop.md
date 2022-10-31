@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình chi tiết của lớp, nhấn vào **Upgrade**.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:**&#x20;> Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết sau đó click **Save** để hoàn  tất việc Upgrade lớp học.
 

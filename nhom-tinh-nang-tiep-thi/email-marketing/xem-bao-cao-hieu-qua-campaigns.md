@@ -1,8 +1,8 @@
 # 🏬 Xem báo cáo Campaigns hiệu quả
 
-> **Bước 1:**  Ở màn hình danh sách của module **Campaigns** chọn **View Campaigns**, sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
+> **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **View Campaigns**, sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
 
-<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Nhấn chọn View Status.
 

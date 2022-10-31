@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Kind of courses,** nhấn chọn một chương trình học cần thêm giáo án, sau đó chọn **Edit**.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chỉnh sửa thông tin chương trình học, nhập đầy đủ các trường thông tin cần thiết. Sau đó nhấn chọn **Create** để Edit giáo án cho một chương trình học.
 
