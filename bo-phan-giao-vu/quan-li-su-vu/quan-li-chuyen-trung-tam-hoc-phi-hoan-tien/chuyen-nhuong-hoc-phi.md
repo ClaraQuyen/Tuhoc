@@ -32,3 +32,5 @@ Khi thực hiện chuyển học phí từ học viên A đến học viên B, b
 <figure><img src="../../../.gitbook/assets/image (2) (6).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn chuyển nhượng học phí_
+
+{% embed url="https://youtu.be/VzX3R17ZWwY" %}

@@ -74,3 +74,7 @@ description: >-
 > **Bước 5:** Màn hình hiển thị thông tin học viên sau khi thêm học viên vào lớp thành công.
 
 ![](<../.gitbook/assets/3 (8).png>)
+
+> _Video hướng dẫn thêm học viên vào lớp và xóa trạng thái học nợ_
+
+{% embed url="https://www.youtube.com/watch?v=JWfsvLF8lVY" %}
