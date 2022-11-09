@@ -1,6 +1,6 @@
 # Gửi SMS đơn lẻ
 
-> **Bước 1:** Đưa chuột vào module **Leads** hoặc **Students**, sau đó chọn học viên mà bạn muốn gửi **SMS**, tiếp theo tiến hành nhấn vào <img src="../../../.gitbook/assets/smsdonle.png" alt="" data-size="original">.
+> **Bước 1:** Ở màn hình danh sách của module **Leads** hoặc **Students**, sau đó chọn học viên mà bạn muốn gửi **SMS**, tiếp theo tiến hành nhấn vào <img src="../../../.gitbook/assets/smsdonle.png" alt="" data-size="original">.
 
 ![](../../../.gitbook/assets/smsdonle1.png)
 

@@ -2,13 +2,13 @@
 
 ### Có thể thực hiện theo 2 cách sau:
 
-#### CÁCH 1:
+### CÁCH 1:
 
-> **Bước 1**: Tại màn hình **Trang chủ**, click vào chức năng **Sổ liên lạc** để theo dõi Thông tin bài giảng và bài tập về nhà của học viên theo lớp. &#x20;
+> **Bước 1**: Tại màn hình **Trang chủ**, nhấn vào chức năng **Sổ liên lạc** để theo dõi Thông tin bài giảng và bài tập về nhà của học viên theo lớp. &#x20;
 
 ![](../.gitbook/assets/12.1.jpg)
 
-> **Bước 2:** Tại màn hình Chọn lớp. Click chọn lớp muốn xem thông tin.
+> **Bước 2:** Tại màn hình Chọn lớp, nhấn chọn lớp muốn xem thông tin.
 
 ![](../.gitbook/assets/13.1.jpg)
 
@@ -20,9 +20,9 @@
 
 ![](../.gitbook/assets/15.jpg)
 
-#### CÁCH 2:
+### CÁCH 2:
 
-> **Bước 1**: Tại màn hình **Cá nhân**, click chọn chức năng **Lớp học** để hiện thị danh sách lớp mà học viên đã tham dự.&#x20;
+> **Bước 1**: Tại màn hình **Cá nhân**, nhấn chọn chức năng **Lớp học** để hiện thị danh sách lớp mà học viên đã tham dự.&#x20;
 
 ![](../.gitbook/assets/16.2.jpg)
 

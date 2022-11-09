@@ -1,14 +1,14 @@
 # Ghi nhận phản hồi
 
-> **Bước 1:** Tại màn hình **Trang chủ**, click vào chức năng **Phản hồi** để phản hồi về trung tâm.
+> **Bước 1:** Tại màn hình **Trang chủ**, nhấn vào chức năng **Phản hồi** để phản hồi về trung tâm.
 
 ![](<../.gitbook/assets/1 (7) (1).jpg>)
 
-> **Bước 2:** Click vào biểu tượng **dấu cộng** góc phải dưới cùng để tạo mới Phản hồi.
+> **Bước 2:** Nhấn vào biểu tượng **dấu cộng** góc phải dưới cùng để tạo mới Phản hồi.
 
 ![](<../.gitbook/assets/2 (7) (1).jpg>)
 
-> **Bước 3:** Chọn 1 trong 2 loại Phản hồi cần thực hiện. Click chọn option Tạo phản hồi.
+> **Bước 3:** Chọn 1 trong 2 loại Phản hồi cần thực hiện. Nhấn chọn option Tạo phản hồi.
 
 ![](<../.gitbook/assets/3 (5).jpg>)
 
@@ -51,7 +51,7 @@ Ghi chú:
 
 ![](<../.gitbook/assets/7 (1).jpg>)
 
-> **Bước 8:** Khi trung tâm Phản hồi lại, màn hình sẽ hiển thị thông báo. Click vào để đọc chi tiết tin nhắn được phản hồi.
+> **Bước 8:** Khi trung tâm Phản hồi lại, màn hình sẽ hiển thị thông báo. Nhấn vào để đọc chi tiết tin nhắn được phản hồi.
 
 ![](../.gitbook/assets/10.jpg)
 
@@ -62,7 +62,7 @@ Ghi chú:
 {% hint style="warning" %}
 Ngoài ra, sau khi gửi trao đổi và Trung tâm gửi phản hồi, ta sẽ nhận được tại phần thông báo như sau:
 
-* Click vào nút hình chuông:
+* Nhấn vào nút hình chuông:
 
 ![](<../.gitbook/assets/13 (2).jpg>)
 

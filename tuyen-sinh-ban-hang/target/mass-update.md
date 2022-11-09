@@ -8,7 +8,7 @@ description: >-
 
 ### Phân bổ người phụ trách
 
-**Bước 1:** Lọc dữ liệu của Target ở trạng thái <mark style="color:red;">**Converted**</mark>**,** ở Action Menu phía bên trái, chúng ta chọn **Mass Update.**
+> **Bước 1:** Lọc dữ liệu của Target ở trạng thái <mark style="color:red;">**Converted**</mark>**,** ở Action Menu phía bên trái, chúng ta chọn **Mass Update.**
 
 <figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,9 +19,9 @@ description: >-
 {% hint style="info" %}
 :woman\_gesturing\_ok: Ghi chú:
 
-(+) : Thêm điều kiện Mass Update&#x20;
+(+): Thêm điều kiện Mass Update&#x20;
 
-(-) : Bỏ điều kiện Mass Update
+(-): Bỏ điều kiện Mass Update
 {% endhint %}
 
 ```

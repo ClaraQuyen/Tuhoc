@@ -16,8 +16,6 @@ description: >-
 * **Ô hình chữ nhật:** Hiển thị tin tức dưới dạng slider
 {% endhint %}
 
-> **Bước 2:** Tại cuối trang của màn hình **Trang chủ**, sẽ hiển thị những**Tin tức & sự kiện** khác.
-
-&#x20;
+> **Bước 2:** Tại cuối trang của màn hình **Trang chủ**, sẽ hiển thị những **Tin tức & sự kiện** khác.
 
 ![](<../.gitbook/assets/2 (9).jpg>)

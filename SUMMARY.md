@@ -39,7 +39,7 @@
     * [Gửi SMS đơn lẻ](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-don-le.md)
     * [Gửi SMS hàng loạt](nhom-tinh-nang-tiep-thi/sms-marketing/gui-va-xem-lai-lich-su-gui/gui-sms-hang-loat.md)
   * [Xem lại lịch sử gửi SMS](nhom-tinh-nang-tiep-thi/sms-marketing/xem-lai-lich-su-gui-sms.md)
-* [🇪🇭 Tích hợp Landing Pages /Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/README.md)
+* [🇪🇭 Tích hợp Landing Page/ Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/README.md)
   * [Giới thiệu Landing Page](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/gioi-thieu-landing-page.md)
   * [Tích hợp với Ladipage.vn](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/tich-hop-voi-ladipage.vn.md)
   * [Tích hợp với Wordpress - Contact Form 7](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/tich-hop-voi-wordpress-contact-form-7.md)

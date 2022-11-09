@@ -1,6 +1,6 @@
 # Tạo Campaigns (Wizard)
 
-> **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào phân hệ **Campaign** để **Create Campaign**.
+> **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào module **Campaign** để **Create Campaign**.
 
 ![](../../../.gitbook/assets/campaigns.png)
 

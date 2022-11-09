@@ -1,6 +1,6 @@
 # Gửi SMS hàng loạt
 
-> **Bước 1:** Đưa chuột vào module **Leads hoặc Students**, sau đó chọn học viên mà bạn muốn gửi SMS, tiếp theo nhấn vào <img src="../../../.gitbook/assets/sms1.png" alt="" data-size="original"> .
+> **Bước 1:** Ở màn hình danh sách của module **Leads hoặc Students**, sau đó chọn học viên mà bạn muốn gửi SMS, tiếp theo nhấn vào <img src="../../../.gitbook/assets/sms1.png" alt="" data-size="original"> .
 
 <figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 

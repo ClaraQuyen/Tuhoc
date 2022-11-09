@@ -1,6 +1,6 @@
 # Xem lại lịch sử gửi SMS
 
-> **Cách 1:** Nhấn chuột vào module **SMS** để xem lại lịch sử đã gửi tin nhắn cho học viên.
+> **Cách 1:** Ở màn hình danh sách của module **SMS** để xem lại lịch sử đã gửi tin nhắn cho học viên.
 
 ![](../../.gitbook/assets/xémms1.png)
 

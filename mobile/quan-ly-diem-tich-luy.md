@@ -1,6 +1,6 @@
 # Quản lý điểm tích lũy
 
-&#x20;**Bước 1:**  Tại màn hình **Cá nhân**, click vào chức năng **Điểm tích lũy** để hiển thị thông tin về điểm tích lũy của học sinh.
+> **Bước 1:**  Tại thông tin màn hình **Cá nhân**, click vào chức năng **Điểm tích lũy** để hiển thị thông tin về điểm tích lũy của học sinh.
 
 ![](<../.gitbook/assets/1 (7).jpg>)
 
