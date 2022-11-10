@@ -25,7 +25,7 @@
 \+ Nếu chọn Make up in other Schedule bộ phận giáo vụ có thể xếp lịch dạy bù vào ngày mà giáo viên rảnh hoặc ngày mà giáo viên yêu cầu
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Hệ thống hiển thị thông tin lớp bị hủy và ngày được chọn dạy bù cho học viên trong Session.
 

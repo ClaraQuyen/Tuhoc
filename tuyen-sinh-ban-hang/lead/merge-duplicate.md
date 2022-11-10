@@ -1,3 +1,7 @@
+---
+description: Hợp nhất dữ liệu trùng trong hệ thống
+---
+
 # Merge Duplicate
 
 > **Bước 1:** Chọn hồ sơ bị **duplicate**, ở module bị trùng (tối đa 2 hồ sơ).

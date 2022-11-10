@@ -37,7 +37,7 @@
 
 > **Bước 2:** Màn hình tạo mới Payment hiện ra, chúng ta tiến hành tạo với Payment Type là "Book/Gift".
 
-![](<../../.gitbook/assets/image (3) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (2) (1) (1).png>)
 
 {% hint style="info" %}
 Chú ý:

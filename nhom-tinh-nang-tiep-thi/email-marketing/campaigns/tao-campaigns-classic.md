@@ -1,6 +1,10 @@
+---
+description: Tạo chiến lược Classic cơ bản
+---
+
 # Tạo Campaigns (Classic)
 
-> **Bước 1:**  Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Classic)** hoặc chọn vào phân hệ **Campaign** để **Create Campaign**.
+> **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Classic)** hoặc chọn vào phân hệ **Campaign** để **Create Campaign**.
 
 ![](../../../.gitbook/assets/1\_1.png)
 

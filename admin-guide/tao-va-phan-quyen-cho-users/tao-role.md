@@ -2,7 +2,7 @@
 
 > **Bước 1:** Truy cập vào menu Admin và chọn **Role Management.**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình Roles, chọn vào Menu chọn Create Role.
 

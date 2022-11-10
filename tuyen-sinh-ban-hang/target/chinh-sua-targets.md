@@ -1,3 +1,7 @@
+---
+description: Chỉnh sửa khách hàng mục tiêu
+---
+
 # Chỉnh sửa Target
 
 > **Bước 1:** Ở màn hình danh sách của module **Targets**, ta chọn học viên cần thay đổi thông tin để mở ra màn hình chỉnh sửa **Targets**.

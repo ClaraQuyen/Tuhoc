@@ -1,6 +1,6 @@
 # Gửi SMS theo Report
 
-> **Bước 1:** Ở màn hình danh sách của module Report, chúng ta chọn báo cáo "Payment List Report".
+> **Bước 1:** Ở màn hình danh sách của module **Report**, chúng ta chọn báo cáo "Payment List Report".
 
 <figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 

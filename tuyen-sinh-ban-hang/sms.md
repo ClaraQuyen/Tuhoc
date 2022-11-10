@@ -17,7 +17,7 @@ SMS trên EMS sẽ có trạng thái đã gửi "RECEIVE", DOTB có lưu ý lạ
 4. **Các từ khóa bị chặn bao gồm các từ sau:** Thông báo, cho VAT tiền, liên hệ, khuyến mãi, lãi suất,... và các từ khóa khác.
 {% endhint %}
 
-### Một số tính năng của module SMS:
+### Có hai cách để gửi SMS:
 
 #### ![](../.gitbook/assets/icons8-mobile-messaging-50.png)[ Gửi SMS theo Lớp](sms/gui-sms-theo-lop.md)
 

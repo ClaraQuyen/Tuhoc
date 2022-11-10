@@ -1,4 +1,8 @@
-# Tạo Lead
+---
+description: Thêm mới khách hàng tiềm năng
+---
+
+# Thêm mới Lead
 
 > **Bước 1:** Ở màn hình danh sách của module **Leads**, ta nhấn vào button **Create Lead** để mở ra màn hình thêm mới Lead.
 

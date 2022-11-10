@@ -4,7 +4,7 @@ description: >-
   tin giống nhau.
 ---
 
-# Mass Update
+# Mass Update - Cập nhật hàng loạt
 
 ### Phân bổ người phụ trách
 
@@ -33,3 +33,7 @@ Nếu muốn chọn nhiều Target thì có thể làm theo hướng dẫn các 
 > **Bước 3:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.   ****  &#x20;
 
 <figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+
+> _Video Hướng dẫn cập nhật dữ liệu hàng loạt_&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=icRNjhEa9JI" %}

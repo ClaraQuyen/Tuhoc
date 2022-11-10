@@ -1,22 +1,22 @@
 ---
 description: >-
-  Upload dữ liệu hàng loạt trên hệ thống sau khi tham gia sự kiện, hoặc có nguồn
-  lớn thông tin từ KH
+  Upload dữ liệu hàng loạt khách hàng mục tiêu trên hệ thống sau khi tham gia sự
+  kiện, hoặc có nguồn lớn thông tin từ KH
 ---
 
 # Import Target
 
 > **Bước 1:** Ở màn hình danh sách của module **Targets,** ta nhấn vào **** button **Import Targets** để **** cho phép người dùng Import data từ local.
 
-![Màn hình danh sách của module Targets](<../../.gitbook/assets/image (113) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (113) (1) (1) (1) (1).png>)
 
 > **Bước 2:** Import danh sách khách hàng thô từ file excel theo hướng dẫn trực tiếp từ hệ thống.
 
-![Select Data Source](<../../.gitbook/assets/image (108) (1).png>)
+![](<../../.gitbook/assets/image (108) (1).png>)
 
 > **Bước 3:**&#x20;> Tải mẫu import (nếu chưa có), sau đó nhập đầy đủ thông tin vào file để đưa lên hệ thống và sau đó nhấn vào button **Choose File**. Sau đó, ta tiếp tục nhấn **Next**.
 
-![Upload Import File](<../../.gitbook/assets/image (105) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (105) (1) (1) (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi Chú:**

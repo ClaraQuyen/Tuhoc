@@ -1,3 +1,7 @@
+---
+description: Chỉnh sửa khách hàng tiềm năng
+---
+
 # Chỉnh sửa Leads
 
 > **Bước 1:** Ở màn hình danh sách của module **Leads**, ta chọn học viên cần thay đổi thông tin để mở ra màn hình chỉnh sửa **Leads**.

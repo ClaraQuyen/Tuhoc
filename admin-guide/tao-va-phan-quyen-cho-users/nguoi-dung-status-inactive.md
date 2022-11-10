@@ -6,13 +6,13 @@
 
 > **Bước 2:** Chọn bất kì người dùng mà bạn muốn **Inactive**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình thông tin của người dùng, chúng ta nhấn vào thông tin nút "Edit" để cập nhật thông tin của người dùng. Ở đây chúng ta cập nhật trạng thái lại là "Không hoạt động - Inactive"_,_ sau đó tiến hành nhấn **Save** để lưu lại.
 
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ Thì chúng ta sẽ chọn "Không", tại vì nếu chúng ta reassign data hay
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết chi tiết.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Inactive User_
 

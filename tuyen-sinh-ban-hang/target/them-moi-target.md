@@ -1,4 +1,8 @@
-# Tạo Target
+---
+description: Thêm mới khách hàng mục tiêu
+---
+
+# Thêm mới Target
 
 > **Bước 1:** Ở màn hình danh sách của module **Targets**, ta nhấn vào button **Create Target** để mở ra màn hình thêm mới Target.
 

@@ -1,4 +1,4 @@
-# Thêm học viên vào buổi Placement Test
+# Thêm học viên vào buổi Placement Test - Thi thử
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi **Placement Test** cần thêm học viên.&#x20;
 
@@ -36,4 +36,4 @@
 
 <figure><img src="../../../.gitbook/assets/image (37) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption></figcaption></figure>

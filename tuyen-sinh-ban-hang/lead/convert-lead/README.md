@@ -1,3 +1,7 @@
+---
+description: Chuyển đổi khách hàng tiềm năng thành học viên chính thức
+---
+
 # Convert Lead
 
 > _Video hướng dẫn Chuyển đổi Lead thành Student - Case by case_

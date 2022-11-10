@@ -1,11 +1,11 @@
 ---
 description: >-
-  Quản lý học viên bảo lưu trong lớp, action delay xảy ta khi học viên đã thanh
+  Quản lý học viên bảo lưu trong lớp, action delay xảy ra khi học viên đã thanh
   toán đầy đủ tiền học phí trong lớp mà học viên muốn delay.
 ---
 
 # Quản lý bảo lưu (Delay)
 
-> _Video hướng dẫn học viên bảo lưu_
+> _Video hướng dẫn bảo lưu học viên_
 
 {% embed url="https://youtu.be/8MWn1BJk3zg" %}

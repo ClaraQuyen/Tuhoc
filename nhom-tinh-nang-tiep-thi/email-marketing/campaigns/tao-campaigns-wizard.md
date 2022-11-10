@@ -1,3 +1,9 @@
+---
+description: >-
+  Chiến dịch Wizard (tạo nâng cao) là chiến lược nhà tiếp thị thông qua một quá
+  trình từng bước để thiết lập các chiến dịch tiếp thị
+---
+
 # Tạo Campaigns (Wizard)
 
 > **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **Create Campaign (Wizard)** hoặc nhấn vào module **Campaign** để **Create Campaign**.
@@ -33,7 +39,7 @@
 
 1. Tracker Name: Tên chiến dịch theo dõi
 2. Tracker URL: Đường dẫn URL theo dõi chiến dịch
-3. Create Tracker :Tạo trình  theo dõi&#x20;
+3. Create Tracker: Tạo trình  theo dõi&#x20;
 4. Link để nhận biết khách hàng không quan tâm đến mail của mình (lần sau không gửi cho danh sách khách hàng có Tên trong Remove Me)
 {% endhint %}
 
