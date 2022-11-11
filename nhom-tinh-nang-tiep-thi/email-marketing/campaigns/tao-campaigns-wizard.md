@@ -1,7 +1,8 @@
 ---
 description: >-
   Chiến dịch Wizard (tạo nâng cao) là chiến lược nhà tiếp thị thông qua một quá
-  trình từng bước để thiết lập các chiến dịch tiếp thị
+  trình từng bước để thiết lập các chiến dịch tiếp thị, có thể lập lịch và thêm
+  được đường dẫn url
 ---
 
 # Tạo Campaigns (Wizard)

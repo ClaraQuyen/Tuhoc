@@ -4,9 +4,9 @@
 
 #### [Quản lý chiết khẩu (Discount)](quan-ly-chiet-khau-discount.md)
 
-#### [Quản lý Voucher](quan-ly-voucher.md)
+#### [Quản lý Voucher](quan-ly-ma-giam-gia-voucher.md)
 
-#### [Quản lý Loyalty](quan-ly-loyalty/)
+#### [Quản lý Loyalty](quan-ly-diem-tich-luy-loyalty/)
 
 #### [Quản lý bảo lưu (Delay)](quan-li-delay/)
 
