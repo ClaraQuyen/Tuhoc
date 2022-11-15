@@ -107,8 +107,10 @@
   * [Thanh toán trả hàng tháng - Slit Payment](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-tra-hang-thang-slit-payment.md)
   * [Thanh toán cho Payment](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/thanh-toan-cho-payment.md)
   * [Xuất hóa đơn điện tử (E-invoice)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/xuat-hoa-don-dien-tu-e-invoice.md)
-  * [Void E-invoice](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice.md)
-  * [Quản lý Chi](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/quan-ly-chi.md)
+  * [Void E-invoice](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice/README.md)
+    * [Void E-Invoice trên Payment](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice/void-e-invoice-tren-payment.md)
+    * [Void E-Invoice trên Reciept](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice/void-e-invoice-tren-reciept.md)
+  * [Quản lý Phiếu chi](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/quan-ly-phieu-chi.md)
 * [🏛 Thêm học viên vào lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
 
 ## Bộ phận giáo vụ

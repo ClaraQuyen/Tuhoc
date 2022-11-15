@@ -14,6 +14,6 @@
 
 #### [Xuất hóa đơn điện tử (E - invoice)](quan-li-thanh-toan/xuat-hoa-don-dien-tu-e-invoice.md)
 
-#### [Void E-invoice](quan-li-thanh-toan/void-e-invoice.md)
+#### [Void E-invoice](quan-li-thanh-toan/void-e-invoice/)
 
-#### [Quản lý Chi](quan-li-thanh-toan/quan-ly-chi.md)
+#### [Quản lý Chi](quan-li-thanh-toan/quan-ly-phieu-chi.md)
