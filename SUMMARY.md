@@ -233,3 +233,4 @@
 
 * [Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
 * [Courses Fee](tinh-nang-cap-nhat-moi/courses-fee.md)
+* [Tạo Tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)

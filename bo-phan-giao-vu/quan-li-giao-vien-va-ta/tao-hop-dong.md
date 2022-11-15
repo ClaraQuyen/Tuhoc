@@ -2,7 +2,7 @@
 
 > **Bước 1:**&#x20;> Tại màn hình chi tiết của Giáo viên, nhấn vào subpanel **Teacher Contract**, sau đó chọn **Create.**
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới Hợp đồng, nhập đầy đủ các thông tin cần thiết, chọn Save để hoàn tất việc tạo Hợp đồng.
 
