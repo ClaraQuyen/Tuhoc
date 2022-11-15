@@ -11,13 +11,10 @@
 {% hint style="info" %}
 **Lưu ý:**
 
-Name - Tiêu đề: sự kiện, hoạt động của trung tâm&#x20;
-
-Post Url - Đường dẫn URL:&#x20;
-
-Type - Loại: phần tin tức này gửi cho Giáo viên hoặc học viên&#x20;
-
-Pin For Student App - Ghim App học viên: Bài đăng xuất hiện trên màn hình trang chủ của Mobile App
+1. **Name - Tiêu đề**: sự kiện, hoạt động của trung tâm&#x20;
+2. **Post Url - Đường dẫn URL**: đường dẫn đến trang URL
+3. **Type - Loại**: phần tin tức này gửi cho Giáo viên hoặc học viên&#x20;
+4. **Pin For Student App - Ghim App học viên**: Bài đăng xuất hiện trên màn hình trang chủ của Mobile App
 {% endhint %}
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **News** được tạo.
