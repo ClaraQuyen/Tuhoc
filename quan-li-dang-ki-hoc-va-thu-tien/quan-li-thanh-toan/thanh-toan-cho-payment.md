@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Payment**, nhấn chọn Payment muốn thực hiện việc thanh toán.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của Payment, chọn tab Subpanel “Receipt”. Sau đó, nhấn “Pay” để tiến hành thanh toán cho Payment.
 
