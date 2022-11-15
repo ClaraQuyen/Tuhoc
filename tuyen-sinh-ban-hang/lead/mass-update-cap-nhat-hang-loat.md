@@ -1,4 +1,4 @@
-# Mass Update
+# Mass Update - Cập nhật hàng loạt
 
 ### Phân bổ người phụ trách
 
@@ -20,7 +20,7 @@
 
 > **Bước 5:** Chọn Assigned to để phân bổ người phụ trách, chọn tên người cần phân bổ. Nếu muốn assign nhiều record (hơn 20 record) theo điều kiện lọc thì làm theo hướng dẫn đánh số trong hình và sau cùng nhấn chọn **Update**.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 6:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.   ****  &#x20;
 

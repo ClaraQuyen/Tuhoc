@@ -53,7 +53,7 @@ Chú ý:
 
 > **Bước 3:** Sau đó, chúng ta tiến hành đi đến phân hệ "Inventory" và chọn hóa đơn mà mình vừa tạo.
 
-![](<../../.gitbook/assets/image (2) (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (2) (1) (1).png>)
 
 > **Bước 4:** Chi tiết hóa đơn vừa tạo và tiến hành "Edit" trạng thái.
 

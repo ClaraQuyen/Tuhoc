@@ -16,7 +16,7 @@
 
 > **Bước 3:** Thông tin thanh toán sách sau khi được lưu thành công.
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Xuất phiếu thu kèm theo bằng bước sau (Nếu có).
 

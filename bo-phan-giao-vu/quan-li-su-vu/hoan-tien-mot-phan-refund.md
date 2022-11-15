@@ -8,7 +8,7 @@ description: >-
 
 > **Bước 1:** Ở màn hình danh sách của module Student, nhấn vào tên của học viên để mở ra màn hình thông tin chi tiết của học viên.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Ở màn hình thông tin chi tiết của Students**,** ở nút cạnh button **"Edit",** ta nhấn chọn dấu ![](<../../.gitbook/assets/image (13) (1).png>).
 
