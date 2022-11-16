@@ -55,3 +55,5 @@
 ![](../../.gitbook/assets/hocno.PNG)
 
 > _Video hướng dẫn thêm học viên vào lớp_
+
+{% embed url="https://www.youtube.com/watch?t=2s&v=JWfsvLF8lVY" %}

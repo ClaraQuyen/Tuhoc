@@ -21,6 +21,6 @@
 4. Lý do delay.
 {% endhint %}
 
-> Bước 4: Kết quả sau khi Delay học viên.
+> **Bước 4:** Kết quả sau khi Delay học viên.
 
 <figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>

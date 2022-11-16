@@ -2,9 +2,9 @@
 
 #### [Tạo lớp học, lớp chờ](tao-lop-hoc-lop-cho.md)
 
-#### [Tạo Room (Class In: Teacher)](tao-phong-hoc-xep-phong/tao-phong-hoc-class-in-teacher.md)
+#### [Tạo Room (Class In: Teacher)](broken-reference)
 
-#### [Xếp Room](tao-phong-hoc-xep-phong/xep-phong.md)
+#### [Xếp Room](broken-reference)
 
 #### [Hủy buổi học / chọn ngày học bù](huy-buoi-hoc-chon-ngay-hoc-bu.md)
 

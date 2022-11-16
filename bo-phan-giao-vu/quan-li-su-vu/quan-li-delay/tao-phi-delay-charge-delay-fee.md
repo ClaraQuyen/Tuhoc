@@ -28,4 +28,4 @@ Cách 1: Nhập tên vào ô Textbox sau đó Enter
 
 > **Bước 3:** Thông tin chi tiết của Payment Delay Fee vừa tạo.
 
-![](<../../../.gitbook/assets/image (66).png>)
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
