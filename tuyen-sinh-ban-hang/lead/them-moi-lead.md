@@ -12,7 +12,7 @@ description: Thêm mới khách hàng tiềm năng
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Lead được tạo. Lúc này trạng thái của Lead là New tức Lead này vẫn chưa được chăm sóc và tương tác.
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Lead** được tạo. Lúc này trạng thái của **Lead** là <mark style="color:green;">**New**</mark> tức Lead này vẫn chưa được chăm sóc và tương tác.
 
 <figure><img src="../../.gitbook/assets/image (11) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

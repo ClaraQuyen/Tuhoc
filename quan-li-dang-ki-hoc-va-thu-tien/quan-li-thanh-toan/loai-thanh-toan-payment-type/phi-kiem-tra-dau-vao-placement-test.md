@@ -2,11 +2,11 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
-![](../../.gitbook/assets/payment1.jpg)
+![](../../../.gitbook/assets/payment1.jpg)
 
 > **Bước 2:**&#x20;> Tại màn hình tạo mới thanh toán Placement Test, nhập đầy đủ các thông tin học viên đã đóng Placement Test, sau đó nhấn **Save** để hoàn tất.
 
-![](../../.gitbook/assets/Payment\_PT1.png)
+![](../../../.gitbook/assets/Payment\_PT1.png)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú**:
@@ -20,4 +20,4 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Payment** được tạo.
 
-![](../../.gitbook/assets/Payment\_PT3.png)
+![](../../../.gitbook/assets/Payment\_PT3.png)

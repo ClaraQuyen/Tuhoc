@@ -6,7 +6,9 @@
 
 > **Bước 2:** Chọn **Next.**
 
-​<img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-Lufj5umrs-UEN4jhJyD%2F2.png?alt=media&#x26;token=572ce6de-02eb-4910-a56f-ab8916465c98" alt="" data-size="original">
+​
+
+<figure><img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LrHReb9JsrFo3TW8d7S%2F-LuffEjcQA3UmXbuzuM0%2F-Lufj5umrs-UEN4jhJyD%2F2.png?alt=media&#x26;token=572ce6de-02eb-4910-a56f-ab8916465c98" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tải mẫu File Import (nếu chưa có), sau đó đưa file lên hệ thống click vào Choose File. Sau đó chọn **Next**.
 

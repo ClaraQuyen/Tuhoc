@@ -11,7 +11,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình tạo mới mẫu Email Template, nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
+> **Bước 2:** Tại màn hình tạo mới mẫu **Email Template**, nhập/chỉnh sửa đầy đủ thông tin cần thiết, sau đó nhấn vào nút Save.
 
 ![](../.gitbook/assets/email2.png)
 

@@ -1,12 +1,12 @@
-# Payment Book/Gift (thu tiền sách)
+# Phí thu tiền sách - Book/Gift
 
 > **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
-![](<../../.gitbook/assets/Deposit1 (1).png>)
+![](<../../../.gitbook/assets/Deposit1 (1).png>)
 
 > **Bước 2:** Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin sách, số lượng mà học viên mua nhấn Save để hoàn tất.
 
-![](<../../.gitbook/assets/bookgift (1).png>)
+![](<../../../.gitbook/assets/bookgift (1).png>)
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú**:
@@ -21,7 +21,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Payment Book/Gift được tạo.
 
-![](../../.gitbook/assets/bookgift2.png)
+![](../../../.gitbook/assets/bookgift2.png)
 
 > _Video hướng dẫn quản lý thanh toán Sách/Quà tặng_
 

@@ -1,4 +1,4 @@
-# Tạo đơn giá học phí (Kèm sách)(Nếu có)
+# Tạo đơn giá học phí (Kèm sách)
 
 > **Bước 1:** Ở màn hình danh sách của module **Course Fees** ta nhấn vào button **Create Course Fees** để mở ra màn hình thêm mới **Course Fees**.
 
@@ -29,9 +29,9 @@ Gói giờ :&#x20;
 
 4\. Trạng thái kích hoạt thông tin Đơn giá học phí.
 
-5\. Đơn giá học phí áp dụng cho Loại Chương trình học.
+5\. Đơn giá học phí áp dụng cho loại Chương trình học.
 
-6,7. Thời gian bắt đầu,Thời gian hết hạn của đơn giá học phí đó.
+6,7. Thời gian bắt đầu, Thời gian hết hạn của đơn giá học phí đó.
 
 8\. Thông tin cho đơn giá học phí (thông tin này sẽ đi kèm khi xuất phiếu thu cho Học viên).
 
@@ -42,7 +42,7 @@ Gói giờ :&#x20;
 
 ![](../../.gitbook/assets/dghpfn.png)
 
-> **Bước 4:** Nhấn vào supanel và chọn tab **Discount**/ **Apply with Kind of Courses** và chọn **Select** để Đính kèm chương trình Discount hoặc Chương trình học của gói học phí vừa tạo **(Nếu có).**
+> **Bước 4:** Nhấn vào suppanel và chọn tab **Discount**/ **Apply with Kind of Courses** và chọn **Select** để Đính kèm chương trình Discount hoặc Chương trình học của gói học phí vừa tạo **(Nếu có).**
 
 ![](../../.gitbook/assets/dongiahp2.png)
 

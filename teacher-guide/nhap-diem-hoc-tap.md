@@ -1,6 +1,6 @@
 # 🗓 Nhập điểm học tập
 
-> **Bước 1:** Đưa chuột vào module Classes, sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
+> **Bước 1:** Ở màn hình danh sách module Classes, sau đó chọn lớp muốn xem bảng điểm/chấm điểm học viên.
 
 ![](<../.gitbook/assets/thong tin 2 (2).jpg>)
 

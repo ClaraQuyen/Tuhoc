@@ -2,11 +2,11 @@
 
 > **Bước 1:** Tạo payment như bình thường và phần **Slit Payment** chọn option **Custom.**
 
-![](../../.gitbook/assets/slitpayment.png)
+![](../../../.gitbook/assets/slitpayment.png)
 
 > **Bước 2:** Sau đó nhập số tháng mà khách hàng muốn thanh toán hàng tháng, ví dụ muốn thanh toán trong 3 tháng, mỗi tháng thanh toán 1 lần.
 
-![](../../.gitbook/assets/sliipay2.png)
+![](../../../.gitbook/assets/sliipay2.png)
 
 {% hint style="info" %}
 **Ghi chú:**
@@ -17,4 +17,4 @@
 
 > **Bước 3:** Hệ thống sẽ tự động Generate khoảng tiền sau mỗi tháng cần đóng cho khách hàng với  số lần **Custom** được nhập.
 
-![](../../.gitbook/assets/slipay.png)
+![](../../../.gitbook/assets/slipay.png)

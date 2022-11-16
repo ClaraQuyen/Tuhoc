@@ -2,17 +2,17 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Payment**, nhấn chọn Payment muốn thực hiện việc thanh toán.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của Payment, chọn tab Subpanel “Receipt”. Sau đó, nhấn “Pay” để tiến hành thanh toán cho Payment.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:**&#x20;> Lựa chọn hình thức thanh toán, nhập nội dung thu tiền, sau đó chọn **Save** để hoàn tất.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
@@ -24,7 +24,7 @@
 
 > **Bước 4:**&#x20;> Màn hình thanh toán của Payment được hiển thị.
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

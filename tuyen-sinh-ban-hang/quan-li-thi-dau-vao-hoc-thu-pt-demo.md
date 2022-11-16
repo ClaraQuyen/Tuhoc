@@ -8,8 +8,8 @@ description: >-
 
 ### Một số tính năng của module:
 
-#### Placement Test/ Demo
+#### ![](<../.gitbook/assets/icons8-test-passed-50 (1).png>)[Placement Test/ Demo](quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/)
 
-#### Thu phí học thử
+#### ![](../.gitbook/assets/icons8-cash-in-hand-50.png)[Thu phí thi thử](quan-li-thi-dau-vao-hoc-thu-pt-demo/thu-phi-thi-thu.md)
 
-#### Quản lý kết quả PT của học viên
+#### ![](../.gitbook/assets/icons8-survey-50.png)[Quản lý kết quả PT của học viên](quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-ly-ket-qua-pt-cua-hoc-vien.md)

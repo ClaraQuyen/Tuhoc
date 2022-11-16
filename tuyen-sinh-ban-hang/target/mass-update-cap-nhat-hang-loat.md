@@ -6,7 +6,7 @@ description: >-
 
 # Mass Update - Cập nhật hàng loạt
 
-### Phân bổ người phụ trách
+## Phân bổ người phụ trách
 
 > **Bước 1:** Lọc dữ liệu của Target ở trạng thái <mark style="color:red;">**Converted**</mark>**,** ở Action Menu phía bên trái, chúng ta chọn **Mass Update.**
 

@@ -16,7 +16,7 @@
 3. Giáo viên - Assistant: Trợ giảng - Phòng
 {% endhint %}
 
-> **Bước 3:** Hệ thống hiển thị thông tin chi tiết buổi Placement Test vừa được tạo.
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết buổi **Placement Test** vừa được tạo.
 
 <figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 

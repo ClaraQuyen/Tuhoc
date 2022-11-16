@@ -12,7 +12,7 @@ description: Tạo danh sách người nhận Email/SMS của chiến dịch Mar
 
 <figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Target Lists được tạo. Sau đó chọn **Link Existing Report** hoặc **Select from Reports** để import khách hàng vào Target List.
+> **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Target Lists** được tạo. Sau đó chọn **Link Existing Report** hoặc **Select from Reports** để import khách hàng vào Target List.
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 

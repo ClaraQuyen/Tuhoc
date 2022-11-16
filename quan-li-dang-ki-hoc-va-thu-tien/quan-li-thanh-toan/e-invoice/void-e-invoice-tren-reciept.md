@@ -2,7 +2,7 @@
 
 > **Bước 1:** Chọn Payment bất kì cần xuất hóa đơn.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Ở subpanel phía bên dưới, chọn tab "Receipts", sau đó chọn vào biểu **** tượng **** <img src="../../../.gitbook/assets/image (160).png" alt="" data-size="line">****
 

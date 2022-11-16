@@ -2,9 +2,9 @@
 description: Tạo nhiệm vụ cho học viên
 ---
 
-# Tạo Task
+# Thêm mới Tasks
 
-> **Bước 1:** Ở màn hình danh sách của module Student, nhấn vào tên của học viên để mở ra màn hình thông tin chi tiết của học viên.
+> **Bước 1:** Ở màn hình danh sách của module **Students**, nhấn vào tên của học viên để mở ra màn hình thông tin chi tiết của học viên.
 
 <figure><img src="../../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
 

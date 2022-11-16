@@ -1,6 +1,6 @@
 # Mass Update - Cập nhật hàng loạt
 
-### Phân bổ người phụ trách
+## Phân bổ người phụ trách
 
 > **Bước 1:** Ở màn hình danh sách của module **Leads**, chọn Create để tạo bộ lọc Leads theo trạng thái.
 

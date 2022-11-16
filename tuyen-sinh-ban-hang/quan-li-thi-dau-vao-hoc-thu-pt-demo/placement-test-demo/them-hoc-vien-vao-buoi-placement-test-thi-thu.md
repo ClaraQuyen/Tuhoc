@@ -4,7 +4,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình chi tiết của buổi PT, nhấn chọn tab subpanel “Placement Test”. Sau đó chọn học viên cần Add vào buổi Placement Test.
+> **Bước 2:** Tại màn hình chi tiết của buổi Placement Test, nhấn chọn tab subpanel “**Placement Test**”. Sau đó chọn học viên cần Add vào buổi Placement Test.
 
 <figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 

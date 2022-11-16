@@ -4,7 +4,7 @@
 
 ![](../../../.gitbook/assets/smsdonle1.png)
 
-> **Bước 2:** Tại màn hình gửi SMS, chọn thông tin cần gửi SMS, sau đó chọn **Send** để gửi tin nhắn cho học viên.
+> **Bước 2:** Tại màn hình gửi **SMS**, chọn thông tin cần gửi **SMS**, sau đó chọn **Send** để gửi tin nhắn cho học viên.
 
 <figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
