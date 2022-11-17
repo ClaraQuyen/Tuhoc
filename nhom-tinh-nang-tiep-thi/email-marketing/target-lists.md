@@ -1,5 +1,5 @@
 ---
-description: Tạo danh sách người nhận Email/SMS của chiến dịch Marketing từ nhiều nguồn
+description: Là một tập danh sách khách hàng từ nhiều nguồn dùng để gửi lên hệ thống
 ---
 
 # 🎯 Target Lists

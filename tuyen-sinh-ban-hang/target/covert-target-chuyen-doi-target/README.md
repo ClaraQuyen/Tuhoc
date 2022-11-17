@@ -1,10 +1,11 @@
 ---
 description: >-
-  Chuyển đổi Target thành Lead sau khi bộ phần Marketing đã xác thực thông tin
-  của học viên và tiến hành chuyển đổi cho bộ phận Tuyển sinh
+  Chuyển đổi Target thành Lead (chuyển đổi dữ liệu thô thành học viên tiềm năng)
+  sau khi bộ phần Marketing đã xác thực thông tin của học viên và tiến hành
+  chuyển đổi cho bộ phận Tuyển sinh
 ---
 
-# Covert Target
+# Covert Target - Chuyển đổi Target
 
 ### Có hai cách để chuyển đổi Targets thành Leads
 

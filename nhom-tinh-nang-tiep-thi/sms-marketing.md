@@ -1,8 +1,5 @@
 ---
-description: >-
-  Các chiến dịch quảng cáo hoặc tin nhắn giao dịch cho mục đích tiếp thị bằng
-  tin nhắn văn bản (SMS), nhằm truyền đạt các ưu đãi, cập nhật và cảnh báo cho
-  những người đã đồng ý nhận tin nhắn văn bản
+description: Gửi những tin nhắn hay tạo chiến dịch để
 ---
 
 # 📨 SMS Marketing

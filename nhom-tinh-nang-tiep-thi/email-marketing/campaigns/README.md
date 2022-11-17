@@ -1,7 +1,7 @@
 ---
 description: >-
-  Một chiến lược hay chiến dịch, gồm các nhóm công việc được làm để giải quyết
-  một vấn đề nào đó trong một thời gian nhất định
+  Một chiến dịch để Marketing và thống kê danh sách khách hàng để biết được số
+  lượng thông kê số người qua
 ---
 
 # ⛺ Campaigns
