@@ -17,4 +17,4 @@
 
 > _Video hướng dẫn Tạo mới chương trình học_
 
-{% embed url="https://www.youtube.com/watch?v=9PbJhH6WuXk" %}
+{% embed url="https://youtu.be/np1hFsUtM6s" %}

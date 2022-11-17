@@ -51,7 +51,7 @@ description: >-
 {% hint style="success" %}
 <mark style="color:blue;">****</mark>:person\_raising\_hand: <mark style="color:blue;">**Lưu ý :**</mark>&#x20;
 
-Sau khi **đã thánh toán học phí** -> **hệ thống sẽ tự động đưa học viên vào lớp** với thông tin bạn đã chọn. Tuy nhiên để chỉnh sửa lại một số thông tin:
+Sau khi **đã thanh toán học phí** -> **hệ thống sẽ tự động đưa học viên vào lớp** với thông tin bạn đã chọn. Tuy nhiên để chỉnh sửa lại một số thông tin:
 
 <mark style="color:red;">****</mark>:clap:<mark style="color:red;">**Chỉnh sửa lại số tiền thu**</mark><mark style="color:red;">:</mark>&#x20;
 
