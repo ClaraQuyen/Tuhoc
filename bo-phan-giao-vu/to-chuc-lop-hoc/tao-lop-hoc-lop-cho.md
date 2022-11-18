@@ -25,6 +25,27 @@
 
 ![](<../../.gitbook/assets/Class 1.png>)
 
+{% hint style="info" %}
+Với trường hợp có tích hợp với Class In &#x20;
+
+1. Online Learning Status: Active
+2. Online Learning Status:&#x20;
+
+Class In: Teacher -> Chọn từ Room (Loại: Teacher User, Head Teacher)
+
+Class In: Head Teacher -> Mặc định từ Room (Loại: Head Teacher) Lớp tạo ra trên hệ thống sẽ set mặc định 1 Head Teacher
+
+Class In: Assistant -> Chọn từ Room (Loại: Teacher User, Head Teacher)
+
+Class In: Auditors -> Chọn từ Room (Loại: Regular User)
+
+Class In: Recording: có record hay không (Yes/No)
+
+Class In: Number of students on stage: Số lượng học viên
+
+Class In: Folder Name: Tên Folder Name
+{% endhint %}
+
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết của Lớp học sau khi tạo thành công.
 
 ![](../../.gitbook/assets/TaoLop3.png)

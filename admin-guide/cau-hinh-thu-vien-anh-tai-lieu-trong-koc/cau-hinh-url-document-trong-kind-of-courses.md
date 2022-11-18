@@ -4,14 +4,14 @@
 
 ![](../../.gitbook/assets/koc1.png)
 
-> **Bước 2:** Sau đó click Edit, tại trường URL Document, nhập Folder ID của thư mực đã tạo trên Drive, dán vào Kind of courses trên hệ thống. Cuối cùng click **Save**.
+> **Bước 2:** Sau đó click Edit, tại trường URL Document, nhập Folder ID của thư mực đã tạo trên Drive, dán vào Kind of courses trên hệ thống. Cuối cùng nhấn chọn **Save** để lưu lại.
 
 ![](../../.gitbook/assets/koc2.png)
 
 {% hint style="info" %}
 Ghi Chú :
 
-**URL Document** : sẽ được lấy bằng **Tên Thư Mục chứa các tệp đó.**
+**URL Document**: sẽ được lấy bằng **Tên Thư Mục chứa các tệp đó.**
 
 **Ví dụ:** **DOTB**
 {% endhint %}

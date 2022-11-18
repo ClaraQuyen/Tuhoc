@@ -1,6 +1,6 @@
 # Tạo Center
 
-> **Bước 1:** Đưa chuột vào Menu Admin. Tại Action Menu nhấn vào chọn Team Management.
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Team Management** để mở ra màn hình **Team Management**.
 
 ![](../../.gitbook/assets/center1.png)
 
@@ -8,7 +8,7 @@
 
 ![](../../.gitbook/assets/center2.png)
 
-> **Bước 3:** Tại màn hình tao mới Center, nhập đầy đủ thông tin. Sau đó click Save.
+> **Bước 3:** Tại màn hình tạo mới Center, nhập đầy đủ thông tin. Sau đó click Save.
 
 ![](../../.gitbook/assets/center3.png)
 

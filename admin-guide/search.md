@@ -6,11 +6,11 @@ description: >-
 
 # 🔎 Cấu hình Search
 
-> **Bước 1:** Click chọn action "Admin".
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](../.gitbook/assets/search\_1.jpg)
 
-> **Bước 2:** Tại màn hình Admin, click chọn "**Search**".
+> **Bước 2:** Tại màn hình Admin, chọn **Search.**
 
 ![](../.gitbook/assets/search\_2.jpg)
 

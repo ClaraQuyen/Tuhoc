@@ -1,6 +1,6 @@
 # 💬 Cấu hình logo trên EMS
 
-> **Bước 1:** Đưa chuột vào profile, sau đó chọn **Admin.**
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LrHReb9JsrFo3TW8d7S%2F-M6TO-ZEko1StsY7FRFQ%2F-M6TRureOQ-ck5kPjtUt%2Fholiday1.jpg?alt=media\&token=a1985cda-0d69-4f85-907e-e3c54639a8f5)
 

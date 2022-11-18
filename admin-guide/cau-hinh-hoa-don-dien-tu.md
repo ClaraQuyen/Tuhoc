@@ -2,9 +2,9 @@
 description: Cấu hình thông tin hóa đơn điện tử theo từng chi nhánh
 ---
 
-# 🏬 Cấu hình Hóa đơn Điện Tử
+# 🏬 Cấu hình hóa đơn điện tử
 
-> **Bước 1:** Vào module Admin.
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](../.gitbook/assets/set1.jpg)
 

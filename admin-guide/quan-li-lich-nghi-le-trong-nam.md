@@ -1,10 +1,10 @@
 # 📅 Quản lý lịch nghỉ lễ trong năm
 
-> **Bước 1:** Đưa chuột vào proflie, sau đó click chọn **Admin.**
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](../.gitbook/assets/holiday1.jpg)
 
-> **Bước 2:** Tại màn hình Admin, click chọn **Public Holiday.**
+> **Bước 2:** Tại màn hình Admin, chọn **Public Holiday.**
 
 ![](../.gitbook/assets/holiday2.jpg)
 

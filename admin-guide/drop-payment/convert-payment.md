@@ -8,7 +8,7 @@ Tính năng này được sử dụng khi học viên _**đã mua một gói h�
 
 ![](<../../.gitbook/assets/delay3 (1).jpg>)
 
-> **Bước 2:** Sau đó chọn use type là "**To Amount**", và cuối cùng click **Submit**.
+> **Bước 2:** Sau đó chọn use type là "**To Amount**", và cuối cùng nhấn chọn **Submit**.
 
 ![](<../../.gitbook/assets/delay4 (1).jpg>)
 

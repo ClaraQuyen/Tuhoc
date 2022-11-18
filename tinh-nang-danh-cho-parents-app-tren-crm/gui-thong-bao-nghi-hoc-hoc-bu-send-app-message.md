@@ -20,12 +20,14 @@
 3. Nội dung của bài học theo Syllabus như: Lesson, Topic, Homework và thông tin các buổi học gần nhất.
 4. Ngày của buổi học.
 5. Daily score: điểm hàng ngày giáo viên chấm cho học viên.
-6. Loyalty point : Điểm tích lũy của học viên.
-7. **Send Attendance Report**: gửi thông báo về việc đi học, trể, làm bài tập về nhà, comment, điểm daily score của học viên đến app.
+6. Loyalty point: Điểm tích lũy của học viên.
+7. **Send Attendance Report**:&#x20;
 
-**Send App Messages** : Gửi tin nhắn đến App như lịch khai giảng, học bù, đăng kí học lớp mới...
+**Send Attendance Report**: gửi thông báo về việc đi học, trể, làm bài tập về nhà, comment, điểm daily score của học viên đến app.
 
-**Send SMS** : Gửi tin nhắn SMS đến học viên.
+**Send App Messages**: Gửi tin nhắn đến App như lịch khai giảng, học bù, đăng kí học lớp mới.
+
+**Send SMS**: Gửi tin nhắn SMS đến học viên.
 {% endhint %}
 
 > Sau khi gửi thành công, mobile app sẽ nhận được thông báo như hình mẫu bên dưới.

@@ -19,7 +19,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **News** được tạo.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn tạo tin tức và gửi thông báo về app học viên_
 

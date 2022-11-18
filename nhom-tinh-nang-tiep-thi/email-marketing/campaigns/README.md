@@ -1,7 +1,7 @@
 ---
 description: >-
   Một chiến dịch để Marketing và thống kê danh sách khách hàng để biết được số
-  lượng thông kê số người qua
+  lượng thông kê số người sử dụng
 ---
 
 # ⛺ Campaigns

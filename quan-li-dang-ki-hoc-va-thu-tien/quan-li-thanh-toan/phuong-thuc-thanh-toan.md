@@ -8,9 +8,9 @@
 
 > **Bước 2:** Tại màn hình chi tiết của Payment, chọn tab Subpanel “Receipt”. Sau đó, nhấn “Pay” để tiến hành thanh toán cho Payment.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:**&#x20;> Lựa chọn hình thức thanh toán, nhập nội dung thu tiền, sau đó chọn **Save** để hoàn tất.
 

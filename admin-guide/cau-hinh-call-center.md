@@ -1,10 +1,10 @@
 # 📞 Cấu hình Call Center
 
-> **Bước 1:** Vào module Admin.
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](../.gitbook/assets/set1.jpg)
 
-> **Bước 2:** Tại màn hình Admin chọn **Config Call Center**.
+> **Bước 2:** Tại màn hình Admin, chọn **Config Call Center**.
 
 ![](../.gitbook/assets/set2.jpg)
 

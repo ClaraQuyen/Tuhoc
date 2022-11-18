@@ -22,7 +22,7 @@ Nếu như gói học A mà học viên _**đã mua mà chưa sử dụng**_ s�
 
 ![](<../../.gitbook/assets/delay3 (1).jpg>)
 
-> **Bước 5:** Sau đó chọn use type là "**To Amount**", và cuối cùng click **Submit**.
+> **Bước 5:** Sau đó chọn use type là "**To Amount**", và cuối cùng nhấn chọn **Submit**.
 
 ![](<../../.gitbook/assets/delay4 (1).jpg>)
 

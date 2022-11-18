@@ -1,12 +1,12 @@
 ---
 description: >-
-  Chức năng này sẽ đẩy dữ các payment đã thanh toán từ ems sang hệ thống trung
+  Chức năng này sẽ đẩy dữ các payment đã thanh toán từ EMS sang hệ thống trung
   gian của NAV
 ---
 
 # 📥 Đẩy dữ liệu về database trung gian NAV ERP
 
-> **Bước 1:** Trỏ chuột vào phân hệ Admin chọn .
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](<../.gitbook/assets/1 (4).png>)
 
@@ -14,7 +14,7 @@ description: >-
 
 ![](<../.gitbook/assets/2 (3).png>)
 
-> **Bước 3:** Chọn thời gian muốn bắt đầu đồng bộ dữ liệu từ ems về NAV trung gian, sau đó click Start Sync NAV.
+> **Bước 3:** Chọn thời gian muốn bắt đầu đồng bộ dữ liệu từ EMS về NAV trung gian, sau đó click Start Sync NAV.
 
 ![](<../.gitbook/assets/3 (4).png>)
 

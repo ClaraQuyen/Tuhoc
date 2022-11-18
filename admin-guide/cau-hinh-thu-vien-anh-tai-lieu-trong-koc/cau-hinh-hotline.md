@@ -1,10 +1,10 @@
 # Cấu hình HotLine
 
-> **Bước 1:** Click chuột vào module Admin chọn .
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](<../../.gitbook/assets/1 (4).png>)
 
-> **Bước 2:** Tại màn hình Admin click vào chọn **Mobile App Config**.
+> **Bước 2:** Tại màn hình Admin, chọn **Mobile App Config**.
 
 ![](../../.gitbook/assets/13.jpg)
 

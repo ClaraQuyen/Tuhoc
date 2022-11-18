@@ -48,4 +48,4 @@ Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời
 
 > **Bước 7:** Void E-Invoice thành công.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

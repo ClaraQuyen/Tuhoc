@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình tạo mới khóa học học, nhập đầy đủ các thông tin cần thiết, sau đó nhấn chọn Save để hoàn tất việc tạo ra một khóa học mới.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

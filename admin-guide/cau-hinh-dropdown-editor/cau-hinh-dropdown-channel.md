@@ -8,7 +8,7 @@ description: Cấu hình Chanel trong module Target/Lead/Student
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (2) (1).png>)
 
-> **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn **Dropdown Editor**
+> **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn **Dropdown Editor.**
 
 ![](<../../.gitbook/assets/image (3) (2) (1) (1).png>)
 

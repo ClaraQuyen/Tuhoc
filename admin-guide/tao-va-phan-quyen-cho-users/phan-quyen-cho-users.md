@@ -2,7 +2,7 @@
 
 ## Set Center mặc định (cách 1)
 
-> **Bước 1:** Đưa chuột vào Menu Admin. Tại Action Menu, nhấn vào chọn Team Management. Sau đó chọn Center mặc định để set cho Users.
+> **Bước 1:** Tại avatar người dùng, tại Action Menu, nhấn vào chọn Team Management. Sau đó chọn Center mặc định để set cho Users.
 
 ![](../../.gitbook/assets/center1.png)
 

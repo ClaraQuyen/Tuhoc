@@ -1,10 +1,10 @@
 # Cấu hình Thư viện ảnh - Google Drive
 
-> **Bước 1:** Click vào Admin
+> **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
 ![](<../../.gitbook/assets/1 (6).png>)
 
-> **Bước 2:** Tại màn hình quản trị viên, chọn Google API Config
+> **Bước 2:** Tại màn hình Admin, chọn **Google API Config.**
 
 ![](<../../.gitbook/assets/2 (6).png>)
 
