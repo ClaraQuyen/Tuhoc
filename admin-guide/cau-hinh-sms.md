@@ -2,11 +2,11 @@
 
 > **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** để mở ra màn hình **Admin.**
 
-<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình Admin, chọn **SMS Gateway Setting.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Chọn Center và nhà cung cấp, sau đó nhập các thông tin mà bên nhà mang cung cấp.&#x20;
 

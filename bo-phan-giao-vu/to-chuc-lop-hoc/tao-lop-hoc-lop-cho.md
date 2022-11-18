@@ -29,7 +29,7 @@
 Với trường hợp có tích hợp với Class In &#x20;
 
 1. Online Learning Status: Active
-2. Online Learning Status:&#x20;
+2. Class In Settings:&#x20;
 
 Class In: Teacher -> Chọn từ Room (Loại: Teacher User, Head Teacher)
 
