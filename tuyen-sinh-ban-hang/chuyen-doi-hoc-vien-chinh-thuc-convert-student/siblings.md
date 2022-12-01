@@ -1,5 +1,5 @@
 ---
-description: Tạo nhiệm vụ cho học viên
+description: Tạo mối quan hệ giữa anh/chị/em hay người giới thiệu trên hệ thống.
 ---
 
 # Siblings
