@@ -23,9 +23,9 @@ Trước khi xóa thông tin Enrollment trong tab Enrollment học viên, ngư�
 {% hint style="danger" %}
 **Lưu ý:**
 
-(\*): **Start/Finish** : **L**ựa chọn khoảng thời gian Enroll học viên như thời điểm quá khứ (trước đó đã lưu lại lịch sử qua hình ảnh).
+(\*): **Start/Finish**: Lựa chọn khoảng thời gian Enroll học viên như thời điểm quá khứ (trước đó đã lưu lại lịch sử qua hình ảnh).
 
-(\*) : **Enrollment Date** : Lựa chọn thời gian thực hiện thao tác Enrollment học viên (Lưu ý : Chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên nên chọn y như thời gian Enrollment Date ở quá khứ mà trước đó đã lưu lai lịch sử ).
+(\*): **Enrollment Date:** Lựa chọn thời gian thực hiện thao tác Enrollment học viên (Lưu ý : Chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên nên chọn y như thời gian Enrollment Date ở quá khứ mà trước đó đã lưu lai lịch sử ).
 {% endhint %}
 
 ## 2. Xử lí thông tin học viên Delay không thực hiện được trên EMS
@@ -45,7 +45,7 @@ Trước khi xóa thông tin Enrollment trong tab Enrollment học viên, ngư�
 {% hint style="danger" %}
 **Lưu ý:**
 
-(\*): **Start/Finish** : **L**ựa chọn khoảng thời gian Enroll học viên như thời điểm quá khứ (trước đó đã lưu lại lịch sử qua hình ảnh).
+(\*): **Start/Finish:** Lựa chọn khoảng thời gian Enroll học viên như thời điểm quá khứ (trước đó đã lưu lại lịch sử qua hình ảnh).
 
-(\*) : **Enrollment Date** : Lựa chọn thời gian thực hiện thao tác Enrollment học viên (Lưu ý : Chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên nên chọn y như thời gian Enrollment Date ở quá khứ mà trước đó đã lưu lai lịch sử ).
+(\*): **Enrollment Date:** Lựa chọn thời gian thực hiện thao tác Enrollment học viên (Lưu ý: Chọn thời gian này doanh thu phân bổ sẽ phân bổ tính từ thời điểm bạn chọn thời gian Enrollment học viên nên chọn y như thời gian Enrollment Date ở quá khứ mà trước đó đã lưu lai lịch sử ).
 {% endhint %}

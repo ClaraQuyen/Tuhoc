@@ -6,7 +6,7 @@ description: Chỉnh sửa khách hàng mục tiêu
 
 > **Bước 1:** Ở màn hình danh sách của module **Targets**, ta chọn học viên cần thay đổi thông tin để mở ra màn hình chỉnh sửa **Targets**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình thông tin chi tiết của **Targets**, ta nhấp chuột vào button **Edit**, nhập những thông tin cần chỉnh sửa. Sau đó, nhấn vào button **Save** để hoàn tất việc chỉnh sửa **Target**.
 

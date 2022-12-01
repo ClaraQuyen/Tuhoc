@@ -2,11 +2,11 @@
 
 ## Phí mua khóa học - Cashholder
 
-> **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
+> **Bước 1:** Ở màn hình danh sách của module **Payment,** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
 ![](../../.gitbook/assets/payment1.jpg)
 
-> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó check vào ô Auto - Enroll để chọn Lớp, Ngày bắt đầu học của học viên, hệ thống sẽ tự động Enroll đưa học viên vào lớp, sau khi đã thu tiền. Cuối cùng click **Save** để hoàn tất.
+> Bước 2:&#x20;> Tại màn hình tạo mới thanh toán nhập đầy đủ các thông tin mà học viên mua khóa học như discount, số giờ mua,... và lưu ý chọn Payment Type là **Cashholder**. Sau đó check vào ô Auto - Enroll để chọn Lớp, Ngày bắt đầu học của học viên, hệ thống sẽ tự động Enroll đưa học viên vào lớp, sau khi đã thu tiền. Cuối cùng nhấn **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/New\_Auto1.png)
 
@@ -20,7 +20,7 @@
 5. Lựa chọn các Discount/Sponsor (Nếu có).
 6. Lựa chọn khoảng tiền đã đặt cọc trước đó để sử dụng.
 7. Lựa chọn số lần thanh toán
-8. Nhấn **** chọn <mark style="color:green;">**Auto-Enroll**</mark> : Chọn lớp, ngày bắt đầu học của học viên. Hệ thống sẽ tự động add học viên vào lớp, sau khi đã thực hiện thu tiền.
+8. Nhấn **** chọn <mark style="color:green;">**Auto-Enroll**</mark>: Chọn lớp, ngày bắt đầu học của học viên. Hệ thống sẽ tự động add học viên vào lớp, sau khi đã thực hiện thu tiền.
 {% endhint %}
 
 > **Bước 3:** Sau khi Save thành công, hệ thống hiển thị thông tin Payment vừa được tạo ở bên dưới. Cuối cùng tiến hàng thực hiện thu tiền học viên.
@@ -63,11 +63,11 @@ Hướng dẫn cách thức thu tiền: [<mark style="color:yellow;">>></mark> <
 
 ## Phí kiểm tra đầu vào - Placement Test
 
-> **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
+> **Bước 1:** Ở màn hình danh sách của module **Payment,** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
 ![](../../.gitbook/assets/payment1.jpg)
 
-> **Bước 2:**&#x20;> Tại màn hình tạo mới thanh toán Placement Test, nhập đầy đủ các thông tin học viên đã đóng Placement Test, sau đó nhấn **Save** để hoàn tất.
+> **Bước 2:**&#x20;> Tại màn hình tạo mới thanh toán **Placement Test**, nhập đầy đủ các thông tin học viên đã đóng Placement Test, sau đó nhấn **Save** để hoàn tất.
 
 ![](../../.gitbook/assets/Payment\_PT1.png)
 
@@ -87,7 +87,7 @@ Hướng dẫn cách thức thu tiền: [<mark style="color:yellow;">>></mark> <
 
 ## Phí thu tiền sách - Book/Gift
 
-> **Bước 1:** Ở màn hình danh sách của module **Payment** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
+> **Bước 1:** Ở màn hình danh sách của module **Payment,** chọn **Create Payment** để mở ra màn hình thêm mới **Payment**.
 
 ![](<../../.gitbook/assets/Deposit1 (1).png>)
 

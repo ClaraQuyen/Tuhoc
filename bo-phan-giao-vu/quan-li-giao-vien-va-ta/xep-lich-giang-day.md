@@ -1,6 +1,6 @@
 # Xếp lịch giảng dạy
 
-> **Bước 1:** Chọn chuột vào phân hệ Classes, sau đó chọn lớp mà muốn xếp lịch giảng dạy cho Giáo viên.
+> **Bước 1:** Ở màn hình danh sách của phân hệ **Classes**, sau đó chọn lớp mà muốn xếp lịch giảng dạy cho Giáo viên.
 
 ![](../../.gitbook/assets/XepLichDay1.png)
 

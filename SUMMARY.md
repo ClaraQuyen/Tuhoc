@@ -88,6 +88,7 @@
     * [Tìm kiếm học viên theo tiêu chí Filter](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/tim-kiem-hoc-vien-theo-tieu-chi-filter.md)
   * [Quản lý hồ sơ học viên, lịch sử thanh toán](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/quan-ly-ho-so-hoc-vien-lich-su-thanh-toan.md)
   * [Thêm mới Tasks](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/them-moi-tasks.md)
+  * [Siblings](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/siblings.md)
 
 ## Quản lí Đăng Kí Học và Thu Tiền
 
@@ -110,7 +111,7 @@
 * [👨💻 Quản lý sự vụ](bo-phan-giao-vu/quan-li-su-vu/README.md)
   * [Quản lý phiếu thu](bo-phan-giao-vu/quan-li-su-vu/quan-ly-phieu-thu.md)
   * [Quản lý chiết khấu - Discount](bo-phan-giao-vu/quan-li-su-vu/quan-ly-chiet-khau-discount.md)
-  * [Quản lý mã giảm giá - Voucher](bo-phan-giao-vu/quan-li-su-vu/quan-ly-ma-giam-gia-voucher.md)
+  * [Quản lý mã giảm giá - Sponsor](bo-phan-giao-vu/quan-li-su-vu/quan-ly-ma-giam-gia-sponsor.md)
   * [Quản lý điểm tích lũy - Loyalty](bo-phan-giao-vu/quan-li-su-vu/quan-ly-diem-tich-luy-loyalty/README.md)
     * [Tích điểm Loyalty](bo-phan-giao-vu/quan-li-su-vu/quan-ly-diem-tich-luy-loyalty/tich-diem-loyalty.md)
     * [Sử dụng điểm Loyalty](bo-phan-giao-vu/quan-li-su-vu/quan-ly-diem-tich-luy-loyalty/su-dung-diem-loyalty.md)
@@ -126,10 +127,9 @@
 * [📇 Quản lý chương trình học](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/README.md)
   * [Danh mục khóa học, chương trình học](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/danh-muc-khoa-hoc-chuong-trinh-hoc.md)
   * [Thiết lập cấu trúc bảng điểm](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/thiet-lap-cau-truc-bang-diem.md)
-  * [Tạo mới chương trình học](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/tao-moi-chuong-trinh-hoc.md)
-  * [Tạo giáo án theo từng buổi học](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/tao-giao-an-theo-tung-buoi-hoc.md)
+  * [Chương trình học / giáo án](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/chuong-trinh-hoc-giao-an.md)
   * [Chỉnh sửa giáo án/bảng điểm](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/chinh-sua-giao-an-bang-diem.md)
-  * [Cấu hình số giờ/lớp và quản lí nâng cấp lớp](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/cau-hinh-so-gio-lop-va-quan-li-upgrade-lop/cau-hinh-so-gio-lop.md)
+  * [Cấu hình số giờ/lớp và quản lý nâng cấp lớp](bo-phan-giao-vu/quan-ly-chuong-trinh-hoc/cau-hinh-so-gio-lop-va-quan-ly-nang-cap-lop.md)
 * [🏛 Tổ chức lớp học](bo-phan-giao-vu/to-chuc-lop-hoc/README.md)
   * [Tạo lớp học, lớp chờ](bo-phan-giao-vu/to-chuc-lop-hoc/tao-lop-hoc-lop-cho.md)
   * [Tạo phòng học - Xếp phòng](bo-phan-giao-vu/to-chuc-lop-hoc/tao-phong-hoc-xep-phong.md)
@@ -218,5 +218,5 @@
 
 ## Tính Năng Cập Nhật Mới
 
-* [Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
-* [Tạo Tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)
+* [📚 Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
+* [🆕 Tạo Tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)

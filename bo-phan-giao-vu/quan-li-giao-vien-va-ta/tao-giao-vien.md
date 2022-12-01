@@ -1,6 +1,6 @@
 # Tạo giáo viên
 
-> **Bước 1:** Ở màn hình danh sách của module **Teacher,** chọn Create Teacher để mở ra màn hình thêm mới giáo viên.
+> **Bước 1:** Ở màn hình danh sách của module **Teacher,** chọn **Create Teacher** để mở ra màn hình thêm mới giáo viên.
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 

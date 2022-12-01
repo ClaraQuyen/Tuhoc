@@ -1,10 +1,10 @@
 # Ghi nhận Feedback/Complaint về lớp học
 
-> Bước 1: Click chuột vào module Feedback chọn Create Feedback.
+> **Bước 1:** Ở màn hình danh sách của module **Feedback,** chọn **Create Feedback** để mở ra màn hình thêm mới **Feedback**.
 
 ![](../../.gitbook/assets/Feedback1.png)
 
-> Bước 2: Tại màn hình tạo Feedback,nhập đầy đủ thông tin mà học viên/giáo viên,.. feedback,Sau đó nhấn nút Save.
+> **Bước 2:** Tại màn hình tạo Feedback, nhập đầy đủ thông tin mà học viên/giáo viên,.. feedback. Sau đó nhấn nút Save.
 
 ![](../../.gitbook/assets/feedback1.png)
 
@@ -17,7 +17,7 @@
 4. Nội dung Học viên/Phụ huynh Feedback
 5. Nguồn Feedback
 
-****:point\_right: **Status Feedback** :
+****:point\_right: **Status Feedback**:
 
 **New**: Mới nhận/tạo Feedback từ phụ huynh/học viên
 
@@ -36,7 +36,7 @@ Sau đó chọn Case.
 
 ![](<../../.gitbook/assets/Feedback3 (1).png>)
 
-> Bước 3: Hệ thống hiển thị nội dung feedback sau khi lưu thành công.
+> **Bước 3:** Hệ thống hiển thị nội dung feedback sau khi lưu thành công.
 
 ![](../../.gitbook/assets/feedback2.png)
 

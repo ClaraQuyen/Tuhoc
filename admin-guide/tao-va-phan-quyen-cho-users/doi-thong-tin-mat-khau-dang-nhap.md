@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình module Admin, nhấp chuột chọn "**Quản lý người dùng"**.
+> **Bước 2:** Tại màn hình module **Quản trị**, nhấp chuột chọn "**Quản lý người dùng"**.
 
 <figure><img src="../../.gitbook/assets/image (124) (2).png" alt=""><figcaption></figcaption></figure>
 

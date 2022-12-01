@@ -4,7 +4,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Tại màn hình chi tiết Classes, nhấn vào subpanel chọn tab **“Student Situations”** sau đó chọn button Delay.
+> **Bước 2:** Tại màn hình chi tiết **Classes**, nhấn vào subpanel chọn tab **“Student Situations”** sau đó chọn button Delay.
 
 <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 

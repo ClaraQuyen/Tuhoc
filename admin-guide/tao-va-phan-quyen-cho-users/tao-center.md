@@ -12,6 +12,6 @@
 
 ![](../../.gitbook/assets/center3.png)
 
-> **Bước 4:** Hệ thống hiển thị thông tin Center mới được tạo sau khi Save thành công. Bạn có thể click vào (+) để tạo Center mới tiếp theo.
+> **Bước 4:** Hệ thống hiển thị thông tin Center mới được tạo sau khi Save thành công. Bạn có thể nhấn vào (+) để tạo Center mới tiếp theo.
 
 ![](../../.gitbook/assets/center4.png)

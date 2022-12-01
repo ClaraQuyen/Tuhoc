@@ -34,7 +34,7 @@
 
 > **Bước 1:** Tại avatar người dùng, bấm chuột vào **Users** để mở ra màn hình **Users.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Chọn bất kì người dùng mà bạn muốn **Inactive**.
 
@@ -42,11 +42,11 @@
 
 > **Bước 3:** Tại màn hình thông tin của người dùng, chúng ta nhấn vào thông tin nút "Edit" để cập nhật thông tin của người dùng. Ở đây chúng ta cập nhật trạng thái lại là "Không hoạt động - Inactive"_,_ sau đó tiến hành nhấn **Save** để lưu lại.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Sau khi tiến hành lưu lại, hệ thống có hỏi "Bạn có muốn gán lại tất cả hồ sơ lại cho người dùng hay không?"&#x20;
@@ -56,7 +56,7 @@ Thì chúng ta sẽ chọn "Không", tại vì nếu chúng ta reassign data hay
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết chi tiết.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Inactive User_
 

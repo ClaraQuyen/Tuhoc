@@ -21,7 +21,7 @@ description: >-
 
 > **Bước 2:**&#x20;> Tại màn hình chi tiết của Payment, chọn tab Subpanel “Receipt”. Nhấn chuột vào ô màu xanh, để xuất hóa đơn điện tử cho Payment đó.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Ghi chú**: **Get E-invoice** khi có thông báo. Thông báo có thể xuất hóa đơn điện tử (như hình dưới) chỉ xuất hiện khi đã thanh toán toàn bộ Receipt của Payment đó.
@@ -31,12 +31,12 @@ description: >-
 
 > **Bước 3:** Kiểm tra, chỉnh sửa thông tin chính xác lần cuối trước khi xuất hóa đơn điện tử, và nhấn **OK**.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
-1. Họ tên người mua hàng: Họ tên người mua hàng được hiển thị trên hóa đơn điện tử có thể là tên học viên hoặc tên phụ huynh học viên (nếu có). Ngoài ra, nếu muốn chỉnh sửa các thông tin này có thể click vào Edit.
+1. Họ tên người mua hàng: Họ tên người mua hàng được hiển thị trên hóa đơn điện tử có thể là tên học viên hoặc tên phụ huynh học viên (nếu có). Ngoài ra, nếu muốn chỉnh sửa các thông tin này có thể nhấn vào Edit.
 2. Tên đơn vị: Tên công ty hoặc Add Company (Nếu học viên muốn xuất hóa đơn doanh nghiệp).
 {% endhint %}
 

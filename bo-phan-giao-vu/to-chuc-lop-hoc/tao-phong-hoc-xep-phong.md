@@ -4,7 +4,7 @@
 
 Room được tạo trên EMS được xem như 1 account Teacher bên ClassIn
 
-> **Bước 1:** Ở màn hình danh sách của **Room**, ta nhấn vào button **Create Room** để mở ra màn hình thêm mới Room.
+> **Bước 1:** Ở màn hình danh sách của module **Room**, ta nhấn vào button **Create Room** để mở ra màn hình thêm mới Room.
 
 <figure><img src="../../.gitbook/assets/image (9) (6).png" alt=""><figcaption></figcaption></figure>
 

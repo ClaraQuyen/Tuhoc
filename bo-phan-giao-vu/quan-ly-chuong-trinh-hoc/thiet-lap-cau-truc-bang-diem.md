@@ -2,11 +2,11 @@
 
 ## &#x20;![](../../.gitbook/assets/icons8-groupdocuments-100.png)Phần 1: Tạo nhóm cấu trúc bảng điểm
 
-> **Bước 1:**> Ở màn hình danh sách của module **Gradebook Setting Groups**, sau đó click **Create** để tạo 1 nhóm cấu trúc bảng điểm mới.
+> **Bước 1:**> Ở màn hình danh sách của module **Gradebook Setting Groups**, sau đó nhấn **Create** để tạo ra một nhóm cấu trúc bảng điểm mới.
 
 ![](<../../.gitbook/assets/1.1 (1).png>)
 
-> **Bước 2:** Tại màn hình tạo nhóm cấu trúc bảng điểm, nhập tên nhóm cấu trúc bảng điểm (bắt buộc) và mô tả thêm (nếu có). Sau đó click **Save** để lưu lại.
+> **Bước 2:** Tại màn hình tạo nhóm cấu trúc bảng điểm, nhập tên nhóm cấu trúc bảng điểm (bắt buộc) và mô tả thêm (nếu có). Sau đó nhấn **Save** để lưu lại.
 
 ![](<../../.gitbook/assets/1.2 (1).png>)
 
@@ -20,7 +20,7 @@
 1. Chọn nhóm cấu trúc bảng điểm của bảng điểm này.
 {% endhint %}
 
-> **Bước 3:** Sau khi tạo 1 cấu trúc bảng điểm, màn hình sẽ chuyển sang phần cấu hình chi tiết cho các cột điểm của bảng điểm. Tại đây, tiến hành định nghĩa bảng điểm theo chương trình học của trung tâm. Cuối cùng click **Save Setting.**
+> **Bước 3:** Sau khi tạo 1 cấu trúc bảng điểm, màn hình sẽ chuyển sang phần cấu hình chi tiết cho các cột điểm của bảng điểm. Tại đây, tiến hành định nghĩa bảng điểm theo chương trình học của trung tâm. Cuối cùng nhấn **Save Setting.**
 
 ![](<../../.gitbook/assets/2.3 (1).png>)
 

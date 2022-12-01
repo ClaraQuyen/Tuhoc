@@ -20,7 +20,7 @@
 
 ![](../../.gitbook/assets/SMS\_report4.png)
 
-> **Bước 4:**> &#x20;Vào module Student, chọn **Send SMS** (bạn có thể chọn 1 trong 2).
+> **Bước 4:**> &#x20;Vào module **Students**, chọn **Send SMS** (bạn có thể chọn 1 trong 2).
 
 ![](../../.gitbook/assets/SMS\_report5.png)
 
@@ -28,7 +28,7 @@
 
 ![](<../../.gitbook/assets/SMS\_report6 (1).png>)
 
-> Mẫu template sms
+> Mẫu template SMS
 
 ![](../../.gitbook/assets/SMS\_report7.png)
 

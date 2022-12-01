@@ -2,7 +2,7 @@
 
 ## Void E-Invoice trên Payment
 
-> **Bước 1:** Ở màn hình chi tiết của Payment, ở supanel phía bên dưới, chọn tab "Receipt" và chọn **Void E-invoice**.
+> **Bước 1:** Ở màn hình chi tiết của **Payment**, ở subpanel phía bên dưới, chọn tab "Receipt" và chọn **Void E-invoice**.
 
 ![](<../../.gitbook/assets/image (97).png>)
 
@@ -18,7 +18,7 @@
 Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời hạn Void E-invoice trong tháng đó. Trường hợp void E-invoice xảy ra vào tháng kế tiếp, liên hệ trực tiếp Phòng kế toán để được hỗ trợ.
 {% endhint %}
 
-## Void E-Invoice trên Reciept
+## Void E-Invoice trên Receipt
 
 > **Bước 1:** Chọn Payment bất kì cần hủy hóa đơn.
 
@@ -48,4 +48,4 @@ Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời
 
 > **Bước 7:** Void E-Invoice thành công.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

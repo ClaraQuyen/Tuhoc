@@ -17,8 +17,8 @@
 
 1. Download file Import mẫu (nếu chưa có)
 2. Lựa chọn file để Import dữ liệu
-3. Click chọn tạo Leads mới từ dữ liệu được Import
-4. Click chọn tạo và cập nhật leads.
+3. Nhấn chọn tạo Leads mới từ dữ liệu được Import
+4. Nhấn chọn tạo và cập nhật leads.
 5. Chọn template Import dữ liệu vào hệ thống (bắt buộc chọn theo template đã cho)
 
 ****:man\_raising\_hand: **Lưu ý** :&#x20;

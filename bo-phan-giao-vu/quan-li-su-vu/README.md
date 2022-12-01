@@ -4,7 +4,7 @@
 
 #### [Quản lý chiết khẩu (Discount)](quan-ly-chiet-khau-discount.md)
 
-#### [Quản lý Voucher](quan-ly-ma-giam-gia-voucher.md)
+#### [Quản lý Voucher](quan-ly-ma-giam-gia-sponsor.md)
 
 #### [Quản lý Loyalty](quan-ly-diem-tich-luy-loyalty/)
 

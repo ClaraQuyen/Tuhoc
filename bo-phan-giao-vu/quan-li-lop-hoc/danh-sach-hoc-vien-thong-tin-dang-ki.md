@@ -1,6 +1,6 @@
 # Danh sách học viên, thông tin đăng kí
 
-> **Bước 1:** Ở màn hình danh sách của module Students, nhấn chọn học viên mà bạn muốn xem thông tin.
+> **Bước 1:** Ở màn hình danh sách của module **Students**, nhấn chọn học viên mà bạn muốn xem thông tin.
 
 <figure><img src="../../.gitbook/assets/image (27) (2).png" alt=""><figcaption></figcaption></figure>
 

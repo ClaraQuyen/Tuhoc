@@ -4,15 +4,15 @@
 
 ![](../.gitbook/assets/holiday1.jpg)
 
-> **Bước 2:** Tại màn hình Admin, chọn **Public Holiday.**
+> **Bước 2:** Tại màn hình chi tiết của **Administration**, chọn **Public Holiday.**
 
 ![](../.gitbook/assets/holiday2.jpg)
 
-> **Bước 3:** Tại màn hình Holidays, click chọn **Add Holiday.**
+> **Bước 3:** Tại màn hình Holidays, nhấn chọn **Add Holiday.**
 
 ![](../.gitbook/assets/holiday3.jpg)
 
-> **Bước 4:** Sau đó chọn ngày cần set up Holiday, click **Save** để hoàn tất.
+> **Bước 4:** Sau đó chọn ngày cần set up Holiday, nhấn **Save** để hoàn tất.
 
 ![](../.gitbook/assets/holiday4.jpg)
 

@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/Điemanh1.png)
 
-> **Bước 2:** Tại màn hình chi tiết của Lớp học, nhấn vào button **Check Attendance/Homework.**
+> **Bước 2:** Tại màn hình chi tiết của Lớp học, nhấn vào button "**Check Attendance/Homework".**
 
 ![](../.gitbook/assets/điemanh1.jpg)
 

@@ -24,14 +24,14 @@
 
 ![](<../../.gitbook/assets/6 (3).png>)
 
-> **Bước 7:** Sau đó click chon Cho Phép để cấp quyền truy cập từ hệ thống&#x20;
+> **Bước 7:** Sau đó nhấn chọn **Cho Phép** để cấp quyền truy cập từ hệ thống&#x20;
 
 ![](<../../.gitbook/assets/7 (3).png>)
 
-> **Bước 8:** Sau khi cấp quyề truy cập xong, hệ thống sẽ gửi về một mã code, copy mã code.
+> **Bước 8:** Sau khi cấp quyền truy cập xong, hệ thống sẽ gửi về một mã code, copy mã code.
 
 ![](<../../.gitbook/assets/8 (2).png>)
 
-> **Bước 9:** Sau khi copy mã code xong, dán vào ô và click **Save**.
+> **Bước 9:** Sau khi copy mã code xong, dán vào ô và nhấn **Save**.
 
 ![](../../.gitbook/assets/9.png)

@@ -6,6 +6,6 @@
 
 ****![](../../.gitbook/assets/1.giaoantong.png)**Tạo chương trình học và giáo án theo từng buổi học**
 
-![](../../.gitbook/assets/icons8-edit-70.png)Chỉnh sửa giáo án/bảng điểm
+![](../../.gitbook/assets/icons8-edit-70.png) **Chỉnh sửa giáo án/bảng điểm**
 
-![](<../../.gitbook/assets/icons8-administrative-tools-70 (1).png>)Cấu hình số giờ/lớp và quản lý Upgrade lớp
+![](<../../.gitbook/assets/icons8-administrative-tools-70 (1).png>) **Cấu hình số giờ/lớp và quản lý Upgrade lớp**

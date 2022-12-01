@@ -10,14 +10,14 @@ description: >-
 
 ![](../.gitbook/assets/search\_1.jpg)
 
-> **Bước 2:** Tại màn hình Admin, chọn **Search.**
+> **Bước 2:** Tại màn hình **Admin**, chọn **Search.**
 
 ![](../.gitbook/assets/search\_2.jpg)
 
-> **Bước 3:** Sau đó chọn "**Schedule System Index**", hệ thống sẽ show ra popup thông báo, click chọn "**OK**".
+> **Bước 3:** Sau đó chọn "**Schedule System Index**", hệ thống sẽ show ra popup thông báo, nhấn chọn "**OK**".
 
 ![](../.gitbook/assets/search\_3.jpg)
 
-> **Bước 4:** Cuối cùng, tick chọn check box như hình bên dưới và click "Index", đợi 7 phút. Hệ thống sẽ cho ra kết quả search bình thường.
+> **Bước 4:** Cuối cùng, tick chọn check box như hình bên dưới và nhấn "Index", đợi 7 phút. Hệ thống sẽ cho ra kết quả search bình thường.
 
 ![](<../.gitbook/assets/search\_4 (1).jpg>)

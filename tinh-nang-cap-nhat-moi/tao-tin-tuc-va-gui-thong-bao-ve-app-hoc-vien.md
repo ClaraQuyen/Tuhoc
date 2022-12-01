@@ -1,4 +1,4 @@
-# Tạo Tin tức và gửi thông báo về app học viên
+# 🆕 Tạo Tin tức và gửi thông báo về app học viên
 
 > **Bước 1:** Ở màn hình danh sách của module **News**, ta nhấn vào button **Create New** để mở ra màn hình thêm mới **New**.
 

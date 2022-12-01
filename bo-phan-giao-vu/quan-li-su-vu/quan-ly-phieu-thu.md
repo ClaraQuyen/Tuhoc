@@ -1,6 +1,6 @@
 # Quản lý phiếu thu
 
-> **Bước 1:** Ở màn hình danh sách của module **Payment**, chọn Payment muốn thức hiện việc xuất phiếu thu.
+> **Bước 1:** Ở màn hình danh sách của module **Payment**, chọn Payment muốn thực hiện việc xuất phiếu thu.
 
 <figure><img src="../../.gitbook/assets/image (61) (2).png" alt=""><figcaption></figcaption></figure>
 

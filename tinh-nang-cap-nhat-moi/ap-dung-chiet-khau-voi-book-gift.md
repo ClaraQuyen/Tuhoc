@@ -1,6 +1,6 @@
-# Áp dụng chiết khấu với Book/Gift
+# 📚 Áp dụng chiết khấu với Book/Gift
 
-> **Bước 1:** Nhấn chuột vào module **Discounts** chọn **Create Discount.**
+> **Bước 1:** Ở màn hình danh sách của module **Discounts,** chọn **Create Discount** để mở ra màn hình thêm mới Discount**.**
 
 ![](<../.gitbook/assets/discount1 (1).png>)
 
@@ -23,7 +23,7 @@
 
 ![](../.gitbook/assets/discount3.png)
 
-> **Bước 4:** Sau khi tạo Discount thành công, kéo xuống Subpanel, chọn tab như hình bên dưới, để add Discount không được áp dụng đi kèm với Discount bạn tạo.
+> **Bước 4:** Sau khi tạo Discount thành công, kéo xuống Subpanel, chọn tab như hình bên dưới, để Add Discount không được áp dụng đi kèm với Discount bạn tạo.
 
 ![](../.gitbook/assets/discobt.png)
 

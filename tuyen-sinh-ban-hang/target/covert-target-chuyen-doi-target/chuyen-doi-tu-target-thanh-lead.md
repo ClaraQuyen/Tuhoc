@@ -1,6 +1,6 @@
-# Convert từ Target thành Lead
+# Chuyển đổi từ Target thành Lead
 
-> **Bước 1:** Ở màn hình danh sách của module Targets, chọn Target muốn chuyển đổi thành Lead.
+> **Bước 1:** Ở màn hình danh sách của module **Targets**, chọn Target muốn chuyển đổi thành Lead.
 
 <figure><img src="../../../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
