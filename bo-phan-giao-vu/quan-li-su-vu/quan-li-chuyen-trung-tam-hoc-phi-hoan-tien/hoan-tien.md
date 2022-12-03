@@ -12,7 +12,7 @@ Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho họ
 
 > **Bước 1:** Ở màn hình danh sách của module **Students**, chọn vào học viên có nhu cầu hoàn tiền.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của module **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Refund**.
 
