@@ -1,16 +1,16 @@
 ---
-description: Khi xuất hóa đơn điện tử thành công mà mình muốn hủy thì
+description: Hủy hóa đơn điện tử khi bị sai các trường thông tin
 ---
 
 # Void E-invoice
 
 ## Void E-Invoice trên Payment
 
-> **Bước 1:** Ở màn hình chi tiết của **Payment**, ở subpanel phía bên dưới, chọn tab "Receipt" và chọn **Void E-invoice**.
+> **Bước 1:** Ở màn hình chi tiết của **Payment**, ở subpanel phía bên dưới, chọn tab "**Receipt**" và chọn **Void E-invoice**.
 
 ![](<../../.gitbook/assets/image (97).png>)
 
-> **Bước 2:** Nhập nội dung lý do Void E-invoice và chọn Submit.
+> **Bước 2:** Nhập nội dung lý do **Void E-invoice** và chọn **Submit**.
 
 ![](<../../.gitbook/assets/image (98).png>)
 
@@ -24,7 +24,7 @@ Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời
 
 ## Void E-Invoice trên Receipt
 
-> **Bước 1:** Nhấn vào tab "Invoice" trong màn hình chi tiết của Payment.
+> **Bước 1:** Ở màn hình chi tiết của **Payment**, ở subpanel phía bên dưới, chọn tab "**Invoices**" và chọn **Void E-invoice**.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
