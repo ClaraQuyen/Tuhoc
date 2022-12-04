@@ -1,12 +1,12 @@
 # Đăng nhập ứng dụng
 
-> **Bước 1:** Tải ứng dụng Mobile DotB SEA tại đây:
+> **Bước 1:** Tải ứng dụng **Mobile DOTB SEA** tại đây:
 
 :point\_right: Đối với người dùng Android:  [<img src="../.gitbook/assets/image (16) (1) (1).png" alt="" data-size="line"> ](https://play.google.com/store/apps/details?id=vn.dotb.sea)
 
 :point\_right: Đối với người dùng IOS:  [<img src="../.gitbook/assets/image (15) (1) (1).png" alt="" data-size="line">](https://apps.apple.com/vn/app/dotb-crm/id1475488445)&#x20;
 
-> **Bước 2:** Mở ứng dụng **DotB SEA** trên Mobile và nhấn vào ô Bắt đầu trên màn hình.
+> **Bước 2:** Mở ứng dụng **DOTB SEA** trên Mobile và nhấn vào ô Bắt đầu trên màn hình.
 
 ![](../.gitbook/assets/1.6.jpg)
 

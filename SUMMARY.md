@@ -3,7 +3,7 @@
 * [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
 * [DOTB - SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
-  * [Thông tin Thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
+  * [Thông tin thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
   * [Thông tin lớp học](mobile/thong-tin-lop-hoc.md)
   * [Thông tin bài giảng và bài tập về nhà](mobile/lich-su-khoa-hoc.md)
   * [Lịch sử khoản thu](mobile/lich-su-khoan-thu.md)
@@ -17,12 +17,6 @@
   * [Cài đặt ngôn ngữ](mobile/cai-dat-ngon-ngu.md)
   * [Quên mật khẩu](mobile/quen-mat-khau.md)
   * [Cửa hàng](mobile/cua-hang.md)
-  * [Trung tâm hỗ trợ](mobile/trung-tam-ho-tro/README.md)
-    * [DotB Sea cung cấp những tính năng chính nào?](mobile/trung-tam-ho-tro/dotb-sea-cung-cap-nhung-tinh-nang-chinh-nao.md)
-    * [Hướng dẫn thay đổi mật khẩu định kì](mobile/trung-tam-ho-tro/huong-dan-thay-doi-mat-khau-dinh-ki.md)
-    * [Lịch sử khoản thu được xem như thế nào?](mobile/trung-tam-ho-tro/lich-su-khoan-thu-duoc-xem-nhu-the-nao.md)
-    * [Điểm tích lũy được sử dụng như thế nào?](mobile/trung-tam-ho-tro/diem-tich-luy-duoc-su-dung-nhu-the-nao.md)
-    * [Cập nhật thông tin cá nhân như thế nào?](mobile/trung-tam-ho-tro/cap-nhat-thong-tin-ca-nhan-nhu-the-nao.md)
 
 ## Nhóm tính năng tiếp thị
 
@@ -219,4 +213,4 @@
 ## Tính Năng Cập Nhật Mới
 
 * [📚 Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
-* [🆕 Tạo Tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)
+* [🆕 Tạo tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)

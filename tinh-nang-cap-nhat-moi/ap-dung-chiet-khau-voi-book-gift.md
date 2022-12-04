@@ -1,10 +1,10 @@
 # 📚 Áp dụng chiết khấu với Book/Gift
 
-> **Bước 1:** Ở màn hình danh sách của module **Discounts,** chọn **Create Discount** để mở ra màn hình thêm mới Discount**.**
+> **Bước 1:** Ở màn hình danh sách của module **Discounts,** chọn **Create Discount** để mở ra màn hình thêm mới **Discount.**
 
 ![](<../.gitbook/assets/discount1 (1).png>)
 
-> **Bước 2:** Tại màn hình tạo mới chiết khấu, nhập đầy đủ các thông tin cần thiết. Sau đó chọn **Save** để hoàn tất.
+> **Bước 2:** Tại màn hình tạo mới chiết khấu, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một **Discounts** mới.
 
 ![](<../.gitbook/assets/discount2 (1).png>)
 
