@@ -13,7 +13,7 @@
 
 1. Thông tin Discount
 2. Số tiền/ Phần Trăm Discount.
-3. Discount áp dụng với hình thức Payment Casholder/Book/Gift/All.
+3. Discount áp dụng với hình thức Payment Cashholder/Book/Gift/All.
 4. Ngày bắt đầu, ngày kết thúc discount.
 
 ****:man\_raising\_hand: **Lưu ý**: Có thể chỉ nhập số tiền hoặc phần trăm Discount
@@ -23,10 +23,10 @@
 
 ![](../.gitbook/assets/discount3.png)
 
-> **Bước 4:** Sau khi tạo Discount thành công, kéo xuống Subpanel, chọn tab như hình bên dưới, để Add Discount không được áp dụng đi kèm với Discount bạn tạo.
+> **Bước 4:** Sau khi tạo Discount thành công, kéo xuống Subpanel, chọn tab **"Do not Apply with Discounts"** để thêm chiết khấu không được áp dụng đi kèm với Discount bạn tạo.
 
 ![](../.gitbook/assets/discobt.png)
 
-> **Bước 5:** Cuối cùng bấm chọn Select để link đến Discount bạn cần không được áp dụng đi kèm với Discount bạn tạo.
+> **Bước 5:** Cuối cùng bấm chọn **Select** để link đến Discount bạn cần không được áp dụng đi kèm với Discount mà bạn đã tạo.
 
 ![](../.gitbook/assets/disoct.png)

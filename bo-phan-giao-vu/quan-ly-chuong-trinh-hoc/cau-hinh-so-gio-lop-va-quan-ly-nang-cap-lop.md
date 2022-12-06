@@ -8,7 +8,7 @@
 
 > **Bước 2:** Tại màn hình chi tiết của **Kind of Courses**, chọn Edit để chỉnh sửa chương trình học cần cấu hình số giờ/lớp.
 
-<figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình xem chương trình học, nhập cấu hình số giờ/lớp. Sau đó nhấn chọn **Save** để hoàn tất.
 

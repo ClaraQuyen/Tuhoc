@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/thong tin 2 (2).jpg>)
 
-> **Bước 2:** Tại màn hình Lớp học, nhấn vào Tab “**Gradebooks**” sau đó chọn bảng điểm mà bạn cần xem/chấm điểm hoặc thay đổi cấu trúc bảng điểm.
+> **Bước 2:** Tại màn hình Lớp học, ở Subpanel phía bên dưới, nhấn vào Tab “**Gradebooks**” sau đó chọn bảng điểm mà bạn cần xem/chấm điểm hoặc thay đổi cấu trúc bảng điểm.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LrHReb9JsrFo3TW8d7S%2F-Lvg24SvSr3TtON6iKb1%2F-LvgQ-k19V7ZXvCS9gRb%2FBangDiem2.png?alt=media\&token=9bbdbe65-a2e8-45b7-8fe8-89266131101f)
 
