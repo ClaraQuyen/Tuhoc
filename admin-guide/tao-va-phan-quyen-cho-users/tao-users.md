@@ -42,7 +42,7 @@
 
 > **Bước 3:** Tại màn hình thông tin của người dùng, chúng ta nhấn vào thông tin nút "Edit" để cập nhật thông tin của người dùng. Ở đây chúng ta cập nhật trạng thái lại là "Không hoạt động - Inactive"_,_ sau đó tiến hành nhấn **Save** để lưu lại.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
