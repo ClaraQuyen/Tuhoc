@@ -1,15 +1,5 @@
 # Chuyển trung tâm
 
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Lưu ý** :
-
-Khi thực hiện chuyển trung tâm từ center A đến center B, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop)học viên A trước, sau đó [**Convert Payment**](../../../admin-guide/drop-payment.md#convert-payment) sang Amount.
-
-Nếu học viên không có **Delay** thì sẽ [Convert Payment](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
-
-Cuối cùng sử dụng tính năng **Moving Center** này để chuyển trung tâm A đến trung tâm B.
-{% endhint %}
-
 > **Bước 1**: Ở màn hình danh sách của module **Students**, chọn vào học viên có nhu cầu chuyển trung tâm.
 
 <figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>

@@ -1,15 +1,5 @@
 # Hoàn tiền
 
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Lưu ý** :
-
-Khi thực hiện tính năng hoàn tiền cho học viên, bạn phải thực hiện :point\_right: [_**Delay**_ ](https://help.dotb.vn/bo-phan-giao-vu/quan-li-su-vu/quan-li-delay#hoc-vien-delay-khoi-lop) học viên trước (Nếu học viên đang học trong lớp)
-
-Nếu học viên không có Delay thì sẽ [**Convert Payment**](https://help.dotb.vn/admin-guide/drop-payment#convert-payment) sang **Amount**.
-
-Cuối cùng sử dụng tính năng **Refund** này để hoàn tiền cho học viên.
-{% endhint %}
-
 > **Bước 1:** Ở màn hình danh sách của module **Students**, chọn vào học viên có nhu cầu hoàn tiền.
 
 <figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
