@@ -2,15 +2,15 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Campaigns** chọn **View Campaigns**, sau đó chọn chiến dịch muốn xem hiệu quả Email Marketing.
 
-<figure><img src="../../.gitbook/assets/image (8) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Nhấn chọn View Status.
 
-![](../../.gitbook/assets/xembc2.png)
+![](../.gitbook/assets/xembc2.png)
 
 > **Bước 3:** Hệ thống sẽ hiển thị chi tiết số người đã đọc email, mở liên kết, số người nhận, email bị trả về,…
 
-![](../../.gitbook/assets/xembc3.png)
+![](../.gitbook/assets/xembc3.png)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:

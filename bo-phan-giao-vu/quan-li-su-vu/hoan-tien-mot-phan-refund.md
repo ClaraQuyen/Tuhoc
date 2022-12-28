@@ -1,7 +1,7 @@
 ---
 description: >-
-  Được áp dụng khi học viên một hoàn trả một phần học phí và phần còn lại
-  Enrollment vào lớp
+  Được áp dụng khi học viên hoàn trả một phần học phí và phần còn lại Enrollment
+  vào lớp
 ---
 
 # Hoàn tiền một phần - Refund

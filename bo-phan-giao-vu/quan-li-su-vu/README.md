@@ -2,9 +2,9 @@
 
 #### [Quản lý phiếu thu](quan-ly-phieu-thu.md)
 
-#### [Quản lý chiết khẩu (Discount)](quan-ly-chiet-khau-discount.md)
+#### ![](<../../.gitbook/assets/icons8-price-tag-50 (2).png>)[Quản lý chiết khẩu (Discount)](quan-ly-chiet-khau-discount.md)
 
-#### [Quản lý Voucher](quan-ly-ma-giam-gia-sponsor.md)
+#### ![](../../.gitbook/assets/icons8-ticket-50.png)[Quản lý Voucher](quan-ly-ma-giam-gia-sponsor.md)
 
 #### [Quản lý Loyalty](quan-ly-diem-tich-luy-loyalty/)
 

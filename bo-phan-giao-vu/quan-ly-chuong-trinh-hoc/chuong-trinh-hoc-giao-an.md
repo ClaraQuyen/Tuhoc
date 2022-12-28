@@ -51,7 +51,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết giáo án theo chương trình học được tạo.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Cài đặt Giáo Án theo chương trình học_
 

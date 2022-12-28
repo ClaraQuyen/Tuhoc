@@ -16,7 +16,7 @@
 >
 > **Cách 1:** Nhấn vào biểu tượng **** ![](<../../.gitbook/assets/image (141).png>) để thực hiện chỉnh sửa thông tin.
 
-<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Cách 2: Bấm vào tên của người dùng, màn hình thông tin người dùng sẽ hiện ra đầy đủ thông tin  sau đó n**h**ấn vào nút **Sửa.**
 

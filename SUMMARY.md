@@ -1,6 +1,7 @@
 # Table of contents
 
 * [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
+* [Hướng dẫn đăng ký tài khoản Apple Developer](huong-dan-dang-ky-tai-khoan-apple-developer.md)
 * [DOTB - SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
@@ -18,16 +19,24 @@
   * [Quên mật khẩu](mobile/quen-mat-khau.md)
   * [Cửa hàng](mobile/cua-hang.md)
 
+## CẤU HÌNH
+
+* [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
+  * [Tạo Campaigns (Wizard)](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/tao-campaigns-wizard.md)
+  * [Tạo Campaigns (Classic)](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/tao-campaigns-classic.md)
+* [📧 Email Marketing](cau-hinh/email-marketing.md)
+* [🎯 Target Lists](cau-hinh/target-lists.md)
+
 ## Nhóm tính năng tiếp thị
 
-* [⛺ Campaigns](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/README.md)
-  * [Tạo Campaigns (Wizard)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-wizard.md)
-  * [Tạo Campaigns (Classic)](nhom-tinh-nang-tiep-thi/email-marketing/campaigns/tao-campaigns-classic.md)
+* [⛺ Campaigns](nhom-tinh-nang-tiep-thi/campaigns/README.md)
+  * [Tạo Campaigns (Wizard)](nhom-tinh-nang-tiep-thi/campaigns/tao-campaigns-wizard.md)
+  * [Tạo Campaigns (Classic)](nhom-tinh-nang-tiep-thi/campaigns/tao-campaigns-classic.md)
 * [📧 Email Marketing](nhom-tinh-nang-tiep-thi/email-marketing.md)
-* [🎯 Target Lists](nhom-tinh-nang-tiep-thi/email-marketing/target-lists.md)
-* [📨 Lập lịch gửi Email](nhom-tinh-nang-tiep-thi/email-marketing/lap-lich-gui-email.md)
-* [🏬 Xem báo cáo Campaigns hiệu quả](nhom-tinh-nang-tiep-thi/email-marketing/xem-bao-cao-hieu-qua-campaigns.md)
-* [📨 SMS Marketing](nhom-tinh-nang-tiep-thi/sms-marketing.md)
+* [🎯 Target Lists](nhom-tinh-nang-tiep-thi/target-lists.md)
+* [📨 Lập lịch gửi Email](nhom-tinh-nang-tiep-thi/lap-lich-gui-email.md)
+* [🏬 Xem báo cáo Campaigns hiệu quả](nhom-tinh-nang-tiep-thi/xem-bao-cao-campaigns-hieu-qua.md)
+* [📨 SMS Marketing](nhom-tinh-nang-tiep-thi/sms-marketing/README.md)
   * [Tạo Template SMS chèn tham số](nhom-tinh-nang-tiep-thi/sms-marketing/tao-template-sms-chen-tham-so.md)
   * [Xem lại lịch sử gửi SMS](nhom-tinh-nang-tiep-thi/sms-marketing/xem-lai-lich-su-gui-sms.md)
 * [🇪🇭 Tích hợp Landing Page/ Website](nhom-tinh-nang-tiep-thi/tich-hop-landing-pages-website/README.md)
