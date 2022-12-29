@@ -59,7 +59,7 @@ Khi import dữ liệu lên hệ thống sẽ có một số lưu ý như sau:
 * Chuyển đổi thông tin phù hợp với ngôn ngữ sử dụng
 * Định dạnh ngày sinh theo: dd/mm/yyyy
 * Các trường thông tin dưới dạng dropdown này phải phù hợp với thông tin đã có sẵn trên hệ thống \*Trong trường hợp nếu khác, các anh chị vui lòng liện hệ IT Admin bên mình để được thay đổi và chỉnh sửa
-* Xóa những dòng trống trong file Excel bằng cách nhấn tổ hợp phím: Ctrl + Shift + <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line">
+* Xóa những dòng trống trong file Excel bằng cách nhấn tổ hợp phím: Ctrl + Shift + <img src="../../.gitbook/assets/image (3) (2) (1).png" alt="" data-size="line">
 {% endhint %}
 
 > _Video hướng dẫn Import Leads_

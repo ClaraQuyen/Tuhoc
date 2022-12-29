@@ -18,7 +18,7 @@ Khi bạn đã đăng nhập với Apple ID vừa tạo hoặc đã có sẵn Ap
 
 3\. Tiếp tục click vào **Join the Apple Developer Program**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 4\. Kế đến, bạn chọn nút **"Enroll"** màu xanh phía trên bên phải màn hình, chọn tiếp **"Start your enrollment"**
 
@@ -30,7 +30,7 @@ Khi bạn đã đăng nhập với Apple ID vừa tạo hoặc đã có sẵn Ap
 
 Kiểm tra các thông tin và tiến hành xác nhận
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Lựa chọn loại tài khoản là: **Individual/ Sole Proprietor**
 
