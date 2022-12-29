@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Classes** sẽ hiển thị tất cả thông tin các lớp được phân công giảng dạy.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Lưu ý**: Muốn xem thông tin lớp nào thì chỉ cần chọn vào tên lớp đó.

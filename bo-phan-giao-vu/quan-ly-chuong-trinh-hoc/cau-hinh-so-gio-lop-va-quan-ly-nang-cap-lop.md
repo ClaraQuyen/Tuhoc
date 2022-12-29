@@ -91,4 +91,4 @@
 
 > **Bước 8:** Màn hình hiển thị danh sách học viên khi thêm học viên vào lớp đã upgrade thành công.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>

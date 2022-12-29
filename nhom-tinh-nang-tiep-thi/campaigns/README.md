@@ -8,6 +8,6 @@ description: >-
 
 ### Một số tính năng của module Campaigns:
 
-#### ****[****![](../../.gitbook/assets/icons8-elections-50.png)**Tạo Campaigns (Wizard)**](../../cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/tao-campaigns-wizard.md)
+#### ****[****![](../../.gitbook/assets/icons8-elections-50.png)**Tạo Campaigns (Wizard)**](../../cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
 
-#### ****![](../../.gitbook/assets/icons8-multichannel-50.png)[Tạo Campaigns (Classic)](../../cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/tao-campaigns-classic.md)
+#### ****![](../../.gitbook/assets/icons8-multichannel-50.png)[Tạo Campaigns (Classic)](../../cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tham-gia-apple-developer-program-khoi-tao.md)

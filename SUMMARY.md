@@ -22,10 +22,12 @@
 ## CẤU HÌNH
 
 * [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
-  * [Tạo Campaigns (Wizard)](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/tao-campaigns-wizard.md)
-  * [Tạo Campaigns (Classic)](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/tao-campaigns-classic.md)
-* [📧 Email Marketing](cau-hinh/email-marketing.md)
-* [🎯 Target Lists](cau-hinh/target-lists.md)
+  * [Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
+  * [Đăng ký tài khoản Apple ID](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-id.md)
+  * [Đăng ký tham gia Apple Developer Program (khởi tạo)](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tham-gia-apple-developer-program-khoi-tao.md)
+  * [Hướng dẫn đăng ký số DUNS](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/huong-dan-dang-ky-so-duns.md)
+  * [Đăng ký tài khoản Apple Developer cho Cá nhân](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-developer-cho-ca-nhan.md)
+* [👩💻 Hướng dẫn đăng ký tài khoản Google Developer](cau-hinh/huong-dan-dang-ky-tai-khoan-google-developer.md)
 
 ## Nhóm tính năng tiếp thị
 

@@ -14,7 +14,7 @@ description: Cấu hình Chanel trong module Target/Lead/Student
 
 > **Bước 3**: Tại màn hình Dropdown, lựa chọn mục **utm\_source\_list.**
 
-![](<../../.gitbook/assets/image (3) (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (3) (1) (1).png>)
 
 > **Bước 4:** Nhập thông tin cần thêm cho chương trình cần cài đặt ở mục Item Name và Display Name (**Lưu ý**: 2 thông tin này nhập giống nhau). Sau đó bấm **Add**. Cuối cùng bấm **Save** để hoàn tất.
 
