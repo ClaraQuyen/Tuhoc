@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình tạo mới Lớp học, nhập đầy đủ các thông tin cần thiết, Sau đó chọn Save để hoàn tất việc tạo ra 1 lớp học mới.
 
-<figure><img src="../../.gitbook/assets/image (20) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -18,7 +18,9 @@
 5. Tổng số học sinh trong Lớp học.
 6. Tổng thời gian của Lớp học.
 7. Ngày học của Lớp học trong tuần.
-8. Thời gian học tương ứng với ngày học của Lớp học.
+8. Syllabus By: By Session: chạy theo buổi, By Date: chạy theo ngày.
+9. Thời gian học tương ứng với ngày học của Lớp học.
+10. Schedule By: Even weeks: tuần chẵn/Odd weeks: tuần lẻ
 {% endhint %}
 
 > **Bước 3:** Nhập thông tin cấu hình Class In.

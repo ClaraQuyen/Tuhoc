@@ -6,7 +6,7 @@ Trang truy cập: [https://developer.apple.com/enroll/duns-lookup/#!/search](htt
 
 1. Sau khi bấm **Check Now** bạn sẽ thấy màn hình đăng ký thông tin, hãy lấy Giấy phép kinh doanh ra và điền đúng các thông tin (sử dụng tên công ty là Tiếng Anh) để đăng ký
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Sau khi điền thông tin, sẽ có 2 trường hợp
 
