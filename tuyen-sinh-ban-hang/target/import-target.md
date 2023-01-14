@@ -39,7 +39,15 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 > **Bước 5:** Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó ta nhấn chọn "**Import Now**" để tiến hành Import dữ liệu vào hệ thống.
 
-![](<../../.gitbook/assets/image (112) (1) (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Default- mặc định: xét trùng y như lúc bấm nút tạo dòng mới trong module.**
+
+**Select fields to check duplicate:** kiểm tra trùng các trường dữ liệu bằng cách kéo thả qua trường "**Fields to Check".**
+{% endhint %}
 
 > **Bước 6:** Kết quả sau khi Import, hệ thống sẽ báo:
 >

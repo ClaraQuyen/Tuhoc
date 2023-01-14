@@ -35,9 +35,17 @@
 
 ![](<../../.gitbook/assets/5 (1).png>)
 
-> **Bước 6:** Xác nhận việc kiểm tra trùng và việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "Filed to check". Sau đó nhấn "Import Now" để hệ thống tiến hành Import dữ liệu vào hệ thống.
+> **Bước 6:** Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó ta nhấn chọn "**Import Now**" để tiến hành Import dữ liệu vào hệ thống.
 
-![](<../../.gitbook/assets/6 (1).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Default- mặc định: xét trùng y như lúc bấm nút tạo dòng mới trong module.**
+
+**Select fields to check duplicate:** kiểm tra trùng các trường dữ liệu bằng cách kéo thả qua trường "**Fields to Check".**
+{% endhint %}
 
 > **Bước 7:** Kết quả sau khi Import.
 
@@ -46,13 +54,13 @@
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:
 
-1. Import Again: Import lại danh sách khách hàng (Nếu muốn)
-2. Exit: Thoát ra màn hình Overview của module Targets
-3. Add to Targets List: Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaigns hoặc gửi email,...
+1. **Import Again:** Import lại danh sách khách hàng (Nếu muốn)
+2. **Exit:** Thoát ra màn hình Overview của module Targets
+3. **Add to Targets List:** Thêm danh sách khách hàng vừa được import vào hệ thống vào Target List để chạy Campaigns hoặc gửi email,...
 {% endhint %}
 
 {% hint style="success" %}
-Khi import dữ liệu lên hệ thống sẽ có một số lưu ý như sau:
+**Khi import dữ liệu lên hệ thống sẽ có một số lưu ý như sau:**
 
 * Phải có đầy đủ 3 trường thông tin: Họ, Tên, Nguồn khách hàng và Số điện thoại
 * Tất cả các cột dữ liệu đang sử dụng phải ở dạng Text

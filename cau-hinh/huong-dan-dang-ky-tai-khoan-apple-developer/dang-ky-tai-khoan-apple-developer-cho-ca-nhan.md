@@ -14,7 +14,7 @@ Khi bạn đã đăng nhập với Apple ID vừa tạo hoặc đã có sẵn Ap
 
 2\. Click vào các thông tin bên dưới
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (3).png" alt=""><figcaption></figcaption></figure>
 
 3\. Tiếp tục click vào **Join the Apple Developer Program**
 
@@ -46,4 +46,4 @@ Số tiền thanh toán: 99$/năm
 
 Sau khi thanh toán, Apple sẽ thông báo đã ghi nhận thông tin và sẽ xử lý trong vòng hai ngày làm việc
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (6).png" alt=""><figcaption></figcaption></figure>
