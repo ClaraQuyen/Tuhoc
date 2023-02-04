@@ -10,11 +10,11 @@ description: >-
 
 Tiến hành nhập mail và mật khẩu để tiến hành đăng nhập (mail của doanh nghiệp đang sử dụng)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (9).png>)
 
 Sau khi đăng nhập thành công, thực hiện nhập các thông tin cần thiết
 
-![](<../.gitbook/assets/image (35).png>)
+![](<.gitbook/assets/image (35) (2).png>)
 
 * Tên nhà phát triển công khai: Tên của tài khoản này
 * Địa chỉ email liên hệ phụ: Địa chỉ email phụ để liên kết với tài khoản này
@@ -25,7 +25,7 @@ Sau khi đăng nhập thành công, thực hiện nhập các thông tin cần t
 
 ### Bước 2: Tiến hành thanh toán để hoàn tất giao dịch
 
-![](<../.gitbook/assets/image (22).png>)
+![](<.gitbook/assets/image (22) (3).png>)
 
 Chi phí: $25 để sử dụng vĩnh viễn
 

@@ -26,13 +26,13 @@
 
 > **Bước 3:** Bấm vào "Select" để chọn học viên cần thêm vào buổi PT.
 
-<figure><img src="../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Kết quả sau khi thêm thành công học viên vào buổi Placement Test. Đồng thời, trạng thái của Leads sẽ được cập nhật là **Ready to PT**.
 
 <figure><img src="../../../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (42) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn thêm học viên vào lớp học thử_
 

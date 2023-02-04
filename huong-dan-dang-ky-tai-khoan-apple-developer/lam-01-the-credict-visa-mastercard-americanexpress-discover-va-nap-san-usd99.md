@@ -6,7 +6,7 @@ description: >-
 
 # Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Đối với các bạn mới chưa làm quen với loại thẻ trên, các bạn có thể đến ngay ngân hàng gần nhất và đăng ký. - Các ngân hàng gợi ý bạn có thể mở thẻ : Vietcombank, ACB (Visa Prepaid), SHB, BIDV (master), Techcombank (visa), MBbank, Sacombank. Chi phí dao động từ 30k - 150k.\

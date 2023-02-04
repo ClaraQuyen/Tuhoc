@@ -26,9 +26,9 @@ Void E-invoice khi hóa đơn xuất sai bất kỳ tiêu thức nào và thời
 
 > **Bước 1:** Ở màn hình chi tiết của **Payment**, ở subpanel phía bên dưới, chọn tab "**Invoices**" và chọn **Void E-invoice**.
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tiếp đến, chúng ta nhập lí do hủy giao dịch này.
 

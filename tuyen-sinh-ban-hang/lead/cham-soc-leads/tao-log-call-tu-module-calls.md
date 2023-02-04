@@ -34,4 +34,4 @@
 > * **Invalid Number** (sai số).
 > * **Busy/No Answers** (Máy bận/ Không trả lời)
 
-![](<../../../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)

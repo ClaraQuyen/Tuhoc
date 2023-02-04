@@ -26,10 +26,10 @@ _Sau đó bạn chọn **"Continue"** và đăng nhập lại với Apple ID v�
 
 Theo quy định của Apple, bạn phải dùng thẻ của mình để đăng ký loại tài khoản trên nên tốt nhất là bạn mở 1 thẻ cho riêng mình nhé. Còn nếu bạn mượn thẻ của người khác thì hãy chắc chắn rằng, Apple ID của bạn khớp với tên in trên thẻ. Ví dụ bạn tên Phạm A Lù, nhưng mượn thẻ của 1 người tên Phạm A Phủ, bạn hãy chắc chắn điền "First name: Pham" và "Last name: A Phu".
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 3:** Xác thực **Email** và **Số điện thoại.**

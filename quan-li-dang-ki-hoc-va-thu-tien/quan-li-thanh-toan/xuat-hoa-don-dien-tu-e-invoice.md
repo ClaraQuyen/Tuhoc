@@ -44,7 +44,7 @@ description: >-
 :man\_raising\_hand: **Lưu ý:** Xuất hóa đơn điện tử thành công khi nhận được thông báo như sau:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:

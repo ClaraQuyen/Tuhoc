@@ -10,7 +10,7 @@ Room được tạo trên EMS được xem như 1 account Teacher bên ClassIn
 
 > **Bước 2:** Nhập thông tin **Room (Online/offline)** và nhập đầy đủ thông tin cấu hình. Cuối cùng, chúng ta nhấn Save để lưu lại.
 
-<figure><img src="../../.gitbook/assets/image (21) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Ghi chú:** :tada:
