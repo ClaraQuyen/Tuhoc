@@ -210,20 +210,15 @@
 * [🙍 Điểm danh học viên](teacher-guide/diem-danh-hoc-vien.md)
 * [🗓 Nhập điểm học tập](teacher-guide/nhap-diem-hoc-tap.md)
 
-## CẤU HÌNH
-
-***
-
-* [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
-  * [Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99](huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
-  * [Đăng ký tài khoản Apple ID](huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-id.md)
-  * [Đăng ký tham gia Apple Developer Program (khởi tạo)](huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tham-gia-apple-developer-program-khoi-tao.md)
-  * [Hướng dẫn đăng ký số DUNS](huong-dan-dang-ky-tai-khoan-apple-developer/huong-dan-dang-ky-so-duns.md)
-  * [Đăng ký tài khoản Apple Developer cho Cá nhân](huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-developer-cho-ca-nhan.md)
-* [👩💻 Hướng dẫn đăng ký tài khoản Google Developer](huong-dan-dang-ky-tai-khoan-google-developer.md)
-* [Hướng dẫn đăng ký tài khoản Apple Developer](huong-dan-dang-ky-tai-khoan-apple-developer-1.md)
-
 ## Tính Năng Cập Nhật Mới
 
 * [📚 Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
 * [🆕 Tạo tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)
+* [Cấu hình](tinh-nang-cap-nhat-moi/cau-hinh/README.md)
+  * [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
+    * [Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
+    * [Đăng ký tài khoản Apple ID](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-id.md)
+    * [Đăng ký tham gia Apple Developer Program (khởi tạo)](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tham-gia-apple-developer-program-khoi-tao.md)
+    * [Hướng dẫn đăng ký số DUNS](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/huong-dan-dang-ky-so-duns.md)
+    * [Đăng ký tài khoản Apple Developer cho Cá nhân](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-developer-cho-ca-nhan.md)
+  * [👩💻 Hướng dẫn đăng ký tài khoản Google Developer](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-google-developer.md)

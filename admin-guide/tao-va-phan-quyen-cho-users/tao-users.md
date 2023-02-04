@@ -4,7 +4,7 @@
 
 > **Bước 1:** Tại avatar người dùng, bấm chuột vào **Users** để mở ra màn hình **Users.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình Users, nhấn vào Menu chọn Create New User.
 
@@ -46,7 +46,7 @@
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Sau khi tiến hành lưu lại, hệ thống có hỏi "Bạn có muốn gán lại tất cả hồ sơ lại cho người dùng hay không?"&#x20;

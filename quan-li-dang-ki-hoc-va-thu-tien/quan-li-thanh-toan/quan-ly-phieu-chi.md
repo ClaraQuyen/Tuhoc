@@ -10,7 +10,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của phiếu chi vừa được tạo.
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn Quản lí Phiếu Chi_
 

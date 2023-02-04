@@ -41,7 +41,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Default- mặc định: xét trùng y như lúc bấm nút tạo dòng mới trong module.**

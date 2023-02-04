@@ -14,7 +14,7 @@ description: Cấu hình Course Category, Prefel Level cho thông tin chương t
 
 > **Bước 3**: Tại màn hình chi tiết Dropdown, lựa chọn mục "**kind\_of\_course\_list".**
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1) (2) (1) (1).png>)
 
 > **Bước 4:** Nhập thông tin cần thêm cho chương trình cần cài đặt ở mục Item Name và Display Name (**Lưu ý**: 2 thông tin này nhập giống nhau). Sau đó bấm **Add**. Cuối cùng bấm **Save** để hoàn tất.
 

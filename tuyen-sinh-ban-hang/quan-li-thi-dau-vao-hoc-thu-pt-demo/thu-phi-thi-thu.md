@@ -19,4 +19,4 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của Payment được tạo.
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (2).png" alt=""><figcaption></figcaption></figure>

@@ -39,7 +39,7 @@
 
 <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Default- mặc định: xét trùng y như lúc bấm nút tạo dòng mới trong module.**
@@ -67,7 +67,7 @@
 * Chuyển đổi thông tin phù hợp với ngôn ngữ sử dụng
 * Định dạnh ngày sinh theo: dd/mm/yyyy
 * Các trường thông tin dưới dạng dropdown này phải phù hợp với thông tin đã có sẵn trên hệ thống \*Trong trường hợp nếu khác, các anh chị vui lòng liện hệ IT Admin bên mình để được thay đổi và chỉnh sửa
-* Xóa những dòng trống trong file Excel bằng cách nhấn tổ hợp phím: Ctrl + Shift + <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line">
+* Xóa những dòng trống trong file Excel bằng cách nhấn tổ hợp phím: Ctrl + Shift + <img src="../../.gitbook/assets/image (3) (2) (1).png" alt="" data-size="line">
 {% endhint %}
 
 > _Video hướng dẫn Import Leads_

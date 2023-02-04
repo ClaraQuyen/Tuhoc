@@ -13,23 +13,23 @@ Khi bạn đã đăng nhập với Apple ID vừa tạo hoặc đã có sẵn Ap
 
 2\. Click vào các thông tin bên dưới
 
-<figure><img src="../.gitbook/assets/image (21) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Tiếp tục click vào **Join the Apple Developer Program**
 
-<figure><img src="../.gitbook/assets/image (43) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 4\. Kế đến, bạn chọn nút **"Enroll"** màu xanh phía trên bên phải màn hình, chọn tiếp **"Start your enrollment"**
 
-<figure><img src="../.gitbook/assets/image (32) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 5\. Điền đầy đủ thông tin cá nhân và chọn **Continue**
 
-<figure><img src="../.gitbook/assets/image (44) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44) (2).png" alt=""><figcaption></figcaption></figure>
 
 6\. Chọn **Company / Organization** để đăng ký loại tài khoản doanh nghiệp
 
-<figure><img src="../.gitbook/assets/image (34) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ### 7. Đến đây nếu bạn có số DUNS thì bấm Continue **** nếu chưa thì bấm **Check now** để đăng ký và xem hướng dẫn đăng ký mã DUNS bên dưới
 
