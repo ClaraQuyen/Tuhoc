@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Schedules**, chọn buổi **Placement Test** cần thêm học viên.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của buổi Placement Test, nhấn chọn tab subpanel “**Placement Test**”. Sau đó chọn học viên cần Add vào buổi Placement Test.
 
@@ -30,7 +30,7 @@
 
 > **Bước 3:** Bấm vào "Select" để chọn học viên cần thêm vào buổi PT.
 
-<figure><img src="../../../.gitbook/assets/image (34) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Kết quả sau khi thêm thành công học viên vào buổi Placement Test. Đồng thời, trạng thái của Leads sẽ được cập nhật là **Ready to PT**.
 

@@ -16,7 +16,7 @@ description: >-
 
 > **Bước 3:** Tại màn hình thông tin Refund, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường bắt buộc phải nhập thông tin vào, sau đó nhấn chọn button **Save** để hoàn tất.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Chú ý:**

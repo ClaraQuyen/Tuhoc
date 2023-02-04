@@ -6,11 +6,11 @@
 
 > **Bước 2:** Tại màn hình chi tiết của Lớp học, nhấn vào button "**Check Attendance/Homework".**
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình Điểm danh, nhập thông tin bài học, điểm danh học viên, nhận xét sau mỗi buổi học.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (7).png>)
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
