@@ -34,7 +34,7 @@
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 6:** Sau khi chỉnh sửa thông tin, đổi mật khẩu thì chúng ta tiến hành kết thúc thao tác bằng cách nhấn vào ![](<../../.gitbook/assets/image (5) (3).png>).
+> **Bước 6:** Sau khi chỉnh sửa thông tin, đổi mật khẩu thì chúng ta tiến hành kết thúc thao tác bằng cách nhấn vào ![](<../../.gitbook/assets/image (5) (3) (2).png>).
 
 > **Bước 7:** Màn hình thông tin chi tiết của người dùng vừa được chỉnh sửa.
 

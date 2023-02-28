@@ -10,7 +10,7 @@ description: >-
 
 Tiến hành nhập mail và mật khẩu để tiến hành đăng nhập (mail của doanh nghiệp đang sử dụng)
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2) (3).png>)
 
 Sau khi đăng nhập thành công, thực hiện nhập các thông tin cần thiết
 

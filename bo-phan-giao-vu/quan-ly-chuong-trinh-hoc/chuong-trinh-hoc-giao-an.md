@@ -25,7 +25,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Kind of Courses,** ta nhấn vào button **Create** để mở ra màn hình thêm mới **Kind of Courses**.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới/Chỉnh sửa chương trình học, nhập đầy đủ các thông tin cần thiết. Sau đó nhấn **Add Syllabus** để tạo giáo án cho một chương trình học mới.
 

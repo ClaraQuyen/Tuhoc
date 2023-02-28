@@ -41,7 +41,7 @@
 
 > **Bước 3:**&#x20;> Tại màn hình Upgrade lớp học, nhập đầy đủ các thông tin cần thiết sau đó nhấn **Save** để hoàn  tất việc Upgrade lớp học.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**
@@ -57,7 +57,7 @@
 
 > **Bước 5:** Khi upgrade lớp mới, ở subpanel nhấn vào tab **Students Situation**, sau đó nhấn vào button "**Enroll Students**".
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 6:** Nhập đầy đủ các trường thông tin cần thiết, sau đó chọn **Select Students** và cuối cùng nhấn chọn **Enroll**.
 
@@ -91,4 +91,4 @@
 
 > **Bước 8:** Màn hình hiển thị danh sách học viên khi thêm học viên vào lớp đã upgrade thành công.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Leads**, chọn Create để tạo bộ lọc Leads theo trạng thái.
 
-<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình, nhập nội dung cần lọc như hình, chọn trạng thái Leads cần phân bổ người phụ trách.
 
@@ -12,7 +12,7 @@
 
 > **Bước 3:** Hệ thống hiển thị thông tin danh sách Leads có trạng thái cần để phân bổ người phụ trách, chọn tất cả.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Chọn **Mass Update** để phân bổ cho người phụ trách.
 
@@ -24,4 +24,4 @@
 
 > **Bước 6:** Hệ thống sẽ thông báo Update thành công và người phụ trách danh sách học viên đã tiếp nhận.   ****  &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (3) (1).png" alt=""><figcaption></figcaption></figure>

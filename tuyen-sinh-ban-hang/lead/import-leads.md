@@ -37,9 +37,9 @@
 
 > **Bước 6:** Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó ta nhấn chọn "**Import Now**" để tiến hành Import dữ liệu vào hệ thống.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Default- mặc định: xét trùng y như lúc bấm nút tạo dòng mới trong module.**
@@ -67,7 +67,7 @@
 * Chuyển đổi thông tin phù hợp với ngôn ngữ sử dụng
 * Định dạnh ngày sinh theo: dd/mm/yyyy
 * Các trường thông tin dưới dạng dropdown này phải phù hợp với thông tin đã có sẵn trên hệ thống \*Trong trường hợp nếu khác, các anh chị vui lòng liện hệ IT Admin bên mình để được thay đổi và chỉnh sửa
-* Xóa những dòng trống trong file Excel bằng cách nhấn tổ hợp phím: Ctrl + Shift + <img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="line">
+* Xóa những dòng trống trong file Excel bằng cách nhấn tổ hợp phím: Ctrl + Shift + <img src="../../.gitbook/assets/image (3) (2) (1).png" alt="" data-size="line">
 {% endhint %}
 
 > _Video hướng dẫn Import Leads_

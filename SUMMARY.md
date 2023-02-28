@@ -1,7 +1,6 @@
 # Table of contents
 
 * [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
-* [Hướng dẫn đăng ký tài khoản Apple Developer](huong-dan-dang-ky-tai-khoan-apple-developer.md)
 * [DOTB - SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
@@ -18,16 +17,22 @@
   * [Cài đặt ngôn ngữ](mobile/cai-dat-ngon-ngu.md)
   * [Quên mật khẩu](mobile/quen-mat-khau.md)
   * [Cửa hàng](mobile/cua-hang.md)
-
-## CẤU HÌNH
-
-* [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
-  * [Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
-  * [Đăng ký tài khoản Apple ID](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-id.md)
-  * [Đăng ký tham gia Apple Developer Program (khởi tạo)](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tham-gia-apple-developer-program-khoi-tao.md)
-  * [Hướng dẫn đăng ký số DUNS](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/huong-dan-dang-ky-so-duns.md)
-  * [Đăng ký tài khoản Apple Developer cho Cá nhân](cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-developer-cho-ca-nhan.md)
-* [👩💻 Hướng dẫn đăng ký tài khoản Google Developer](cau-hinh/huong-dan-dang-ky-tai-khoan-google-developer.md)
+* [DOTB - TEA (SMART EDUCATION ACADEMY)](mobile-1/README.md)
+  * [Đăng nhập ứng dụng](mobile-1/quan-li-ket-qua-hoc-vien.md)
+  * [Thông tin lịch dạy](mobile-1/thong-tin-thoi-khoa-bieu.md)
+  * [Thông tin lớp học](mobile-1/thong-tin-lop-hoc.md)
+  * [Thông tin bài giảng và bài tập về nhà](mobile-1/lich-su-khoa-hoc.md)
+  * [Lịch sử khoản thu](mobile-1/lich-su-khoan-thu.md)
+  * [Ghi nhận phản hồi](mobile-1/ghi-nhan-phan-hoi.md)
+  * [Theo dõi tin tức](mobile-1/theo-doi-tin-tuc.md)
+  * [Xem kết quả học tập](mobile-1/theo-doi-ket-qua-hoc-tap.md)
+  * [Xem thư viện ảnh của học viên](mobile-1/xem-thu-vien-anh-cua-hoc-vien.md)
+  * [Quản lý tài khoản](mobile-1/quan-li-tai-khoan.md)
+  * [Quản lý điểm tích lũy](mobile-1/quan-ly-diem-tich-luy.md)
+  * [Đổi mật khẩu ứng dụng](mobile-1/doi-mat-khau-ung-dung.md)
+  * [Cài đặt ngôn ngữ](mobile-1/cai-dat-ngon-ngu.md)
+  * [Quên mật khẩu](mobile-1/quen-mat-khau.md)
+  * [Cửa hàng](mobile-1/cua-hang.md)
 
 ## Nhóm tính năng tiếp thị
 
@@ -225,3 +230,11 @@
 
 * [📚 Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
 * [🆕 Tạo tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)
+* [Cấu hình](tinh-nang-cap-nhat-moi/cau-hinh/README.md)
+  * [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
+    * [Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
+    * [Đăng ký tài khoản Apple ID](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-id.md)
+    * [Đăng ký tham gia Apple Developer Program (khởi tạo)](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tham-gia-apple-developer-program-khoi-tao.md)
+    * [Hướng dẫn đăng ký số DUNS](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/huong-dan-dang-ky-so-duns.md)
+    * [Đăng ký tài khoản Apple Developer cho Cá nhân](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-developer-cho-ca-nhan.md)
+  * [👩💻 Hướng dẫn đăng ký tài khoản Google Developer](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-google-developer.md)

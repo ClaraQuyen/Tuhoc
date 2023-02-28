@@ -30,7 +30,7 @@ Khi bạn đã đăng nhập với Apple ID vừa tạo hoặc đã có sẵn Ap
 
 Kiểm tra các thông tin và tiến hành xác nhận
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Lựa chọn loại tài khoản là: **Individual/ Sole Proprietor**
 

@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Course Fees,** nhấn vào button **Create Course Fees** để mở ra màn hình thêm mới **Course Fees**.
 
-<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 > Bước 2: Tại màn hình tạo mới đơn giá học phí, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một Đơn giá học phí mới.
 

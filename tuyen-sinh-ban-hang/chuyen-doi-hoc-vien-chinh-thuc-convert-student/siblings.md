@@ -10,11 +10,11 @@ description: Tạo mối quan hệ giữa anh/chị/em hay người giới thi�
 
 > **Bước 2:** Ở màn hình thông tin chi tiết của **Students,** ở subpanel phía bên dưới, ta chọn vào tab "Siblings" và bấm vào "Create Relationship".
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình tạo mới **Siblings**, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường bắt buộc phải nhập thông tin vào, sau đó nhấn chọn button **Save** để hoàn tất việc tạo ra một **Siblings** mới.
 
-<figure><img src="../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Lưu ý:**
@@ -25,4 +25,4 @@ description: Tạo mối quan hệ giữa anh/chị/em hay người giới thi�
 
 > **Bước 4:** Màn hình sau khi tạo mới **Siblings**.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
