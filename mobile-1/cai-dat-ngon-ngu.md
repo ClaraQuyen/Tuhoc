@@ -24,22 +24,18 @@ description: >-
 
 > **CÁCH 2: SAU KHI ĐĂNG NHẬP**
 >
-> **Bước 1:** Tại màn hình **Trang chủ**, click vào icon avatar để hiển thị danh sách chức năng của ứng dụng.
+> **Bước 1:** Tại màn hình **Trang chủ**, click vào biểu tượng **"Cá nhân"** để hiển thị danh sách chức năng của ứng dụng.
 
-![](../.gitbook/assets/17.jpg)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Chọn chức năng **Cài đặt** trên ứng dụng.
+> **Bước 2:** Chọn chức năng **Ngôn ngữ** trên ứng dụng.
 
-![](<../.gitbook/assets/2 (10).jpg>)
-
-> **Bước 3:** Chọn chức năng **Ngôn ngữ** trên ứng dụng.
-
-![](<../.gitbook/assets/4 (5).jpg>)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Người dùng lựa chọn ngôn ngữ muốn thay đổi.
 
-![](<../.gitbook/assets/5 (5).jpg>)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 5:** Ứng dụng sau khi cập nhật ngôn ngữ sẽ có giao diện như sau.
 
-![](<../.gitbook/assets/6 (4).jpg>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

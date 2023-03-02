@@ -4,19 +4,15 @@ description: Lưu ý rằng mật khẩu khi thay đổi phải có ít nhất t
 
 # Đổi mật khẩu ứng dụng
 
-> **Bước 1:** Tại màn hình **Trang chủ**, click vào icon **avatar** để hiển thị danh sách chức năng của ứng dụng.
+> **Bước 1:** Tại màn hình **Trang chủ**, click vào biểu tượng **"Cá nhân"** để hiển thị danh sách chức năng của ứng dụng.
 
-![](../.gitbook/assets/17.jpg)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 2:** Chọn chức năng **Cài đặt** trên ứng dụng.
+> **Bước 2:** Chọn chức năng **Đổi mật khẩu** trên ứng dụng.
 
-![](<../.gitbook/assets/2 (12).jpg>)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-> **Bước 3:** Tiếp theo, chọn chức năng **Đổi mật khẩu.**
-
-![](<../.gitbook/assets/3 (7).jpg>)
-
-> **Bước 4:** Ứng dụng sẽ hiển thị giao diện như trên màn hình. Người dùng phải nhập đầy đủ thông tin để tiến hành đổi mật khẩu.
+> **Bước 3:** Ứng dụng sẽ hiển thị giao diện như trên màn hình. Người dùng phải nhập đầy đủ thông tin để tiến hành đổi mật khẩu.
 
 ![](<../.gitbook/assets/4 (3).jpg>)
 

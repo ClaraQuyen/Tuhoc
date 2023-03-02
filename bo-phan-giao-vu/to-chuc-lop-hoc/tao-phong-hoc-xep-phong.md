@@ -39,7 +39,7 @@ Xếp phòng thì hệ thống mới tạo được lesson và đồng bộ qua 
 
 > **Bước 1:** Ở màn hình danh sách của module **Classes**, sau đó chọn lớp mà bạn muốn xếp phòng giảng dạy cho Giáo viên.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:**&#x20;> Tại màn hình chi tiết của Lớp học, nhấn vào tab **Sessions,** sau đó nhấn vào **Schedule Teacher/TA/Room.**
 

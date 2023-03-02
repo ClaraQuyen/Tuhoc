@@ -6,7 +6,7 @@
 
 > **Bước 2:** Tại màn hình tạo mới Lớp học, nhập đầy đủ các thông tin cần thiết, Sau đó chọn Save để hoàn tất việc tạo ra 1 lớp học mới.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

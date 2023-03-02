@@ -10,4 +10,4 @@
 
 > **Bước 2:** Màn hình hiển thị thông tin của một lớp khi nhấn vào xem chi tiết.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>

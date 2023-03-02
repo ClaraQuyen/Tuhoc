@@ -2,11 +2,11 @@
 
 > **Bước 1:** Tại màn hình **Trang chủ**, nhấn vào chức năng **Lớp học** để hiển thị danh sách lớp mà giáo viên đã tham dự.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Lựa chọn lớp học muốn xem thông tin chi tiết như hình bên dưới.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Màn hình thông tin chi tiết lớp học sẽ được hiển thị như hình bên dưới.
 

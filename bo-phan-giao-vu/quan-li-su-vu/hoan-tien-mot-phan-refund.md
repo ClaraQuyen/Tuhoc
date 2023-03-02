@@ -27,7 +27,7 @@ description: >-
 
 > **Bước 4:** Tiếp tục, ở tag **Payment Tution Fee,** ta có Payment <mark style="color:blue;">PAYDB22-00123</mark> -> Refund thì ra payment <mark style="color:blue;">REFDB22-00018</mark>
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Ta tiến hành và lại Payment <mark style="color:blue;">AYDB22-00123,</mark> chúng ta chọn thông tin ở mục Note.
 

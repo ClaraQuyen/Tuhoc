@@ -21,18 +21,15 @@
   * [Đăng nhập ứng dụng](mobile-1/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin lịch dạy](mobile-1/thong-tin-thoi-khoa-bieu.md)
   * [Thông tin lớp học](mobile-1/thong-tin-lop-hoc.md)
+  * [Điểm danh học viên](mobile-1/diem-danh-hoc-vien.md)
   * [Thông tin bài giảng và bài tập về nhà](mobile-1/lich-su-khoa-hoc.md)
-  * [Lịch sử khoản thu](mobile-1/lich-su-khoan-thu.md)
   * [Ghi nhận phản hồi](mobile-1/ghi-nhan-phan-hoi.md)
   * [Theo dõi tin tức](mobile-1/theo-doi-tin-tuc.md)
-  * [Xem kết quả học tập](mobile-1/theo-doi-ket-qua-hoc-tap.md)
   * [Xem thư viện ảnh của học viên](mobile-1/xem-thu-vien-anh-cua-hoc-vien.md)
-  * [Quản lý tài khoản](mobile-1/quan-li-tai-khoan.md)
-  * [Quản lý điểm tích lũy](mobile-1/quan-ly-diem-tich-luy.md)
   * [Đổi mật khẩu ứng dụng](mobile-1/doi-mat-khau-ung-dung.md)
   * [Cài đặt ngôn ngữ](mobile-1/cai-dat-ngon-ngu.md)
   * [Quên mật khẩu](mobile-1/quen-mat-khau.md)
-  * [Cửa hàng](mobile-1/cua-hang.md)
+  * [Thư viện](mobile-1/thu-vien.md)
 
 ## Nhóm tính năng tiếp thị
 
@@ -189,7 +186,9 @@
 ## Admin Guide
 
 * [🏬 Admin Action](admin-guide/drop-payment.md)
-  * [Convert Payment](admin-guide/drop-payment/convert-payment.md)
+  * [Convert Payment](admin-guide/drop-payment/convert-payment/README.md)
+    * [Convert Payment to Amount](admin-guide/drop-payment/convert-payment/convert-payment-to-amount.md)
+    * [Convert Payment to Hour](admin-guide/drop-payment/convert-payment/convert-payment-to-hour.md)
   * [Drop Payment](admin-guide/drop-payment/drop-payment.md)
 * [ℹ Thông tin số dư khi đổi giờ](admin-guide/thong-tin-so-du-khi-doi-gio.md)
 * [🗂 Kho vận](admin-guide/inventory/README.md)

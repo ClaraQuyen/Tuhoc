@@ -12,16 +12,8 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 > ****[****![](<../.gitbook/assets/homework (1).png>) **Thông tin bài giảng và bài tập về nhà** ](../mobile/lich-su-khoa-hoc.md)****
 
-> ****![](../.gitbook/assets/cash.png) [**Lịch sử khoản thu**](../mobile/lich-su-khoan-thu.md)****
-
-> ****[****![](../.gitbook/assets/feedback.png) **Ghi nhận phản hồi**](../mobile/ghi-nhan-phan-hoi.md)****
-
-> ****![](../.gitbook/assets/score.png) [**Xem kết quả học tập**](../mobile/theo-doi-ket-qua-hoc-tap.md)****
-
 > ****![](../.gitbook/assets/news.png) [**Theo dõi tin tức**](../mobile/theo-doi-tin-tuc.md)****
 
 > ****![](<../.gitbook/assets/gallery (1).png>) [**Xem thư viện ảnh của học viên**](../mobile/xem-thu-vien-anh-cua-hoc-vien.md)****
 
 > ****![](<../.gitbook/assets/account (1).png>) [**Quản lý tài khoản**](../mobile/quan-li-tai-khoan.md)****
-
-> ****![](../.gitbook/assets/loyalty.png)[ **Quản lý điểm tích lũy**](../mobile/quan-ly-diem-tich-luy.md)****
