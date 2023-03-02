@@ -27,7 +27,7 @@
 
 > **Bước 4:** Hệ thống hiển thị thông tin chi tiết số giờ/lớp và chương trình học.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Quản lý nâng cấp Lớp
 

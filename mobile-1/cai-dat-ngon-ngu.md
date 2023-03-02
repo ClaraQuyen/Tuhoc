@@ -26,16 +26,16 @@ description: >-
 >
 > **Bước 1:** Tại màn hình **Trang chủ**, click vào biểu tượng **"Cá nhân"** để hiển thị danh sách chức năng của ứng dụng.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Chọn chức năng **Ngôn ngữ** trên ứng dụng.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 4:** Người dùng lựa chọn ngôn ngữ muốn thay đổi.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 5:** Ứng dụng sau khi cập nhật ngôn ngữ sẽ có giao diện như sau.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

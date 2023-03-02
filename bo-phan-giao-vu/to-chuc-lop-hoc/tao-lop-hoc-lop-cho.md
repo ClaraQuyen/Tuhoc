@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Classes,** chọn **Create Class** để mở ra màn hình tạo mới lớp.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới Lớp học, nhập đầy đủ các thông tin cần thiết, Sau đó chọn Save để hoàn tất việc tạo ra 1 lớp học mới.
 

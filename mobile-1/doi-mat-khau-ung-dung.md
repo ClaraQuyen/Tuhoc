@@ -4,9 +4,9 @@ description: Lưu ý rằng mật khẩu khi thay đổi phải có ít nhất t
 
 # Đổi mật khẩu ứng dụng
 
-> **Bước 1:** Tại màn hình **Trang chủ**, click vào biểu tượng **"Cá nhân"** để hiển thị danh sách chức năng của ứng dụng.
+> **Bước 1:** Tại màn hình **Trang chủ**, nhấn vào biểu tượng **"Cá nhân"** để hiển thị danh sách chức năng của ứng dụng.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Chọn chức năng **Đổi mật khẩu** trên ứng dụng.
 

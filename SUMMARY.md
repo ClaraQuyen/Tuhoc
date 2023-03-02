@@ -22,13 +22,9 @@
   * [Thông tin lịch dạy](mobile-1/thong-tin-thoi-khoa-bieu.md)
   * [Thông tin lớp học](mobile-1/thong-tin-lop-hoc.md)
   * [Điểm danh học viên](mobile-1/diem-danh-hoc-vien.md)
-  * [Thông tin bài giảng và bài tập về nhà](mobile-1/lich-su-khoa-hoc.md)
-  * [Ghi nhận phản hồi](mobile-1/ghi-nhan-phan-hoi.md)
-  * [Theo dõi tin tức](mobile-1/theo-doi-tin-tuc.md)
-  * [Xem thư viện ảnh của học viên](mobile-1/xem-thu-vien-anh-cua-hoc-vien.md)
+  * [Gửi thông báo điểm danh](mobile-1/ghi-nhan-phan-hoi.md)
   * [Đổi mật khẩu ứng dụng](mobile-1/doi-mat-khau-ung-dung.md)
   * [Cài đặt ngôn ngữ](mobile-1/cai-dat-ngon-ngu.md)
-  * [Quên mật khẩu](mobile-1/quen-mat-khau.md)
   * [Thư viện](mobile-1/thu-vien.md)
 
 ## Nhóm tính năng tiếp thị

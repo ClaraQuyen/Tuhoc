@@ -10,7 +10,7 @@
 
 > **Bước 3:** Tại màn hình chuyển nhượng học phí, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường (field) có chữ **Required** bắt buộc phải nhập thông tin vào, những field khác có thể bỏ qua, sau đó nhấn chọn button **Save.**
 
-<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú:**

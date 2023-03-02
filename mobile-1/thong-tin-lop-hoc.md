@@ -10,7 +10,7 @@
 
 > **Bước 3:** Màn hình thông tin chi tiết lớp học sẽ được hiển thị như hình bên dưới.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Ghi chú**
