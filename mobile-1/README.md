@@ -6,14 +6,12 @@ description: Ứng dụng quản lý khách hàng dành cho trung tâm đào t�
 
 ****:ocean: **DotB TEA** hướng tới mục đích tối ưu hiệu quả quản lý công việc của giáo viên với các chức năng sau:
 
-> ****[****<img src="../.gitbook/assets/schedule (2).png" alt="" data-size="original"> **Thông tin thời khóa biểu**](../mobile/thong-tin-thoi-khoa-bieu.md)  **** &#x20;
+> ****[****<img src="../.gitbook/assets/schedule (2).png" alt="" data-size="original">](../mobile/thong-tin-thoi-khoa-bieu.md)****[**Thông tin lịch dạy**](thong-tin-thoi-khoa-bieu.md)****
 
-> ****![](../.gitbook/assets/class.png) [**Thông tin lớp học**](../mobile/thong-tin-lop-hoc.md)****
+> ****![](../.gitbook/assets/class.png) [**Thông tin lớp học**](thong-tin-lop-hoc.md)****
 
-> ****[****![](<../.gitbook/assets/homework (1).png>) **Thông tin bài giảng và bài tập về nhà** ](../mobile/lich-su-khoa-hoc.md)****
+> ![](<../.gitbook/assets/icons8-todo-list-50 (1).png>) [**Điểm danh học viên**](diem-danh-hoc-vien.md)****
 
-> ****![](../.gitbook/assets/news.png) [**Theo dõi tin tức**](../mobile/theo-doi-tin-tuc.md)****
+> ****![](../.gitbook/assets/icons8-sent-50.png)****[**Gửi thông báo điểm danh**](ghi-nhan-phan-hoi.md)****
 
-> ****![](<../.gitbook/assets/gallery (1).png>) [**Xem thư viện ảnh của học viên**](../mobile/xem-thu-vien-anh-cua-hoc-vien.md)****
-
-> ****![](<../.gitbook/assets/account (1).png>) [**Quản lý tài khoản**](../mobile/quan-li-tai-khoan.md)****
+****
