@@ -46,8 +46,9 @@
 ## Tuyển Sinh - Bán Hàng
 
 * [🍥 Targets](tuyen-sinh-ban-hang/target.md)
-  * [Import Target](tuyen-sinh-ban-hang/target/import-target.md)
-  * [Thêm mới Target](tuyen-sinh-ban-hang/target/them-moi-target.md)
+  * [Tạo mới Target](tuyen-sinh-ban-hang/target/tao-moi-target/README.md)
+    * [Thêm mới Target](tuyen-sinh-ban-hang/target/tao-moi-target/them-moi-target.md)
+    * [Import Target](tuyen-sinh-ban-hang/target/tao-moi-target/import-target.md)
   * [Chỉnh sửa Target](tuyen-sinh-ban-hang/target/chinh-sua-targets.md)
   * [Export - Update Lead hàng loạt từ Target](tuyen-sinh-ban-hang/target/export-update-lead-hang-loat-tu-target.md)
   * [Mass Update - Cập nhật hàng loạt](tuyen-sinh-ban-hang/target/mass-update-cap-nhat-hang-loat.md)
