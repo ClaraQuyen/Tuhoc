@@ -10,6 +10,6 @@
 
 > **Bước 3:** Sau khi đã được File như mẫu tiến hành **Import Leads** theo các bước sau: &#x20;
 
-{% content-ref url="../lead/import-leads.md" %}
-[import-leads.md](../lead/import-leads.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

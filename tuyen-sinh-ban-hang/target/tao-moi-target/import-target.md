@@ -39,7 +39,7 @@ _**-**       Các cột có tô màu là những cột bắt buộc phải nhậ
 
 > **Bước 5:** Xác nhận việc **kiểm tra trùng**, việc kiểm tra trùng này do người dùng qui định cho hệ thống lúc Import, có thể kiểm tra trùng họ tên hoặc số điên thoại,... ở cột "**Filed to check**". Sau đó ta nhấn chọn "**Import Now**" để tiến hành Import dữ liệu vào hệ thống.
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (9) (1) (5).png" alt=""><figcaption></figcaption></figure>
 
