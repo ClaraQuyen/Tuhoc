@@ -6,15 +6,15 @@ description: Là một tập danh sách khách hàng từ nhiều nguồn dùng 
 
 > **Bước 1:**  Ở màn hình danh sách của module **Target Lists** chọn **Create Target List** để mở ra màn hình tạo mới Target List.
 
-<figure><img src="../.gitbook/assets/image (14) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới **Target Lists**, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
 
-<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Hệ thống hiển thị thông tin chi tiết của **Target Lists** được tạo. Sau đó chọn **Link Existing Report** hoặc **Select from Reports** để import khách hàng vào Target List.
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:

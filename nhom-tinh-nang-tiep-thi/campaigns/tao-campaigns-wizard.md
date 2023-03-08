@@ -83,5 +83,5 @@ description: >-
 
 1. Finish: hoàn tất thông tin chạy chiến dịch
 2. Send Marketing Email As Test: Gửi chiến dịch dạng Test&#x20;
-3. Schedule Email: Lập lịch gửi Email (Phần 4)
+3. Schedule Email: [**Lập lịch gửi Email**](../lap-lich-gui-email.md)****
 {% endhint %}

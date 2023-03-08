@@ -10,7 +10,7 @@
 
 > **Bước 3:**&#x20;> Tại màn hình lựa chọn các tiêu chí để xếp lịch cho Giáo viên, sau đó chọn vào button **Check**.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Lưu ý:**
@@ -31,7 +31,7 @@
 
 > **Bước 6:** Hệ thống hiển thị sau khi xếp lớp cho giáo viên thành công.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn_ _Phân công giáo viên phụ trách giảng dạy_
 
