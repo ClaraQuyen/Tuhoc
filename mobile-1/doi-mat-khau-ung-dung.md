@@ -10,7 +10,7 @@ description: Lưu ý rằng mật khẩu khi thay đổi phải có ít nhất t
 
 > **Bước 2:** Chọn chức năng **Đổi mật khẩu** trên ứng dụng.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Ứng dụng sẽ hiển thị giao diện như trên màn hình. Người dùng phải nhập đầy đủ thông tin để tiến hành đổi mật khẩu.
 

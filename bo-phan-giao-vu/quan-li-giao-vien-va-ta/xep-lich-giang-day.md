@@ -2,29 +2,36 @@
 
 > **Bước 1:** Ở màn hình danh sách của phân hệ **Classes**, sau đó chọn lớp mà muốn xếp lịch giảng dạy cho Giáo viên.
 
-![](../../.gitbook/assets/XepLichDay1.png)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:**&#x20;> Tại màn hình chi tiết của Lớp học, chọn vào tab **Sessions,** sau đó chọn vào **Schedule Teacher/TA.**
 
-![](../../.gitbook/assets/Xeplichday2.png)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:**&#x20;> Tại màn hình lựa chọn các tiêu chí để xếp lịch cho Giáo viên, sau đó chọn vào button **Check**.
 
-![](../../.gitbook/assets/Xeplichday3.png)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Lưu ý:**
+
+* **Even Lessons:** xếp sắp bài học tuần chẵn
+* **Odd Lessons:** xếp sắp bài học tuần lẻ
+* **Even weeks:** tuần chẵn
+* **Odd weeks:** tuần lẻ
+{% endhint %}
 
 > **Bước 4:**> Hệ thống hiển thị danh sách Giáo viên phù hợp, chọn Giáo viên muốn xếp, chọn **Save** để hoàn tất.
 
-![](../../.gitbook/assets/Xeplichday4.png)
-
-{% hint style="info" %}
-****:woman\_gesturing\_ok: **Ghi chú:**
-
-Màu hồng là do Day Off của giáo viên trùng với 1 số ngày trong xếp lịch giảng dạy nên có ưu tiên thấp hơn.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 5:** Nhấn OK để xác nhận việc xếp lịch cho Giáo viên.
 
-![](../../.gitbook/assets/Xeplichday5.png)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+> **Bước 6:** Hệ thống hiển thị sau khi xếp lớp cho giáo viên thành công.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > _Video hướng dẫn_ _Phân công giáo viên phụ trách giảng dạy_
 

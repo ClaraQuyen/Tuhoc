@@ -12,7 +12,7 @@ description: >-
 
 > **Bước 2:** Ở màn hình thông tin chi tiết của Students**,** ở nút cạnh button **"Edit",** ta nhấn chọn dấu ![](<../../.gitbook/assets/image (13) (1).png>).
 
-<figure><img src="../../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Tại màn hình thông tin Refund, nhập đầy đủ các thông tin cần thiết, người dùng lưu ý rằng các trường bắt buộc phải nhập thông tin vào, sau đó nhấn chọn button **Save** để hoàn tất.
 
@@ -31,7 +31,7 @@ description: >-
 
 > Ta tiến hành và lại Payment <mark style="color:blue;">AYDB22-00123,</mark> chúng ta chọn thông tin ở mục Note.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 
 > Sau đó ta tiến hành Delete thông tin, và số tiền Admin Charge sẽ được hoàn lại.
 

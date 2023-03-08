@@ -6,7 +6,7 @@
 
 > **Bước 2:** Sau đó chọn use type là "**To Hour**", và cuối cùng nhấn chọn **Submit**.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 3:** Màn hình hiển thị thông tin covert payment thành công khi đã chuyển sang **Hour**. Lưu ý use type khi chuyển thành công sẽ là **Hour**.
 

@@ -43,7 +43,7 @@ description: Upload dữ liệu hàng loạt học viên tiềm năng trên hệ
 
 <figure><img src="https://3424023327-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LrHReb9JsrFo3TW8d7S%2Fuploads%2FbflF7vhZxASsRmRCAs6S%2Fimage.png?alt=media&#x26;token=6a576995-9805-4581-abd7-82d244d79f3f" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Default- mặc định: xét trùng y như lúc bấm nút tạo dòng mới trong module.Select fields to check duplicate:** kiểm tra trùng các trường dữ liệu bằng cách kéo thả qua trường "**Fields to Check".**
