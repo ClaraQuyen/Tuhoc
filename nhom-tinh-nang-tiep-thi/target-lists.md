@@ -6,7 +6,7 @@ description: Là một tập danh sách khách hàng từ nhiều nguồn dùng 
 
 > **Bước 1:**  Ở màn hình danh sách của module **Target Lists** chọn **Create Target List** để mở ra màn hình tạo mới Target List.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới **Target Lists**, nhập đầy đủ các thông tin cần thiết. Sau đó chọn Save để hoàn tất việc tạo ra 1 danh sách Target mới.
 

@@ -14,7 +14,7 @@
 
 > **Bước 4.1:** Màn hình **"Điểm danh"** hiện ra và chúng ta tiến hành điểm danh học viên.&#x20;
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ở đây, chúng ta có thể điểm danh tất cả bằng bộ lọc trên App:

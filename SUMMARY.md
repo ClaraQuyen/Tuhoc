@@ -235,3 +235,4 @@
     * [Hướng dẫn đăng ký số DUNS](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/huong-dan-dang-ky-so-duns.md)
     * [Đăng ký tài khoản Apple Developer cho Cá nhân](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/dang-ky-tai-khoan-apple-developer-cho-ca-nhan.md)
   * [👩💻 Hướng dẫn đăng ký tài khoản Google Developer](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-google-developer.md)
+* [Tính năng thêm chi nhánh](tinh-nang-cap-nhat-moi/tinh-nang-them-chi-nhanh.md)
