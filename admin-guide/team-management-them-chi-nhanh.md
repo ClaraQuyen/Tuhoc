@@ -1,4 +1,4 @@
-# Tính năng thêm chi nhánh
+# 🕍 Team Management - Thêm chi nhánh
 
 > **Bước 1:** Tại avatar người dùng, bấm chuột vào **Admin** và chọn **Team Management.**
 

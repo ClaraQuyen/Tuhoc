@@ -3,10 +3,10 @@
 {% hint style="info" %}
 Với payment học viên mua, bạn chỉ cần chọn thời gian học viên bắt đầu học (Nếu học viên vào học trễ), sau đó chọn Payment học viên sử dụng để ghi danh trong lớp, hệ thống sẽ tự động tính ngày End học viên trong lớp.&#x20;
 
-Nếu Payment học viên mua không đủ so với số giờ học của lớp, Khoảng thời gian còn lại, hệ thống sẽ hiện thị học viên Outstanding. Nếu bạn không muốn thông tin hiển thị Outstanding có thể Remove khoảng thời gian đó của học viên ra khỏi lớp bằng tính năng <mark style="background-color:blue;"><mark style="color:red;">**Delay**<mark style="color:red;"></mark><mark style="background-color:blue;">.</mark>
+Nếu Payment học viên mua không đủ so với số giờ học của lớp, Khoảng thời gian còn lại, hệ thống sẽ hiện thị học viên Outstanding. Nếu bạn không muốn thông tin hiển thị Outstanding có thể Remove khoảng thời gian đó của học viên ra khỏi lớp bằng tính năng <mark style="background-color:blue;">**Delay.**</mark>
 {% endhint %}
 
-> **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn lớp cần <mark style="color:orange;">**Clear OutStanding**</mark> học viên vào lớp.
+> **Bước 1:** Ở màn hình danh sách của module **Classes**, chọn lớp cần <mark style="color:orange;">**Clear Outstanding**</mark> học viên vào lớp.
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 

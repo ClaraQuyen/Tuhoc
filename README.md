@@ -5,7 +5,7 @@ description: >-
   hành giáo vụ cho đến chăm sóc học viên.
 ---
 
-# TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS
+# 🤩 TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS
 
 ```
 MÔ HÌNH TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO - DOTB EMS
