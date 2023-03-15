@@ -2,9 +2,17 @@
 description: Hủy hóa đơn điện tử khi bị sai các trường thông tin
 ---
 
-# Void E-invoice
+# Void E - invoice
 
-## Void E-Invoice trên Payment
+{% hint style="info" %}
+Có 2 cách để hủy hóa đơn điện tử khi sai các trường thông tin
+
+Cách 1: Void E - invoice
+
+Cách 2: **Void E - invoice trên Reciept**
+{% endhint %}
+
+## Void E - Invoice trên Payment
 
 > **Bước 1:** Ở màn hình chi tiết của **Payment**, ở subpanel phía bên dưới, chọn tab "**Receipt**" và chọn **Void E-invoice**.
 

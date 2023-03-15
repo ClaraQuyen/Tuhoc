@@ -1,3 +1,7 @@
+---
+description: Tìm kiếm học viên theo từ khóa %
+---
+
 # Tìm kiếm học viên theo từ khóa
 
 > Khi tìm kiếm theo từ khóa, người dùng lưu ý phải luôn có dấu _**%**_ phía trước kí tự cần search.

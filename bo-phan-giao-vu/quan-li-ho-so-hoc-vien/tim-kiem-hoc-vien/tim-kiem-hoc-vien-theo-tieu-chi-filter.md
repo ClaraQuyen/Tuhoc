@@ -1,3 +1,7 @@
+---
+description: Tìm kiếm học viên qua các điều kiện loại
+---
+
 # Tìm kiếm học viên theo tiêu chí Filter
 
 > **Bước 1:** Ở màn hình danh sách của module Student, tại **Menu Action Filter** ta nhấn vào button **Create,** để bắt đầu tạo cửa sổ lọc.

@@ -12,6 +12,6 @@
 
 <figure><img src="../../.gitbook/assets/image (21) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-> _Video hướng dẫn Quản lí Phiếu Chi_
+> _Video hướng dẫn Quản lý Phiếu Chi_
 
 {% embed url="https://www.youtube.com/watch?v=I8Bwdtkz3Ys" %}

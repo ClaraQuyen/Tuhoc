@@ -50,5 +50,5 @@
 
 1. Chọn vào để quay lại bước nhập trước đó.
 2. Chọn vào để tiến hành Import thêm dữ liệu .
-3. Chọn vào để hoàn tất việc Import hệ thống sẽ tự động chuyển về màn hình danh sách HVTN
+3. Chọn vào để hoàn tất việc Import hệ thống sẽ tự động chuyển về màn hình danh sách Student
 {% endhint %}

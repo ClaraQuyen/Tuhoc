@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
+* [🤩 TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
 * [🧑🎓 DOTB - SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
@@ -45,7 +45,7 @@
 
 ## Tuyển Sinh - Bán Hàng
 
-* [🍥 Targets](tuyen-sinh-ban-hang/target.md)
+* [🍥 Targets - Khách hàng mục tiêu](tuyen-sinh-ban-hang/target.md)
   * [Tạo mới Target](tuyen-sinh-ban-hang/target/tao-moi-target/README.md)
     * [Thêm mới Target](tuyen-sinh-ban-hang/target/tao-moi-target/them-moi-target.md)
     * [Import Target](tuyen-sinh-ban-hang/target/tao-moi-target/import-target.md)
@@ -57,7 +57,7 @@
   * [Covert Target - Chuyển đổi Target](tuyen-sinh-ban-hang/target/covert-target-chuyen-doi-target/README.md)
     * [Chuyển đổi từ Target thành Lead](tuyen-sinh-ban-hang/target/covert-target-chuyen-doi-target/chuyen-doi-tu-target-thanh-lead.md)
     * [Chuyển đổi Target hàng loạt thành Lead](tuyen-sinh-ban-hang/target/covert-target-chuyen-doi-target/chuyen-doi-target-hang-loat-thanh-lead.md)
-* [🎯 Leads](tuyen-sinh-ban-hang/lead/README.md)
+* [🎯 Leads - Học viên tiềm năng](tuyen-sinh-ban-hang/lead/README.md)
   * [Tạo mới Lead](tuyen-sinh-ban-hang/lead/tao-moi-lead/README.md)
     * [Thêm mới Lead](tuyen-sinh-ban-hang/lead/tao-moi-lead/them-moi-lead.md)
     * [Import Lead](tuyen-sinh-ban-hang/lead/tao-moi-lead/import-lead.md)
@@ -85,7 +85,7 @@
     * [Thêm học viên vào buổi Demo - Học thử](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/placement-test-demo/them-hoc-vien-vao-buoi-demo-hoc-thu.md)
   * [Thu phí thi thử](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/thu-phi-thi-thu.md)
   * [Quản lý kết quả PT/Demo của học viên](tuyen-sinh-ban-hang/quan-li-thi-dau-vao-hoc-thu-pt-demo/quan-ly-ket-qua-pt-cua-hoc-vien.md)
-* [👨🎓 Students](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
+* [👨🎓 Students - Học viên chính thức](tuyen-sinh-ban-hang/chuyen-doi-hoc-vien-chinh-thuc-convert-student/README.md)
   * [Tìm kiếm học viên](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/README.md)
     * [Tìm kiếm học viên theo từ khóa](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/tim-kiem-hoc-vien-theo-tu-khoa.md)
     * [Tìm kiếm học viên theo tiêu chí Filter](bo-phan-giao-vu/quan-li-ho-so-hoc-vien/tim-kiem-hoc-vien/tim-kiem-hoc-vien-theo-tieu-chi-filter.md)
@@ -106,7 +106,7 @@
 * [💶 Quản lý thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan.md)
   * [Loại thanh toán - Payment Type](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/loai-thanh-toan-payment-type.md)
   * [Phương thức thanh toán](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/phuong-thuc-thanh-toan.md)
-  * [Void E-invoice](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice.md)
+  * [Void E - invoice](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/void-e-invoice.md)
   * [Xuất hóa đơn điện tử (E-invoice)](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/xuat-hoa-don-dien-tu-e-invoice.md)
   * [Quản lý Phiếu chi](quan-li-dang-ki-hoc-va-thu-tien/quan-li-thanh-toan/quan-ly-phieu-chi.md)
 * [🏛 Thêm học viên vào lớp](quan-li-dang-ki-hoc-va-thu-tien/them-hoc-vien-vao-lop.md)
@@ -228,6 +228,7 @@
 
 * [📚 Áp dụng chiết khấu với Book/Gift](tinh-nang-cap-nhat-moi/ap-dung-chiet-khau-voi-book-gift.md)
 * [🆕 Tạo tin tức và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-tin-tuc-va-gui-thong-bao-ve-app-hoc-vien.md)
+* [🥯 Tạo thư viện ảnh và gửi thông báo về app học viên](tinh-nang-cap-nhat-moi/tao-thu-vien-anh-va-gui-thong-bao-ve-app-hoc-vien.md)
 * [Cấu hình](tinh-nang-cap-nhat-moi/cau-hinh/README.md)
   * [👨💻 Hướng dẫn đăng ký tài khoản Apple Developer](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/README.md)
     * [Làm 01 thẻ Credict Visa/ MasterCard/ AmericanExpress/Discover và nạp sẵn $99](tinh-nang-cap-nhat-moi/cau-hinh/huong-dan-dang-ky-tai-khoan-apple-developer/lam-01-the-credict-visa-mastercard-americanexpress-discover-va-nap-san-usd99.md)
