@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤩 TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
+* [TỔNG QUAN HỆ THỐNG QUẢN LÝ ĐÀO TẠO DOTB EMS](README.md)
 * [🧑🎓 DOTB - SEA (SMART EDUCATION ACADEMY)](mobile/README.md)
   * [Đăng nhập ứng dụng](mobile/quan-li-ket-qua-hoc-vien.md)
   * [Thông tin thời khóa biểu](mobile/thong-tin-thoi-khoa-bieu.md)
