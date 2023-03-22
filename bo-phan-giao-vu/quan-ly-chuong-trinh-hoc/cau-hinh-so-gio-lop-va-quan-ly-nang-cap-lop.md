@@ -12,7 +12,7 @@
 
 > **Bước 3:** Tại màn hình xem chương trình học, nhập cấu hình số giờ/lớp. Sau đó nhấn chọn **Save** để hoàn tất.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 ****:woman\_gesturing\_ok: **Ghi chú**:

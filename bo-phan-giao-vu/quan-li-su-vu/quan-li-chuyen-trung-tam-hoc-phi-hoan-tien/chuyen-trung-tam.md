@@ -2,7 +2,7 @@
 
 > **Bước 1**: Ở màn hình danh sách của module **Students**, chọn vào học viên có nhu cầu chuyển trung tâm.
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (54) (2).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình chi tiết của **Students**, nhấn chọn vào **action** cạnh button **Edit** và chọn **Moving Center.**
 

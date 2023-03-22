@@ -2,7 +2,7 @@
 
 > **Bước 1:** Ở màn hình danh sách của module **Payment,** chọn Create Payment để mở ra màn hình tạo mới Payment.
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52) (3).png" alt=""><figcaption></figcaption></figure>
 
 > **Bước 2:** Tại màn hình tạo mới thanh toán, nhập đầy đủ các thông tin mà học viên có **Payment Type** là **Delay Fee**, sau đó nhấn **Save** để hoàn tất.
 

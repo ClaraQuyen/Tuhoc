@@ -16,7 +16,7 @@ description: Tìm kiếm học viên qua các điều kiện loại
 
 > * Với công cụ lọc: **Is any of, Is not any of, Is empty, Is not empty**.
 
-<figure><img src="../../../.gitbook/assets/image (54) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (54) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 :woman\_gesturing\_ok: **Ghi chú**&#x20;
